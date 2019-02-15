@@ -1,0 +1,136 @@
+
+18/10/2018 18:24:11.057	Info	Agent Server started in port 3310....
+18/10/2018 18:24:24.184	Info	Connected by ('127.0.0.1', 2355) --> command: ping
+18/10/2018 18:24:28.107	Info	Connected by ('127.0.0.1', 2356) --> command: start_obs
+18/10/2018 18:26:01.547	Info	Connected by ('127.0.0.1', 2365) --> command: ping
+18/10/2018 18:26:01.547	Info	Connected by ('127.0.0.1', 2377) --> command: ping
+18/10/2018 18:26:40.461	Info	Connected by ('127.0.0.1', 2403) --> command: ping
+18/10/2018 18:27:11.030	Info	Connected by ('127.0.0.1', 2409) --> command: ping
+18/10/2018 18:27:28.158	Info	Connected by ('127.0.0.1', 2427) --> command: ping
+18/10/2018 18:27:43.271	Info	Connected by ('127.0.0.1', 2444) --> command: ping
+18/10/2018 18:27:58.305	Info	Connected by ('127.0.0.1', 2454) --> command: ping
+18/10/2018 18:28:13.339	Info	Connected by ('127.0.0.1', 2459) --> command: ping
+18/10/2018 18:28:28.373	Info	Connected by ('127.0.0.1', 2465) --> command: ping
+18/10/2018 18:28:43.408	Info	Connected by ('127.0.0.1', 2470) --> command: ping
+18/10/2018 18:28:58.473	Info	Connected by ('127.0.0.1', 2475) --> command: ping
+18/10/2018 18:29:13.492	Info	Connected by ('127.0.0.1', 2480) --> command: ping
+18/10/2018 18:29:28.526	Info	Connected by ('127.0.0.1', 2486) --> command: ping
+18/10/2018 18:29:44.092	Info	Connected by ('127.0.0.1', 2493) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_dx_data @ get_dx_data 363 522
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.12599992752
+get_dx_data @ dx final: 33.51396
+get_dx_data @ get_dx_data 363 522
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.17300009727
+get_dx_data @ dx final: 35.06148
+get_images @ Tiempo de procesado de las 200 imagenes: 107.802999973
+('COUNTERS_ ', [0, 5, 86, 0, 0, 0, 0])
+get_seeing_thread @ 	This package contain 200 images...
+Discarding image 49...
+Discarding image 59...
+Discarding image 61...
+Discarding image 79...
+Discarding image 80...
+Discarding image 81...
+Discarding image 82...
+Discarding image 83...
+Discarding image 89...
+Discarding image 97...
+Discarding image 98...
+Package OT_P4S99O_181018182748 is not valid...
+to_file_seeing @ New seeing file [D:/DIMMLAB\OT_181018.txt]...
+18/10/2018 18:29:59.126	Info	Connected by ('127.0.0.1', 2506) --> command: ping
+18/10/2018 18:30:14.160	Info	Connected by ('127.0.0.1', 2524) --> command: ping
+18/10/2018 18:30:29.062	Info	Connected by ('127.0.0.1', 2545) --> command: ping
+18/10/2018 18:30:44.893	Info	Connected by ('127.0.0.1', 2562) --> command: ping
+18/10/2018 18:30:59.927	Info	Connected by ('127.0.0.1', 2574) --> command: ping
+18/10/2018 18:31:14.962	Info	Connected by ('127.0.0.1', 2579) --> command: ping
+18/10/2018 18:31:29.996	Info	Connected by ('127.0.0.1', 2585) --> command: ping
+18/10/2018 18:31:45.030	Info	Connected by ('127.0.0.1', 2590) --> command: ping
+18/10/2018 18:32:00.127	Info	Connected by ('127.0.0.1', 2595) --> command: ping
+18/10/2018 18:32:15.161	Info	Connected by ('127.0.0.1', 2600) --> command: ping
+18/10/2018 18:32:30.195	Info	Connected by ('127.0.0.1', 2606) --> command: ping
+18/10/2018 18:32:45.229	Info	Connected by ('127.0.0.1', 2613) --> command: ping
+get_dx_data @ get_dx_data 389 488
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.18799996376
+get_dx_data @ dx final: 36.05204
+get_dx_data @ get_dx_data 389 488
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.73500013351
+get_dx_data @ dx final: 36.490199999999994
+get_dx_data @ get_dx_data 389 488
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.1099998951
+get_dx_data @ dx final: 36.410399999999996
+get_dx_data @ get_dx_data 389 488
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.19599986076
+get_dx_data @ dx final: 35.57218
+get_dx_data @ get_dx_data 389 488
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.25099992752
+get_dx_data @ dx final: 35.750519999999995
+get_dx_data @ get_dx_data 389 488
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.90700006485
+get_dx_data @ dx final: 34.763000000000005
+get_images @ Tiempo de procesado de las 200 imagenes: 109.536999941
+get_seeing_thread @ 	This package contain 200 images...
+Discarding image 5...
+Discarding image 30...
+Discarding image 51...
+Discarding image 60...
+Discarding image 65...
+Discarding image 77...
+Discarding image 85...
+Discarding image 124...
+Discarding image 135...
+Discarding image 138...
+18/10/2018 18:33:00.826	Info	Connected by ('127.0.0.1', 2620) --> command: ping
+18/10/2018 18:33:15.876	Info	Connected by ('127.0.0.1', 2638) --> command: ping
+18/10/2018 18:33:30.910	Info	Connected by ('127.0.0.1', 2657) --> command: ping
+18/10/2018 18:33:45.945	Info	Connected by ('127.0.0.1', 2667) --> command: ping
+18/10/2018 18:34:00.979	Info	Connected by ('127.0.0.1', 2672) --> command: ping
+18/10/2018 18:34:16.013	Info	Connected by ('127.0.0.1', 2677) --> command: ping
+18/10/2018 18:34:31.047	Info	Connected by ('127.0.0.1', 2683) --> command: ping
+18/10/2018 18:34:46.082	Info	Connected by ('127.0.0.1', 2688) --> command: ping
+18/10/2018 18:35:01.116	Info	Connected by ('127.0.0.1', 2693) --> command: ping
+18/10/2018 18:35:16.150	Info	Connected by ('127.0.0.1', 2698) --> command: ping
+18/10/2018 18:35:31.184	Info	Connected by ('127.0.0.1', 2704) --> command: ping
+18/10/2018 18:35:46.297	Info	Connected by ('127.0.0.1', 2709) --> command: ping
+18/10/2018 18:36:01.331	Info	Connected by ('127.0.0.1', 2714) --> command: ping
+18/10/2018 18:36:16.365	Info	Connected by ('127.0.0.1', 2719) --> command: ping
+18/10/2018 18:36:31.649	Info	Connected by ('127.0.0.1', 2727) --> command: ping
+18/10/2018 18:36:34.697	Info	Connected by ('127.0.0.1', 2728) --> command: stop_obs
+get_dx_data @ get_dx_data 385 501
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.25
+get_dx_data @ dx final: 33.77056
+get_dx_data @ get_dx_data 385 501
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 5.01699995995
+get_dx_data @ dx final: 34.30646
+get_dx_data @ get_dx_data 385 501
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.82899999619
+get_dx_data @ dx final: 35.039175
+get_images @ Tiempo de procesado de las 200 imagenes: 163.673000097
+('COUNTERS_ ', [0, 12, 0, 0, 0, 0, 0])
+get_seeing_thread @ 	This package contain 200 images...
+Discarding image 67...
+Discarding image 69...
+Discarding image 70...
+Discarding image 76...
+Discarding image 79...
+Discarding image 88...
+Discarding image 89...
+Discarding image 104...
+Discarding image 112...
+Discarding image 133...
+Discarding image 174...
+Package OT_KA6N6B_181018183336 is not valid...
+--END--
+18/10/2018 18:38:51.583	Info	Connected by ('127.0.0.1', 2734) --> command: status
+18/10/2018 18:38:51.583	Info	Connected by ('127.0.0.1', 2737) --> command: ping
+18/10/2018 18:38:51.583	Info	Connected by ('127.0.0.1', 2739) --> command: status
+18/10/2018 18:38:51.583	Info	Connected by ('127.0.0.1', 2745) --> command: ping
+18/10/2018 18:38:51.583	Info	Connected by ('127.0.0.1', 2751) --> command: status
+18/10/2018 18:38:51.599	Info	Connected by ('127.0.0.1', 2762) --> command: shutdown
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 

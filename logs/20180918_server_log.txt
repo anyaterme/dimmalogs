@@ -1,0 +1,506 @@
+
+19/09/2018 07:32:00.211	Info	Agent Server started in port 3310....
+19/09/2018 07:32:00.601	Info	Connected by ('127.0.0.1', 4148) --> command: ping
+19/09/2018 07:32:15.634	Info	Connected by ('127.0.0.1', 4153) --> command: ping
+19/09/2018 07:32:30.667	Info	Connected by ('127.0.0.1', 4158) --> command: ping
+19/09/2018 07:32:45.700	Info	Connected by ('127.0.0.1', 4164) --> command: ping
+19/09/2018 07:32:54.702	Info	Connected by ('127.0.0.1', 4165) --> command: get_ready
+19/09/2018 07:34:45.621	Info	Connected by ('127.0.0.1', 4173) --> command: ping
+19/09/2018 07:34:45.621	Info	Connected by ('127.0.0.1', 4186) --> command: ping
+19/09/2018 07:34:45.637	Info	Connected by ('127.0.0.1', 4201) --> command: ping
+19/09/2018 07:35:00.670	Info	Connected by ('127.0.0.1', 4206) --> command: ping
+19/09/2018 07:35:02.858	Info	Connected by ('127.0.0.1', 4207) --> command: s
+19/09/2018 07:35:45.879	Info	Connected by ('127.0.0.1', 4216) --> command: ping
+19/09/2018 07:36:00.912	Info	Connected by ('127.0.0.1', 4227) --> command: ping
+19/09/2018 07:36:15.945	Info	Connected by ('127.0.0.1', 4245) --> command: ping
+19/09/2018 07:36:30.906	Info	Connected by ('127.0.0.1', 4269) --> command: ping
+19/09/2018 07:36:46.642	Info	Connected by ('127.0.0.1', 4289) --> command: ping
+19/09/2018 07:37:01.675	Info	Connected by ('127.0.0.1', 4310) --> command: ping
+19/09/2018 07:37:16.708	Info	Connected by ('127.0.0.1', 4320) --> command: ping
+19/09/2018 07:37:31.741	Info	Connected by ('127.0.0.1', 4325) --> command: ping
+19/09/2018 07:37:46.805	Info	Connected by ('127.0.0.1', 4331) --> command: ping
+19/09/2018 07:38:01.838	Info	Connected by ('127.0.0.1', 4336) --> command: ping
+Saving img ./media\20180919\180919063554000021.png...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+Saving img ./media\20180919\180919063558000115.png...
+get_dx_data @ get_dx_data 270 309
+get_dx_data @ 229 240 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.81299996376
+get_dx_data @ dx final: 30.67125
+get_dx_data @ get_dx_data 270 309
+get_dx_data @ 229 240 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.29699993134
+get_dx_data @ dx final: 31.429466666666666
+get_dx_data @ get_dx_data 270 309
+get_dx_data @ 229 240 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.62599992752
+get_dx_data @ dx final: 31.25405
+get_dx_data @ get_dx_data 270 309
+get_dx_data @ 229 240 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.56300020218
+get_dx_data @ dx final: 32.222833333333334
+get_dx_data @ get_dx_data 270 309
+get_dx_data @ 229 240 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.31300020218
+get_dx_data @ dx final: 32.1419
+get_dx_data @ get_dx_data 270 309
+get_dx_data @ 229 240 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.28199982643
+get_dx_data @ dx final: 32.871449999999996
+get_dx_data @ get_dx_data 270 309
+get_dx_data @ 229 240 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.26600003242
+get_dx_data @ dx final: 33.34185
+get_dx_data @ get_dx_data 270 309
+get_dx_data @ 229 240 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.23399996758
+get_dx_data @ dx final: 33.9534
+get_dx_data @ get_dx_data 270 309
+get_dx_data @ 229 240 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 1.98400020599
+get_dx_data @ dx final: 35.33663333333333
+get_images @ Tiempo de procesado de las 200 imagenes: 58.2409999371
+get_seeing_thread @ 	This package contain 200 images...
+to_file_seeing @ New seeing file [C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\SH_OT_180919.txt]...
+19/09/2018 07:38:18.169	Info	Connected by ('127.0.0.1', 4347) --> command: ping
+19/09/2018 07:38:33.202	Info	Connected by ('127.0.0.1', 4359) --> command: ping
+19/09/2018 07:38:48.235	Info	Connected by ('127.0.0.1', 4365) --> command: ping
+19/09/2018 07:39:03.268	Info	Connected by ('127.0.0.1', 4372) --> command: ping
+19/09/2018 07:39:18.301	Info	Connected by ('127.0.0.1', 4377) --> command: ping
+19/09/2018 07:39:33.850	Info	Connected by ('127.0.0.1', 4386) --> command: ping
+Saving img ./media\20180919\180919063819000450.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 59.6169998646
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 07:39:49.164	Info	Connected by ('127.0.0.1', 4405) --> command: ping
+19/09/2018 07:40:04.197	Info	Connected by ('127.0.0.1', 4415) --> command: ping
+19/09/2018 07:40:19.230	Info	Connected by ('127.0.0.1', 4420) --> command: ping
+19/09/2018 07:40:34.279	Info	Connected by ('127.0.0.1', 4426) --> command: ping
+19/09/2018 07:40:49.312	Info	Connected by ('127.0.0.1', 4431) --> command: ping
+Saving img ./media\20180919\180919063939000960.png...
+get_dx_data @ get_dx_data 259 299
+get_dx_data @ 219 229 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.06299996376
+get_dx_data @ dx final: 35.40535
+get_images @ Tiempo de procesado de las 200 imagenes: 57.4130001068
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 07:41:05.267	Info	Connected by ('127.0.0.1', 4442) --> command: ping
+19/09/2018 07:41:20.331	Info	Connected by ('127.0.0.1', 4454) --> command: ping
+19/09/2018 07:41:35.364	Info	Connected by ('127.0.0.1', 4460) --> command: ping
+19/09/2018 07:41:50.413	Info	Connected by ('127.0.0.1', 4465) --> command: ping
+19/09/2018 07:42:05.462	Info	Connected by ('127.0.0.1', 4470) --> command: ping
+19/09/2018 07:42:21.151	Info	Connected by ('127.0.0.1', 4477) --> command: ping
+Saving img ./media\20180919\180919064106000565.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 62.0390000343
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 07:42:36.575	Info	Connected by ('127.0.0.1', 4496) --> command: ping
+19/09/2018 07:42:51.608	Info	Connected by ('127.0.0.1', 4515) --> command: ping
+19/09/2018 07:43:06.641	Info	Connected by ('127.0.0.1', 4525) --> command: ping
+19/09/2018 07:43:21.674	Info	Connected by ('127.0.0.1', 4530) --> command: ping
+19/09/2018 07:43:36.707	Info	Connected by ('127.0.0.1', 4536) --> command: ping
+19/09/2018 07:43:51.740	Info	Connected by ('127.0.0.1', 4541) --> command: ping
+19/09/2018 07:44:07.258	Info	Connected by ('127.0.0.1', 4548) --> command: ping
+Saving img ./media\20180919\180919064228000778.png...
+get_dx_data @ get_dx_data 254 305
+get_dx_data @ 225 224 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.75
+get_dx_data @ dx final: 35.922333333333334
+get_dx_data @ get_dx_data 254 305
+get_dx_data @ 225 224 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.15599989891
+get_dx_data @ dx final: 35.95515
+get_dx_data @ get_dx_data 254 305
+get_dx_data @ 225 224 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.10900020599
+get_dx_data @ dx final: 35.3954
+get_images @ Tiempo de procesado de las 200 imagenes: 63.5699999332
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 07:44:22.291	Info	Connected by ('127.0.0.1', 4564) --> command: ping
+19/09/2018 07:44:37.324	Info	Connected by ('127.0.0.1', 4570) --> command: ping
+19/09/2018 07:44:52.357	Info	Connected by ('127.0.0.1', 4575) --> command: ping
+19/09/2018 07:45:07.390	Info	Connected by ('127.0.0.1', 4580) --> command: ping
+19/09/2018 07:45:22.423	Info	Connected by ('127.0.0.1', 4585) --> command: ping
+19/09/2018 07:45:37.988	Info	Connected by ('127.0.0.1', 4593) --> command: ping
+Saving img ./media\20180919\180919064413000697.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 71.2899999619
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 07:46:14.367	Info	Connected by ('127.0.0.1', 4605) --> command: ping
+19/09/2018 07:46:29.329	Info	Connected by ('127.0.0.1', 4620) --> command: ping
+19/09/2018 07:46:44.362	Info	Connected by ('127.0.0.1', 4626) --> command: ping
+19/09/2018 07:46:59.411	Info	Connected by ('127.0.0.1', 4631) --> command: ping
+19/09/2018 07:47:14.444	Info	Connected by ('127.0.0.1', 4636) --> command: ping
+19/09/2018 07:47:29.477	Info	Connected by ('127.0.0.1', 4641) --> command: ping
+19/09/2018 07:47:44.526	Info	Connected by ('127.0.0.1', 4647) --> command: ping
+19/09/2018 07:47:59.559	Info	Connected by ('127.0.0.1', 4652) --> command: ping
+19/09/2018 07:48:14.983	Info	Connected by ('127.0.0.1', 4659) --> command: ping
+Saving img ./media\20180919\180919064617000196.png...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+Saving img ./media\20180919\180919064620000603.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 101.965999842
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 07:48:30.219	Info	Connected by ('127.0.0.1', 4675) --> command: ping
+19/09/2018 07:48:45.580	Info	Connected by ('127.0.0.1', 4693) --> command: ping
+19/09/2018 07:49:00.613	Info	Connected by ('127.0.0.1', 4703) --> command: ping
+19/09/2018 07:49:15.646	Info	Connected by ('127.0.0.1', 4708) --> command: ping
+19/09/2018 07:49:30.679	Info	Connected by ('127.0.0.1', 4713) --> command: ping
+19/09/2018 07:49:45.713	Info	Connected by ('127.0.0.1', 4719) --> command: ping
+19/09/2018 07:50:00.746	Info	Connected by ('127.0.0.1', 4724) --> command: ping
+19/09/2018 07:50:15.794	Info	Connected by ('127.0.0.1', 4729) --> command: ping
+19/09/2018 07:50:30.827	Info	Connected by ('127.0.0.1', 4734) --> command: ping
+Saving img ./media\20180919\180919064822000109.png...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+Saving img ./media\20180919\180919064825000110.png...
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+Saving img ./media\20180919\180919064828000422.png...
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919064831000423.png...
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919064834000517.png...
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+Saving img ./media\20180919\180919064837000924.png...
+get_dx_data @ get_dx_data 232 226
+get_dx_data @ 146 202 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.54700016975
+get_dx_data @ dx final: 35.263925
+get_images @ Tiempo de procesado de las 200 imagenes: 103.029000044
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 07:50:45.860	Info	Connected by ('127.0.0.1', 4744) --> command: ping
+19/09/2018 07:51:31.116	Info	Connected by ('127.0.0.1', 4754) --> command: ping
+19/09/2018 07:51:51.368	Info	Connected by ('127.0.0.1', 4761) --> command: ping
+19/09/2018 07:52:07.058	Info	Connected by ('127.0.0.1', 4776) --> command: ping
+19/09/2018 07:52:23.044	Info	Connected by ('127.0.0.1', 4791) --> command: ping
+19/09/2018 07:52:38.843	Info	Connected by ('127.0.0.1', 4807) --> command: ping
+19/09/2018 07:52:53.876	Info	Connected by ('127.0.0.1', 4821) --> command: ping
+19/09/2018 07:53:08.909	Info	Connected by ('127.0.0.1', 4837) --> command: ping
+19/09/2018 07:53:23.942	Info	Connected by ('127.0.0.1', 4842) --> command: ping
+19/09/2018 07:53:38.975	Info	Connected by ('127.0.0.1', 4848) --> command: ping
+19/09/2018 07:53:54.008	Info	Connected by ('127.0.0.1', 4853) --> command: ping
+19/09/2018 07:54:09.057	Info	Connected by ('127.0.0.1', 4858) --> command: ping
+19/09/2018 07:54:24.418	Info	Connected by ('127.0.0.1', 4867) --> command: ping
+Saving img ./media\20180919\180919065154000244.png...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+Saving img ./media\20180919\180919065157000838.png...
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+Saving img ./media\20180919\180919065201000339.png...
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919065204000246.png...
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919065207000246.png...
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+Saving img ./media\20180919\180919065210000637.png...
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+Saving img ./media\20180919\180919065214000137.png...
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+Saving img ./media\20180919\180919065216000950.png...
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+Saving img ./media\20180919\180919065220000044.png...
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+Saving img ./media\20180919\180919065223000138.png...
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+Saving img ./media\20180919\180919065226000451.png...
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+Saving img ./media\20180919\180919065229000842.png...
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+Saving img ./media\20180919\180919065233000249.png...
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919065236000046.png...
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919065238000968.png...
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919065241000953.png...
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919065244000641.png...
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+Saving img ./media\20180919\180919065248000048.png...
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+Saving img ./media\20180919\180919065251000454.png...
+get_dx_data @ get_dx_data 422 520
+get_dx_data @ 440 392 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.71999979019
+get_dx_data @ dx final: 35.0241
+get_images @ Tiempo de procesado de las 200 imagenes: 74.2749998569
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 07:54:40.030	Info	Connected by ('127.0.0.1', 4882) --> command: ping
+19/09/2018 07:54:55.063	Info	Connected by ('127.0.0.1', 4889) --> command: ping
+19/09/2018 07:55:10.096	Info	Connected by ('127.0.0.1', 4902) --> command: ping
+19/09/2018 07:55:25.144	Info	Connected by ('127.0.0.1', 4907) --> command: ping
+19/09/2018 07:55:40.178	Info	Connected by ('127.0.0.1', 4913) --> command: ping
+19/09/2018 07:55:55.211	Info	Connected by ('127.0.0.1', 4918) --> command: ping
+Saving img ./media\20180919\180919065433000467.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 80.0880000591
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 07:56:10.447	Info	Connected by ('127.0.0.1', 4929) --> command: ping
+19/09/2018 07:56:25.402	Info	Connected by ('127.0.0.1', 4942) --> command: ping
+19/09/2018 07:56:40.435	Info	Connected by ('127.0.0.1', 4948) --> command: ping
+19/09/2018 07:56:55.484	Info	Connected by ('127.0.0.1', 4953) --> command: ping
+19/09/2018 07:57:10.517	Info	Connected by ('127.0.0.1', 4958) --> command: ping
+19/09/2018 07:57:25.550	Info	Connected by ('127.0.0.1', 4963) --> command: ping
+19/09/2018 07:57:40.583	Info	Connected by ('127.0.0.1', 4969) --> command: ping
+Saving img ./media\20180919\180919065613000276.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 81.7909998894
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 07:57:55.694	Info	Connected by ('127.0.0.1', 4982) --> command: ping
+19/09/2018 07:58:10.727	Info	Connected by ('127.0.0.1', 5000) --> command: ping
+19/09/2018 07:58:25.761	Info	Connected by ('127.0.0.1', 1029) --> command: ping
+19/09/2018 07:58:40.794	Info	Connected by ('127.0.0.1', 1035) --> command: ping
+19/09/2018 07:58:55.827	Info	Connected by ('127.0.0.1', 1046) --> command: ping
+19/09/2018 07:59:10.860	Info	Connected by ('127.0.0.1', 1056) --> command: ping
+19/09/2018 07:59:25.893	Info	Connected by ('127.0.0.1', 1061) --> command: ping
+19/09/2018 07:59:40.926	Info	Connected by ('127.0.0.1', 1067) --> command: ping
+19/09/2018 07:59:56.568	Info	Connected by ('127.0.0.1', 1074) --> command: ping
+Saving img ./media\20180919\180919065755000789.png...
+get_dx_data @ get_dx_data 420 533
+get_dx_data @ 453 390 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.20299983025
+get_dx_data @ dx final: 34.65914
+get_images @ Tiempo de procesado de las 200 imagenes: 99.1679999828
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 08:00:11.602	Info	Connected by ('127.0.0.1', 1090) --> command: ping
+19/09/2018 08:00:26.635	Info	Connected by ('127.0.0.1', 1095) --> command: ping
+19/09/2018 08:00:41.668	Info	Connected by ('127.0.0.1', 1101) --> command: ping
+19/09/2018 08:00:56.701	Info	Connected by ('127.0.0.1', 1106) --> command: ping
+19/09/2018 08:01:11.734	Info	Connected by ('127.0.0.1', 1111) --> command: ping
+19/09/2018 08:01:26.767	Info	Connected by ('127.0.0.1', 1116) --> command: ping
+19/09/2018 08:01:41.800	Info	Connected by ('127.0.0.1', 1122) --> command: ping
+19/09/2018 08:01:56.833	Info	Connected by ('127.0.0.1', 1127) --> command: ping
+Saving img ./media\20180919\180919070003000507.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 108.559999943
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 08:02:11.866	Info	Connected by ('127.0.0.1', 1140) --> command: ping
+19/09/2018 08:02:26.899	Info	Connected by ('127.0.0.1', 1150) --> command: ping
+19/09/2018 08:02:41.932	Info	Connected by ('127.0.0.1', 1156) --> command: ping
+19/09/2018 08:02:56.965	Info	Connected by ('127.0.0.1', 1161) --> command: ping
+19/09/2018 08:03:11.998	Info	Connected by ('127.0.0.1', 1166) --> command: ping
+19/09/2018 08:03:27.032	Info	Connected by ('127.0.0.1', 1171) --> command: ping
+19/09/2018 08:03:42.065	Info	Connected by ('127.0.0.1', 1177) --> command: ping
+19/09/2018 08:03:57.098	Info	Connected by ('127.0.0.1', 1182) --> command: ping
+19/09/2018 08:04:12.131	Info	Connected by ('127.0.0.1', 1187) --> command: ping
+Saving img ./media\20180919\180919070212000617.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 116.18599987
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 08:04:27.961	Info	Connected by ('127.0.0.1', 1198) --> command: ping
+19/09/2018 08:04:43.010	Info	Connected by ('127.0.0.1', 1212) --> command: ping
+19/09/2018 08:04:58.043	Info	Connected by ('127.0.0.1', 1217) --> command: ping
+19/09/2018 08:05:13.060	Info	Connected by ('127.0.0.1', 1222) --> command: ping
+19/09/2018 08:05:28.109	Info	Connected by ('127.0.0.1', 1227) --> command: ping
+19/09/2018 08:05:43.142	Info	Connected by ('127.0.0.1', 1233) --> command: ping
+19/09/2018 08:05:58.175	Info	Connected by ('127.0.0.1', 1238) --> command: ping
+19/09/2018 08:06:13.208	Info	Connected by ('127.0.0.1', 1244) --> command: ping
+19/09/2018 08:06:28.144	Info	Connected by ('127.0.0.1', 1250) --> command: ping
+19/09/2018 08:06:43.521	Info	Connected by ('127.0.0.1', 1258) --> command: ping
+Saving img ./media\20180919\180919070429000446.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 120.745999813
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 08:07:00.023	Info	Connected by ('127.0.0.1', 1273) --> command: ping
+19/09/2018 08:07:15.056	Info	Connected by ('127.0.0.1', 1280) --> command: ping
+19/09/2018 08:07:30.089	Info	Connected by ('127.0.0.1', 1285) --> command: ping
+19/09/2018 08:07:45.138	Info	Connected by ('127.0.0.1', 1291) --> command: ping
+19/09/2018 08:08:00.171	Info	Connected by ('127.0.0.1', 1296) --> command: ping
+19/09/2018 08:08:15.204	Info	Connected by ('127.0.0.1', 1301) --> command: ping
+19/09/2018 08:08:30.237	Info	Connected by ('127.0.0.1', 1306) --> command: ping
+19/09/2018 08:08:45.301	Info	Connected by ('127.0.0.1', 1312) --> command: ping
+19/09/2018 08:09:00.334	Info	Connected by ('127.0.0.1', 1317) --> command: ping
+19/09/2018 08:09:15.868	Info	Connected by ('127.0.0.1', 1325) --> command: ping
+Saving img ./media\20180919\180919070653000663.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 130.625999928
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 08:09:31.526	Info	Connected by ('127.0.0.1', 1341) --> command: ping
+19/09/2018 08:09:46.559	Info	Connected by ('127.0.0.1', 1349) --> command: ping
+19/09/2018 08:10:01.592	Info	Connected by ('127.0.0.1', 1354) --> command: ping
+19/09/2018 08:10:16.641	Info	Connected by ('127.0.0.1', 1359) --> command: ping
+19/09/2018 08:10:31.674	Info	Connected by ('127.0.0.1', 1364) --> command: ping
+19/09/2018 08:10:46.722	Info	Connected by ('127.0.0.1', 1370) --> command: ping
+19/09/2018 08:11:01.755	Info	Connected by ('127.0.0.1', 1375) --> command: ping
+19/09/2018 08:11:16.789	Info	Connected by ('127.0.0.1', 1380) --> command: ping
+19/09/2018 08:11:31.822	Info	Connected by ('127.0.0.1', 1385) --> command: ping
+19/09/2018 08:11:46.855	Info	Connected by ('127.0.0.1', 1391) --> command: ping
+19/09/2018 08:12:01.888	Info	Connected by ('127.0.0.1', 1396) --> command: ping
+19/09/2018 08:12:17.077	Info	Connected by ('127.0.0.1', 1402) --> command: ping
+Saving img ./media\20180919\180919070925000479.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 164.630000114
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 08:12:32.110	Info	Connected by ('127.0.0.1', 1414) --> command: ping
+19/09/2018 08:12:47.143	Info	Connected by ('127.0.0.1', 1425) --> command: ping
+19/09/2018 08:13:02.176	Info	Connected by ('127.0.0.1', 1430) --> command: ping
+19/09/2018 08:13:17.209	Info	Connected by ('127.0.0.1', 1435) --> command: ping
+19/09/2018 08:13:32.243	Info	Connected by ('127.0.0.1', 1440) --> command: ping
+19/09/2018 08:13:47.276	Info	Connected by ('127.0.0.1', 1446) --> command: ping
+19/09/2018 08:14:02.309	Info	Connected by ('127.0.0.1', 1451) --> command: ping
+19/09/2018 08:14:17.342	Info	Connected by ('127.0.0.1', 1456) --> command: ping
+19/09/2018 08:14:32.406	Info	Connected by ('127.0.0.1', 1461) --> command: ping
+19/09/2018 08:14:47.439	Info	Connected by ('127.0.0.1', 1467) --> command: ping
+19/09/2018 08:15:02.472	Info	Connected by ('127.0.0.1', 1472) --> command: ping
+19/09/2018 08:15:18.021	Info	Connected by ('127.0.0.1', 1480) --> command: ping
+Saving img ./media\20180919\180919071231000095.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 154.034000158
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 08:15:33.054	Info	Connected by ('127.0.0.1', 1496) --> command: ping
+19/09/2018 08:15:48.087	Info	Connected by ('127.0.0.1', 1502) --> command: ping
+19/09/2018 08:16:03.120	Info	Connected by ('127.0.0.1', 1507) --> command: ping
+19/09/2018 08:16:18.153	Info	Connected by ('127.0.0.1', 1512) --> command: ping
+19/09/2018 08:16:33.105	Info	Connected by ('127.0.0.1', 1518) --> command: ping
+19/09/2018 08:16:48.138	Info	Connected by ('127.0.0.1', 1534) --> command: ping
+19/09/2018 08:17:03.171	Info	Connected by ('127.0.0.1', 1539) --> command: ping
+19/09/2018 08:17:18.205	Info	Connected by ('127.0.0.1', 1544) --> command: ping
+19/09/2018 08:17:33.253	Info	Connected by ('127.0.0.1', 1549) --> command: ping
+19/09/2018 08:17:48.302	Info	Connected by ('127.0.0.1', 1555) --> command: ping
+19/09/2018 08:18:03.335	Info	Connected by ('127.0.0.1', 1560) --> command: ping
+Saving img ./media\20180919\180919071525000929.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 152.358999968
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 08:18:18.696	Info	Connected by ('127.0.0.1', 1571) --> command: ping
+19/09/2018 08:18:33.729	Info	Connected by ('127.0.0.1', 1583) --> command: ping
+19/09/2018 08:18:48.762	Info	Connected by ('127.0.0.1', 1589) --> command: ping
+19/09/2018 08:19:03.796	Info	Connected by ('127.0.0.1', 1594) --> command: ping
+19/09/2018 08:19:18.829	Info	Connected by ('127.0.0.1', 1599) --> command: ping
+19/09/2018 08:19:33.877	Info	Connected by ('127.0.0.1', 1604) --> command: ping
+19/09/2018 08:19:48.910	Info	Connected by ('127.0.0.1', 1610) --> command: ping
+19/09/2018 08:20:03.943	Info	Connected by ('127.0.0.1', 1615) --> command: ping
+19/09/2018 08:20:18.977	Info	Connected by ('127.0.0.1', 1620) --> command: ping
+19/09/2018 08:20:34.010	Info	Connected by ('127.0.0.1', 1625) --> command: ping
+19/09/2018 08:20:49.043	Info	Connected by ('127.0.0.1', 1631) --> command: ping
+19/09/2018 08:21:04.076	Info	Connected by ('127.0.0.1', 1636) --> command: ping
+Saving img ./media\20180919\180919071819000666.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 163.816999912
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 08:21:19.578	Info	Connected by ('127.0.0.1', 1643) --> command: ping
+19/09/2018 08:21:34.658	Info	Connected by ('127.0.0.1', 1661) --> command: ping
+19/09/2018 08:21:50.316	Info	Connected by ('127.0.0.1', 1676) --> command: ping
+19/09/2018 08:22:05.755	Info	Connected by ('127.0.0.1', 1689) --> command: ping
+19/09/2018 08:22:21.054	Info	Connected by ('127.0.0.1', 1705) --> command: ping
+19/09/2018 08:22:36.165	Info	Connected by ('127.0.0.1', 1720) --> command: ping
+Saving img ./media\20180919\180919072124000688.png...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+Saving img ./media\20180919\180919072128000392.png...
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+Saving img ./media\20180919\180919072131000986.png...
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919072134000783.png...
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919072137000783.png...
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+Saving img ./media\20180919\180919072141000190.png...
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+Saving img ./media\20180919\180919072144000487.png...
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+Saving img ./media\20180919\180919072147000488.png...
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+Saving img ./media\20180919\180919072150000488.png...
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+Saving img ./media\20180919\180919072153000395.png...
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+Saving img ./media\20180919\180919072156000895.png...
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+Saving img ./media\20180919\180919072200000693.png...
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+Saving img ./media\20180919\180919072203000990.png...
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919072206000990.png...
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919072209000991.png...
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919072212000897.png...
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+Saving img ./media\20180919\180919072215000898.png...
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+Saving img ./media\20180919\180919072219000195.png...
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+Saving img ./media\20180919\180919072222000789.png...
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+Saving img ./media\20180919\180919072226000399.png...
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+Saving img ./media\20180919\180919072229000899.png...
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+Saving img ./media\20180919\180919072233000087.png...
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+19/09/2018 08:23:05.044	Info	Connected by ('127.0.0.1', 1731) --> command: ping
+19/09/2018 08:23:20.077	Info	Connected by ('127.0.0.1', 1743) --> command: ping
+19/09/2018 08:23:35.110	Info	Connected by ('127.0.0.1', 1749) --> command: ping
+19/09/2018 08:23:50.143	Info	Connected by ('127.0.0.1', 1754) --> command: ping
+19/09/2018 08:24:05.176	Info	Connected by ('127.0.0.1', 1759) --> command: ping
+19/09/2018 08:24:20.209	Info	Connected by ('127.0.0.1', 1766) --> command: ping
+19/09/2018 08:24:35.242	Info	Connected by ('127.0.0.1', 1772) --> command: ping
+19/09/2018 08:24:50.275	Info	Connected by ('127.0.0.1', 1777) --> command: ping
+19/09/2018 08:25:05.308	Info	Connected by ('127.0.0.1', 1782) --> command: ping
+19/09/2018 08:25:20.669	Info	Connected by ('127.0.0.1', 1789) --> command: ping
+Saving img ./media\20180919\180919072307000904.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 119.421000004
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 08:25:35.703	Info	Connected by ('127.0.0.1', 1809) --> command: ping
+19/09/2018 08:25:50.736	Info	Connected by ('127.0.0.1', 1828) --> command: ping
+19/09/2018 08:26:06.316	Info	Connected by ('127.0.0.1', 1843) --> command: ping
+19/09/2018 08:26:21.349	Info	Connected by ('127.0.0.1', 1850) --> command: ping
+19/09/2018 08:26:36.288	Info	Connected by ('127.0.0.1', 1857) --> command: ping
+19/09/2018 08:26:51.321	Info	Connected by ('127.0.0.1', 1862) --> command: ping
+19/09/2018 08:27:06.354	Info	Connected by ('127.0.0.1', 1867) --> command: ping
+19/09/2018 08:27:21.402	Info	Connected by ('127.0.0.1', 1872) --> command: ping
+19/09/2018 08:27:36.435	Info	Connected by ('127.0.0.1', 1878) --> command: ping
+19/09/2018 08:27:51.500	Info	Connected by ('127.0.0.1', 1883) --> command: ping
+19/09/2018 08:28:06.533	Info	Connected by ('127.0.0.1', 1890) --> command: ping
+Saving img ./media\20180919\180919072525000921.png...
+get_dx_data @ get_dx_data 424 424
+get_dx_data @ 344 394 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.57899999619
+get_dx_data @ dx final: 36.18554
+get_dx_data @ get_dx_data 424 424
+get_dx_data @ 344 394 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.43799996376
+get_dx_data @ dx final: 36.197199999999995
+get_dx_data @ get_dx_data 424 424
+get_dx_data @ 344 394 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.45299983025
+get_dx_data @ dx final: 35.87612
+get_dx_data @ get_dx_data 424 424
+get_dx_data @ 344 394 160 60
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.45399999619
+get_dx_data @ dx final: 35.13006
+get_images @ Tiempo de procesado de las 200 imagenes: 118.388000011
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 08:28:21.566	Info	Connected by ('127.0.0.1', 1902) --> command: ping
+19/09/2018 08:28:36.617	Info	Connected by ('127.0.0.1', 1912) --> command: ping
+19/09/2018 08:28:51.652	Info	Connected by ('127.0.0.1', 1917) --> command: ping
+19/09/2018 08:29:06.687	Info	Connected by ('127.0.0.1', 1922) --> command: ping
+19/09/2018 08:29:21.769	Info	Connected by ('127.0.0.1', 1927) --> command: ping
+19/09/2018 08:29:36.804	Info	Connected by ('127.0.0.1', 1933) --> command: ping
+19/09/2018 08:29:51.839	Info	Connected by ('127.0.0.1', 1938) --> command: ping
+19/09/2018 08:30:06.874	Info	Connected by ('127.0.0.1', 1943) --> command: ping
+19/09/2018 08:30:21.909	Info	Connected by ('127.0.0.1', 1948) --> command: ping
+Saving img ./media\20180919\180919072818000738.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 119.765000105
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 08:30:37.710	Info	Connected by ('127.0.0.1', 1960) --> command: ping
+19/09/2018 08:30:52.745	Info	Connected by ('127.0.0.1', 1972) --> command: ping
+19/09/2018 08:31:07.765	Info	Connected by ('127.0.0.1', 1977) --> command: ping
+19/09/2018 08:31:22.800	Info	Connected by ('127.0.0.1', 1982) --> command: ping
+19/09/2018 08:31:37.835	Info	Connected by ('127.0.0.1', 1988) --> command: ping
+19/09/2018 08:31:52.870	Info	Connected by ('127.0.0.1', 1993) --> command: ping
+19/09/2018 08:32:07.921	Info	Connected by ('127.0.0.1', 1998) --> command: ping
+19/09/2018 08:32:22.956	Info	Connected by ('127.0.0.1', 2003) --> command: ping
+19/09/2018 08:32:37.991	Info	Connected by ('127.0.0.1', 2009) --> command: ping
+19/09/2018 08:32:53.386	Info	Connected by ('127.0.0.1', 2017) --> command: ping
+Saving img ./media\20180919\180919073039000383.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 121.171999931
+get_seeing_thread @ 	This package contain 200 images...
+19/09/2018 08:33:08.515	Info	Connected by ('127.0.0.1', 2031) --> command: ping
+19/09/2018 08:33:11.078	Info	Connected by ('127.0.0.1', 2034) --> command: stop
+19/09/2018 08:33:23.549	Info	Connected by ('127.0.0.1', 2039) --> command: ping
+19/09/2018 08:33:38.599	Info	Connected by ('127.0.0.1', 2045) --> command: ping
+19/09/2018 08:33:53.633	Info	Connected by ('127.0.0.1', 2050) --> command: ping
+19/09/2018 08:34:08.667	Info	Connected by ('127.0.0.1', 2055) --> command: ping
+19/09/2018 08:34:23.700	Info	Connected by ('127.0.0.1', 2060) --> command: ping
+19/09/2018 08:34:38.734	Info	Connected by ('127.0.0.1', 2066) --> command: ping
+19/09/2018 08:34:53.768	Info	Connected by ('127.0.0.1', 2071) --> command: ping
+19/09/2018 08:35:08.802	Info	Connected by ('127.0.0.1', 2076) --> command: ping
+Saving img ./media\20180919\180919073301000716.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 122.036999941
+get_seeing_thread @ 	This package contain 200 images...
+--END--
+19/09/2018 08:35:23.836	Info	Connected by ('127.0.0.1', 2085) --> command: ping
+19/09/2018 08:35:29.087	Info	Connected by ('127.0.0.1', 2086) --> command: switch_off
+19/09/2018 08:37:43.027	Info	Connected by ('127.0.0.1', 2093) --> command: ping
+19/09/2018 08:37:43.027	Info	Connected by ('127.0.0.1', 2101) --> command: ping
+19/09/2018 08:37:43.027	Info	Connected by ('127.0.0.1', 2115) --> command: ping
+19/09/2018 08:37:58.060	Info	Connected by ('127.0.0.1', 2121) --> command: ping
+19/09/2018 08:38:13.094	Info	Connected by ('127.0.0.1', 2126) --> command: ping
+19/09/2018 08:38:24.034	Info	Connected by ('127.0.0.1', 2127) --> command: shutdown
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 

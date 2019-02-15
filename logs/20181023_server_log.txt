@@ -1,0 +1,578 @@
+
+23/10/2018 20:29:01.080	Info	Agent Server started in port 3310....
+23/10/2018 20:29:08.174	Info	Connected by ('127.0.0.1', 4357) --> command: ping
+23/10/2018 20:29:16.081	Info	Connected by ('127.0.0.1', 4361) --> command: start_obs
+23/10/2018 20:31:41.360	Info	Connected by ('127.0.0.1', 4369) --> command: ping
+23/10/2018 20:31:41.407	Info	Connected by ('127.0.0.1', 4384) --> command: ping
+23/10/2018 20:31:41.407	Info	Connected by ('127.0.0.1', 4403) --> command: ping
+23/10/2018 20:31:42.313	Info	Connected by ('127.0.0.1', 4419) --> command: ping
+23/10/2018 20:32:26.177	Info	Connected by ('127.0.0.1', 4434) --> command: ping
+23/10/2018 20:32:42.647	Info	Connected by ('127.0.0.1', 4452) --> command: ping
+23/10/2018 20:32:58.742	Info	Connected by ('127.0.0.1', 4473) --> command: ping
+23/10/2018 20:33:14.462	Info	Connected by ('127.0.0.1', 4490) --> command: ping
+23/10/2018 20:33:30.745	Info	Connected by ('127.0.0.1', 4510) --> command: ping
+23/10/2018 20:33:47.622	Info	Connected by ('127.0.0.1', 4528) --> command: ping
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+23/10/2018 20:34:30.032	Info	Connected by ('127.0.0.1', 4546) --> command: ping
+23/10/2018 20:34:45.064	Info	Connected by ('127.0.0.1', 4564) --> command: ping
+23/10/2018 20:35:00.378	Info	Connected by ('127.0.0.1', 4584) --> command: ping
+23/10/2018 20:35:15.411	Info	Connected by ('127.0.0.1', 4601) --> command: ping
+23/10/2018 20:35:31.631	Info	Connected by ('127.0.0.1', 4621) --> command: ping
+23/10/2018 20:35:48.195	Info	Connected by ('127.0.0.1', 4639) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+23/10/2018 20:36:31.277	Info	Connected by ('127.0.0.1', 4654) --> command: ping
+23/10/2018 20:36:39.387	Info	Connected by ('127.0.0.1', 4666) --> command: stop_obs
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+--END--
+23/10/2018 20:39:21.526	Info	Connected by ('127.0.0.1', 4678) --> command: ping
+23/10/2018 20:39:21.526	Info	Connected by ('127.0.0.1', 4698) --> command: status
+23/10/2018 20:39:21.526	Info	Connected by ('127.0.0.1', 4723) --> command: ping
+23/10/2018 20:39:21.526	Info	Connected by ('127.0.0.1', 4739) --> command: status
+23/10/2018 20:39:21.526	Info	Connected by ('127.0.0.1', 4757) --> command: ping
+23/10/2018 20:39:24.449	Info	Connected by ('127.0.0.1', 4786) --> command: status
+23/10/2018 20:39:24.449	Info	Connected by ('127.0.0.1', 4787) --> command: shutdown
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
+23/10/2018 21:04:48.110	Info	Agent Server started in port 3310....
+23/10/2018 21:05:02.643	Info	Connected by ('127.0.0.1', 1321) --> command: ping
+23/10/2018 21:05:11.175	Info	Connected by ('127.0.0.1', 1322) --> command: start_obs
+23/10/2018 21:07:27.218	Info	Connected by ('127.0.0.1', 1330) --> command: ping
+23/10/2018 21:07:27.218	Info	Connected by ('127.0.0.1', 1349) --> command: ping
+23/10/2018 21:07:27.234	Info	Connected by ('127.0.0.1', 1365) --> command: ping
+23/10/2018 21:07:33.172	Info	Connected by ('127.0.0.1', 1380) --> command: ping
+23/10/2018 21:08:18.223	Info	Connected by ('127.0.0.1', 1395) --> command: ping
+23/10/2018 21:08:35.443	Info	Connected by ('127.0.0.1', 1401) --> command: ping
+23/10/2018 21:08:51.273	Info	Connected by ('127.0.0.1', 1422) --> command: ping
+23/10/2018 21:09:07.118	Info	Connected by ('127.0.0.1', 1439) --> command: ping
+23/10/2018 21:09:22.260	Info	Connected by ('127.0.0.1', 1457) --> command: ping
+23/10/2018 21:09:37.433	Info	Connected by ('127.0.0.1', 1473) --> command: ping
+23/10/2018 21:09:52.887	Info	Connected by ('127.0.0.1', 1493) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+23/10/2018 21:10:07.920	Info	Connected by ('127.0.0.1', 1507) --> command: ping
+23/10/2018 21:10:53.065	Info	Connected by ('127.0.0.1', 1520) --> command: ping
+23/10/2018 21:11:12.650	Info	Connected by ('127.0.0.1', 1527) --> command: ping
+23/10/2018 21:11:28.479	Info	Connected by ('127.0.0.1', 1547) --> command: ping
+23/10/2018 21:11:43.840	Info	Connected by ('127.0.0.1', 1564) --> command: ping
+23/10/2018 21:11:58.873	Info	Connected by ('127.0.0.1', 1585) --> command: ping
+23/10/2018 21:12:14.577	Info	Connected by ('127.0.0.1', 1603) --> command: ping
+23/10/2018 21:12:30.985	Info	Connected by ('127.0.0.1', 1624) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+23/10/2018 21:13:16.223	Info	Connected by ('127.0.0.1', 1649) --> command: ping
+23/10/2018 21:13:43.976	Info	Connected by ('127.0.0.1', 1658) --> command: ping
+23/10/2018 21:13:59.008	Info	Connected by ('127.0.0.1', 1679) --> command: ping
+23/10/2018 21:14:14.666	Info	Connected by ('127.0.0.1', 1696) --> command: ping
+23/10/2018 21:14:29.777	Info	Connected by ('127.0.0.1', 1716) --> command: ping
+23/10/2018 21:14:45.309	Info	Connected by ('127.0.0.1', 1734) --> command: ping
+23/10/2018 21:15:01.373	Info	Connected by ('127.0.0.1', 1754) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_window @ could not broadcast input array from shape (12) into shape (20)
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+23/10/2018 21:15:46.471	Info	Connected by ('127.0.0.1', 1769) --> command: ping
+23/10/2018 21:16:14.786	Info	Connected by ('127.0.0.1', 1778) --> command: ping
+23/10/2018 21:16:29.819	Info	Connected by ('127.0.0.1', 1806) --> command: ping
+23/10/2018 21:16:45.023	Info	Connected by ('127.0.0.1', 1827) --> command: ping
+23/10/2018 21:17:00.072	Info	Connected by ('127.0.0.1', 1844) --> command: ping
+23/10/2018 21:17:16.026	Info	Connected by ('127.0.0.1', 1864) --> command: ping
+23/10/2018 21:17:31.918	Info	Connected by ('127.0.0.1', 1881) --> command: ping
+23/10/2018 21:17:59.968	Info	Connected by ('127.0.0.1', 1894) --> command: ping
+23/10/2018 21:18:15.000	Info	Connected by ('127.0.0.1', 1902) --> command: ping
+23/10/2018 21:18:30.033	Info	Connected by ('127.0.0.1', 1907) --> command: ping
+23/10/2018 21:18:45.237	Info	Connected by ('127.0.0.1', 1916) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_window @ could not broadcast input array from shape (16) into shape (20)
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+23/10/2018 21:19:00.364	Info	Connected by ('127.0.0.1', 1922) --> command: ping
+23/10/2018 21:19:45.586	Info	Connected by ('127.0.0.1', 1934) --> command: ping
+23/10/2018 21:20:02.900	Info	Connected by ('127.0.0.1', 1943) --> command: ping
+23/10/2018 21:20:17.949	Info	Connected by ('127.0.0.1', 1960) --> command: ping
+23/10/2018 21:20:33.278	Info	Connected by ('127.0.0.1', 1980) --> command: ping
+23/10/2018 21:20:48.389	Info	Connected by ('127.0.0.1', 1998) --> command: ping
+23/10/2018 21:21:03.734	Info	Connected by ('127.0.0.1', 2018) --> command: ping
+23/10/2018 21:21:19.394	Info	Connected by ('127.0.0.1', 2036) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_window @ could not broadcast input array from shape (14) into shape (20)
+get_window @ could not broadcast input array from shape (14) into shape (20)
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_window @ could not broadcast input array from shape (16) into shape (20)
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+23/10/2018 21:22:04.461	Info	Connected by ('127.0.0.1', 2054) --> command: ping
+23/10/2018 21:22:32.651	Info	Connected by ('127.0.0.1', 2063) --> command: ping
+23/10/2018 21:22:47.683	Info	Connected by ('127.0.0.1', 2081) --> command: ping
+23/10/2018 21:23:02.731	Info	Connected by ('127.0.0.1', 2101) --> command: ping
+23/10/2018 21:23:17.780	Info	Connected by ('127.0.0.1', 2120) --> command: ping
+23/10/2018 21:23:33.515	Info	Connected by ('127.0.0.1', 2140) --> command: ping
+23/10/2018 21:23:49.267	Info	Connected by ('127.0.0.1', 2158) --> command: ping
+23/10/2018 21:23:49.704	Info	Connected by ('127.0.0.1', 2159) --> command: stop_obs
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+--END--
+23/10/2018 21:25:16.009	Info	Connected by ('127.0.0.1', 2171) --> command: status
+23/10/2018 21:25:16.009	Info	Connected by ('127.0.0.1', 2175) --> command: ping
+23/10/2018 21:25:16.009	Info	Connected by ('127.0.0.1', 2186) --> command: status
+23/10/2018 21:25:16.009	Info	Connected by ('127.0.0.1', 2195) --> command: ping
+23/10/2018 21:25:16.009	Info	Connected by ('127.0.0.1', 2198) --> command: shutdown
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
+23/10/2018 21:33:55.399	Info	Agent Server started in port 3310....
+23/10/2018 21:34:00.384	Info	Connected by ('127.0.0.1', 2232) --> command: ping
+23/10/2018 21:34:08.526	Info	Connected by ('127.0.0.1', 2233) --> command: start_obs
+23/10/2018 21:35:50.085	Info	Connected by ('127.0.0.1', 2244) --> command: ping
+23/10/2018 21:35:50.085	Info	Connected by ('127.0.0.1', 2260) --> command: ping
+23/10/2018 21:36:35.168	Info	Connected by ('127.0.0.1', 2275) --> command: ping
+23/10/2018 21:37:01.077	Info	Connected by ('127.0.0.1', 2285) --> command: ping
+23/10/2018 21:37:16.173	Info	Connected by ('127.0.0.1', 2302) --> command: ping
+23/10/2018 21:37:31.502	Info	Connected by ('127.0.0.1', 2322) --> command: ping
+23/10/2018 21:37:46.910	Info	Connected by ('127.0.0.1', 2339) --> command: ping
+23/10/2018 21:38:02.600	Info	Connected by ('127.0.0.1', 2361) --> command: ping
+23/10/2018 21:38:18.539	Info	Connected by ('127.0.0.1', 2380) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+23/10/2018 21:39:03.732	Info	Connected by ('127.0.0.1', 2400) --> command: ping
+23/10/2018 21:39:33.172	Info	Connected by ('127.0.0.1', 2409) --> command: ping
+23/10/2018 21:39:50.096	Info	Connected by ('127.0.0.1', 2428) --> command: ping
+23/10/2018 21:40:06.160	Info	Connected by ('127.0.0.1', 2449) --> command: ping
+23/10/2018 21:40:21.255	Info	Connected by ('127.0.0.1', 2466) --> command: ping
+23/10/2018 21:40:36.601	Info	Connected by ('127.0.0.1', 2486) --> command: ping
+23/10/2018 21:40:53.180	Info	Connected by ('127.0.0.1', 2504) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+23/10/2018 21:41:32.283	Info	Connected by ('127.0.0.1', 2518) --> command: ping
+23/10/2018 21:41:47.363	Info	Connected by ('127.0.0.1', 2538) --> command: ping
+23/10/2018 21:42:02.395	Info	Connected by ('127.0.0.1', 2556) --> command: ping
+23/10/2018 21:42:17.444	Info	Connected by ('127.0.0.1', 2576) --> command: ping
+23/10/2018 21:42:32.789	Info	Connected by ('127.0.0.1', 2593) --> command: ping
+23/10/2018 21:42:49.119	Info	Connected by ('127.0.0.1', 2613) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+23/10/2018 21:43:34.249	Info	Connected by ('127.0.0.1', 2628) --> command: ping
+23/10/2018 21:44:06.236	Info	Connected by ('127.0.0.1', 2638) --> command: ping
+23/10/2018 21:44:21.409	Info	Connected by ('127.0.0.1', 2658) --> command: ping
+23/10/2018 21:44:36.880	Info	Connected by ('127.0.0.1', 2675) --> command: ping
+23/10/2018 21:44:51.928	Info	Connected by ('127.0.0.1', 2695) --> command: ping
+23/10/2018 21:45:07.648	Info	Connected by ('127.0.0.1', 2713) --> command: ping
+23/10/2018 21:45:23.837	Info	Connected by ('127.0.0.1', 2733) --> command: ping
+23/10/2018 21:46:08.873	Info	Connected by ('127.0.0.1', 2746) --> command: ping
+23/10/2018 21:46:49.533	Info	Connected by ('127.0.0.1', 2754) --> command: ping
+23/10/2018 21:47:04.566	Info	Connected by ('127.0.0.1', 2763) --> command: ping
+23/10/2018 21:47:19.614	Info	Connected by ('127.0.0.1', 2768) --> command: ping
+23/10/2018 21:47:34.647	Info	Connected by ('127.0.0.1', 2776) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+23/10/2018 21:47:49.711	Info	Connected by ('127.0.0.1', 2782) --> command: ping
+23/10/2018 21:48:24.198	Info	Connected by ('127.0.0.1', 2794) --> command: ping
+23/10/2018 21:48:39.231	Info	Connected by ('127.0.0.1', 2814) --> command: ping
+23/10/2018 21:48:54.607	Info	Connected by ('127.0.0.1', 2832) --> command: ping
+23/10/2018 21:49:09.640	Info	Connected by ('127.0.0.1', 2852) --> command: ping
+23/10/2018 21:49:24.673	Info	Connected by ('127.0.0.1', 2869) --> command: ping
+23/10/2018 21:49:40.612	Info	Connected by ('127.0.0.1', 2889) --> command: ping
+23/10/2018 21:49:43.362	Info	Connected by ('127.0.0.1', 2891) --> command: stop_obs
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+get_window @ could not broadcast input array from shape (16) into shape (20)
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+--END--
+23/10/2018 21:51:21.174	Info	Connected by ('127.0.0.1', 2903) --> command: status
+23/10/2018 21:51:21.174	Info	Connected by ('127.0.0.1', 2906) --> command: ping
+23/10/2018 21:51:21.174	Info	Connected by ('127.0.0.1', 2916) --> command: status
+23/10/2018 21:51:21.174	Info	Connected by ('127.0.0.1', 2925) --> command: ping
+23/10/2018 21:51:21.174	Info	Connected by ('127.0.0.1', 2931) --> command: shutdown
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 

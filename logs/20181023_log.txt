@@ -1,0 +1,1754 @@
+
+23/10/2018 20:29:16.081	Debg	
+23/10/2018 20:29:16.081	Debg	--- INICIALIZANDO EL TELESCOPIO ---
+23/10/2018 20:29:16.081	Debg	
+23/10/2018 20:29:16.081	Debg	---------------------------------------------
+23/10/2018 20:29:16.081	Debg	-------------------- Meteo ------------------
+23/10/2018 20:29:16.081	Debg	---------------------------------------------
+23/10/2018 20:29:17.847	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 20:29:17.847	Info		Wind speed: 8.3 km/h -- Humidity: 73.2 % -- Dust: 0.001 m-3
+
+23/10/2018 20:29:17.847	Debg	---------------------------------------------
+23/10/2018 20:29:17.847	Debg	------------------ Get Ready ----------------
+23/10/2018 20:29:17.847	Debg	---------------------------------------------
+23/10/2018 20:29:17.847	Info	Abriendo cupula (este proceso puede tardar unos minutos)...
+23/10/2018 20:29:17.847	Info	Abriendo cupula lado A...
+23/10/2018 20:30:33.369	Info	Lado A abierto
+23/10/2018 20:30:36.369	Info	Abriendo cupula lado B...
+23/10/2018 20:31:06.513	Info	Lado B abierto
+23/10/2018 20:31:06.513	Info	Cupula abierta
+23/10/2018 20:31:06.513	Info	Encendiendo la montura...
+23/10/2018 20:31:06.513	Info	Montura encendida
+23/10/2018 20:31:16.514	Info	Encendiendo el foco...
+23/10/2018 20:31:16.577	Info	Foco encendida
+23/10/2018 20:31:16.577	Info	Llevando la montura al home...
+23/10/2018 20:31:41.329	Info	Montura en el home
+23/10/2018 20:31:41.329	Info	--- Listo para empezar observacion ---
+
+23/10/2018 20:31:41.329	Debg	--- INICIANDO OBSERVACION ---
+23/10/2018 20:31:41.329	Debg	
+23/10/2018 20:31:46.564	Debg	---------------------------------------------
+23/10/2018 20:31:46.564	Debg	-------------------- Meteo ------------------
+23/10/2018 20:31:46.564	Debg	---------------------------------------------
+23/10/2018 20:31:48.501	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 20:31:48.501	Info		Wind speed: 8.9 km/h -- Humidity: 72.2 % -- Dust: 0.0009 m-3
+
+23/10/2018 20:31:48.501	Debg	---------------------------------------------
+23/10/2018 20:31:48.501	Debg	---------------- Star Selection -------------
+23/10/2018 20:31:48.501	Debg	---------------------------------------------
+23/10/2018 20:31:48.501	Info	Seleccionando estella...
+23/10/2018 20:32:26.130	Info	Estella seleccionada --> Altair
+	airmass: 1.076940
+	ha hours: hms_tuple(h=0.0, m=42.0, s=19.56838859892997)
+	ra: 19.861199
+	dec: 8.920158
+23/10/2018 20:32:26.130	Info	*** Seleccion de estrella: 37.63 ***
+23/10/2018 20:32:26.130	Debg	---------------------------------------------
+23/10/2018 20:32:26.130	Debg	-------------- Check spots ------------------
+23/10/2018 20:32:26.145	Debg	---------------------------------------------
+23/10/2018 20:32:26.145	Info	Centrando spots...
+23/10/2018 20:32:29.130	Info	Intento 0
+23/10/2018 20:32:30.412	Info	Flujos fuera de rango (diff: 4.628127032716187e+290 - range: 3.0)
+23/10/2018 20:32:30.412	Info	Moviendo telescopio...
+23/10/2018 20:32:31.630	Info	Intento 1
+23/10/2018 20:32:32.927	Info	DX fuera de rango (dx: 79.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:32:32.927	Info	Moviendo telescopio...
+23/10/2018 20:32:34.631	Info	Intento 2
+23/10/2018 20:32:35.928	Info	Ventana de spots fuera de rango (cx: 377 - cy: 18 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 20:32:35.928	Info	Moviendo telescopio...
+23/10/2018 20:32:37.037	Info	Intento 3
+23/10/2018 20:32:38.350	Info	Ventana de spots fuera de rango (cx: 628 - cy: 239 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 20:32:38.350	Info	Moviendo telescopio...
+23/10/2018 20:32:39.475	Info	Intento 4
+23/10/2018 20:32:40.834	Info	DX fuera de rango (dx: 450.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:32:40.834	Info	Moviendo telescopio...
+23/10/2018 20:32:42.600	Info	Intento 5
+23/10/2018 20:32:43.897	Info	DX fuera de rango (dx: 380.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:32:43.913	Info	Moviendo telescopio...
+23/10/2018 20:32:45.397	Info	Intento 6
+23/10/2018 20:32:46.694	Info	DX fuera de rango (dx: 359.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:32:46.694	Info	Moviendo telescopio...
+23/10/2018 20:32:48.022	Info	Intento 7
+23/10/2018 20:32:49.319	Info	DX fuera de rango (dx: 96.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:32:49.319	Info	Moviendo telescopio...
+23/10/2018 20:32:50.476	Info	Intento 8
+23/10/2018 20:32:51.773	Info	Ventana de spots fuera de rango (cx: 591 - cy: 332 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 20:32:51.773	Info	Moviendo telescopio...
+23/10/2018 20:32:52.898	Info	Intento 9
+23/10/2018 20:32:54.304	Info	DX fuera de rango (dx: 3.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:32:54.304	Info	Moviendo telescopio...
+23/10/2018 20:32:55.883	Info	Intento 10
+23/10/2018 20:32:57.195	Info	DX fuera de rango (dx: 226.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:32:57.195	Info	Moviendo telescopio...
+23/10/2018 20:32:58.680	Info	Intento 11
+23/10/2018 20:32:59.945	Info	Ventana de spots fuera de rango (cx: 601 - cy: 336 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 20:32:59.945	Info	Moviendo telescopio...
+23/10/2018 20:33:01.696	Info	Intento 12
+23/10/2018 20:33:03.118	Info	DX fuera de rango (dx: 144.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:03.118	Info	Moviendo telescopio...
+23/10/2018 20:33:04.290	Info	Intento 13
+23/10/2018 20:33:05.555	Info	DX fuera de rango (dx: 81.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:05.555	Info	Moviendo telescopio...
+23/10/2018 20:33:06.665	Info	Intento 14
+23/10/2018 20:33:07.993	Info	Maximos fuera de rango (diff: 5.508107541965384e+87 - nsigma: 29.025770742088568)
+23/10/2018 20:33:07.993	Info	Moviendo telescopio...
+23/10/2018 20:33:09.056	Info	Intento 15
+23/10/2018 20:33:10.384	Info	DX fuera de rango (dx: 52.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:10.384	Info	Moviendo telescopio...
+23/10/2018 20:33:11.462	Info	Intento 16
+23/10/2018 20:33:12.743	Info	DX fuera de rango (dx: 255.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:12.743	Info	Moviendo telescopio...
+23/10/2018 20:33:14.290	Info	Intento 17
+23/10/2018 20:33:15.775	Info	DX fuera de rango (dx: 403.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:15.775	Info	Moviendo telescopio...
+23/10/2018 20:33:17.478	Info	Intento 18
+23/10/2018 20:33:18.775	Info	DX fuera de rango (dx: 173.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:18.775	Info	Moviendo telescopio...
+23/10/2018 20:33:20.541	Info	Intento 19
+23/10/2018 20:33:21.822	Info	DX fuera de rango (dx: 137.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:21.822	Info	Moviendo telescopio...
+23/10/2018 20:33:23.526	Info	Intento 20
+23/10/2018 20:33:24.791	Info	DX fuera de rango (dx: 202.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:24.791	Info	Moviendo telescopio...
+23/10/2018 20:33:25.854	Info	Intento 21
+23/10/2018 20:33:27.213	Info	DX fuera de rango (dx: 298.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:27.213	Info	Moviendo telescopio...
+23/10/2018 20:33:28.339	Info	Intento 22
+23/10/2018 20:33:29.620	Info	DX fuera de rango (dx: 95.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:29.620	Info	Moviendo telescopio...
+23/10/2018 20:33:30.714	Info	Intento 23
+23/10/2018 20:33:32.026	Info	Ventana de spots fuera de rango (cx: 509 - cy: 29 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 20:33:32.026	Info	Moviendo telescopio...
+23/10/2018 20:33:33.417	Info	Intento 24
+23/10/2018 20:33:34.745	Info	DX fuera de rango (dx: 24.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:34.761	Info	Moviendo telescopio...
+23/10/2018 20:33:35.855	Info	Intento 25
+23/10/2018 20:33:37.121	Info	DX fuera de rango (dx: 381.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:37.121	Info	Moviendo telescopio...
+23/10/2018 20:33:38.714	Info	Intento 26
+23/10/2018 20:33:40.215	Info	DX fuera de rango (dx: 307.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:40.215	Info	Moviendo telescopio...
+23/10/2018 20:33:41.793	Info	Intento 27
+23/10/2018 20:33:43.106	Info	DX fuera de rango (dx: 339.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:43.106	Info	Moviendo telescopio...
+23/10/2018 20:33:44.559	Info	Intento 28
+23/10/2018 20:33:45.809	Info	DX fuera de rango (dx: 82.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:45.809	Info	Moviendo telescopio...
+23/10/2018 20:33:47.575	Info	Intento 29
+23/10/2018 20:33:48.887	Info	DX fuera de rango (dx: 260.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:33:48.887	Info	Moviendo telescopio...
+23/10/2018 20:33:53.044	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 20:33:53.044	Info	*** Seleccion de estrella: 124.54 ***
+23/10/2018 20:33:56.044	Info	*** TIEMPO TOTAL ITERACION: 127.54 ***
+23/10/2018 20:33:56.044	Debg	---------------------------------------------
+23/10/2018 20:33:56.044	Debg	-------------------- Meteo ------------------
+23/10/2018 20:33:56.044	Debg	---------------------------------------------
+23/10/2018 20:33:57.841	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 20:33:57.841	Info		Wind speed: 8.9 km/h -- Humidity: 72.2 % -- Dust: 0.0009 m-3
+
+23/10/2018 20:33:57.857	Debg	---------------------------------------------
+23/10/2018 20:33:57.857	Debg	---------------- Star Selection -------------
+23/10/2018 20:33:57.857	Debg	---------------------------------------------
+23/10/2018 20:33:57.857	Info	Seleccionando estella...
+23/10/2018 20:34:29.282	Info	Estella seleccionada --> Vega
+	airmass: 1.115386
+	ha hours: hms_tuple(h=1.0, m=56.0, s=26.93695583190788)
+	ra: 18.625819
+	dec: 38.806140
+23/10/2018 20:34:29.282	Info	*** Seleccion de estrella: 31.42 ***
+23/10/2018 20:34:29.282	Debg	---------------------------------------------
+23/10/2018 20:34:29.282	Debg	-------------- Check spots ------------------
+23/10/2018 20:34:29.282	Debg	---------------------------------------------
+23/10/2018 20:34:29.282	Info	Centrando spots...
+23/10/2018 20:34:31.313	Info	Intento 0
+23/10/2018 20:34:32.641	Info	DX fuera de rango (dx: 142.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:34:32.641	Info	Moviendo telescopio...
+23/10/2018 20:34:33.751	Info	Intento 1
+23/10/2018 20:34:35.126	Info	DX fuera de rango (dx: 283.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:34:35.126	Info	Moviendo telescopio...
+23/10/2018 20:34:36.813	Info	Intento 2
+23/10/2018 20:34:38.110	Info	DX fuera de rango (dx: 16.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:34:38.110	Info	Moviendo telescopio...
+23/10/2018 20:34:39.220	Info	Intento 3
+23/10/2018 20:34:40.548	Info	DX fuera de rango (dx: 138.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:34:40.548	Info	Moviendo telescopio...
+23/10/2018 20:34:41.611	Info	Intento 4
+23/10/2018 20:34:42.923	Info	DX fuera de rango (dx: 135.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:34:42.923	Info	Moviendo telescopio...
+23/10/2018 20:34:44.408	Info	Intento 5
+23/10/2018 20:34:45.721	Info	DX fuera de rango (dx: 449.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:34:45.721	Info	Moviendo telescopio...
+23/10/2018 20:34:47.377	Info	Intento 6
+23/10/2018 20:34:48.690	Info	DX fuera de rango (dx: 246.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:34:48.690	Info	Moviendo telescopio...
+23/10/2018 20:34:49.752	Info	Intento 7
+23/10/2018 20:34:51.049	Info	DX fuera de rango (dx: 124.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:34:51.049	Info	Moviendo telescopio...
+23/10/2018 20:34:52.159	Info	Intento 8
+23/10/2018 20:34:53.471	Info	DX fuera de rango (dx: 23.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:34:53.471	Info	Moviendo telescopio...
+23/10/2018 20:34:54.362	Info	Intento 9
+23/10/2018 20:34:55.675	Info	Ventana de spots fuera de rango (cx: 600 - cy: 182 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 20:34:55.690	Info	Moviendo telescopio...
+23/10/2018 20:34:57.206	Info	Intento 10
+23/10/2018 20:34:58.612	Info	DX fuera de rango (dx: 80.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:34:58.612	Info	Moviendo telescopio...
+23/10/2018 20:35:00.316	Info	Intento 11
+23/10/2018 20:35:01.628	Info	DX fuera de rango (dx: 18.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:01.628	Info	Moviendo telescopio...
+23/10/2018 20:35:03.144	Info	Intento 12
+23/10/2018 20:35:04.457	Info	Flujos fuera de rango (diff: 4.444532275876653e+249 - range: 3.0)
+23/10/2018 20:35:04.457	Info	Moviendo telescopio...
+23/10/2018 20:35:05.379	Info	Intento 13
+23/10/2018 20:35:06.660	Info	DX fuera de rango (dx: 475.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:06.660	Info	Moviendo telescopio...
+23/10/2018 20:35:07.738	Info	Intento 14
+23/10/2018 20:35:09.004	Info	DX fuera de rango (dx: 180.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:09.004	Info	Moviendo telescopio...
+23/10/2018 20:35:10.113	Info	Intento 15
+23/10/2018 20:35:11.457	Info	DX fuera de rango (dx: 130.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:11.457	Info	Moviendo telescopio...
+23/10/2018 20:35:12.520	Info	Intento 16
+23/10/2018 20:35:13.801	Info	DX fuera de rango (dx: 246.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:13.817	Info	Moviendo telescopio...
+23/10/2018 20:35:15.317	Info	Intento 17
+23/10/2018 20:35:16.567	Info	Ventana de spots fuera de rango (cx: 464 - cy: 12 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 20:35:16.567	Info	Moviendo telescopio...
+23/10/2018 20:35:18.067	Info	Intento 18
+23/10/2018 20:35:19.395	Info	Ventana de spots fuera de rango (cx: 399 - cy: 29 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 20:35:19.395	Info	Moviendo telescopio...
+23/10/2018 20:35:20.896	Info	Intento 19
+23/10/2018 20:35:22.193	Info	DX fuera de rango (dx: 484.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:22.208	Info	Moviendo telescopio...
+23/10/2018 20:35:23.896	Info	Intento 20
+23/10/2018 20:35:25.208	Info	Flujos fuera de rango (diff: 3.776034277937353e+206 - range: 3.0)
+23/10/2018 20:35:25.208	Info	Moviendo telescopio...
+23/10/2018 20:35:26.318	Info	Intento 21
+23/10/2018 20:35:27.615	Info	DX fuera de rango (dx: 85.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:27.615	Info	Moviendo telescopio...
+23/10/2018 20:35:28.724	Info	Intento 22
+23/10/2018 20:35:30.240	Info	DX fuera de rango (dx: 370.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:30.240	Info	Moviendo telescopio...
+23/10/2018 20:35:31.600	Info	Intento 23
+23/10/2018 20:35:32.959	Info	Flujos fuera de rango (diff: 6.365534276785177e+249 - range: 3.0)
+23/10/2018 20:35:32.959	Info	Moviendo telescopio...
+23/10/2018 20:35:34.037	Info	Intento 24
+23/10/2018 20:35:35.366	Info	DX fuera de rango (dx: 165.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:35.366	Info	Moviendo telescopio...
+23/10/2018 20:35:36.459	Info	Intento 25
+23/10/2018 20:35:37.788	Info	DX fuera de rango (dx: 100.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:37.788	Info	Moviendo telescopio...
+23/10/2018 20:35:39.288	Info	Intento 26
+23/10/2018 20:35:40.616	Info	DX fuera de rango (dx: 159.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:40.632	Info	Moviendo telescopio...
+23/10/2018 20:35:42.132	Info	Intento 27
+23/10/2018 20:35:43.413	Info	DX fuera de rango (dx: 72.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:43.413	Info	Moviendo telescopio...
+23/10/2018 20:35:45.163	Info	Intento 28
+23/10/2018 20:35:46.476	Info	DX fuera de rango (dx: 274.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:46.476	Info	Moviendo telescopio...
+23/10/2018 20:35:48.164	Info	Intento 29
+23/10/2018 20:35:49.445	Info	DX fuera de rango (dx: 72.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:35:49.445	Info	Moviendo telescopio...
+23/10/2018 20:35:53.742	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 20:35:53.742	Info	*** Seleccion de estrella: 115.9 ***
+23/10/2018 20:35:56.742	Info	*** TIEMPO TOTAL ITERACION: 118.9 ***
+23/10/2018 20:35:56.742	Debg	---------------------------------------------
+23/10/2018 20:35:56.742	Debg	-------------------- Meteo ------------------
+23/10/2018 20:35:56.742	Debg	---------------------------------------------
+23/10/2018 20:35:58.180	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 20:35:58.180	Info		Wind speed: 8.9 km/h -- Humidity: 72.2 % -- Dust: 0.0009 m-3
+
+23/10/2018 20:35:58.180	Debg	---------------------------------------------
+23/10/2018 20:35:58.180	Debg	---------------- Star Selection -------------
+23/10/2018 20:35:58.180	Debg	---------------------------------------------
+23/10/2018 20:35:58.180	Info	Seleccionando estella...
+23/10/2018 20:36:30.292	Info	Estella seleccionada --> Altair
+	airmass: 1.081252
+	ha hours: hms_tuple(h=0.0, m=47.0, s=20.710686427949838)
+	ra: 19.861199
+	dec: 8.920158
+23/10/2018 20:36:30.308	Info	*** Seleccion de estrella: 32.13 ***
+23/10/2018 20:36:30.308	Debg	---------------------------------------------
+23/10/2018 20:36:30.308	Debg	-------------- Check spots ------------------
+23/10/2018 20:36:30.308	Debg	---------------------------------------------
+23/10/2018 20:36:30.308	Info	Centrando spots...
+23/10/2018 20:36:32.339	Info	Intento 0
+23/10/2018 20:36:33.605	Info	DX fuera de rango (dx: 102.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:36:33.605	Info	Moviendo telescopio...
+23/10/2018 20:36:34.715	Info	Intento 1
+23/10/2018 20:36:36.012	Info	Moviendo telescopio...
+23/10/2018 20:36:37.543	Info	Intento 2
+23/10/2018 20:36:38.840	Info	DX fuera de rango (dx: 206.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:36:38.840	Info	Moviendo telescopio...
+23/10/2018 20:36:39.387	Debg	
+23/10/2018 20:36:39.387	Debg	--- PARANDO OBSERVACION ---
+23/10/2018 20:36:39.387	Debg	
+23/10/2018 20:36:39.387	Info	Indicando fin del proceso...
+23/10/2018 20:36:39.762	Info	Intento 3
+23/10/2018 20:36:41.075	Info	DX fuera de rango (dx: 221.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:36:41.075	Info	Moviendo telescopio...
+23/10/2018 20:36:42.153	Info	Intento 4
+23/10/2018 20:36:43.481	Info	DX fuera de rango (dx: 181.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:36:43.481	Info	Moviendo telescopio...
+23/10/2018 20:36:44.966	Info	Intento 5
+23/10/2018 20:36:46.278	Info	DX fuera de rango (dx: 9.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:36:46.278	Info	Moviendo telescopio...
+23/10/2018 20:36:47.825	Info	Intento 6
+23/10/2018 20:36:49.107	Info	Moviendo telescopio...
+23/10/2018 20:36:50.185	Info	Intento 7
+23/10/2018 20:36:51.497	Info	DX fuera de rango (dx: 254.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:36:51.497	Info	Moviendo telescopio...
+23/10/2018 20:36:52.607	Info	Intento 8
+23/10/2018 20:36:53.888	Info	DX fuera de rango (dx: 68.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:36:53.888	Info	Moviendo telescopio...
+23/10/2018 20:36:55.013	Info	Intento 9
+23/10/2018 20:36:56.295	Info	DX fuera de rango (dx: 459.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:36:56.295	Info	Moviendo telescopio...
+23/10/2018 20:36:57.982	Info	Intento 10
+23/10/2018 20:36:59.264	Info	DX fuera de rango (dx: 447.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:36:59.279	Info	Moviendo telescopio...
+23/10/2018 20:37:00.733	Info	Intento 11
+23/10/2018 20:37:02.092	Info	DX fuera de rango (dx: 16.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:02.092	Info	Moviendo telescopio...
+23/10/2018 20:37:03.795	Info	Intento 12
+23/10/2018 20:37:05.092	Info	DX fuera de rango (dx: 52.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:05.092	Info	Moviendo telescopio...
+23/10/2018 20:37:06.249	Info	Intento 13
+23/10/2018 20:37:07.577	Info	DX fuera de rango (dx: 173.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:07.577	Info	Moviendo telescopio...
+23/10/2018 20:37:09.046	Info	Intento 14
+23/10/2018 20:37:10.296	Info	DX fuera de rango (dx: 4.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:10.296	Info	Moviendo telescopio...
+23/10/2018 20:37:11.390	Info	Intento 15
+23/10/2018 20:37:12.671	Info	DX fuera de rango (dx: 147.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:12.671	Info	Moviendo telescopio...
+23/10/2018 20:37:13.749	Info	Intento 16
+23/10/2018 20:37:15.062	Info	DX fuera de rango (dx: 366.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:15.062	Info	Moviendo telescopio...
+23/10/2018 20:37:16.640	Info	Intento 17
+23/10/2018 20:37:18.719	Info	DX fuera de rango (dx: 122.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:18.719	Info	Moviendo telescopio...
+23/10/2018 20:37:20.922	Info	Intento 18
+23/10/2018 20:37:22.172	Info	DX fuera de rango (dx: 294.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:22.172	Info	Moviendo telescopio...
+23/10/2018 20:37:23.688	Info	Intento 19
+23/10/2018 20:37:25.000	Info	DX fuera de rango (dx: 18.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:25.000	Info	Moviendo telescopio...
+23/10/2018 20:37:26.735	Info	Intento 20
+23/10/2018 20:37:28.048	Info	DX fuera de rango (dx: 142.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:28.048	Info	Moviendo telescopio...
+23/10/2018 20:37:29.141	Info	Intento 21
+23/10/2018 20:37:30.470	Info	Moviendo telescopio...
+23/10/2018 20:37:31.532	Info	Intento 22
+23/10/2018 20:37:32.829	Info	DX fuera de rango (dx: 204.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:32.829	Info	Moviendo telescopio...
+23/10/2018 20:37:33.892	Info	Intento 23
+23/10/2018 20:37:35.189	Info	DX fuera de rango (dx: 239.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:35.189	Info	Moviendo telescopio...
+23/10/2018 20:37:36.283	Info	Intento 24
+23/10/2018 20:37:37.580	Info	DX fuera de rango (dx: 137.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:37.580	Info	Moviendo telescopio...
+23/10/2018 20:37:38.627	Info	Intento 25
+23/10/2018 20:37:39.939	Info	DX fuera de rango (dx: 192.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:39.939	Info	Moviendo telescopio...
+23/10/2018 20:37:41.361	Info	Intento 26
+23/10/2018 20:37:42.689	Info	DX fuera de rango (dx: 54.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:42.689	Info	Moviendo telescopio...
+23/10/2018 20:37:44.127	Info	Intento 27
+23/10/2018 20:37:45.471	Info	DX fuera de rango (dx: 72.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:45.471	Info	Moviendo telescopio...
+23/10/2018 20:37:46.987	Info	Intento 28
+23/10/2018 20:37:48.268	Info	DX fuera de rango (dx: 23.0 - min: 25.0 - max: 45.0)
+23/10/2018 20:37:48.268	Info	Moviendo telescopio...
+23/10/2018 20:37:49.768	Info	Intento 29
+23/10/2018 20:37:51.034	Info	Ventana de spots fuera de rango (cx: 575 - cy: 116 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 20:37:51.034	Info	Moviendo telescopio...
+23/10/2018 20:37:55.300	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 20:37:55.300	Info	*** Seleccion de estrella: 117.12 ***
+23/10/2018 20:37:58.300	Info	*** TIEMPO TOTAL ITERACION: 120.12 ***
+23/10/2018 20:37:58.300	Debg	---------------------------------------------
+23/10/2018 20:37:58.300	Debg	-------------------- Meteo ------------------
+23/10/2018 20:37:58.300	Debg	---------------------------------------------
+23/10/2018 20:37:59.816	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 20:37:59.816	Info		Wind speed: 8.1 km/h -- Humidity: 74.1 % -- Dust: 0.0009 m-3
+
+23/10/2018 20:37:59.816	Info	Parando la observacion...
+23/10/2018 20:37:59.816	Info	 --- OBSERVACION TERMINADA ---
+23/10/2018 20:38:04.441	Debg	
+23/10/2018 20:38:04.441	Info	--- CERRANDO EL TELESCOPIO ---
+23/10/2018 20:38:04.441	Debg	
+23/10/2018 20:38:04.441	Debg	---------------------------------------------
+23/10/2018 20:38:04.441	Debg	------------------ Switch Off ---------------
+23/10/2018 20:38:04.441	Debg	---------------------------------------------
+23/10/2018 20:38:04.441	Info	Llevando la montura al home...
+23/10/2018 20:38:28.100	Info	Montura en el home
+23/10/2018 20:38:28.100	Info	Apagando la montura...
+23/10/2018 20:38:28.115	Info	Montura apagada
+23/10/2018 20:38:38.132	Info	Apagando el foco...
+23/10/2018 20:38:38.132	Info	Foco apagado
+23/10/2018 20:38:38.132	Info	Cerrando cupula (este proceso puede tardar unos minutos)...
+23/10/2018 20:38:38.132	Info	Cerrando cupula lado A...
+23/10/2018 20:38:58.321	Info	Lado A cerrado
+23/10/2018 20:39:01.322	Info	Cerrando cupula lado B...
+23/10/2018 20:39:21.511	Info	Lado B cerrado
+23/10/2018 20:39:21.511	Info	Cupula cerrada
+23/10/2018 20:39:21.511	Info	--- TELESCOPIO CERRADO ---
+23/10/2018 20:39:21.511	Debg	
+23/10/2018 21:05:11.175	Debg	
+23/10/2018 21:05:11.175	Debg	--- INICIALIZANDO EL TELESCOPIO ---
+23/10/2018 21:05:11.175	Debg	
+23/10/2018 21:05:11.175	Debg	---------------------------------------------
+23/10/2018 21:05:11.175	Debg	-------------------- Meteo ------------------
+23/10/2018 21:05:11.175	Debg	---------------------------------------------
+23/10/2018 21:05:12.784	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:05:12.784	Info		Wind speed: 9.9 km/h -- Humidity: 76.5 % -- Dust: 0.0008 m-3
+
+23/10/2018 21:05:12.784	Debg	---------------------------------------------
+23/10/2018 21:05:12.784	Debg	------------------ Get Ready ----------------
+23/10/2018 21:05:12.784	Debg	---------------------------------------------
+23/10/2018 21:05:12.784	Info	Abriendo cupula (este proceso puede tardar unos minutos)...
+23/10/2018 21:05:12.784	Info	Abriendo cupula lado A...
+23/10/2018 21:06:28.260	Info	Lado A abierto
+23/10/2018 21:06:31.260	Info	Abriendo cupula lado B...
+23/10/2018 21:07:01.481	Info	Lado B abierto
+23/10/2018 21:07:01.481	Info	Cupula abierta
+23/10/2018 21:07:01.481	Info	Encendiendo la montura...
+23/10/2018 21:07:01.497	Info	Montura encendida
+23/10/2018 21:07:11.498	Info	Encendiendo el foco...
+23/10/2018 21:07:11.498	Info	Foco encendida
+23/10/2018 21:07:11.514	Info	Llevando la montura al home...
+23/10/2018 21:07:27.187	Info	Montura en el home
+23/10/2018 21:07:27.187	Info	--- Listo para empezar observacion ---
+
+23/10/2018 21:07:27.187	Debg	--- INICIANDO OBSERVACION ---
+23/10/2018 21:07:27.187	Debg	
+23/10/2018 21:07:31.844	Debg	---------------------------------------------
+23/10/2018 21:07:31.844	Debg	-------------------- Meteo ------------------
+23/10/2018 21:07:31.844	Debg	---------------------------------------------
+23/10/2018 21:07:34.500	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:07:34.500	Info		Wind speed: 11.6 km/h -- Humidity: 74.6 % -- Dust: 0.0009 m-3
+
+23/10/2018 21:07:34.500	Debg	---------------------------------------------
+23/10/2018 21:07:34.500	Debg	---------------- Star Selection -------------
+23/10/2018 21:07:34.500	Debg	---------------------------------------------
+23/10/2018 21:07:34.500	Info	Seleccionando estella...
+23/10/2018 21:08:35.396	Info	Estella seleccionada --> Markab
+	airmass: 1.153591
+	ha hours: hms_tuple(h=-1.0, m=-56.0, s=-35.77383081218045)
+	ra: 23.094970
+	dec: 15.308454
+23/10/2018 21:08:35.396	Info	*** Seleccion de estrella: 60.9 ***
+23/10/2018 21:08:35.396	Debg	---------------------------------------------
+23/10/2018 21:08:35.396	Debg	-------------- Check spots ------------------
+23/10/2018 21:08:35.396	Debg	---------------------------------------------
+23/10/2018 21:08:35.396	Info	Centrando spots...
+23/10/2018 21:08:38.537	Info	Intento 0
+23/10/2018 21:08:39.850	Info	DX fuera de rango (dx: 445.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:08:39.850	Info	Moviendo telescopio...
+23/10/2018 21:08:41.006	Info	Intento 1
+23/10/2018 21:08:42.428	Info	DX fuera de rango (dx: 285.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:08:42.428	Info	Moviendo telescopio...
+23/10/2018 21:08:43.850	Info	Intento 2
+23/10/2018 21:08:45.147	Info	DX fuera de rango (dx: 91.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:08:45.147	Info	Moviendo telescopio...
+23/10/2018 21:08:46.163	Info	Intento 3
+23/10/2018 21:08:47.444	Info	Ventana de spots fuera de rango (cx: 35 - cy: 20 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:08:47.444	Info	Moviendo telescopio...
+23/10/2018 21:08:48.460	Info	Intento 4
+23/10/2018 21:08:49.757	Info	DX fuera de rango (dx: 141.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:08:49.757	Info	Moviendo telescopio...
+23/10/2018 21:08:51.241	Info	Intento 5
+23/10/2018 21:08:52.538	Info	Flujos fuera de rango (diff: 2.335242161675145e+249 - range: 3.0)
+23/10/2018 21:08:52.538	Info	Moviendo telescopio...
+23/10/2018 21:08:54.007	Info	Intento 6
+23/10/2018 21:08:55.351	Info	DX fuera de rango (dx: 438.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:08:55.367	Info	Moviendo telescopio...
+23/10/2018 21:08:56.398	Info	Intento 7
+23/10/2018 21:08:57.679	Info	Flujos fuera de rango (diff: 1.0498140726541724e+225 - range: 3.0)
+23/10/2018 21:08:57.679	Info	Moviendo telescopio...
+23/10/2018 21:08:58.726	Info	Intento 8
+23/10/2018 21:08:59.976	Info	Ventana de spots fuera de rango (cx: 171 - cy: 16 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:08:59.992	Info	Moviendo telescopio...
+23/10/2018 21:09:01.164	Info	Intento 9
+23/10/2018 21:09:02.430	Info	Ventana de spots fuera de rango (cx: 562 - cy: 151 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:09:02.430	Info	Moviendo telescopio...
+23/10/2018 21:09:04.071	Info	Intento 10
+23/10/2018 21:09:05.383	Info	Moviendo telescopio...
+23/10/2018 21:09:07.086	Info	Intento 11
+23/10/2018 21:09:08.352	Info	DX fuera de rango (dx: 293.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:08.352	Info	Moviendo telescopio...
+23/10/2018 21:09:09.774	Info	Intento 12
+23/10/2018 21:09:11.118	Info	DX fuera de rango (dx: 520.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:11.118	Info	Moviendo telescopio...
+23/10/2018 21:09:12.243	Info	Intento 13
+23/10/2018 21:09:13.853	Info	DX fuera de rango (dx: 153.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:13.853	Info	Moviendo telescopio...
+23/10/2018 21:09:14.884	Info	Intento 14
+23/10/2018 21:09:16.181	Info	DX fuera de rango (dx: 6.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:16.181	Info	Moviendo telescopio...
+23/10/2018 21:09:19.994	Info	Intento 15
+23/10/2018 21:09:21.306	Info	DX fuera de rango (dx: 252.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:21.306	Info	Moviendo telescopio...
+23/10/2018 21:09:22.244	Info	Intento 16
+23/10/2018 21:09:23.525	Info	DX fuera de rango (dx: 218.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:23.525	Info	Moviendo telescopio...
+23/10/2018 21:09:24.885	Info	Intento 17
+23/10/2018 21:09:26.432	Info	DX fuera de rango (dx: 206.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:26.432	Info	Moviendo telescopio...
+23/10/2018 21:09:27.963	Info	Intento 18
+23/10/2018 21:09:29.276	Info	DX fuera de rango (dx: 229.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:29.292	Info	Moviendo telescopio...
+23/10/2018 21:09:30.823	Info	Intento 19
+23/10/2018 21:09:32.136	Info	DX fuera de rango (dx: 130.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:32.136	Info	Moviendo telescopio...
+23/10/2018 21:09:33.683	Info	Intento 20
+23/10/2018 21:09:34.980	Info	DX fuera de rango (dx: 256.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:34.980	Info	Moviendo telescopio...
+23/10/2018 21:09:36.027	Info	Intento 21
+23/10/2018 21:09:37.386	Info	DX fuera de rango (dx: 301.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:37.386	Info	Moviendo telescopio...
+23/10/2018 21:09:38.714	Info	Intento 22
+23/10/2018 21:09:39.996	Info	Flujos fuera de rango (diff: 3.14765909030316e+281 - range: 3.0)
+23/10/2018 21:09:39.996	Info	Moviendo telescopio...
+23/10/2018 21:09:40.855	Info	Intento 23
+23/10/2018 21:09:42.168	Info	Flujos fuera de rango (diff: 5.794664459335216e+249 - range: 3.0)
+23/10/2018 21:09:42.168	Info	Moviendo telescopio...
+23/10/2018 21:09:44.262	Info	Intento 24
+23/10/2018 21:09:45.777	Info	DX fuera de rango (dx: 211.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:45.777	Info	Moviendo telescopio...
+23/10/2018 21:09:47.028	Info	Intento 25
+23/10/2018 21:09:48.387	Info	DX fuera de rango (dx: 65.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:48.387	Info	Moviendo telescopio...
+23/10/2018 21:09:50.106	Info	Intento 26
+23/10/2018 21:09:51.434	Info	DX fuera de rango (dx: 313.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:51.434	Info	Moviendo telescopio...
+23/10/2018 21:09:52.841	Info	Intento 27
+23/10/2018 21:09:54.138	Info	DX fuera de rango (dx: 221.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:54.138	Info	Moviendo telescopio...
+23/10/2018 21:09:55.638	Info	Intento 28
+23/10/2018 21:09:56.935	Info	DX fuera de rango (dx: 84.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:56.935	Info	Moviendo telescopio...
+23/10/2018 21:09:58.404	Info	Intento 29
+23/10/2018 21:09:59.732	Info	DX fuera de rango (dx: 471.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:09:59.732	Info	Moviendo telescopio...
+23/10/2018 21:10:03.826	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 21:10:03.826	Info	*** Seleccion de estrella: 149.33 ***
+23/10/2018 21:10:06.842	Info	*** TIEMPO TOTAL ITERACION: 152.34 ***
+23/10/2018 21:10:06.842	Debg	---------------------------------------------
+23/10/2018 21:10:06.842	Debg	-------------------- Meteo ------------------
+23/10/2018 21:10:06.842	Debg	---------------------------------------------
+23/10/2018 21:10:08.904	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:10:08.904	Info		Wind speed: 11.6 km/h -- Humidity: 74.6 % -- Dust: 0.0009 m-3
+
+23/10/2018 21:10:08.936	Debg	---------------------------------------------
+23/10/2018 21:10:08.936	Debg	---------------- Star Selection -------------
+23/10/2018 21:10:08.936	Debg	---------------------------------------------
+23/10/2018 21:10:08.936	Info	Seleccionando estella...
+23/10/2018 21:11:12.603	Info	Estella seleccionada --> Altair
+	airmass: 1.118348
+	ha hours: hms_tuple(h=1.0, m=17.0, s=25.799655429399877)
+	ra: 19.861199
+	dec: 8.920158
+23/10/2018 21:11:12.603	Info	*** Seleccion de estrella: 63.67 ***
+23/10/2018 21:11:12.603	Debg	---------------------------------------------
+23/10/2018 21:11:12.603	Debg	-------------- Check spots ------------------
+23/10/2018 21:11:12.603	Debg	---------------------------------------------
+23/10/2018 21:11:12.603	Info	Centrando spots...
+23/10/2018 21:11:14.634	Info	Intento 0
+23/10/2018 21:11:15.963	Info	Ventana de spots fuera de rango (cx: 605 - cy: 143 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:11:15.963	Info	Moviendo telescopio...
+23/10/2018 21:11:17.806	Info	Intento 1
+23/10/2018 21:11:19.166	Info	DX fuera de rango (dx: 230.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:11:19.166	Info	Moviendo telescopio...
+23/10/2018 21:11:20.994	Info	Intento 2
+23/10/2018 21:11:22.276	Info	Moviendo telescopio...
+23/10/2018 21:11:23.323	Info	Intento 3
+23/10/2018 21:11:24.620	Info	DX fuera de rango (dx: 245.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:11:24.620	Info	Moviendo telescopio...
+23/10/2018 21:11:25.651	Info	Intento 4
+23/10/2018 21:11:26.932	Info	DX fuera de rango (dx: 104.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:11:26.948	Info	Moviendo telescopio...
+23/10/2018 21:11:28.432	Info	Intento 5
+23/10/2018 21:11:29.745	Info	DX fuera de rango (dx: 455.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:11:29.745	Info	Moviendo telescopio...
+23/10/2018 21:11:31.230	Info	Intento 6
+23/10/2018 21:11:32.542	Info	DX fuera de rango (dx: 243.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:11:32.542	Info	Moviendo telescopio...
+23/10/2018 21:11:33.589	Info	Intento 7
+23/10/2018 21:11:34.886	Info	DX fuera de rango (dx: 72.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:11:34.886	Info	Moviendo telescopio...
+23/10/2018 21:11:35.933	Info	Intento 8
+23/10/2018 21:11:37.230	Info	DX fuera de rango (dx: 90.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:11:37.230	Info	Moviendo telescopio...
+23/10/2018 21:11:38.121	Info	Intento 9
+23/10/2018 21:11:39.371	Info	Ventana de spots fuera de rango (cx: 332 - cy: 30 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:11:39.371	Info	Moviendo telescopio...
+23/10/2018 21:11:41.059	Info	Intento 10
+23/10/2018 21:11:42.340	Info	DX fuera de rango (dx: 190.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:11:42.356	Info	Moviendo telescopio...
+23/10/2018 21:11:43.793	Info	Intento 11
+23/10/2018 21:11:45.121	Info	DX fuera de rango (dx: 150.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:11:45.121	Info	Moviendo telescopio...
+23/10/2018 21:11:46.575	Info	Intento 12
+23/10/2018 21:11:47.903	Info	Flujos fuera de rango (diff: 5.803237405382803e+290 - range: 3.0)
+23/10/2018 21:11:47.903	Info	Moviendo telescopio...
+23/10/2018 21:11:48.997	Info	Intento 13
+23/10/2018 21:11:50.278	Info	Ventana de spots fuera de rango (cx: 583 - cy: 237 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:11:50.278	Info	Moviendo telescopio...
+23/10/2018 21:11:51.325	Info	Intento 14
+23/10/2018 21:11:52.606	Info	DX fuera de rango (dx: 390.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:11:52.606	Info	Moviendo telescopio...
+23/10/2018 21:11:53.435	Info	Intento 15
+23/10/2018 21:11:54.700	Info	DX fuera de rango (dx: 182.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:11:54.716	Info	Moviendo telescopio...
+23/10/2018 21:11:55.779	Info	Intento 16
+23/10/2018 21:11:57.091	Info	DX fuera de rango (dx: 69.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:11:57.091	Info	Moviendo telescopio...
+23/10/2018 21:11:58.748	Info	Intento 17
+23/10/2018 21:12:00.076	Info	DX fuera de rango (dx: 91.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:12:00.076	Info	Moviendo telescopio...
+23/10/2018 21:12:01.795	Info	Intento 18
+23/10/2018 21:12:03.076	Info	Flujos fuera de rango (diff: 2.817603291249886e+281 - range: 3.0)
+23/10/2018 21:12:03.076	Info	Moviendo telescopio...
+23/10/2018 21:12:04.545	Info	Intento 19
+23/10/2018 21:12:05.842	Info	DX fuera de rango (dx: 231.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:12:05.842	Info	Moviendo telescopio...
+23/10/2018 21:12:07.530	Info	Intento 20
+23/10/2018 21:12:08.764	Info	DX fuera de rango (dx: 354.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:12:08.780	Info	Moviendo telescopio...
+23/10/2018 21:12:09.796	Info	Intento 21
+23/10/2018 21:12:11.139	Info	DX fuera de rango (dx: 433.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:12:11.139	Info	Moviendo telescopio...
+23/10/2018 21:12:12.186	Info	Intento 22
+23/10/2018 21:12:13.468	Info	DX fuera de rango (dx: 316.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:12:13.468	Info	Moviendo telescopio...
+23/10/2018 21:12:14.546	Info	Intento 23
+23/10/2018 21:12:15.874	Info	DX fuera de rango (dx: 575.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:12:15.874	Info	Moviendo telescopio...
+23/10/2018 21:12:16.937	Info	Intento 24
+23/10/2018 21:12:18.281	Info	DX fuera de rango (dx: 347.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:12:18.281	Info	Moviendo telescopio...
+23/10/2018 21:12:19.421	Info	Intento 25
+23/10/2018 21:12:20.750	Info	DX fuera de rango (dx: 25.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:12:20.750	Info	Moviendo telescopio...
+23/10/2018 21:12:22.515	Info	Intento 26
+23/10/2018 21:12:23.797	Info	Ventana de spots fuera de rango (cx: 426 - cy: 468 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:12:23.797	Info	Moviendo telescopio...
+23/10/2018 21:12:25.203	Info	Intento 27
+23/10/2018 21:12:26.547	Info	DX fuera de rango (dx: 131.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:12:26.547	Info	Moviendo telescopio...
+23/10/2018 21:12:28.157	Info	Intento 28
+23/10/2018 21:12:29.454	Info	DX fuera de rango (dx: 202.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:12:29.454	Info	Moviendo telescopio...
+23/10/2018 21:12:30.954	Info	Intento 29
+23/10/2018 21:12:32.251	Info	DX fuera de rango (dx: 134.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:12:32.251	Info	Moviendo telescopio...
+23/10/2018 21:12:36.360	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 21:12:36.360	Info	*** Seleccion de estrella: 147.42 ***
+23/10/2018 21:12:39.361	Info	*** TIEMPO TOTAL ITERACION: 150.42 ***
+23/10/2018 21:12:39.361	Debg	---------------------------------------------
+23/10/2018 21:12:39.361	Debg	-------------------- Meteo ------------------
+23/10/2018 21:12:39.361	Debg	---------------------------------------------
+23/10/2018 21:12:40.814	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:12:40.814	Info		Wind speed: 11.8 km/h -- Humidity: 73.9 % -- Dust: 0.0008 m-3
+
+23/10/2018 21:12:40.814	Debg	---------------------------------------------
+23/10/2018 21:12:40.814	Debg	---------------- Star Selection -------------
+23/10/2018 21:12:40.814	Debg	---------------------------------------------
+23/10/2018 21:12:40.814	Info	Seleccionando estella...
+23/10/2018 21:13:43.929	Info	Estella seleccionada --> Markab
+	airmass: 1.141906
+	ha hours: hms_tuple(h=-1.0, m=-51.0, s=-34.952410580830815)
+	ra: 23.094970
+	dec: 15.308454
+23/10/2018 21:13:43.929	Info	*** Seleccion de estrella: 63.12 ***
+23/10/2018 21:13:43.929	Debg	---------------------------------------------
+23/10/2018 21:13:43.929	Debg	-------------- Check spots ------------------
+23/10/2018 21:13:43.929	Debg	---------------------------------------------
+23/10/2018 21:13:43.945	Info	Centrando spots...
+23/10/2018 21:13:45.960	Info	Intento 0
+23/10/2018 21:13:47.242	Info	DX fuera de rango (dx: 102.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:13:47.242	Info	Moviendo telescopio...
+23/10/2018 21:13:48.304	Info	Intento 1
+23/10/2018 21:13:49.633	Info	DX fuera de rango (dx: 75.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:13:49.633	Info	Moviendo telescopio...
+23/10/2018 21:13:51.226	Info	Intento 2
+23/10/2018 21:13:52.508	Info	Moviendo telescopio...
+23/10/2018 21:13:53.383	Info	Intento 3
+23/10/2018 21:13:54.711	Info	DX fuera de rango (dx: 241.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:13:54.711	Info	Moviendo telescopio...
+23/10/2018 21:13:55.789	Info	Intento 4
+23/10/2018 21:13:57.118	Info	Ventana de spots fuera de rango (cx: 203 - cy: 19 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:13:57.118	Info	Moviendo telescopio...
+23/10/2018 21:13:58.962	Info	Intento 5
+23/10/2018 21:14:00.415	Info	DX fuera de rango (dx: 241.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:00.415	Info	Moviendo telescopio...
+23/10/2018 21:14:01.884	Info	Intento 6
+23/10/2018 21:14:03.196	Info	DX fuera de rango (dx: 254.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:03.196	Info	Moviendo telescopio...
+23/10/2018 21:14:04.228	Info	Intento 7
+23/10/2018 21:14:05.540	Info	DX fuera de rango (dx: 362.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:05.540	Info	Moviendo telescopio...
+23/10/2018 21:14:06.572	Info	Intento 8
+23/10/2018 21:14:07.869	Info	DX fuera de rango (dx: 154.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:07.869	Info	Moviendo telescopio...
+23/10/2018 21:14:08.900	Info	Intento 9
+23/10/2018 21:14:10.213	Info	DX fuera de rango (dx: 175.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:10.213	Info	Moviendo telescopio...
+23/10/2018 21:14:11.853	Info	Intento 10
+23/10/2018 21:14:13.166	Info	DX fuera de rango (dx: 96.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:13.166	Info	Moviendo telescopio...
+23/10/2018 21:14:14.635	Info	Intento 11
+23/10/2018 21:14:15.916	Info	DX fuera de rango (dx: 210.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:15.916	Info	Moviendo telescopio...
+23/10/2018 21:14:17.385	Info	Intento 12
+23/10/2018 21:14:18.713	Info	DX fuera de rango (dx: 272.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:18.713	Info	Moviendo telescopio...
+23/10/2018 21:14:19.760	Info	Intento 13
+23/10/2018 21:14:21.073	Info	DX fuera de rango (dx: 529.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:21.073	Info	Moviendo telescopio...
+23/10/2018 21:14:22.120	Info	Intento 14
+23/10/2018 21:14:23.417	Info	DX fuera de rango (dx: 323.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:23.417	Info	Moviendo telescopio...
+23/10/2018 21:14:24.479	Info	Intento 15
+23/10/2018 21:14:25.776	Info	DX fuera de rango (dx: 48.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:25.776	Info	Moviendo telescopio...
+23/10/2018 21:14:26.839	Info	Intento 16
+23/10/2018 21:14:28.167	Info	DX fuera de rango (dx: 156.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:28.167	Info	Moviendo telescopio...
+23/10/2018 21:14:29.746	Info	Intento 17
+23/10/2018 21:14:31.043	Info	DX fuera de rango (dx: 342.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:31.043	Info	Moviendo telescopio...
+23/10/2018 21:14:32.511	Info	Intento 18
+23/10/2018 21:14:33.793	Info	DX fuera de rango (dx: 92.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:33.793	Info	Moviendo telescopio...
+23/10/2018 21:14:35.262	Info	Intento 19
+23/10/2018 21:14:36.590	Info	DX fuera de rango (dx: 16.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:36.590	Info	Moviendo telescopio...
+23/10/2018 21:14:38.184	Info	Intento 20
+23/10/2018 21:14:39.496	Info	Flujos fuera de rango (diff: 5.056844854127533e+290 - range: 3.0)
+23/10/2018 21:14:39.496	Info	Moviendo telescopio...
+23/10/2018 21:14:40.575	Info	Intento 21
+23/10/2018 21:14:41.903	Info	DX fuera de rango (dx: 154.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:41.903	Info	Moviendo telescopio...
+23/10/2018 21:14:42.903	Info	Intento 22
+23/10/2018 21:14:44.216	Info	DX fuera de rango (dx: 233.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:44.231	Info	Moviendo telescopio...
+23/10/2018 21:14:45.278	Info	Intento 23
+23/10/2018 21:14:46.606	Info	DX fuera de rango (dx: 111.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:46.606	Info	Moviendo telescopio...
+23/10/2018 21:14:47.638	Info	Intento 24
+23/10/2018 21:14:48.950	Info	DX fuera de rango (dx: 191.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:48.950	Info	Moviendo telescopio...
+23/10/2018 21:14:49.997	Info	Intento 25
+23/10/2018 21:14:51.310	Info	DX fuera de rango (dx: 102.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:51.310	Info	Moviendo telescopio...
+23/10/2018 21:14:52.732	Info	Intento 26
+23/10/2018 21:14:54.029	Info	DX fuera de rango (dx: 529.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:54.029	Info	Moviendo telescopio...
+23/10/2018 21:14:55.685	Info	Intento 27
+23/10/2018 21:14:56.998	Info	Flujos fuera de rango (diff: 6.02514567582762e+290 - range: 3.0)
+23/10/2018 21:14:56.998	Info	Moviendo telescopio...
+23/10/2018 21:14:58.436	Info	Intento 28
+23/10/2018 21:14:59.748	Info	DX fuera de rango (dx: 60.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:14:59.748	Info	Moviendo telescopio...
+23/10/2018 21:15:01.342	Info	Intento 29
+23/10/2018 21:15:02.639	Info	DX fuera de rango (dx: 242.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:15:02.639	Info	Moviendo telescopio...
+23/10/2018 21:15:06.686	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 21:15:06.686	Info	*** Seleccion de estrella: 145.87 ***
+23/10/2018 21:15:09.702	Info	*** TIEMPO TOTAL ITERACION: 148.89 ***
+23/10/2018 21:15:09.702	Debg	---------------------------------------------
+23/10/2018 21:15:09.702	Debg	-------------------- Meteo ------------------
+23/10/2018 21:15:09.702	Debg	---------------------------------------------
+23/10/2018 21:15:11.515	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:15:11.515	Info		Wind speed: 11.8 km/h -- Humidity: 73.9 % -- Dust: 0.0008 m-3
+
+23/10/2018 21:15:11.515	Debg	---------------------------------------------
+23/10/2018 21:15:11.515	Debg	---------------- Star Selection -------------
+23/10/2018 21:15:11.515	Debg	---------------------------------------------
+23/10/2018 21:15:11.515	Info	Seleccionando estella...
+23/10/2018 21:16:14.755	Info	Estella seleccionada --> Altair
+	airmass: 1.126541
+	ha hours: hms_tuple(h=1.0, m=22.0, s=26.621103030612687)
+	ra: 19.861199
+	dec: 8.920158
+23/10/2018 21:16:14.755	Info	*** Seleccion de estrella: 63.24 ***
+23/10/2018 21:16:14.755	Debg	---------------------------------------------
+23/10/2018 21:16:14.755	Debg	-------------- Check spots ------------------
+23/10/2018 21:16:14.755	Debg	---------------------------------------------
+23/10/2018 21:16:14.755	Info	Centrando spots...
+23/10/2018 21:16:16.786	Info	Intento 0
+23/10/2018 21:16:18.099	Info	DX fuera de rango (dx: 15.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:18.099	Info	Moviendo telescopio...
+23/10/2018 21:16:19.193	Info	Intento 1
+23/10/2018 21:16:20.537	Info	DX fuera de rango (dx: 128.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:20.537	Info	Moviendo telescopio...
+23/10/2018 21:16:21.943	Info	Intento 2
+23/10/2018 21:16:23.209	Info	DX fuera de rango (dx: 319.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:23.209	Info	Moviendo telescopio...
+23/10/2018 21:16:24.240	Info	Intento 3
+23/10/2018 21:16:25.506	Info	DX fuera de rango (dx: 317.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:25.506	Info	Moviendo telescopio...
+23/10/2018 21:16:26.600	Info	Intento 4
+23/10/2018 21:16:27.897	Info	DX fuera de rango (dx: 8.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:27.897	Info	Moviendo telescopio...
+23/10/2018 21:16:29.334	Info	Intento 5
+23/10/2018 21:16:30.631	Info	DX fuera de rango (dx: 59.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:30.631	Info	Moviendo telescopio...
+23/10/2018 21:16:32.100	Info	Intento 6
+23/10/2018 21:16:33.429	Info	Maximos fuera de rango (diff: 8.887821864488713e+252 - nsigma: 36.81784871490413)
+23/10/2018 21:16:33.429	Info	Moviendo telescopio...
+23/10/2018 21:16:34.460	Info	Intento 7
+23/10/2018 21:16:35.741	Info	DX fuera de rango (dx: 109.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:35.741	Info	Moviendo telescopio...
+23/10/2018 21:16:36.788	Info	Intento 8
+23/10/2018 21:16:38.116	Info	DX fuera de rango (dx: 323.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:38.116	Info	Moviendo telescopio...
+23/10/2018 21:16:39.585	Info	Intento 9
+23/10/2018 21:16:40.882	Info	Moviendo telescopio...
+23/10/2018 21:16:42.289	Info	Intento 10
+23/10/2018 21:16:43.554	Info	Ventana de spots fuera de rango (cx: 484 - cy: 13 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:16:43.554	Info	Moviendo telescopio...
+23/10/2018 21:16:45.008	Info	Intento 11
+23/10/2018 21:16:46.258	Info	DX fuera de rango (dx: 89.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:46.258	Info	Moviendo telescopio...
+23/10/2018 21:16:47.758	Info	Intento 12
+23/10/2018 21:16:49.039	Info	DX fuera de rango (dx: 171.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:49.039	Info	Moviendo telescopio...
+23/10/2018 21:16:50.133	Info	Intento 13
+23/10/2018 21:16:51.399	Info	DX fuera de rango (dx: 138.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:51.415	Info	Moviendo telescopio...
+23/10/2018 21:16:52.461	Info	Intento 14
+23/10/2018 21:16:53.727	Info	DX fuera de rango (dx: 357.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:53.727	Info	Moviendo telescopio...
+23/10/2018 21:16:54.821	Info	Intento 15
+23/10/2018 21:16:56.118	Info	DX fuera de rango (dx: 61.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:56.118	Info	Moviendo telescopio...
+23/10/2018 21:16:56.978	Info	Intento 16
+23/10/2018 21:16:58.274	Info	DX fuera de rango (dx: 216.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:16:58.290	Info	Moviendo telescopio...
+23/10/2018 21:16:59.712	Info	Intento 17
+23/10/2018 21:17:01.025	Info	DX fuera de rango (dx: 195.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:17:01.025	Info	Moviendo telescopio...
+23/10/2018 21:17:02.728	Info	Intento 18
+23/10/2018 21:17:04.088	Info	DX fuera de rango (dx: 12.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:17:04.088	Info	Moviendo telescopio...
+23/10/2018 21:17:05.760	Info	Intento 19
+23/10/2018 21:17:07.072	Info	DX fuera de rango (dx: 326.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:17:07.088	Info	Moviendo telescopio...
+23/10/2018 21:17:08.557	Info	Intento 20
+23/10/2018 21:17:09.947	Info	DX fuera de rango (dx: 435.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:17:09.947	Info	Moviendo telescopio...
+23/10/2018 21:17:11.276	Info	Intento 21
+23/10/2018 21:17:12.604	Info	DX fuera de rango (dx: 419.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:17:12.604	Info	Moviendo telescopio...
+23/10/2018 21:17:13.651	Info	Intento 22
+23/10/2018 21:17:14.901	Info	DX fuera de rango (dx: 211.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:17:14.901	Info	Moviendo telescopio...
+23/10/2018 21:17:15.995	Info	Intento 23
+23/10/2018 21:17:17.276	Info	DX fuera de rango (dx: 224.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:17:17.276	Info	Moviendo telescopio...
+23/10/2018 21:17:18.292	Info	Intento 24
+23/10/2018 21:17:19.573	Info	DX fuera de rango (dx: 133.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:17:19.573	Info	Moviendo telescopio...
+23/10/2018 21:17:20.636	Info	Intento 25
+23/10/2018 21:17:21.948	Info	DX fuera de rango (dx: 10.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:17:21.948	Info	Moviendo telescopio...
+23/10/2018 21:17:23.355	Info	Intento 26
+23/10/2018 21:17:24.621	Info	Flujos fuera de rango (diff: 4.3814625837426886e+290 - range: 3.0)
+23/10/2018 21:17:24.621	Info	Moviendo telescopio...
+23/10/2018 21:17:26.043	Info	Intento 27
+23/10/2018 21:17:27.355	Info	DX fuera de rango (dx: 52.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:17:27.355	Info	Moviendo telescopio...
+23/10/2018 21:17:29.090	Info	Intento 28
+23/10/2018 21:17:30.418	Info	DX fuera de rango (dx: 247.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:17:30.418	Info	Moviendo telescopio...
+23/10/2018 21:17:31.887	Info	Intento 29
+23/10/2018 21:17:33.184	Info	DX fuera de rango (dx: 122.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:17:33.184	Info	Moviendo telescopio...
+23/10/2018 21:17:37.294	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 21:17:37.294	Info	*** Seleccion de estrella: 145.78 ***
+23/10/2018 21:17:37.294	Error (manage auto select error)	It's not posible to select a star. Next trying on 60 seconds.
+23/10/2018 21:17:37.294	Info	Llevando la montura al home...
+23/10/2018 21:17:59.936	Info	Montura en el home
+23/10/2018 21:18:59.942	Info	*** TIEMPO TOTAL ITERACION: 228.43 ***
+23/10/2018 21:18:59.942	Debg	---------------------------------------------
+23/10/2018 21:18:59.942	Debg	-------------------- Meteo ------------------
+23/10/2018 21:18:59.942	Debg	---------------------------------------------
+23/10/2018 21:19:01.707	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:19:01.707	Info		Wind speed: 11.4 km/h -- Humidity: 72.8 % -- Dust: 0.0008 m-3
+
+23/10/2018 21:19:01.707	Debg	---------------------------------------------
+23/10/2018 21:19:01.707	Debg	---------------- Star Selection -------------
+23/10/2018 21:19:01.723	Debg	---------------------------------------------
+23/10/2018 21:19:01.723	Info	Seleccionando estella...
+23/10/2018 21:20:02.869	Info	Estella seleccionada --> Markab
+	airmass: 1.130911
+	ha hours: hms_tuple(h=-1.0, m=-46.0, s=-34.0708789431838)
+	ra: 23.094970
+	dec: 15.308454
+23/10/2018 21:20:02.869	Info	*** Seleccion de estrella: 61.15 ***
+23/10/2018 21:20:02.869	Debg	---------------------------------------------
+23/10/2018 21:20:02.869	Debg	-------------- Check spots ------------------
+23/10/2018 21:20:02.869	Debg	---------------------------------------------
+23/10/2018 21:20:02.869	Info	Centrando spots...
+23/10/2018 21:20:04.901	Info	Intento 0
+23/10/2018 21:20:06.198	Info	DX fuera de rango (dx: 51.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:06.198	Info	Moviendo telescopio...
+23/10/2018 21:20:07.307	Info	Intento 1
+23/10/2018 21:20:08.401	Info	Maximos fuera de rango (diff: nan - nsigma: inf)
+23/10/2018 21:20:08.401	Info	Moviendo telescopio...
+23/10/2018 21:20:09.854	Info	Intento 2
+23/10/2018 21:20:11.182	Info	Ventana de spots fuera de rango (cx: 611 - cy: 174 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:20:11.182	Info	Moviendo telescopio...
+23/10/2018 21:20:12.214	Info	Intento 3
+23/10/2018 21:20:13.542	Info	DX fuera de rango (dx: 12.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:13.542	Info	Moviendo telescopio...
+23/10/2018 21:20:14.573	Info	Intento 4
+23/10/2018 21:20:15.886	Info	DX fuera de rango (dx: 16.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:15.886	Info	Moviendo telescopio...
+23/10/2018 21:20:17.511	Info	Intento 5
+23/10/2018 21:20:18.808	Info	DX fuera de rango (dx: 95.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:18.808	Info	Moviendo telescopio...
+23/10/2018 21:20:20.464	Info	Intento 6
+23/10/2018 21:20:21.777	Info	DX fuera de rango (dx: 397.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:21.777	Info	Moviendo telescopio...
+23/10/2018 21:20:22.808	Info	Intento 7
+23/10/2018 21:20:24.090	Info	DX fuera de rango (dx: 335.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:24.090	Info	Moviendo telescopio...
+23/10/2018 21:20:25.121	Info	Intento 8
+23/10/2018 21:20:26.449	Info	DX fuera de rango (dx: 129.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:26.449	Info	Moviendo telescopio...
+23/10/2018 21:20:27.512	Info	Intento 9
+23/10/2018 21:20:28.778	Info	DX fuera de rango (dx: 19.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:28.778	Info	Moviendo telescopio...
+23/10/2018 21:20:30.418	Info	Intento 10
+23/10/2018 21:20:31.653	Info	Ventana de spots fuera de rango (cx: 345 - cy: 20 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:20:31.653	Info	Moviendo telescopio...
+23/10/2018 21:20:33.247	Info	Intento 11
+23/10/2018 21:20:34.544	Info	DX fuera de rango (dx: 185.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:34.544	Info	Moviendo telescopio...
+23/10/2018 21:20:36.153	Info	Intento 12
+23/10/2018 21:20:37.403	Info	DX fuera de rango (dx: 431.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:37.403	Info	Moviendo telescopio...
+23/10/2018 21:20:38.450	Info	Intento 13
+23/10/2018 21:20:39.669	Info	Flujos fuera de rango (diff: 5.87650649963398e+249 - range: 3.0)
+23/10/2018 21:20:39.669	Info	Moviendo telescopio...
+23/10/2018 21:20:40.685	Info	Intento 14
+23/10/2018 21:20:41.982	Info	DX fuera de rango (dx: 312.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:41.982	Info	Moviendo telescopio...
+23/10/2018 21:20:43.045	Info	Intento 15
+23/10/2018 21:20:44.388	Info	DX fuera de rango (dx: 102.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:44.388	Info	Moviendo telescopio...
+23/10/2018 21:20:45.404	Info	Intento 16
+23/10/2018 21:20:46.717	Info	DX fuera de rango (dx: 156.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:46.717	Info	Moviendo telescopio...
+23/10/2018 21:20:48.358	Info	Intento 17
+23/10/2018 21:20:49.655	Info	DX fuera de rango (dx: 15.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:49.655	Info	Moviendo telescopio...
+23/10/2018 21:20:51.123	Info	Intento 18
+23/10/2018 21:20:52.420	Info	DX fuera de rango (dx: 302.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:52.420	Info	Moviendo telescopio...
+23/10/2018 21:20:53.874	Info	Intento 19
+23/10/2018 21:20:55.171	Info	DX fuera de rango (dx: 198.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:55.171	Info	Moviendo telescopio...
+23/10/2018 21:20:56.608	Info	Intento 20
+23/10/2018 21:20:57.890	Info	DX fuera de rango (dx: 271.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:20:57.890	Info	Moviendo telescopio...
+23/10/2018 21:20:58.937	Info	Intento 21
+23/10/2018 21:21:00.296	Info	DX fuera de rango (dx: 77.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:21:00.296	Info	Moviendo telescopio...
+23/10/2018 21:21:01.359	Info	Intento 22
+23/10/2018 21:21:02.656	Info	Flujos fuera de rango (diff: 6.123972102252587e+281 - range: 3.0)
+23/10/2018 21:21:02.656	Info	Moviendo telescopio...
+23/10/2018 21:21:03.703	Info	Intento 23
+23/10/2018 21:21:05.031	Info	DX fuera de rango (dx: 420.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:21:05.031	Info	Moviendo telescopio...
+23/10/2018 21:21:06.049	Info	Intento 24
+23/10/2018 21:21:07.346	Info	DX fuera de rango (dx: 138.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:21:07.346	Info	Moviendo telescopio...
+23/10/2018 21:21:08.393	Info	Intento 25
+23/10/2018 21:21:09.674	Info	DX fuera de rango (dx: 133.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:21:09.690	Info	Moviendo telescopio...
+23/10/2018 21:21:11.112	Info	Intento 26
+23/10/2018 21:21:12.409	Info	Moviendo telescopio...
+23/10/2018 21:21:13.893	Info	Intento 27
+23/10/2018 21:21:15.175	Info	DX fuera de rango (dx: 236.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:21:15.175	Info	Moviendo telescopio...
+23/10/2018 21:21:16.644	Info	Intento 28
+23/10/2018 21:21:17.909	Info	Ventana de spots fuera de rango (cx: 389 - cy: 17 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:21:17.909	Info	Moviendo telescopio...
+23/10/2018 21:21:19.363	Info	Intento 29
+23/10/2018 21:21:20.691	Info	DX fuera de rango (dx: 61.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:21:20.691	Info	Moviendo telescopio...
+23/10/2018 21:21:24.973	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 21:21:24.973	Info	*** Seleccion de estrella: 143.27 ***
+23/10/2018 21:21:27.973	Info	*** TIEMPO TOTAL ITERACION: 146.27 ***
+23/10/2018 21:21:27.973	Debg	---------------------------------------------
+23/10/2018 21:21:27.973	Debg	-------------------- Meteo ------------------
+23/10/2018 21:21:27.973	Debg	---------------------------------------------
+23/10/2018 21:21:29.661	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:21:29.661	Info		Wind speed: 11.1 km/h -- Humidity: 72.3 % -- Dust: 0.0009 m-3
+
+23/10/2018 21:21:29.661	Debg	---------------------------------------------
+23/10/2018 21:21:29.661	Debg	---------------- Star Selection -------------
+23/10/2018 21:21:29.661	Debg	---------------------------------------------
+23/10/2018 21:21:29.661	Info	Seleccionando estella...
+23/10/2018 21:22:32.619	Info	Estella seleccionada --> Altair
+	airmass: 1.144822
+	ha hours: hms_tuple(h=1.0, m=32.0, s=28.38426147612722)
+	ra: 19.861199
+	dec: 8.920157
+23/10/2018 21:22:32.619	Info	*** Seleccion de estrella: 62.96 ***
+23/10/2018 21:22:32.619	Debg	---------------------------------------------
+23/10/2018 21:22:32.619	Debg	-------------- Check spots ------------------
+23/10/2018 21:22:32.619	Debg	---------------------------------------------
+23/10/2018 21:22:32.619	Info	Centrando spots...
+23/10/2018 21:22:34.635	Info	Intento 0
+23/10/2018 21:22:35.963	Info	DX fuera de rango (dx: 93.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:22:35.963	Info	Moviendo telescopio...
+23/10/2018 21:22:37.042	Info	Intento 1
+23/10/2018 21:22:38.385	Info	DX fuera de rango (dx: 226.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:22:38.385	Info	Moviendo telescopio...
+23/10/2018 21:22:39.854	Info	Intento 2
+23/10/2018 21:22:41.136	Info	DX fuera de rango (dx: 250.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:22:41.136	Info	Moviendo telescopio...
+23/10/2018 21:22:42.198	Info	Intento 3
+23/10/2018 21:22:43.495	Info	DX fuera de rango (dx: 467.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:22:43.495	Info	Moviendo telescopio...
+23/10/2018 21:22:44.542	Info	Intento 4
+23/10/2018 21:22:45.808	Info	DX fuera de rango (dx: 51.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:22:45.808	Info	Moviendo telescopio...
+23/10/2018 21:22:47.308	Info	Intento 5
+23/10/2018 21:22:48.621	Info	DX fuera de rango (dx: 535.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:22:48.621	Info	Moviendo telescopio...
+23/10/2018 21:22:50.105	Info	Intento 6
+23/10/2018 21:22:51.387	Info	DX fuera de rango (dx: 103.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:22:51.387	Info	Moviendo telescopio...
+23/10/2018 21:22:52.449	Info	Intento 7
+23/10/2018 21:22:53.746	Info	DX fuera de rango (dx: 194.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:22:53.746	Info	Moviendo telescopio...
+23/10/2018 21:22:54.590	Info	Intento 8
+23/10/2018 21:22:55.871	Info	DX fuera de rango (dx: 12.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:22:55.871	Info	Moviendo telescopio...
+23/10/2018 21:22:56.871	Info	Intento 9
+23/10/2018 21:22:58.184	Info	DX fuera de rango (dx: 119.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:22:58.184	Info	Moviendo telescopio...
+23/10/2018 21:22:59.778	Info	Intento 10
+23/10/2018 21:23:01.059	Info	Ventana de spots fuera de rango (cx: 48 - cy: 223 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:23:01.059	Info	Moviendo telescopio...
+23/10/2018 21:23:02.528	Info	Intento 11
+23/10/2018 21:23:03.825	Info	DX fuera de rango (dx: 492.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:03.825	Info	Moviendo telescopio...
+23/10/2018 21:23:05.278	Info	Intento 12
+23/10/2018 21:23:06.607	Info	DX fuera de rango (dx: 291.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:06.607	Info	Moviendo telescopio...
+23/10/2018 21:23:07.716	Info	Intento 13
+23/10/2018 21:23:09.029	Info	DX fuera de rango (dx: 302.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:09.029	Info	Moviendo telescopio...
+23/10/2018 21:23:10.076	Info	Intento 14
+23/10/2018 21:23:11.373	Info	Ventana de spots fuera de rango (cx: 361 - cy: 20 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:23:11.388	Info	Moviendo telescopio...
+23/10/2018 21:23:12.482	Info	Intento 15
+23/10/2018 21:23:13.764	Info	DX fuera de rango (dx: 212.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:13.764	Info	Moviendo telescopio...
+23/10/2018 21:23:14.795	Info	Intento 16
+23/10/2018 21:23:16.092	Info	DX fuera de rango (dx: 74.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:16.092	Info	Moviendo telescopio...
+23/10/2018 21:23:17.733	Info	Intento 17
+23/10/2018 21:23:19.030	Info	DX fuera de rango (dx: 237.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:19.030	Info	Moviendo telescopio...
+23/10/2018 21:23:20.530	Info	Intento 18
+23/10/2018 21:23:21.827	Info	DX fuera de rango (dx: 196.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:21.827	Info	Moviendo telescopio...
+23/10/2018 21:23:23.311	Info	Intento 19
+23/10/2018 21:23:24.577	Info	DX fuera de rango (dx: 65.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:24.577	Info	Moviendo telescopio...
+23/10/2018 21:23:26.202	Info	Intento 20
+23/10/2018 21:23:27.530	Info	DX fuera de rango (dx: 201.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:27.530	Info	Moviendo telescopio...
+23/10/2018 21:23:28.577	Info	Intento 21
+23/10/2018 21:23:29.906	Info	DX fuera de rango (dx: 413.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:29.906	Info	Moviendo telescopio...
+23/10/2018 21:23:31.109	Info	Intento 22
+23/10/2018 21:23:32.406	Info	DX fuera de rango (dx: 45.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:32.406	Info	Moviendo telescopio...
+23/10/2018 21:23:33.453	Info	Intento 23
+23/10/2018 21:23:34.781	Info	DX fuera de rango (dx: 120.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:34.781	Info	Moviendo telescopio...
+23/10/2018 21:23:35.797	Info	Intento 24
+23/10/2018 21:23:37.109	Info	DX fuera de rango (dx: 66.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:37.109	Info	Moviendo telescopio...
+23/10/2018 21:23:38.188	Info	Intento 25
+23/10/2018 21:23:39.453	Info	DX fuera de rango (dx: 178.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:39.453	Info	Moviendo telescopio...
+23/10/2018 21:23:40.891	Info	Intento 26
+23/10/2018 21:23:42.204	Info	Ventana de spots fuera de rango (cx: 589 - cy: 122 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:23:42.204	Info	Moviendo telescopio...
+23/10/2018 21:23:43.688	Info	Intento 27
+23/10/2018 21:23:45.001	Info	DX fuera de rango (dx: 498.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:45.001	Info	Moviendo telescopio...
+23/10/2018 21:23:46.454	Info	Intento 28
+23/10/2018 21:23:47.782	Info	Flujos fuera de rango (diff: 4.4613476775989245e+290 - range: 3.0)
+23/10/2018 21:23:47.782	Info	Moviendo telescopio...
+23/10/2018 21:23:49.189	Info	Intento 29
+23/10/2018 21:23:49.720	Debg	
+23/10/2018 21:23:49.720	Debg	--- PARANDO OBSERVACION ---
+23/10/2018 21:23:49.720	Debg	
+23/10/2018 21:23:49.720	Info	Indicando fin del proceso...
+23/10/2018 21:23:50.486	Info	DX fuera de rango (dx: 63.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:23:50.486	Info	Moviendo telescopio...
+23/10/2018 21:23:54.533	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 21:23:54.533	Info	*** Seleccion de estrella: 144.87 ***
+23/10/2018 21:23:57.533	Info	*** TIEMPO TOTAL ITERACION: 147.87 ***
+23/10/2018 21:23:57.533	Debg	---------------------------------------------
+23/10/2018 21:23:57.533	Debg	-------------------- Meteo ------------------
+23/10/2018 21:23:57.533	Debg	---------------------------------------------
+23/10/2018 21:23:59.315	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:23:59.315	Info		Wind speed: 11.1 km/h -- Humidity: 72.3 % -- Dust: 0.0009 m-3
+
+23/10/2018 21:23:59.315	Info	Parando la observacion...
+23/10/2018 21:23:59.315	Info	 --- OBSERVACION TERMINADA ---
+23/10/2018 21:23:59.721	Debg	
+23/10/2018 21:23:59.721	Info	--- CERRANDO EL TELESCOPIO ---
+23/10/2018 21:23:59.721	Debg	
+23/10/2018 21:23:59.721	Debg	---------------------------------------------
+23/10/2018 21:23:59.721	Debg	------------------ Switch Off ---------------
+23/10/2018 21:23:59.721	Debg	---------------------------------------------
+23/10/2018 21:23:59.736	Info	Llevando la montura al home...
+23/10/2018 21:24:22.582	Info	Montura en el home
+23/10/2018 21:24:22.582	Info	Apagando la montura...
+23/10/2018 21:24:22.660	Info	Montura apagada
+23/10/2018 21:24:32.661	Info	Apagando el foco...
+23/10/2018 21:24:32.677	Info	Foco apagado
+23/10/2018 21:24:32.677	Info	Cerrando cupula (este proceso puede tardar unos minutos)...
+23/10/2018 21:24:32.677	Info	Cerrando cupula lado A...
+23/10/2018 21:24:52.835	Info	Lado A cerrado
+23/10/2018 21:24:55.835	Info	Cerrando cupula lado B...
+23/10/2018 21:25:16.009	Info	Lado B cerrado
+23/10/2018 21:25:16.009	Info	Cupula cerrada
+23/10/2018 21:25:16.009	Info	--- TELESCOPIO CERRADO ---
+23/10/2018 21:25:16.009	Debg	
+23/10/2018 21:34:08.526	Debg	
+23/10/2018 21:34:08.526	Debg	--- INICIALIZANDO EL TELESCOPIO ---
+23/10/2018 21:34:08.526	Debg	
+23/10/2018 21:34:08.526	Debg	---------------------------------------------
+23/10/2018 21:34:08.526	Debg	-------------------- Meteo ------------------
+23/10/2018 21:34:08.526	Debg	---------------------------------------------
+23/10/2018 21:34:10.604	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:34:10.604	Info		Wind speed: 7.9 km/h -- Humidity: 71.9 % -- Dust: 0.0008 m-3
+
+23/10/2018 21:34:10.604	Debg	---------------------------------------------
+23/10/2018 21:34:10.604	Debg	------------------ Get Ready ----------------
+23/10/2018 21:34:10.604	Debg	---------------------------------------------
+23/10/2018 21:34:10.604	Info	Abriendo cupula (este proceso puede tardar unos minutos)...
+23/10/2018 21:34:10.604	Info	Abriendo cupula lado A...
+23/10/2018 21:34:15.652	Info	Lado A abierto
+23/10/2018 21:34:18.652	Info	Abriendo cupula lado B...
+23/10/2018 21:34:23.700	Info	Lado B abierto
+23/10/2018 21:34:23.700	Info	Cupula abierta
+23/10/2018 21:34:23.700	Info	Encendiendo la montura...
+23/10/2018 21:34:23.715	Info	Montura encendida
+23/10/2018 21:34:33.716	Info	Encendiendo el foco...
+23/10/2018 21:34:33.732	Info	Foco encendida
+23/10/2018 21:34:33.732	Info	Llevando la montura al home...
+23/10/2018 21:35:50.053	Info	Montura en el home
+23/10/2018 21:35:50.053	Info	--- Listo para empezar observacion ---
+
+23/10/2018 21:35:50.053	Debg	--- INICIANDO OBSERVACION ---
+23/10/2018 21:35:50.053	Debg	
+23/10/2018 21:35:54.819	Debg	---------------------------------------------
+23/10/2018 21:35:54.819	Debg	-------------------- Meteo ------------------
+23/10/2018 21:35:54.835	Debg	---------------------------------------------
+23/10/2018 21:35:56.507	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:35:56.507	Info		Wind speed: 7.9 km/h -- Humidity: 71.9 % -- Dust: 0.0008 m-3
+
+23/10/2018 21:35:56.523	Debg	---------------------------------------------
+23/10/2018 21:35:56.523	Debg	---------------- Star Selection -------------
+23/10/2018 21:35:56.523	Debg	---------------------------------------------
+23/10/2018 21:35:56.523	Info	Seleccionando estella...
+23/10/2018 21:37:00.546	Info	Estella seleccionada --> Markab
+	airmass: 1.093347
+	ha hours: hms_tuple(h=-1.0, m=-26.0, s=-30.61482853491185)
+	ra: 23.094970
+	dec: 15.308454
+23/10/2018 21:37:00.546	Info	*** Seleccion de estrella: 64.02 ***
+23/10/2018 21:37:00.546	Debg	---------------------------------------------
+23/10/2018 21:37:00.546	Debg	-------------- Check spots ------------------
+23/10/2018 21:37:00.546	Debg	---------------------------------------------
+23/10/2018 21:37:00.546	Info	Centrando spots...
+23/10/2018 21:37:03.624	Info	Intento 0
+23/10/2018 21:37:04.953	Info	DX fuera de rango (dx: 23.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:04.953	Info	Moviendo telescopio...
+23/10/2018 21:37:06.015	Info	Intento 1
+23/10/2018 21:37:07.312	Info	DX fuera de rango (dx: 308.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:07.312	Info	Moviendo telescopio...
+23/10/2018 21:37:08.812	Info	Intento 2
+23/10/2018 21:37:10.109	Info	DX fuera de rango (dx: 506.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:10.109	Info	Moviendo telescopio...
+23/10/2018 21:37:11.188	Info	Intento 3
+23/10/2018 21:37:12.485	Info	DX fuera de rango (dx: 262.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:12.485	Info	Moviendo telescopio...
+23/10/2018 21:37:13.375	Info	Intento 4
+23/10/2018 21:37:14.672	Info	DX fuera de rango (dx: 426.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:14.672	Info	Moviendo telescopio...
+23/10/2018 21:37:16.141	Info	Intento 5
+23/10/2018 21:37:17.423	Info	DX fuera de rango (dx: 176.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:17.423	Info	Moviendo telescopio...
+23/10/2018 21:37:18.923	Info	Intento 6
+23/10/2018 21:37:20.267	Info	DX fuera de rango (dx: 242.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:20.267	Info	Moviendo telescopio...
+23/10/2018 21:37:21.361	Info	Intento 7
+23/10/2018 21:37:22.642	Info	DX fuera de rango (dx: 436.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:22.642	Info	Moviendo telescopio...
+23/10/2018 21:37:23.689	Info	Intento 8
+23/10/2018 21:37:24.970	Info	DX fuera de rango (dx: 62.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:24.970	Info	Moviendo telescopio...
+23/10/2018 21:37:25.986	Info	Intento 9
+23/10/2018 21:37:27.252	Info	DX fuera de rango (dx: 499.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:27.252	Info	Moviendo telescopio...
+23/10/2018 21:37:28.752	Info	Intento 10
+23/10/2018 21:37:30.002	Info	Flujos fuera de rango (diff: 5.562664579002933e+290 - range: 3.0)
+23/10/2018 21:37:30.002	Info	Moviendo telescopio...
+23/10/2018 21:37:31.471	Info	Intento 11
+23/10/2018 21:37:32.862	Info	DX fuera de rango (dx: 371.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:32.862	Info	Moviendo telescopio...
+23/10/2018 21:37:34.331	Info	Intento 12
+23/10/2018 21:37:35.659	Info	Ventana de spots fuera de rango (cx: 567 - cy: 82 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:37:35.659	Info	Moviendo telescopio...
+23/10/2018 21:37:36.800	Info	Intento 13
+23/10/2018 21:37:38.081	Info	DX fuera de rango (dx: 231.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:38.081	Info	Moviendo telescopio...
+23/10/2018 21:37:39.175	Info	Intento 14
+23/10/2018 21:37:40.504	Info	DX fuera de rango (dx: 68.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:40.504	Info	Moviendo telescopio...
+23/10/2018 21:37:41.535	Info	Intento 15
+23/10/2018 21:37:42.848	Info	DX fuera de rango (dx: 193.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:42.848	Info	Moviendo telescopio...
+23/10/2018 21:37:43.895	Info	Intento 16
+23/10/2018 21:37:45.207	Info	DX fuera de rango (dx: 92.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:45.207	Info	Moviendo telescopio...
+23/10/2018 21:37:46.879	Info	Intento 17
+23/10/2018 21:37:48.192	Info	Ventana de spots fuera de rango (cx: 584 - cy: 94 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:37:48.192	Info	Moviendo telescopio...
+23/10/2018 21:37:49.864	Info	Intento 18
+23/10/2018 21:37:51.208	Info	DX fuera de rango (dx: 298.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:51.208	Info	Moviendo telescopio...
+23/10/2018 21:37:52.786	Info	Intento 19
+23/10/2018 21:37:54.083	Info	Ventana de spots fuera de rango (cx: 605 - cy: 314 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:37:54.083	Info	Moviendo telescopio...
+23/10/2018 21:37:55.568	Info	Intento 20
+23/10/2018 21:37:56.865	Info	DX fuera de rango (dx: 63.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:56.865	Info	Moviendo telescopio...
+23/10/2018 21:37:57.927	Info	Intento 21
+23/10/2018 21:37:59.224	Info	DX fuera de rango (dx: 243.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:37:59.240	Info	Moviendo telescopio...
+23/10/2018 21:38:00.100	Info	Intento 22
+23/10/2018 21:38:01.490	Info	DX fuera de rango (dx: 480.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:38:01.490	Info	Moviendo telescopio...
+23/10/2018 21:38:02.569	Info	Intento 23
+23/10/2018 21:38:03.881	Info	Moviendo telescopio...
+23/10/2018 21:38:04.944	Info	Intento 24
+23/10/2018 21:38:06.225	Info	DX fuera de rango (dx: 219.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:38:06.225	Info	Moviendo telescopio...
+23/10/2018 21:38:07.147	Info	Intento 25
+23/10/2018 21:38:08.475	Info	DX fuera de rango (dx: 20.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:38:08.475	Info	Moviendo telescopio...
+23/10/2018 21:38:09.929	Info	Intento 26
+23/10/2018 21:38:11.273	Info	DX fuera de rango (dx: 190.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:38:11.273	Info	Moviendo telescopio...
+23/10/2018 21:38:12.742	Info	Intento 27
+23/10/2018 21:38:14.070	Info	DX fuera de rango (dx: 327.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:38:14.070	Info	Moviendo telescopio...
+23/10/2018 21:38:15.554	Info	Intento 28
+23/10/2018 21:38:16.851	Info	DX fuera de rango (dx: 84.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:38:16.851	Info	Moviendo telescopio...
+23/10/2018 21:38:18.508	Info	Intento 29
+23/10/2018 21:38:19.821	Info	DX fuera de rango (dx: 57.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:38:19.821	Info	Moviendo telescopio...
+23/10/2018 21:38:23.884	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 21:38:23.884	Info	*** Seleccion de estrella: 147.36 ***
+23/10/2018 21:38:26.884	Info	*** TIEMPO TOTAL ITERACION: 150.36 ***
+23/10/2018 21:38:26.899	Debg	---------------------------------------------
+23/10/2018 21:38:26.899	Debg	-------------------- Meteo ------------------
+23/10/2018 21:38:26.899	Debg	---------------------------------------------
+23/10/2018 21:38:28.493	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:38:28.493	Info		Wind speed: 7.5 km/h -- Humidity: 71.9 % -- Dust: 0.0007 m-3
+
+23/10/2018 21:38:28.493	Debg	---------------------------------------------
+23/10/2018 21:38:28.493	Debg	---------------- Star Selection -------------
+23/10/2018 21:38:28.493	Debg	---------------------------------------------
+23/10/2018 21:38:28.493	Info	Seleccionando estella...
+23/10/2018 21:39:32.297	Info	Estella seleccionada --> Altair
+	airmass: 1.177336
+	ha hours: hms_tuple(h=1.0, m=47.0, s=30.95882193870125)
+	ra: 19.861199
+	dec: 8.920157
+23/10/2018 21:39:32.297	Info	*** Seleccion de estrella: 63.8 ***
+23/10/2018 21:39:32.297	Debg	---------------------------------------------
+23/10/2018 21:39:32.297	Debg	-------------- Check spots ------------------
+23/10/2018 21:39:32.297	Debg	---------------------------------------------
+23/10/2018 21:39:32.297	Info	Centrando spots...
+23/10/2018 21:39:34.329	Info	Intento 0
+23/10/2018 21:39:35.610	Info	DX fuera de rango (dx: 64.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:39:35.610	Info	Moviendo telescopio...
+23/10/2018 21:39:36.751	Info	Intento 1
+23/10/2018 21:39:38.001	Info	DX fuera de rango (dx: 442.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:39:38.016	Info	Moviendo telescopio...
+23/10/2018 21:39:39.688	Info	Intento 2
+23/10/2018 21:39:40.970	Info	DX fuera de rango (dx: 476.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:39:40.970	Info	Moviendo telescopio...
+23/10/2018 21:39:42.048	Info	Intento 3
+23/10/2018 21:39:43.314	Info	DX fuera de rango (dx: 97.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:39:43.314	Info	Moviendo telescopio...
+23/10/2018 21:39:44.376	Info	Intento 4
+23/10/2018 21:39:45.673	Info	DX fuera de rango (dx: 138.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:39:45.673	Info	Moviendo telescopio...
+23/10/2018 21:39:47.127	Info	Intento 5
+23/10/2018 21:39:48.439	Info	DX fuera de rango (dx: 73.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:39:48.439	Info	Moviendo telescopio...
+23/10/2018 21:39:50.064	Info	Intento 6
+23/10/2018 21:39:51.361	Info	Moviendo telescopio...
+23/10/2018 21:39:52.440	Info	Intento 7
+23/10/2018 21:39:53.752	Info	DX fuera de rango (dx: 3.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:39:53.752	Info	Moviendo telescopio...
+23/10/2018 21:39:54.831	Info	Intento 8
+23/10/2018 21:39:56.159	Info	DX fuera de rango (dx: 192.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:39:56.159	Info	Moviendo telescopio...
+23/10/2018 21:39:57.221	Info	Intento 9
+23/10/2018 21:39:58.503	Info	DX fuera de rango (dx: 348.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:39:58.503	Info	Moviendo telescopio...
+23/10/2018 21:40:00.003	Info	Intento 10
+23/10/2018 21:40:01.409	Info	DX fuera de rango (dx: 305.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:01.409	Info	Moviendo telescopio...
+23/10/2018 21:40:03.394	Info	Intento 11
+23/10/2018 21:40:04.691	Info	DX fuera de rango (dx: 134.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:04.691	Info	Moviendo telescopio...
+23/10/2018 21:40:06.113	Info	Intento 12
+23/10/2018 21:40:07.473	Info	DX fuera de rango (dx: 402.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:07.473	Info	Moviendo telescopio...
+23/10/2018 21:40:08.566	Info	Intento 13
+23/10/2018 21:40:09.879	Info	DX fuera de rango (dx: 159.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:09.879	Info	Moviendo telescopio...
+23/10/2018 21:40:10.910	Info	Intento 14
+23/10/2018 21:40:12.192	Info	Moviendo telescopio...
+23/10/2018 21:40:13.254	Info	Intento 15
+23/10/2018 21:40:14.551	Info	DX fuera de rango (dx: 237.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:14.551	Info	Moviendo telescopio...
+23/10/2018 21:40:15.442	Info	Intento 16
+23/10/2018 21:40:16.770	Info	DX fuera de rango (dx: 140.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:16.770	Info	Moviendo telescopio...
+23/10/2018 21:40:18.442	Info	Intento 17
+23/10/2018 21:40:19.708	Info	DX fuera de rango (dx: 150.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:19.708	Info	Moviendo telescopio...
+23/10/2018 21:40:21.224	Info	Intento 18
+23/10/2018 21:40:22.537	Info	DX fuera de rango (dx: 70.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:22.537	Info	Moviendo telescopio...
+23/10/2018 21:40:24.037	Info	Intento 19
+23/10/2018 21:40:25.349	Info	DX fuera de rango (dx: 390.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:25.349	Info	Moviendo telescopio...
+23/10/2018 21:40:27.006	Info	Intento 20
+23/10/2018 21:40:28.334	Info	DX fuera de rango (dx: 148.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:28.334	Info	Moviendo telescopio...
+23/10/2018 21:40:29.365	Info	Intento 21
+23/10/2018 21:40:30.678	Info	DX fuera de rango (dx: 466.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:30.678	Info	Moviendo telescopio...
+23/10/2018 21:40:31.709	Info	Intento 22
+23/10/2018 21:40:33.022	Info	Flujos fuera de rango (diff: 3.000491741639396e+281 - range: 3.0)
+23/10/2018 21:40:33.022	Info	Moviendo telescopio...
+23/10/2018 21:40:34.053	Info	Intento 23
+23/10/2018 21:40:35.382	Info	DX fuera de rango (dx: 431.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:35.382	Info	Moviendo telescopio...
+23/10/2018 21:40:36.538	Info	Intento 24
+23/10/2018 21:40:37.866	Info	Flujos fuera de rango (diff: 3.2121877777241775e+281 - range: 3.0)
+23/10/2018 21:40:37.866	Info	Moviendo telescopio...
+23/10/2018 21:40:38.757	Info	Intento 25
+23/10/2018 21:40:40.023	Info	DX fuera de rango (dx: 205.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:40.023	Info	Moviendo telescopio...
+23/10/2018 21:40:41.695	Info	Intento 26
+23/10/2018 21:40:43.023	Info	DX fuera de rango (dx: 426.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:43.039	Info	Moviendo telescopio...
+23/10/2018 21:40:44.492	Info	Intento 27
+23/10/2018 21:40:45.789	Info	DX fuera de rango (dx: 145.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:45.789	Info	Moviendo telescopio...
+23/10/2018 21:40:47.477	Info	Intento 28
+23/10/2018 21:40:48.711	Info	Ventana de spots fuera de rango (cx: 575 - cy: 189 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:40:48.711	Info	Moviendo telescopio...
+23/10/2018 21:40:50.368	Info	Intento 29
+23/10/2018 21:40:51.680	Info	DX fuera de rango (dx: 521.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:40:51.680	Info	Moviendo telescopio...
+23/10/2018 21:40:55.774	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 21:40:55.774	Info	*** Seleccion de estrella: 147.28 ***
+23/10/2018 21:40:58.775	Info	*** TIEMPO TOTAL ITERACION: 150.28 ***
+23/10/2018 21:40:58.775	Debg	---------------------------------------------
+23/10/2018 21:40:58.775	Debg	-------------------- Meteo ------------------
+23/10/2018 21:40:58.775	Debg	---------------------------------------------
+23/10/2018 21:41:00.665	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:41:00.665	Info		Wind speed: 4.3 km/h -- Humidity: 70.4 % -- Dust: 0.0008 m-3
+
+23/10/2018 21:41:00.681	Debg	---------------------------------------------
+23/10/2018 21:41:00.681	Debg	---------------- Star Selection -------------
+23/10/2018 21:41:00.681	Debg	---------------------------------------------
+23/10/2018 21:41:00.681	Info	Seleccionando estella...
+23/10/2018 21:41:31.736	Info	Estella seleccionada --> Deneb
+	airmass: 1.071321
+	ha hours: hms_tuple(h=1.0, m=2.0, s=7.940461847640563)
+	ra: 20.701157
+	dec: 45.353180
+23/10/2018 21:41:31.736	Info	*** Seleccion de estrella: 31.06 ***
+23/10/2018 21:41:31.736	Debg	---------------------------------------------
+23/10/2018 21:41:31.736	Debg	-------------- Check spots ------------------
+23/10/2018 21:41:31.736	Debg	---------------------------------------------
+23/10/2018 21:41:31.736	Info	Centrando spots...
+23/10/2018 21:41:33.768	Info	Intento 0
+23/10/2018 21:41:35.049	Info	DX fuera de rango (dx: 101.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:41:35.049	Info	Moviendo telescopio...
+23/10/2018 21:41:36.143	Info	Intento 1
+23/10/2018 21:41:37.487	Info	DX fuera de rango (dx: 309.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:41:37.487	Info	Moviendo telescopio...
+23/10/2018 21:41:39.034	Info	Intento 2
+23/10/2018 21:41:40.331	Info	Moviendo telescopio...
+23/10/2018 21:41:41.409	Info	Intento 3
+23/10/2018 21:41:42.690	Info	Flujos fuera de rango (diff: 4.295538192939113e+205 - range: 3.0)
+23/10/2018 21:41:42.690	Info	Moviendo telescopio...
+23/10/2018 21:41:43.737	Info	Intento 4
+23/10/2018 21:41:45.050	Info	DX fuera de rango (dx: 94.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:41:45.050	Info	Moviendo telescopio...
+23/10/2018 21:41:46.566	Info	Intento 5
+23/10/2018 21:41:47.831	Info	Ventana de spots fuera de rango (cx: 575 - cy: 151 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:41:47.831	Info	Moviendo telescopio...
+23/10/2018 21:41:49.347	Info	Intento 6
+23/10/2018 21:41:50.660	Info	DX fuera de rango (dx: 190.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:41:50.660	Info	Moviendo telescopio...
+23/10/2018 21:41:51.676	Info	Intento 7
+23/10/2018 21:41:52.910	Info	Flujos fuera de rango (diff: 1.2308620205509237e+84 - range: 3.0)
+23/10/2018 21:41:52.910	Info	Moviendo telescopio...
+23/10/2018 21:41:53.988	Info	Intento 8
+23/10/2018 21:41:55.254	Info	DX fuera de rango (dx: 422.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:41:55.254	Info	Moviendo telescopio...
+23/10/2018 21:41:56.332	Info	Intento 9
+23/10/2018 21:41:57.692	Info	DX fuera de rango (dx: 189.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:41:57.692	Info	Moviendo telescopio...
+23/10/2018 21:41:59.161	Info	Intento 10
+23/10/2018 21:42:00.442	Info	DX fuera de rango (dx: 77.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:00.442	Info	Moviendo telescopio...
+23/10/2018 21:42:01.989	Info	Intento 11
+23/10/2018 21:42:03.271	Info	DX fuera de rango (dx: 182.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:03.271	Info	Moviendo telescopio...
+23/10/2018 21:42:04.943	Info	Intento 12
+23/10/2018 21:42:06.302	Info	DX fuera de rango (dx: 124.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:06.302	Info	Moviendo telescopio...
+23/10/2018 21:42:07.380	Info	Intento 13
+23/10/2018 21:42:08.646	Info	Ventana de spots fuera de rango (cx: 57 - cy: 102 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:42:08.646	Info	Moviendo telescopio...
+23/10/2018 21:42:09.709	Info	Intento 14
+23/10/2018 21:42:10.990	Info	DX fuera de rango (dx: 490.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:10.990	Info	Moviendo telescopio...
+23/10/2018 21:42:11.896	Info	Intento 15
+23/10/2018 21:42:13.272	Info	DX fuera de rango (dx: 263.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:13.272	Info	Moviendo telescopio...
+23/10/2018 21:42:14.334	Info	Intento 16
+23/10/2018 21:42:15.600	Info	Ventana de spots fuera de rango (cx: 610 - cy: 42 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:42:15.600	Info	Moviendo telescopio...
+23/10/2018 21:42:17.053	Info	Intento 17
+23/10/2018 21:42:18.381	Info	DX fuera de rango (dx: 353.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:18.381	Info	Moviendo telescopio...
+23/10/2018 21:42:19.850	Info	Intento 18
+23/10/2018 21:42:21.163	Info	DX fuera de rango (dx: 252.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:21.163	Info	Moviendo telescopio...
+23/10/2018 21:42:22.851	Info	Intento 19
+23/10/2018 21:42:24.101	Info	DX fuera de rango (dx: 5.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:24.101	Info	Moviendo telescopio...
+23/10/2018 21:42:25.570	Info	Intento 20
+23/10/2018 21:42:26.914	Info	DX fuera de rango (dx: 346.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:26.914	Info	Moviendo telescopio...
+23/10/2018 21:42:28.007	Info	Intento 21
+23/10/2018 21:42:29.336	Info	DX fuera de rango (dx: 294.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:29.336	Info	Moviendo telescopio...
+23/10/2018 21:42:30.367	Info	Intento 22
+23/10/2018 21:42:31.680	Info	DX fuera de rango (dx: 54.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:31.680	Info	Moviendo telescopio...
+23/10/2018 21:42:32.758	Info	Intento 23
+23/10/2018 21:42:34.102	Info	DX fuera de rango (dx: 125.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:34.102	Info	Moviendo telescopio...
+23/10/2018 21:42:35.149	Info	Intento 24
+23/10/2018 21:42:36.477	Info	DX fuera de rango (dx: 175.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:36.477	Info	Moviendo telescopio...
+23/10/2018 21:42:37.540	Info	Intento 25
+23/10/2018 21:42:38.868	Info	DX fuera de rango (dx: 361.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:38.868	Info	Moviendo telescopio...
+23/10/2018 21:42:40.321	Info	Intento 26
+23/10/2018 21:42:41.603	Info	DX fuera de rango (dx: 94.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:41.603	Info	Moviendo telescopio...
+23/10/2018 21:42:43.322	Info	Intento 27
+23/10/2018 21:42:44.619	Info	DX fuera de rango (dx: 95.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:44.619	Info	Moviendo telescopio...
+23/10/2018 21:42:46.056	Info	Intento 28
+23/10/2018 21:42:47.384	Info	DX fuera de rango (dx: 361.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:47.384	Info	Moviendo telescopio...
+23/10/2018 21:42:49.072	Info	Intento 29
+23/10/2018 21:42:50.432	Info	DX fuera de rango (dx: 194.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:42:50.432	Info	Moviendo telescopio...
+23/10/2018 21:42:54.698	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 21:42:54.698	Info	*** Seleccion de estrella: 114.02 ***
+23/10/2018 21:42:57.698	Info	*** TIEMPO TOTAL ITERACION: 117.02 ***
+23/10/2018 21:42:57.698	Debg	---------------------------------------------
+23/10/2018 21:42:57.698	Debg	-------------------- Meteo ------------------
+23/10/2018 21:42:57.698	Debg	---------------------------------------------
+23/10/2018 21:42:59.261	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:42:59.261	Info		Wind speed: 4.3 km/h -- Humidity: 70.4 % -- Dust: 0.0008 m-3
+
+23/10/2018 21:42:59.261	Debg	---------------------------------------------
+23/10/2018 21:42:59.261	Debg	---------------- Star Selection -------------
+23/10/2018 21:42:59.261	Debg	---------------------------------------------
+23/10/2018 21:42:59.261	Info	Seleccionando estella...
+23/10/2018 21:44:06.189	Info	Estella seleccionada --> Markab
+	airmass: 1.085446
+	ha hours: hms_tuple(h=-1.0, m=-21.0, s=-29.783403340815937)
+	ra: 23.094970
+	dec: 15.308454
+23/10/2018 21:44:06.189	Info	*** Seleccion de estrella: 66.93 ***
+23/10/2018 21:44:06.189	Debg	---------------------------------------------
+23/10/2018 21:44:06.189	Debg	-------------- Check spots ------------------
+23/10/2018 21:44:06.189	Debg	---------------------------------------------
+23/10/2018 21:44:06.189	Info	Centrando spots...
+23/10/2018 21:44:08.221	Info	Intento 0
+23/10/2018 21:44:09.565	Info	DX fuera de rango (dx: 121.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:09.565	Info	Moviendo telescopio...
+23/10/2018 21:44:10.705	Info	Intento 1
+23/10/2018 21:44:12.002	Info	DX fuera de rango (dx: 233.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:12.002	Info	Moviendo telescopio...
+23/10/2018 21:44:13.456	Info	Intento 2
+23/10/2018 21:44:14.721	Info	Ventana de spots fuera de rango (cx: 340 - cy: 13 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:44:14.721	Info	Moviendo telescopio...
+23/10/2018 21:44:15.800	Info	Intento 3
+23/10/2018 21:44:17.159	Info	DX fuera de rango (dx: 409.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:17.159	Info	Moviendo telescopio...
+23/10/2018 21:44:18.222	Info	Intento 4
+23/10/2018 21:44:19.597	Info	DX fuera de rango (dx: 353.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:19.597	Info	Moviendo telescopio...
+23/10/2018 21:44:21.363	Info	Intento 5
+23/10/2018 21:44:22.644	Info	Ventana de spots fuera de rango (cx: 607 - cy: 183 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:44:22.644	Info	Moviendo telescopio...
+23/10/2018 21:44:24.128	Info	Intento 6
+23/10/2018 21:44:25.472	Info	DX fuera de rango (dx: 173.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:25.472	Info	Moviendo telescopio...
+23/10/2018 21:44:26.519	Info	Intento 7
+23/10/2018 21:44:27.801	Info	DX fuera de rango (dx: 162.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:27.801	Info	Moviendo telescopio...
+23/10/2018 21:44:28.848	Info	Intento 8
+23/10/2018 21:44:30.145	Info	DX fuera de rango (dx: 96.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:30.145	Info	Moviendo telescopio...
+23/10/2018 21:44:31.207	Info	Intento 9
+23/10/2018 21:44:32.536	Info	DX fuera de rango (dx: 120.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:32.536	Info	Moviendo telescopio...
+23/10/2018 21:44:34.051	Info	Intento 10
+23/10/2018 21:44:35.364	Info	DX fuera de rango (dx: 377.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:35.364	Info	Moviendo telescopio...
+23/10/2018 21:44:36.864	Info	Intento 11
+23/10/2018 21:44:38.161	Info	DX fuera de rango (dx: 207.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:38.161	Info	Moviendo telescopio...
+23/10/2018 21:44:39.630	Info	Intento 12
+23/10/2018 21:44:40.880	Info	DX fuera de rango (dx: 15.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:40.880	Info	Moviendo telescopio...
+23/10/2018 21:44:42.005	Info	Intento 13
+23/10/2018 21:44:43.302	Info	DX fuera de rango (dx: 193.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:43.302	Info	Moviendo telescopio...
+23/10/2018 21:44:44.380	Info	Intento 14
+23/10/2018 21:44:45.662	Info	DX fuera de rango (dx: 126.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:45.662	Info	Moviendo telescopio...
+23/10/2018 21:44:46.724	Info	Intento 15
+23/10/2018 21:44:48.037	Info	Moviendo telescopio...
+23/10/2018 21:44:48.959	Info	Intento 16
+23/10/2018 21:44:50.225	Info	DX fuera de rango (dx: 101.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:50.225	Info	Moviendo telescopio...
+23/10/2018 21:44:51.740	Info	Intento 17
+23/10/2018 21:44:53.037	Info	DX fuera de rango (dx: 112.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:53.037	Info	Moviendo telescopio...
+23/10/2018 21:44:54.663	Info	Intento 18
+23/10/2018 21:44:55.960	Info	DX fuera de rango (dx: 6.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:55.960	Info	Moviendo telescopio...
+23/10/2018 21:44:57.413	Info	Intento 19
+23/10/2018 21:44:58.772	Info	DX fuera de rango (dx: 227.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:44:58.772	Info	Moviendo telescopio...
+23/10/2018 21:45:00.413	Info	Intento 20
+23/10/2018 21:45:01.788	Info	DX fuera de rango (dx: 436.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:45:01.788	Info	Moviendo telescopio...
+23/10/2018 21:45:02.851	Info	Intento 21
+23/10/2018 21:45:04.164	Info	Ventana de spots fuera de rango (cx: 577 - cy: 173 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:45:04.164	Info	Moviendo telescopio...
+23/10/2018 21:45:05.211	Info	Intento 22
+23/10/2018 21:45:06.539	Info	DX fuera de rango (dx: 186.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:45:06.539	Info	Moviendo telescopio...
+23/10/2018 21:45:07.633	Info	Intento 23
+23/10/2018 21:45:08.914	Info	DX fuera de rango (dx: 569.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:45:08.914	Info	Moviendo telescopio...
+23/10/2018 21:45:10.023	Info	Intento 24
+23/10/2018 21:45:11.352	Info	DX fuera de rango (dx: 87.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:45:11.367	Info	Moviendo telescopio...
+23/10/2018 21:45:12.446	Info	Intento 25
+23/10/2018 21:45:13.711	Info	DX fuera de rango (dx: 530.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:45:13.711	Info	Moviendo telescopio...
+23/10/2018 21:45:15.165	Info	Intento 26
+23/10/2018 21:45:16.508	Info	DX fuera de rango (dx: 1.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:45:16.508	Info	Moviendo telescopio...
+23/10/2018 21:45:18.165	Info	Intento 27
+23/10/2018 21:45:19.446	Info	DX fuera de rango (dx: 205.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:45:19.446	Info	Moviendo telescopio...
+23/10/2018 21:45:21.087	Info	Intento 28
+23/10/2018 21:45:22.306	Info	Ventana de spots fuera de rango (cx: 321 - cy: 17 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:45:22.306	Info	Moviendo telescopio...
+23/10/2018 21:45:23.806	Info	Intento 29
+23/10/2018 21:45:25.103	Info	DX fuera de rango (dx: 76.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:45:25.103	Info	Moviendo telescopio...
+23/10/2018 21:45:29.197	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 21:45:29.197	Info	*** Seleccion de estrella: 149.94 ***
+23/10/2018 21:45:29.197	Error (manage auto select error)	It's not posible to select a star. Next trying on 60 seconds.
+23/10/2018 21:45:29.197	Info	Llevando la montura al home...
+23/10/2018 21:46:49.471	Info	Montura en el home
+23/10/2018 21:47:49.476	Info	*** TIEMPO TOTAL ITERACION: 290.22 ***
+23/10/2018 21:47:49.476	Debg	---------------------------------------------
+23/10/2018 21:47:49.476	Debg	-------------------- Meteo ------------------
+23/10/2018 21:47:49.476	Debg	---------------------------------------------
+23/10/2018 21:47:50.992	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:47:50.992	Info		Wind speed: 5.9 km/h -- Humidity: 69.8 % -- Dust: 0.0008 m-3
+
+23/10/2018 21:47:50.992	Debg	---------------------------------------------
+23/10/2018 21:47:50.992	Debg	---------------- Star Selection -------------
+23/10/2018 21:47:50.992	Debg	---------------------------------------------
+23/10/2018 21:47:50.992	Info	Seleccionando estella...
+23/10/2018 21:48:24.152	Info	Estella seleccionada --> Deneb
+	airmass: 1.076049
+	ha hours: hms_tuple(h=1.0, m=7.0, s=34.41196572214437)
+	ra: 20.701157
+	dec: 45.353180
+23/10/2018 21:48:24.152	Info	*** Seleccion de estrella: 33.16 ***
+23/10/2018 21:48:24.152	Debg	---------------------------------------------
+23/10/2018 21:48:24.152	Debg	-------------- Check spots ------------------
+23/10/2018 21:48:24.152	Debg	---------------------------------------------
+23/10/2018 21:48:24.152	Info	Centrando spots...
+23/10/2018 21:48:26.199	Info	Intento 0
+23/10/2018 21:48:27.480	Info	DX fuera de rango (dx: 290.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:48:27.480	Info	Moviendo telescopio...
+23/10/2018 21:48:28.605	Info	Intento 1
+23/10/2018 21:48:29.886	Info	DX fuera de rango (dx: 114.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:48:29.886	Info	Moviendo telescopio...
+23/10/2018 21:48:31.543	Info	Intento 2
+23/10/2018 21:48:32.871	Info	Flujos fuera de rango (diff: 6.417601044648575e+249 - range: 3.0)
+23/10/2018 21:48:32.871	Info	Moviendo telescopio...
+23/10/2018 21:48:33.918	Info	Intento 3
+23/10/2018 21:48:35.231	Info	DX fuera de rango (dx: 270.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:48:35.231	Info	Moviendo telescopio...
+23/10/2018 21:48:36.293	Info	Intento 4
+23/10/2018 21:48:37.606	Info	Ventana de spots fuera de rango (cx: 506 - cy: 8 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:48:37.606	Info	Moviendo telescopio...
+23/10/2018 21:48:39.106	Info	Intento 5
+23/10/2018 21:48:40.434	Info	Moviendo telescopio...
+23/10/2018 21:48:41.872	Info	Intento 6
+23/10/2018 21:48:43.200	Info	DX fuera de rango (dx: 66.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:48:43.200	Info	Moviendo telescopio...
+23/10/2018 21:48:44.278	Info	Intento 7
+23/10/2018 21:48:45.575	Info	DX fuera de rango (dx: 122.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:48:45.575	Info	Moviendo telescopio...
+23/10/2018 21:48:46.607	Info	Intento 8
+23/10/2018 21:48:47.888	Info	DX fuera de rango (dx: 259.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:48:47.888	Info	Moviendo telescopio...
+23/10/2018 21:48:48.998	Info	Intento 9
+23/10/2018 21:48:50.295	Info	DX fuera de rango (dx: 409.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:48:50.295	Info	Moviendo telescopio...
+23/10/2018 21:48:51.748	Info	Intento 10
+23/10/2018 21:48:53.092	Info	DX fuera de rango (dx: 7.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:48:53.092	Info	Moviendo telescopio...
+23/10/2018 21:48:54.576	Info	Intento 11
+23/10/2018 21:48:55.858	Info	Moviendo telescopio...
+23/10/2018 21:48:57.295	Info	Intento 12
+23/10/2018 21:48:58.623	Info	DX fuera de rango (dx: 74.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:48:58.623	Info	Moviendo telescopio...
+23/10/2018 21:48:59.702	Info	Intento 13
+23/10/2018 21:49:01.014	Info	DX fuera de rango (dx: 59.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:49:01.014	Info	Moviendo telescopio...
+23/10/2018 21:49:01.921	Info	Intento 14
+23/10/2018 21:49:03.202	Info	Ventana de spots fuera de rango (cx: 37 - cy: 276 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:49:03.202	Info	Moviendo telescopio...
+23/10/2018 21:49:04.249	Info	Intento 15
+23/10/2018 21:49:05.530	Info	DX fuera de rango (dx: 247.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:49:05.530	Info	Moviendo telescopio...
+23/10/2018 21:49:06.437	Info	Intento 16
+23/10/2018 21:49:07.749	Info	DX fuera de rango (dx: 432.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:49:07.749	Info	Moviendo telescopio...
+23/10/2018 21:49:09.234	Info	Intento 17
+23/10/2018 21:49:10.531	Info	DX fuera de rango (dx: 139.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:49:10.531	Info	Moviendo telescopio...
+23/10/2018 21:49:12.000	Info	Intento 18
+23/10/2018 21:49:13.344	Info	DX fuera de rango (dx: 290.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:49:13.344	Info	Moviendo telescopio...
+23/10/2018 21:49:14.797	Info	Intento 19
+23/10/2018 21:49:16.109	Info	DX fuera de rango (dx: 246.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:49:16.125	Info	Moviendo telescopio...
+23/10/2018 21:49:17.563	Info	Intento 20
+23/10/2018 21:49:18.828	Info	Ventana de spots fuera de rango (cx: 473 - cy: 29 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:49:18.828	Info	Moviendo telescopio...
+23/10/2018 21:49:19.875	Info	Intento 21
+23/10/2018 21:49:21.204	Info	DX fuera de rango (dx: 10.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:49:21.204	Info	Moviendo telescopio...
+23/10/2018 21:49:22.266	Info	Intento 22
+23/10/2018 21:49:23.563	Info	DX fuera de rango (dx: 386.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:49:23.563	Info	Moviendo telescopio...
+23/10/2018 21:49:24.579	Info	Intento 23
+23/10/2018 21:49:25.767	Info	Ventana de spots fuera de rango (cx: 254 - cy: 17 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:49:25.767	Info	Moviendo telescopio...
+23/10/2018 21:49:26.814	Info	Intento 24
+23/10/2018 21:49:28.142	Info	DX fuera de rango (dx: 121.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:49:28.142	Info	Moviendo telescopio...
+23/10/2018 21:49:29.189	Info	Intento 25
+23/10/2018 21:49:30.548	Info	DX fuera de rango (dx: 6.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:49:30.548	Info	Moviendo telescopio...
+23/10/2018 21:49:32.236	Info	Intento 26
+23/10/2018 21:49:33.533	Info	DX fuera de rango (dx: 200.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:49:33.533	Info	Moviendo telescopio...
+23/10/2018 21:49:35.049	Info	Intento 27
+23/10/2018 21:49:36.283	Info	Ventana de spots fuera de rango (cx: 411 - cy: 16 - left: 80 - right: 560 - down: 30 - up: 450)
+23/10/2018 21:49:36.283	Info	Moviendo telescopio...
+23/10/2018 21:49:37.736	Info	Intento 28
+23/10/2018 21:49:39.096	Info	DX fuera de rango (dx: 380.0 - min: 25.0 - max: 45.0)
+23/10/2018 21:49:39.096	Info	Moviendo telescopio...
+23/10/2018 21:49:40.580	Info	Intento 29
+23/10/2018 21:49:41.830	Info	Flujos fuera de rango (diff: 5.895352288255722e+290 - range: 3.0)
+23/10/2018 21:49:41.830	Info	Moviendo telescopio...
+23/10/2018 21:49:43.362	Debg	
+23/10/2018 21:49:43.362	Debg	--- PARANDO OBSERVACION ---
+23/10/2018 21:49:43.362	Debg	
+23/10/2018 21:49:43.362	Info	Indicando fin del proceso...
+23/10/2018 21:49:46.003	Error (centrando los spots)	No se han podido centrar los spots
+23/10/2018 21:49:46.003	Info	*** Seleccion de estrella: 115.01 ***
+23/10/2018 21:49:49.003	Info	*** TIEMPO TOTAL ITERACION: 118.01 ***
+23/10/2018 21:49:49.003	Debg	---------------------------------------------
+23/10/2018 21:49:49.003	Debg	-------------------- Meteo ------------------
+23/10/2018 21:49:49.003	Debg	---------------------------------------------
+23/10/2018 21:49:50.784	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+23/10/2018 21:49:50.784	Info		Wind speed: 5.9 km/h -- Humidity: 69.8 % -- Dust: 0.0008 m-3
+
+23/10/2018 21:49:50.784	Info	Parando la observacion...
+23/10/2018 21:49:50.784	Info	 --- OBSERVACION TERMINADA ---
+23/10/2018 21:49:53.394	Debg	
+23/10/2018 21:49:53.394	Info	--- CERRANDO EL TELESCOPIO ---
+23/10/2018 21:49:53.394	Debg	
+23/10/2018 21:49:53.394	Debg	---------------------------------------------
+23/10/2018 21:49:53.394	Debg	------------------ Switch Off ---------------
+23/10/2018 21:49:53.394	Debg	---------------------------------------------
+23/10/2018 21:49:53.394	Info	Llevando la montura al home...
+23/10/2018 21:50:27.803	Info	Montura en el home
+23/10/2018 21:50:27.803	Info	Apagando la montura...
+23/10/2018 21:50:27.819	Info	Montura apagada
+23/10/2018 21:50:37.820	Info	Apagando el foco...
+23/10/2018 21:50:37.898	Info	Foco apagado
+23/10/2018 21:50:37.898	Info	Cerrando cupula (este proceso puede tardar unos minutos)...
+23/10/2018 21:50:37.898	Info	Cerrando cupula lado A...
+23/10/2018 21:50:58.056	Info	Lado A cerrado
+23/10/2018 21:51:01.056	Info	Cerrando cupula lado B...
+23/10/2018 21:51:21.174	Info	Lado B cerrado
+23/10/2018 21:51:21.174	Info	Cupula cerrada
+23/10/2018 21:51:21.174	Info	--- TELESCOPIO CERRADO ---
+23/10/2018 21:51:21.174	Debg	

@@ -1,0 +1,2088 @@
+
+26/09/2018 07:41:13.753	Info	Agent Server started in port 3310....
+26/09/2018 07:41:13.940	Info	Connected by ('127.0.0.1', 1305) --> command: ping
+26/09/2018 07:41:21.410	Info	Connected by ('127.0.0.1', 1306) --> command: get_ready
+26/09/2018 07:43:11.392	Info	Connected by ('127.0.0.1', 1314) --> command: ping
+26/09/2018 07:43:11.392	Info	Connected by ('127.0.0.1', 1328) --> command: ping
+26/09/2018 07:43:11.423	Info	Connected by ('127.0.0.1', 1340) --> command: ping
+26/09/2018 07:43:15.939	Info	Connected by ('127.0.0.1', 1341) --> command: s
+26/09/2018 07:43:26.472	Info	Connected by ('127.0.0.1', 1348) --> command: ping
+26/09/2018 07:44:12.196	Info	Connected by ('127.0.0.1', 1355) --> command: ping
+26/09/2018 07:44:35.730	Info	Connected by ('127.0.0.1', 1361) --> command: ping
+26/09/2018 07:44:51.295	Info	Connected by ('127.0.0.1', 1377) --> command: ping
+26/09/2018 07:45:07.045	Info	Connected by ('127.0.0.1', 1393) --> command: ping
+26/09/2018 07:45:22.578	Info	Connected by ('127.0.0.1', 1406) --> command: ping
+26/09/2018 07:45:37.612	Info	Connected by ('127.0.0.1', 1421) --> command: ping
+26/09/2018 07:45:52.660	Info	Connected by ('127.0.0.1', 1439) --> command: ping
+26/09/2018 07:46:07.693	Info	Connected by ('127.0.0.1', 1458) --> command: ping
+26/09/2018 07:46:22.726	Info	Connected by ('127.0.0.1', 1468) --> command: ping
+26/09/2018 07:46:37.759	Info	Connected by ('127.0.0.1', 1473) --> command: ping
+26/09/2018 07:46:52.793	Info	Connected by ('127.0.0.1', 1479) --> command: ping
+26/09/2018 07:47:07.826	Info	Connected by ('127.0.0.1', 1484) --> command: ping
+Saving img ./media\20180926\180926064438000684.png...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926064442000388.png...
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926064445000685.png...
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926064448000685.png...
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926064451000389.png...
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926064454000796.png...
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926064458000296.png...
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926064501000201.png...
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926064504000202.png...
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926064507000202.png...
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926064510000703.png...
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926064514000328.png...
+get_window @ could not broadcast input array from shape (19) into shape (20)
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926064518000094.png...
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926064521000001.png...
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926064523000907.png...
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926064526000798.png...
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926064529000705.png...
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926064533000205.png...
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926064536000799.png...
+get_dx_data @ get_dx_data 432 524
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.0
+get_dx_data @ dx final: 33.21966
+get_dx_data @ get_dx_data 432 524
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.06299996376
+get_dx_data @ dx final: 34.1265
+get_dx_data @ get_dx_data 432 524
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.93800020218
+get_dx_data @ dx final: 33.812059999999995
+get_dx_data @ get_dx_data 432 524
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.375
+get_dx_data @ dx final: 34.84676
+get_images @ Tiempo de procesado de las 200 imagenes: 55.8040001392
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(51, 70), (51, 105)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 100...
+to_file_seeing @ New seeing file [C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\SH_OT_180926.txt]...
+26/09/2018 07:47:22.890	Info	Connected by ('127.0.0.1', 1497) --> command: ping
+26/09/2018 07:47:37.923	Info	Connected by ('127.0.0.1', 1507) --> command: ping
+26/09/2018 07:47:52.956	Info	Connected by ('127.0.0.1', 1513) --> command: ping
+26/09/2018 07:48:07.989	Info	Connected by ('127.0.0.1', 1518) --> command: ping
+26/09/2018 07:48:23.022	Info	Connected by ('127.0.0.1', 1523) --> command: ping
+26/09/2018 07:48:38.055	Info	Connected by ('127.0.0.1', 1529) --> command: ping
+Saving img ./media\20180926\180926064723000015.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 67.2730000019
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(1, 90), (30, 126)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 120...
+('   ', [(53, 63), (53, 99)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 165...
+26/09/2018 07:48:53.088	Info	Connected by ('127.0.0.1', 1542) --> command: ping
+26/09/2018 07:49:08.684	Info	Connected by ('127.0.0.1', 1557) --> command: ping
+26/09/2018 07:49:24.702	Info	Connected by ('127.0.0.1', 1572) --> command: ping
+26/09/2018 07:49:40.844	Info	Connected by ('127.0.0.1', 1587) --> command: ping
+26/09/2018 07:49:55.877	Info	Connected by ('127.0.0.1', 1600) --> command: ping
+26/09/2018 07:50:10.910	Info	Connected by ('127.0.0.1', 1605) --> command: ping
+26/09/2018 07:50:25.943	Info	Connected by ('127.0.0.1', 1610) --> command: ping
+26/09/2018 07:50:40.992	Info	Connected by ('127.0.0.1', 1615) --> command: ping
+Saving img ./media\20180926\180926064852000526.png...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926064856000433.png...
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926064859000621.png...
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926064902000528.png...
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926064905000434.png...
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926064908000825.png...
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926064912000326.png...
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926064915000326.png...
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926064918000233.png...
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926064921000233.png...
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926064924000827.png...
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926064928000624.png...
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926064932000234.png...
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926064935000125.png...
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926064938000032.png...
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926064940000938.png...
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926064943000939.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 55.9130001068
+get_window @ could not broadcast input array from shape (18) into shape (20)
+get_window @ could not broadcast input array from shape (18) into shape (20)
+get_window @ could not broadcast input array from shape (18) into shape (20)
+get_window @ could not broadcast input array from shape (18) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (18) into shape (20)
+get_window @ could not broadcast input array from shape (18) into shape (20)
+get_window @ could not broadcast input array from shape (18) into shape (20)
+get_window @ could not broadcast input array from shape (18) into shape (20)
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (19) into shape (20)
+get_window @ could not broadcast input array from shape (19) into shape (20)
+get_window @ could not broadcast input array from shape (19) into shape (20)
+get_window @ could not broadcast input array from shape (19) into shape (20)
+get_window @ could not broadcast input array from shape (16) into shape (20)
+get_window @ could not broadcast input array from shape (16) into shape (20)
+get_window @ could not broadcast input array from shape (16) into shape (20)
+get_window @ could not broadcast input array from shape (16) into shape (20)
+get_window @ could not broadcast input array from shape (13) into shape (20)
+get_window @ could not broadcast input array from shape (13) into shape (20)
+get_window @ could not broadcast input array from shape (13) into shape (20)
+get_window @ could not broadcast input array from shape (13) into shape (20)
+get_window @ could not broadcast input array from shape (13) into shape (20)
+get_window @ could not broadcast input array from shape (13) into shape (20)
+get_window @ could not broadcast input array from shape (13) into shape (20)
+get_window @ could not broadcast input array from shape (13) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_window @ could not broadcast input array from shape (14) into shape (20)
+get_window @ could not broadcast input array from shape (14) into shape (20)
+get_window @ could not broadcast input array from shape (14) into shape (20)
+get_window @ could not broadcast input array from shape (14) into shape (20)
+get_window @ could not broadcast input array from shape (18) into shape (20)
+get_window @ could not broadcast input array from shape (18) into shape (20)
+get_window @ could not broadcast input array from shape (18) into shape (20)
+get_window @ could not broadcast input array from shape (18) into shape (20)
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(14, 67), (8, 143)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 0...
+('   ', [(9, 39), (1, 152)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 1...
+('   ', [(52, 14), (1, 50)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 3...
+('   ', [(6, 76), (8, 86)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 5...
+('   ', [(15, 44), (4, 66)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 7...
+('   ', [(0, 9), (55, 53)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 9...
+('   ', [(1, 85), (21, 147)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 13...
+('   ', [(55, 60), (51, 148)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 14...
+('   ', [(39, 5), (17, 87)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 15...
+('   ', [(21, 30), (2, 54)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 20...
+('   ', [(1, 14), (27, 101)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 22...
+('   ', [(9, 16), (39, 35)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 23...
+('   ', [(7, 66), (29, 141)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 24...
+('   ', [(51, 37), (6, 152)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 25...
+('   ', [(55, 25), (7, 98)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 26...
+('   ', [(57, 127), (9, 153)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 27...
+('   ', [(3, 13), (3, 37)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 28...
+('   ', [(18, 7), (17, 74)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 29...
+('   ', [(54, 35), (10, 110)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 30...
+('   ', [(1, 35), (0, 120)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 31...
+('   ', [(24, 17), (3, 138)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 32...
+('   ', [(9, 119), (48, 126)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 36...
+('   ', [(5, 16), (42, 101)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 37...
+('   ', [(45, 7), (3, 52)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 39...
+('   ', [(48, 3), (39, 81)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 41...
+('   ', [(17, 37), (1, 106)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 42...
+('   ', [(54, 18), (8, 34)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 43...
+('   ', [(32, 0), (6, 51)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 44...
+('   ', [(0, 24), (56, 107)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 47...
+('   ', [(53, 22), (2, 68)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 48...
+('   ', [(16, 31), (8, 65)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 49...
+('   ', [(2, 29), (16, 88)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 50...
+('   ', [(51, 4), (30, 19)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 52...
+('   ', [(10, 9), (31, 61)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 53...
+('   ', [(12, 39), (54, 61)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 54...
+('   ', [(0, 17), (19, 121)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 55...
+('   ', [(33, 11), (0, 58)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 56...
+('   ', [(4, 3), (14, 31)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 57...
+('   ', [(15, 34), (8, 82)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 60...
+('   ', [(4, 0), (16, 28)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 61...
+('   ', [(19, 51), (0, 61)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 62...
+('   ', [(41, 66), (3, 149)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 63...
+('   ', [(6, 31), (10, 113)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 65...
+('   ', [(58, 147), (40, 153)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 66...
+('   ', [(10, 80), (4, 106)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 67...
+('   ', [(9, 12), (3, 40)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 68...
+('   ', [(56, 130), (29, 146)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 69...
+('   ', [(28, 61), (3, 80)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 70...
+('   ', [(7, 77), (5, 134)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 72...
+('   ', [(0, 62), (38, 87)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 73...
+('   ', [(20, 51), (55, 108)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 76...
+('   ', [(14, 41), (6, 61)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 78...
+('   ', [(9, 34), (6, 119)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 79...
+('   ', [(12, 26), (58, 88)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 80...
+('   ', [(56, 117), (8, 145)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 81...
+('   ', [(0, 9), (39, 75)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 82...
+('   ', [(4, 45), (14, 109)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 83...
+('   ', [(29, 10), (22, 155)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 85...
+('   ', [(8, 23), (7, 68)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 86...
+('   ', [(52, 34), (58, 51)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 87...
+('   ', [(2, 1), (2, 115)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 88...
+('   ', [(15, 18), (57, 99)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 92...
+('   ', [(52, 47), (0, 114)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 93...
+('   ', [(9, 32), (15, 74)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 95...
+('   ', [(34, 4), (32, 29)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 96...
+('   ', [(4, 90), (18, 102)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 97...
+('   ', [(17, 12), (6, 109)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 98...
+('   ', [(24, 115), (4, 146)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 100...
+('   ', [(1, 79), (20, 89)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 102...
+('   ', [(27, 52), (56, 99)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 103...
+('   ', [(29, 65), (3, 112)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 104...
+('   ', [(57, 13), (14, 50)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 105...
+('   ', [(9, 56), (6, 151)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 106...
+('   ', [(20, 50), (7, 96)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 111...
+('   ', [(8, 27), (46, 154)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 112...
+('   ', [(27, 32), (4, 85)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 114...
+('   ', [(16, 23), (1, 102)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 116...
+('   ', [(38, 24), (11, 157)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 117...
+('   ', [(48, 71), (1, 157)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 118...
+('   ', [(17, 46), (1, 88)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 119...
+('   ', [(6, 76), (14, 117)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 121...
+('   ', [(19, 4), (15, 89)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 123...
+('   ', [(24, 8), (20, 131)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 124...
+('   ', [(1, 30), (38, 120)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 125...
+('   ', [(2, 69), (5, 123)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 126...
+('   ', [(1, 49), (8, 146)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 129...
+('   ', [(2, 49), (18, 109)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 130...
+('   ', [(11, 77), (59, 137)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 131...
+('   ', [(7, 25), (29, 104)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 132...
+('   ', [(3, 0), (3, 146)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 134...
+('   ', [(59, 36), (13, 125)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 135...
+('   ', [(18, 102), (3, 120)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 136...
+('   ', [(7, 19), (25, 116)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 138...
+('   ', [(32, 33), (0, 123)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 139...
+('   ', [(13, 13), (6, 69)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 140...
+('   ', [(30, 119), (52, 133)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 141...
+('   ', [(31, 42), (57, 58)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 142...
+('   ', [(38, 89), (7, 155)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 143...
+('   ', [(41, 126), (5, 141)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 146...
+('   ', [(23, 22), (9, 39)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 148...
+('   ', [(42, 85), (5, 141)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 149...
+('   ', [(13, 84), (5, 146)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 151...
+('   ', [(57, 54), (27, 81)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 153...
+('   ', [(57, 54), (27, 81)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 154...
+('   ', [(13, 38), (4, 75)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 155...
+('   ', [(50, 38), (7, 139)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 157...
+('   ', [(50, 62), (6, 64)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 158...
+('   ', [(15, 11), (3, 84)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 161...
+('   ', [(27, 11), (58, 113)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 162...
+('   ', [(15, 9), (37, 89)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 163...
+('   ', [(19, 57), (9, 60)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 164...
+('   ', [(58, 8), (19, 105)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 167...
+('   ', [(53, 53), (24, 86)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 169...
+('   ', [(0, 12), (16, 33)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 170...
+('   ', [(23, 36), (0, 122)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 171...
+('   ', [(6, 64), (6, 120)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 173...
+('   ', [(57, 47), (2, 53)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 175...
+('   ', [(11, 118), (6, 159)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 176...
+('   ', [(53, 102), (3, 105)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 178...
+('   ', [(17, 38), (8, 156)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 179...
+('   ', [(15, 25), (1, 60)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 180...
+('   ', [(48, 73), (3, 129)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 181...
+('   ', [(49, 57), (52, 76)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 185...
+('   ', [(14, 36), (51, 152)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 186...
+('   ', [(9, 43), (0, 101)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 188...
+('   ', [(3, 104), (19, 145)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 190...
+('   ', [(3, 86), (18, 110)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 191...
+('   ', [(16, 70), (1, 146)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 192...
+('   ', [(2, 30), (16, 127)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 193...
+('   ', [(53, 44), (5, 89)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 194...
+('   ', [(7, 56), (14, 133)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 196...
+('   ', [(1, 62), (10, 127)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 197...
+('   ', [(30, 110), (52, 139)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 199...
+26/09/2018 07:50:56.025	Info	Connected by ('127.0.0.1', 1625) --> command: ping
+26/09/2018 07:51:11.605	Info	Connected by ('127.0.0.1', 1640) --> command: ping
+26/09/2018 07:51:27.060	Info	Connected by ('127.0.0.1', 1655) --> command: ping
+26/09/2018 07:51:42.265	Info	Connected by ('127.0.0.1', 1670) --> command: ping
+26/09/2018 07:51:57.955	Info	Connected by ('127.0.0.1', 1688) --> command: ping
+26/09/2018 07:52:13.191	Info	Connected by ('127.0.0.1', 1713) --> command: ping
+26/09/2018 07:52:29.662	Info	Connected by ('127.0.0.1', 1728) --> command: ping
+Saving img ./media\20180926\180926065100000839.png...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926065103000449.png...
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926065106000949.png...
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926065109000840.png...
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926065112000637.png...
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926065116000341.png...
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926065119000841.png...
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926065122000748.png...
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926065125000639.png...
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926065128000545.png...
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926065132000046.png...
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926065135000452.png...
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926065139000453.png...
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926065142000453.png...
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926065145000344.png...
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926065148000345.png...
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926065151000454.png...
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926065154000752.png...
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926065158000065.png...
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926065201000346.png...
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926065204000643.png...
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926065207000550.png...
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926065210000347.png...
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926065213000348.png...
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926065216000145.png...
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926065219000051.png...
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926065222000646.png...
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926065226000255.png...
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926065229000756.png...
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926065233000053.png...
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+26/09/2018 07:53:14.714	Info	Connected by ('127.0.0.1', 1742) --> command: ping
+26/09/2018 07:53:50.203	Info	Connected by ('127.0.0.1', 1749) --> command: ping
+26/09/2018 07:54:05.251	Info	Connected by ('127.0.0.1', 1766) --> command: ping
+Saving img ./media\20180926\180926065353000157.png...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926065355000469.png...
+get_dx_data @ get_dx_data 247 232
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.61000013351
+get_dx_data @ dx final: 37.7971
+get_dx_data @ get_dx_data 247 232
+get_window @ could not broadcast input array from shape (12) into shape (20)
+get_window @ could not broadcast input array from shape (12) into shape (20)
+get_window @ could not broadcast input array from shape (12) into shape (20)
+get_window @ could not broadcast input array from shape (12) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.23500013351
+get_dx_data @ dx final: nan
+26/09/2018 07:54:50.194	Info	Connected by ('127.0.0.1', 1785) --> command: ping
+26/09/2018 07:55:05.154	Info	Connected by ('127.0.0.1', 1808) --> command: ping
+Saving img ./media\20180926\180926065452000570.png...
+get_dx_data @ get_dx_data 331 179
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.47399997711
+get_dx_data @ dx final: nan
+26/09/2018 07:55:50.331	Info	Connected by ('127.0.0.1', 1817) --> command: ping
+26/09/2018 07:56:17.710	Info	Connected by ('127.0.0.1', 1823) --> command: ping
+26/09/2018 07:56:32.743	Info	Connected by ('127.0.0.1', 1838) --> command: ping
+26/09/2018 07:56:48.214	Info	Connected by ('127.0.0.1', 1855) --> command: ping
+26/09/2018 07:57:03.262	Info	Connected by ('127.0.0.1', 1868) --> command: ping
+26/09/2018 07:57:18.311	Info	Connected by ('127.0.0.1', 1873) --> command: ping
+26/09/2018 07:57:33.344	Info	Connected by ('127.0.0.1', 1878) --> command: ping
+26/09/2018 07:57:48.377	Info	Connected by ('127.0.0.1', 1884) --> command: ping
+26/09/2018 07:58:03.410	Info	Connected by ('127.0.0.1', 1889) --> command: ping
+26/09/2018 07:58:19.084	Info	Connected by ('127.0.0.1', 1896) --> command: ping
+Saving img ./media\20180926\180926065619000570.png...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926065623000273.png...
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926065626000774.png...
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926065629000680.png...
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926065632000571.png...
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926065635000978.png...
+get_dx_data @ get_dx_data 414 555
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.82899999619
+get_dx_data @ dx final: 34.218199999999996
+get_dx_data @ get_dx_data 414 555
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.42200016975
+get_dx_data @ dx final: 35.10426
+get_images @ Tiempo de procesado de las 200 imagenes: 73.6340000629
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(9, 69), (9, 103)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 16...
+('   ', [(4, 73), (4, 108)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 30...
+('   ', [(9, 71), (9, 106)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 165...
+('   ', [(9, 69), (9, 104)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 191...
+('   ', [(9, 75), (9, 110)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 195...
+26/09/2018 07:58:34.664	Info	Connected by ('127.0.0.1', 1912) --> command: ping
+26/09/2018 07:58:49.713	Info	Connected by ('127.0.0.1', 1928) --> command: ping
+26/09/2018 07:59:04.761	Info	Connected by ('127.0.0.1', 1933) --> command: ping
+26/09/2018 07:59:19.794	Info	Connected by ('127.0.0.1', 1938) --> command: ping
+26/09/2018 07:59:34.828	Info	Connected by ('127.0.0.1', 1943) --> command: ping
+26/09/2018 07:59:49.861	Info	Connected by ('127.0.0.1', 1949) --> command: ping
+26/09/2018 08:00:04.894	Info	Connected by ('127.0.0.1', 1954) --> command: ping
+26/09/2018 08:00:20.427	Info	Connected by ('127.0.0.1', 1961) --> command: ping
+Saving img ./media\20180926\180926065825000788.png...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926065829000398.png...
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926065832000695.png...
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926065835000696.png...
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926065838000587.png...
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926065841000900.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 85.6199998856
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(53, 61), (54, 96)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 2...
+('   ', [(52, 59), (52, 94)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 3...
+('   ', [(53, 59), (54, 94)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 58...
+('   ', [(56, 64), (56, 99)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 81...
+('   ', [(52, 58), (52, 91)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 118...
+('   ', [(51, 68), (51, 104)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 138...
+('   ', [(53, 67), (54, 104)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 141...
+('   ', [(51, 58), (52, 93)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 158...
+('   ', [(51, 55), (51, 91)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 198...
+('   ', [(11, 79), (57, 114)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 199...
+26/09/2018 08:00:35.741	Info	Connected by ('127.0.0.1', 1975) --> command: ping
+26/09/2018 08:00:50.790	Info	Connected by ('127.0.0.1', 1983) --> command: ping
+26/09/2018 08:01:05.823	Info	Connected by ('127.0.0.1', 1988) --> command: ping
+26/09/2018 08:01:20.856	Info	Connected by ('127.0.0.1', 1993) --> command: ping
+26/09/2018 08:01:35.889	Info	Connected by ('127.0.0.1', 1998) --> command: ping
+26/09/2018 08:01:50.969	Info	Connected by ('127.0.0.1', 2004) --> command: ping
+26/09/2018 08:02:06.018	Info	Connected by ('127.0.0.1', 2009) --> command: ping
+Saving img ./media\20180926\180926070029000116.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 92.135999918
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(2, 48), (17, 49)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 106...
+('   ', [(50, 70), (51, 105)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 110...
+26/09/2018 08:02:21.754	Info	Connected by ('127.0.0.1', 2021) --> command: ping
+26/09/2018 08:02:36.787	Info	Connected by ('127.0.0.1', 2033) --> command: ping
+26/09/2018 08:02:51.820	Info	Connected by ('127.0.0.1', 2039) --> command: ping
+26/09/2018 08:03:06.853	Info	Connected by ('127.0.0.1', 2044) --> command: ping
+26/09/2018 08:03:21.886	Info	Connected by ('127.0.0.1', 2049) --> command: ping
+26/09/2018 08:03:36.919	Info	Connected by ('127.0.0.1', 2054) --> command: ping
+26/09/2018 08:03:52.546	Info	Connected by ('127.0.0.1', 2061) --> command: ping
+26/09/2018 08:04:07.579	Info	Connected by ('127.0.0.1', 2066) --> command: ping
+26/09/2018 08:04:23.519	Info	Connected by ('127.0.0.1', 2073) --> command: ping
+Saving img ./media\20180926\180926070223000114.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 106.232000113
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(9, 63), (9, 98)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 41...
+26/09/2018 08:04:38.755	Info	Connected by ('127.0.0.1', 2088) --> command: ping
+26/09/2018 08:04:53.788	Info	Connected by ('127.0.0.1', 2096) --> command: ping
+26/09/2018 08:05:08.731	Info	Connected by ('127.0.0.1', 2102) --> command: ping
+26/09/2018 08:05:23.764	Info	Connected by ('127.0.0.1', 2107) --> command: ping
+26/09/2018 08:05:38.813	Info	Connected by ('127.0.0.1', 2112) --> command: ping
+26/09/2018 08:05:53.846	Info	Connected by ('127.0.0.1', 2118) --> command: ping
+26/09/2018 08:06:08.879	Info	Connected by ('127.0.0.1', 2123) --> command: ping
+26/09/2018 08:06:24.099	Info	Connected by ('127.0.0.1', 2129) --> command: ping
+Saving img ./media\20180926\180926070431000833.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 105.312999964
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(52, 55), (52, 91)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 68...
+('   ', [(51, 53), (52, 89)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 74...
+('   ', [(52, 60), (51, 91)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 114...
+('   ', [(6, 55), (7, 90)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 115...
+26/09/2018 08:06:39.367	Info	Connected by ('127.0.0.1', 2141) --> command: ping
+26/09/2018 08:06:54.400	Info	Connected by ('127.0.0.1', 2152) --> command: ping
+26/09/2018 08:07:09.433	Info	Connected by ('127.0.0.1', 2157) --> command: ping
+26/09/2018 08:07:24.482	Info	Connected by ('127.0.0.1', 2162) --> command: ping
+26/09/2018 08:07:39.515	Info	Connected by ('127.0.0.1', 2167) --> command: ping
+26/09/2018 08:07:54.548	Info	Connected by ('127.0.0.1', 2173) --> command: ping
+26/09/2018 08:08:09.581	Info	Connected by ('127.0.0.1', 2178) --> command: ping
+26/09/2018 08:08:24.614	Info	Connected by ('127.0.0.1', 2183) --> command: ping
+26/09/2018 08:08:39.835	Info	Connected by ('127.0.0.1', 2189) --> command: ping
+Saving img ./media\20180926\180926070639000555.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 113.295000076
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(4, 62), (4, 97)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 1...
+('   ', [(8, 70), (9, 106)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 21...
+('   ', [(6, 59), (6, 94)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 31...
+('   ', [(6, 55), (6, 91)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 63...
+('   ', [(7, 72), (8, 108)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 87...
+('   ', [(3, 67), (3, 102)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 119...
+('   ', [(2, 58), (2, 94)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 124...
+('   ', [(8, 61), (9, 96)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 128...
+('   ', [(9, 61), (7, 99)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 151...
+('   ', [(10, 79), (6, 116)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 161...
+('   ', [(5, 61), (6, 96)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 164...
+('   ', [(8, 68), (8, 103)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 183...
+('   ', [(9, 62), (9, 98)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 194...
+26/09/2018 08:08:55.040	Info	Connected by ('127.0.0.1', 2202) --> command: ping
+26/09/2018 08:09:11.057	Info	Connected by ('127.0.0.1', 2219) --> command: ping
+26/09/2018 08:09:26.090	Info	Connected by ('127.0.0.1', 2233) --> command: ping
+26/09/2018 08:09:41.123	Info	Connected by ('127.0.0.1', 2238) --> command: ping
+26/09/2018 08:09:56.157	Info	Connected by ('127.0.0.1', 2244) --> command: ping
+26/09/2018 08:10:11.190	Info	Connected by ('127.0.0.1', 2249) --> command: ping
+26/09/2018 08:10:26.254	Info	Connected by ('127.0.0.1', 2254) --> command: ping
+26/09/2018 08:10:41.287	Info	Connected by ('127.0.0.1', 2259) --> command: ping
+26/09/2018 08:10:56.320	Info	Connected by ('127.0.0.1', 2265) --> command: ping
+26/09/2018 08:11:11.353	Info	Connected by ('127.0.0.1', 2270) --> command: ping
+Saving img ./media\20180926\180926070855000181.png...
+get_dx_data @ get_dx_data 448 525
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.2349998951
+get_dx_data @ dx final: 35.57156
+get_dx_data @ get_dx_data 448 525
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.15700006485
+get_dx_data @ dx final: 35.40138
+get_images @ Tiempo de procesado de las 200 imagenes: 114.325999975
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(8, 70), (9, 105)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 25...
+('   ', [(8, 72), (8, 109)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 45...
+('   ', [(2, 71), (2, 106)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 46...
+('   ', [(5, 80), (6, 117)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 125...
+('   ', [(56, 83), (58, 119)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 127...
+('   ', [(56, 13), (9, 144)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 133...
+('   ', [(5, 63), (6, 99)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 134...
+('   ', [(48, 77), (51, 110)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 135...
+('   ', [(51, 78), (52, 113)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 136...
+('   ', [(9, 69), (10, 104)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 143...
+('   ', [(8, 74), (9, 110)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 147...
+('   ', [(5, 74), (5, 109)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 162...
+('   ', [(6, 70), (6, 105)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 198...
+26/09/2018 08:11:27.293	Info	Connected by ('127.0.0.1', 2281) --> command: ping
+26/09/2018 08:11:42.326	Info	Connected by ('127.0.0.1', 2296) --> command: ping
+26/09/2018 08:11:57.359	Info	Connected by ('127.0.0.1', 2306) --> command: ping
+26/09/2018 08:12:12.392	Info	Connected by ('127.0.0.1', 2311) --> command: ping
+26/09/2018 08:12:27.425	Info	Connected by ('127.0.0.1', 2316) --> command: ping
+26/09/2018 08:12:42.458	Info	Connected by ('127.0.0.1', 2321) --> command: ping
+26/09/2018 08:12:57.491	Info	Connected by ('127.0.0.1', 2327) --> command: ping
+26/09/2018 08:13:12.524	Info	Connected by ('127.0.0.1', 2332) --> command: ping
+26/09/2018 08:13:27.557	Info	Connected by ('127.0.0.1', 2337) --> command: ping
+26/09/2018 08:13:43.559	Info	Connected by ('127.0.0.1', 2345) --> command: ping
+Saving img ./media\20180926\180926071128000903.png...
+get_dx_data @ get_dx_data 434 532
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 5.07899999619
+get_dx_data @ dx final: 35.31902
+get_images @ Tiempo de procesado de las 200 imagenes: 114.624000072
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(51, 74), (51, 109)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 24...
+('   ', [(59, 66), (57, 100)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 56...
+('   ', [(59, 81), (58, 114)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 79...
+('   ', [(54, 76), (54, 111)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 93...
+('   ', [(50, 72), (51, 108)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 96...
+('   ', [(56, 65), (56, 101)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 177...
+26/09/2018 08:13:58.592	Info	Connected by ('127.0.0.1', 2358) --> command: ping
+26/09/2018 08:14:13.625	Info	Connected by ('127.0.0.1', 2367) --> command: ping
+26/09/2018 08:14:28.658	Info	Connected by ('127.0.0.1', 2372) --> command: ping
+26/09/2018 08:14:43.691	Info	Connected by ('127.0.0.1', 2377) --> command: ping
+26/09/2018 08:14:58.725	Info	Connected by ('127.0.0.1', 2383) --> command: ping
+26/09/2018 08:15:13.668	Info	Connected by ('127.0.0.1', 2389) --> command: ping
+26/09/2018 08:15:28.701	Info	Connected by ('127.0.0.1', 2394) --> command: ping
+26/09/2018 08:15:43.734	Info	Connected by ('127.0.0.1', 2399) --> command: ping
+26/09/2018 08:15:58.767	Info	Connected by ('127.0.0.1', 2406) --> command: ping
+Saving img ./media\20180926\180926071355000717.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 118.643999815
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(52, 59), (52, 94)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 168...
+26/09/2018 08:16:14.660	Info	Connected by ('127.0.0.1', 2417) --> command: ping
+26/09/2018 08:16:29.708	Info	Connected by ('127.0.0.1', 2429) --> command: ping
+26/09/2018 08:16:44.757	Info	Connected by ('127.0.0.1', 2435) --> command: ping
+26/09/2018 08:16:59.790	Info	Connected by ('127.0.0.1', 2441) --> command: ping
+26/09/2018 08:17:14.823	Info	Connected by ('127.0.0.1', 2446) --> command: ping
+26/09/2018 08:17:29.856	Info	Connected by ('127.0.0.1', 2451) --> command: ping
+26/09/2018 08:17:44.889	Info	Connected by ('127.0.0.1', 2456) --> command: ping
+26/09/2018 08:17:59.922	Info	Connected by ('127.0.0.1', 2462) --> command: ping
+26/09/2018 08:18:14.956	Info	Connected by ('127.0.0.1', 2467) --> command: ping
+Saving img ./media\20180926\180926071615000535.png...
+get_images @ Tiempo de procesado de las 200 imagenes: 115.872999907
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(2, 59), (3, 94)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 2...
+('   ', [(57, 67), (57, 103)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 12...
+('   ', [(52, 82), (53, 118)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 13...
+('   ', [(55, 42), (55, 78)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 20...
+('   ', [(57, 61), (58, 95)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 23...
+('   ', [(56, 67), (57, 103)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 28...
+('   ', [(57, 73), (52, 121)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 69...
+('   ', [(51, 66), (50, 101)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 81...
+('   ', [(59, 78), (59, 113)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 89...
+('   ', [(54, 70), (53, 105)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 97...
+('   ', [(9, 93), (9, 155)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 116...
+('   ', [(53, 69), (54, 105)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 121...
+('   ', [(54, 53), (54, 89)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 122...
+('   ', [(54, 49), (52, 83)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 124...
+('   ', [(5, 62), (9, 128)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 132...
+('   ', [(54, 53), (54, 89)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 133...
+('   ', [(56, 63), (57, 99)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 138...
+('   ', [(54, 10), (46, 93)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 147...
+('   ', [(10, 1), (20, 64)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 157...
+('   ', [(54, 64), (54, 99)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 159...
+('   ', [(59, 67), (59, 102)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 164...
+('   ', [(59, 57), (59, 93)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 194...
+('   ', [(0, 7), (11, 30)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 195...
+26/09/2018 08:18:30.301	Info	Connected by ('127.0.0.1', 2481) --> command: ping
+26/09/2018 08:18:45.334	Info	Connected by ('127.0.0.1', 2500) --> command: ping
+26/09/2018 08:19:00.367	Info	Connected by ('127.0.0.1', 2506) --> command: ping
+26/09/2018 08:19:15.400	Info	Connected by ('127.0.0.1', 2511) --> command: ping
+26/09/2018 08:19:30.433	Info	Connected by ('127.0.0.1', 2516) --> command: ping
+26/09/2018 08:19:45.467	Info	Connected by ('127.0.0.1', 2521) --> command: ping
+26/09/2018 08:20:00.515	Info	Connected by ('127.0.0.1', 2527) --> command: ping
+26/09/2018 08:20:15.548	Info	Connected by ('127.0.0.1', 2532) --> command: ping
+26/09/2018 08:20:30.597	Info	Connected by ('127.0.0.1', 2537) --> command: ping
+26/09/2018 08:20:46.005	Info	Connected by ('127.0.0.1', 2544) --> command: ping
+Saving img ./media\20180926\180926071833000755.png...
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_images @ Tiempo de procesado de las 200 imagenes: 116.545000076
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(53, 62), (54, 97)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 17...
+('   ', [(52, 61), (52, 97)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 23...
+('   ', [(59, 65), (59, 101)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 26...
+('   ', [(1, 58), (32, 69)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 51...
+('   ', [(59, 2), (6, 116)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 54...
+('   ', [(55, 70), (56, 106)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 63...
+('   ', [(52, 57), (51, 92)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 70...
+('   ', [(59, 67), (59, 102)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 98...
+('   ', [(51, 79), (51, 115)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 101...
+('   ', [(52, 70), (52, 106)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 112...
+('   ', [(52, 69), (55, 106)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 115...
+('   ', [(58, 66), (59, 101)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 138...
+('   ', [(59, 64), (59, 101)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 141...
+('   ', [(30, 58), (6, 91)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 166...
+('   ', [(59, 52), (59, 89)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 167...
+('   ', [(54, 46), (55, 81)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 186...
+('   ', [(55, 65), (54, 100)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 191...
+26/09/2018 08:21:01.038	Info	Connected by ('127.0.0.1', 2563) --> command: ping
+26/09/2018 08:21:16.071	Info	Connected by ('127.0.0.1', 2573) --> command: ping
+26/09/2018 08:21:31.104	Info	Connected by ('127.0.0.1', 2578) --> command: ping
+26/09/2018 08:21:46.137	Info	Connected by ('127.0.0.1', 2583) --> command: ping
+26/09/2018 08:22:01.171	Info	Connected by ('127.0.0.1', 2589) --> command: ping
+26/09/2018 08:22:16.204	Info	Connected by ('127.0.0.1', 2594) --> command: ping
+26/09/2018 08:22:31.252	Info	Connected by ('127.0.0.1', 2599) --> command: ping
+26/09/2018 08:22:46.285	Info	Connected by ('127.0.0.1', 2604) --> command: ping
+26/09/2018 08:23:01.319	Info	Connected by ('127.0.0.1', 2610) --> command: ping
+26/09/2018 08:23:16.867	Info	Connected by ('127.0.0.1', 2617) --> command: ping
+Saving img ./media\20180926\180926072052000272.png...
+get_dx_data @ get_dx_data 444 544
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.32800006866
+get_dx_data @ dx final: 35.40822
+get_images @ Tiempo de procesado de las 200 imagenes: 120.123999834
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(50, 68), (51, 103)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 19...
+('   ', [(51, 71), (51, 100)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 37...
+('   ', [(52, 70), (52, 106)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 47...
+('   ', [(57, 79), (57, 113)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 49...
+('   ', [(57, 80), (58, 115)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 93...
+('   ', [(55, 65), (55, 100)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 111...
+('   ', [(55, 56), (56, 92)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 165...
+('   ', [(56, 64), (57, 99)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 166...
+('   ', [(57, 55), (57, 91)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 170...
+('   ', [(53, 62), (53, 98)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 174...
+('   ', [(59, 66), (59, 102)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 188...
+('   ', [(59, 57), (59, 92)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 189...
+('   ', [(7, 45), (14, 116)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 191...
+26/09/2018 08:23:32.338	Info	Connected by ('127.0.0.1', 2632) --> command: ping
+26/09/2018 08:23:47.371	Info	Connected by ('127.0.0.1', 2647) --> command: ping
+26/09/2018 08:24:03.154	Info	Connected by ('127.0.0.1', 2663) --> command: ping
+26/09/2018 08:24:18.203	Info	Connected by ('127.0.0.1', 2678) --> command: ping
+26/09/2018 08:24:34.205	Info	Connected by ('127.0.0.1', 2695) --> command: ping
+26/09/2018 08:24:50.004	Info	Connected by ('127.0.0.1', 2711) --> command: ping
+26/09/2018 08:25:34.937	Info	Connected by ('127.0.0.1', 2725) --> command: ping
+26/09/2018 08:26:19.974	Info	Connected by ('127.0.0.1', 2731) --> command: ping
+26/09/2018 08:26:35.007	Info	Connected by ('127.0.0.1', 2736) --> command: ping
+26/09/2018 08:26:50.040	Info	Connected by ('127.0.0.1', 2742) --> command: ping
+26/09/2018 08:27:05.073	Info	Connected by ('127.0.0.1', 2747) --> command: ping
+26/09/2018 08:27:20.106	Info	Connected by ('127.0.0.1', 2752) --> command: ping
+Saving img ./media\20180926\180926072323000494.png...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926072327000400.png...
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926072330000901.png...
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926072333000792.png...
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926072336000589.png...
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926072340000199.png...
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926072343000590.png...
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926072346000590.png...
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926072349000528.png...
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926072352000388.png...
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926072356000091.png...
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926072359000592.png...
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926072403000295.png...
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926072406000296.png...
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926072408000999.png...
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926072411000906.png...
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926072414000906.png...
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926072418000203.png...
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926072421000594.png...
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926072424000907.png...
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926072428000298.png...
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926072431000299.png...
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926072434000299.png...
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926072437000503.png...
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926072440000409.png...
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926072443000425.png...
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926072446000801.png...
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926072450000098.png...
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926072453000505.png...
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926072457000099.png...
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+26/09/2018 08:27:53.251	Info	Connected by ('127.0.0.1', 2763) --> command: ping
+26/09/2018 08:28:08.284	Info	Connected by ('127.0.0.1', 2777) --> command: ping
+26/09/2018 08:28:23.348	Info	Connected by ('127.0.0.1', 2785) --> command: ping
+26/09/2018 08:28:38.397	Info	Connected by ('127.0.0.1', 2790) --> command: ping
+26/09/2018 08:28:53.430	Info	Connected by ('127.0.0.1', 2796) --> command: ping
+26/09/2018 08:29:08.463	Info	Connected by ('127.0.0.1', 2801) --> command: ping
+26/09/2018 08:29:23.496	Info	Connected by ('127.0.0.1', 2806) --> command: ping
+26/09/2018 08:29:38.530	Info	Connected by ('127.0.0.1', 2811) --> command: ping
+26/09/2018 08:29:53.563	Info	Connected by ('127.0.0.1', 2817) --> command: ping
+26/09/2018 08:30:08.611	Info	Connected by ('127.0.0.1', 2822) --> command: ping
+26/09/2018 08:30:23.644	Info	Connected by ('127.0.0.1', 2829) --> command: ping
+Saving img ./media\20180926\180926072756000252.png...
+get_dx_data @ get_dx_data 266 525
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.45300006866
+get_dx_data @ dx final: 34.952780000000004
+get_images @ Tiempo de procesado de las 200 imagenes: 131.046999931
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(57, 51), (56, 85)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 0...
+('   ', [(56, 50), (56, 85)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 2...
+('   ', [(59, 53), (59, 89)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 3...
+('   ', [(9, 22), (15, 74)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 5...
+('   ', [(55, 59), (55, 94)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 7...
+('   ', [(58, 57), (58, 93)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 9...
+('   ', [(3, 30), (59, 87)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 10...
+('   ', [(4, 12), (20, 16)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 12...
+('   ', [(9, 72), (9, 108)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 14...
+('   ', [(7, 50), (6, 85)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 18...
+('   ', [(58, 50), (57, 85)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 21...
+('   ', [(53, 52), (53, 87)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 23...
+('   ', [(56, 57), (56, 93)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 24...
+('   ', [(52, 58), (52, 93)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 25...
+('   ', [(58, 49), (58, 85)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 26...
+('   ', [(52, 60), (51, 95)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 27...
+('   ', [(52, 37), (52, 73)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 31...
+('   ', [(56, 59), (56, 94)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 32...
+('   ', [(52, 55), (52, 90)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 37...
+('   ', [(53, 49), (55, 86)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 39...
+('   ', [(59, 64), (59, 99)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 44...
+('   ', [(52, 54), (52, 89)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 45...
+('   ', [(57, 46), (57, 81)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 47...
+('   ', [(58, 52), (57, 86)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 48...
+('   ', [(54, 50), (54, 86)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 49...
+('   ', [(59, 53), (58, 88)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 52...
+('   ', [(59, 56), (59, 91)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 56...
+('   ', [(56, 56), (56, 91)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 58...
+('   ', [(51, 57), (51, 93)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 62...
+('   ', [(54, 48), (54, 83)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 63...
+('   ', [(30, 0), (6, 68)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 64...
+('   ', [(20, 2), (26, 42)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 65...
+('   ', [(59, 54), (59, 89)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 67...
+('   ', [(57, 57), (57, 90)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 73...
+('   ', [(53, 57), (53, 93)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 74...
+('   ', [(53, 46), (53, 81)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 78...
+('   ', [(1, 46), (1, 82)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 84...
+('   ', [(53, 52), (53, 87)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 86...
+('   ', [(27, 39), (59, 54)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 91...
+('   ', [(51, 57), (53, 93)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 92...
+('   ', [(55, 5), (5, 25)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 94...
+('   ', [(59, 54), (59, 90)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 97...
+('   ', [(58, 45), (58, 80)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 98...
+('   ', [(52, 44), (54, 80)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 99...
+('   ', [(51, 68), (50, 104)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 100...
+('   ', [(49, 61), (51, 96)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 102...
+('   ', [(53, 52), (53, 88)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 103...
+('   ', [(57, 51), (56, 87)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 106...
+('   ', [(0, 66), (59, 91)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 108...
+('   ', [(51, 57), (51, 92)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 109...
+('   ', [(55, 34), (55, 70)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 110...
+('   ', [(51, 52), (52, 88)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 111...
+('   ', [(55, 53), (55, 87)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 112...
+('   ', [(59, 51), (58, 86)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 113...
+('   ', [(12, 17), (51, 26)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 116...
+('   ', [(3, 54), (3, 89)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 117...
+('   ', [(52, 47), (50, 83)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 119...
+('   ', [(9, 51), (42, 126)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 129...
+('   ', [(3, 23), (19, 61)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 130...
+('   ', [(2, 0), (13, 93)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 132...
+('   ', [(9, 20), (19, 66)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 133...
+('   ', [(57, 68), (59, 104)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 134...
+('   ', [(36, 64), (4, 76)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 136...
+('   ', [(11, 5), (28, 11)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 139...
+('   ', [(53, 43), (53, 77)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 140...
+('   ', [(53, 52), (54, 86)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 141...
+('   ', [(29, 1), (58, 120)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 142...
+('   ', [(59, 49), (59, 85)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 143...
+('   ', [(59, 93), (4, 111)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 144...
+('   ', [(57, 50), (57, 84)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 145...
+('   ', [(52, 59), (52, 95)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 146...
+('   ', [(59, 58), (58, 93)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 149...
+('   ', [(54, 48), (53, 83)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 150...
+('   ', [(12, 44), (1, 53)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 153...
+('   ', [(7, 58), (6, 95)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 154...
+('   ', [(54, 46), (54, 81)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 155...
+('   ', [(39, 16), (1, 54)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 156...
+('   ', [(0, 2), (8, 50)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 158...
+('   ', [(59, 54), (59, 92)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 159...
+('   ', [(59, 51), (59, 86)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 163...
+('   ', [(57, 55), (57, 90)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 164...
+('   ', [(52, 50), (52, 86)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 165...
+('   ', [(59, 39), (59, 74)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 166...
+('   ', [(52, 60), (51, 100)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 167...
+('   ', [(55, 53), (55, 88)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 168...
+('   ', [(56, 52), (56, 87)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 171...
+('   ', [(59, 58), (59, 93)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 172...
+('   ', [(54, 53), (54, 88)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 173...
+('   ', [(6, 65), (10, 79)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 174...
+('   ', [(55, 53), (54, 88)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 175...
+('   ', [(58, 49), (57, 84)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 178...
+('   ', [(51, 50), (51, 86)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 180...
+('   ', [(59, 49), (59, 84)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 181...
+('   ', [(57, 55), (57, 90)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 182...
+('   ', [(0, 8), (51, 42)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 183...
+('   ', [(0, 6), (8, 121)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 184...
+('   ', [(2, 30), (16, 71)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 186...
+('   ', [(57, 51), (58, 86)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 188...
+('   ', [(0, 56), (0, 91)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 193...
+('   ', [(59, 47), (59, 83)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 198...
+26/09/2018 08:30:38.677	Info	Connected by ('127.0.0.1', 2841) --> command: ping
+26/09/2018 08:30:53.711	Info	Connected by ('127.0.0.1', 2858) --> command: ping
+26/09/2018 08:31:08.744	Info	Connected by ('127.0.0.1', 2863) --> command: ping
+26/09/2018 08:31:23.777	Info	Connected by ('127.0.0.1', 2868) --> command: ping
+26/09/2018 08:31:38.810	Info	Connected by ('127.0.0.1', 2873) --> command: ping
+26/09/2018 08:31:53.843	Info	Connected by ('127.0.0.1', 2879) --> command: ping
+26/09/2018 08:32:08.892	Info	Connected by ('127.0.0.1', 2884) --> command: ping
+26/09/2018 08:32:23.925	Info	Connected by ('127.0.0.1', 2889) --> command: ping
+26/09/2018 08:32:38.958	Info	Connected by ('127.0.0.1', 2894) --> command: ping
+26/09/2018 08:32:54.006	Info	Connected by ('127.0.0.1', 2900) --> command: ping
+26/09/2018 08:33:09.039	Info	Connected by ('127.0.0.1', 2905) --> command: ping
+Saving img ./media\20180926\180926073035000849.png...
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_dx_data @ get_dx_data 289 507
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.81299996376
+get_dx_data @ dx final: 35.385400000000004
+get_images @ Tiempo de procesado de las 200 imagenes: 138.970000029
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_seeing_thread @ 	This package contain 200 images...
+('   ', [(9, 63), (8, 99)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 4...
+('   ', [(7, 76), (8, 114)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 5...
+('   ', [(1, 51), (33, 81)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 6...
+('   ', [(1, 88), (1, 124)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 8...
+('   ', [(14, 56), (4, 108)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 10...
+('   ', [(0, 75), (0, 110)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 11...
+('   ', [(4, 69), (4, 105)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 25...
+('   ', [(7, 87), (7, 123)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 26...
+('   ', [(0, 72), (0, 108)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 29...
+('   ', [(3, 69), (2, 105)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 30...
+('   ', [(7, 85), (7, 120)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 33...
+('   ', [(16, 39), (8, 84)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 34...
+('   ', [(0, 72), (0, 108)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 59...
+('   ', [(51, 28), (6, 77)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 61...
+('   ', [(0, 69), (0, 104)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 64...
+('   ', [(0, 81), (0, 116)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 69...
+('   ', [(14, 25), (5, 75)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 71...
+('   ', [(0, 65), (0, 99)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 72...
+('   ', [(16, 42), (6, 85)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 83...
+('   ', [(5, 72), (5, 107)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 86...
+('   ', [(0, 68), (0, 104)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 88...
+('   ', [(53, 70), (53, 105)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 90...
+('   ', [(5, 75), (5, 110)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 92...
+('   ', [(2, 71), (2, 108)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 110...
+('   ', [(0, 67), (0, 103)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 111...
+('   ', [(0, 74), (0, 110)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 124...
+('   ', [(24, 14), (0, 72)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 143...
+('   ', [(41, 68), (53, 72)], 160.0, 60.0, 20.0)
+C1 OUT OF RANGE
+Discarding image 145...
+('   ', [(1, 9), (9, 42)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 158...
+('   ', [(6, 41), (0, 90)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 161...
+('   ', [(9, 75), (9, 110)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 167...
+('   ', [(10, 0), (5, 65)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 180...
+('   ', [(8, 78), (9, 114)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 182...
+('   ', [(5, 85), (6, 121)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 185...
+('   ', [(1, 66), (1, 103)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 189...
+('   ', [(54, 81), (54, 117)], 160.0, 60.0, 20.0)
+C0 OUT OF RANGE
+Discarding image 198...
+26/09/2018 08:33:24.244	Info	Connected by ('127.0.0.1', 2918) --> command: ping
+26/09/2018 08:33:39.434	Info	Connected by ('127.0.0.1', 2933) --> command: ping
+26/09/2018 08:33:54.467	Info	Connected by ('127.0.0.1', 2950) --> command: ping
+26/09/2018 08:34:09.500	Info	Connected by ('127.0.0.1', 2967) --> command: ping
+26/09/2018 08:34:24.908	Info	Connected by ('127.0.0.1', 2984) --> command: ping
+Saving img ./media\20180926\180926073325000167.png...
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_dx_data @ get_dx_data 292 525
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.36000013351
+get_dx_data @ dx final: 41.41196
+get_dx_data @ get_dx_data 292 525
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.32800006866
+get_dx_data @ dx final: 39.01096
+get_dx_data @ get_dx_data 292 525
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 5.03200006485
+get_dx_data @ dx final: 45.65462
+get_dx_data @ get_dx_data 292 525
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.18700003624
+get_dx_data @ dx final: 30.77412
+get_dx_data @ get_dx_data 292 525
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.7349998951
+get_dx_data @ dx final: 34.41916
+get_dx_data @ get_dx_data 292 525
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.21899986267
+get_dx_data @ dx final: 40.473220000000005
+get_dx_data @ get_dx_data 292 525
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.15600013733
+get_dx_data @ dx final: 35.746359999999996
+26/09/2018 08:35:07.400	Info	Connected by ('127.0.0.1', 3001) --> command: ping
+26/09/2018 08:35:22.715	Info	Connected by ('127.0.0.1', 3017) --> command: ping
+Saving img ./media\20180926\180926073509000682.png...
+get_dx_data @ get_dx_data 302 368
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.1099998951
+get_dx_data @ dx final: 33.78812
+get_dx_data @ get_dx_data 302 368
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.28200006485
+get_dx_data @ dx final: nan
+26/09/2018 08:36:07.908	Info	Connected by ('127.0.0.1', 3031) --> command: ping
+26/09/2018 08:36:44.022	Info	Connected by ('127.0.0.1', 3037) --> command: ping
+26/09/2018 08:36:59.602	Info	Connected by ('127.0.0.1', 3053) --> command: ping
+26/09/2018 08:37:15.119	Info	Connected by ('127.0.0.1', 3068) --> command: ping
+26/09/2018 08:37:31.058	Info	Connected by ('127.0.0.1', 3083) --> command: ping
+26/09/2018 08:37:47.342	Info	Connected by ('127.0.0.1', 3098) --> command: ping
+26/09/2018 08:38:02.609	Info	Connected by ('127.0.0.1', 3114) --> command: ping
+26/09/2018 08:38:19.236	Info	Connected by ('127.0.0.1', 3129) --> command: ping
+Saving img ./media\20180926\180926073646000897.png...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926073650000601.png...
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_move_matrix @ cell 1, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926073653000898.png...
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926073656000805.png...
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926073659000696.png...
+get_move_matrix @ cell 4, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926073703000102.png...
+get_move_matrix @ cell 5, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926073706000493.png...
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926073709000400.png...
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926073712000307.png...
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926073715000198.png...
+get_move_matrix @ cell 9, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926073718000604.png...
+get_move_matrix @ cell 10, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926073721000902.png...
+get_move_matrix @ cell 11, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926073725000308.png...
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926073728000199.png...
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926073731000200.png...
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926073734000106.png...
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.01439
+Saving img ./media\20180926\180926073737000310.png...
+get_move_matrix @ cell 16, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926073740000810.png...
+get_move_matrix @ cell 17, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926073744000107.png...
+get_move_matrix @ cell 18, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926073747000498.png...
+get_move_matrix @ cell 19, ra: 0.01439, dec: 0.0
+Saving img ./media\20180926\180926073750000905.png...
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926073753000906.png...
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926073756000906.png...
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926073759000797.png...
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926073802000735.png...
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.01439
+Saving img ./media\20180926\180926073805000610.png...
+get_move_matrix @ cell 25, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926073809000001.png...
+get_move_matrix @ cell 26, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926073812000502.png...
+get_move_matrix @ cell 27, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926073816000002.png...
+get_move_matrix @ cell 28, ra: -0.01439, dec: 0.0
+Saving img ./media\20180926\180926073819000409.png...
+get_move_matrix @ cell 29, ra: -0.01439, dec: 0.0
+26/09/2018 08:39:04.429	Info	Connected by ('127.0.0.1', 3143) --> command: ping
+26/09/2018 08:39:38.465	Info	Connected by ('127.0.0.1', 3151) --> command: ping
+26/09/2018 08:39:53.498	Info	Connected by ('127.0.0.1', 3167) --> command: ping
+26/09/2018 08:40:08.531	Info	Connected by ('127.0.0.1', 3184) --> command: ping
+26/09/2018 08:40:23.564	Info	Connected by ('127.0.0.1', 3205) --> command: ping
+26/09/2018 08:40:39.581	Info	Connected by ('127.0.0.1', 3222) --> command: ping
+26/09/2018 08:41:16.945	Info	Connected by ('127.0.0.1', 3233) --> command: ping
+26/09/2018 08:41:31.978	Info	Connected by ('127.0.0.1', 3238) --> command: ping
+26/09/2018 08:41:47.011	Info	Connected by ('127.0.0.1', 3243) --> command: ping
+26/09/2018 08:42:02.045	Info	Connected by ('127.0.0.1', 3249) --> command: ping
+Saving img ./media\20180926\180926073941000325.png...
+get_dx_data @ get_dx_data 291 101
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.09399986267
+get_dx_data @ dx final: 39.30514
+get_dx_data @ get_dx_data 291 101
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.65699982643
+get_dx_data @ dx final: 33.31788
+get_dx_data @ get_dx_data 291 101
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.75
+get_dx_data @ dx final: 33.229940000000006
+get_dx_data @ get_dx_data 291 101
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.79800009727
+get_dx_data @ dx final: 37.012719999999995
+get_dx_data @ get_dx_data 291 101
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.17199993134
+get_dx_data @ dx final: 30.94966
+get_dx_data @ get_dx_data 291 101
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.53199982643
+get_dx_data @ dx final: 38.80292
+get_dx_data @ get_dx_data 291 101
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 1.92200016975
+get_dx_data @ dx final: nan
+26/09/2018 08:42:17.093	Info	Connected by ('127.0.0.1', 3256) --> command: ping
+26/09/2018 08:42:54.160	Info	Connected by ('127.0.0.1', 3264) --> command: ping
+26/09/2018 08:43:09.303	Info	Connected by ('127.0.0.1', 3277) --> command: ping
+26/09/2018 08:43:25.742	Info	Connected by ('127.0.0.1', 3296) --> command: ping
+Saving img ./media\20180926\180926074257000036.png...
+get_dx_data @ get_dx_data 363 261
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.45300006866
+get_dx_data @ dx final: 47.33614
+get_dx_data @ get_dx_data 363 261
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.21900010109
+get_dx_data @ dx final: 36.24534
+get_dx_data @ get_dx_data 363 261
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.17199993134
+get_dx_data @ dx final: 59.22318
+get_dx_data @ get_dx_data 363 261
+get_window @ could not broadcast input array from shape (12) into shape (20)
+get_window @ could not broadcast input array from shape (12) into shape (20)
+get_window @ could not broadcast input array from shape (12) into shape (20)
+get_window @ could not broadcast input array from shape (12) into shape (20)
+get_window @ could not broadcast input array from shape (12) into shape (20)
+get_window @ could not broadcast input array from shape (12) into shape (20)
+get_window @ could not broadcast input array from shape (12) into shape (20)
+get_window @ could not broadcast input array from shape (12) into shape (20)
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.26600003242
+get_dx_data @ dx final: nan
+26/09/2018 08:43:47.573	Info	Connected by ('127.0.0.1', 3306) --> command: stop
+26/09/2018 08:44:03.325	Info	Connected by ('127.0.0.1', 3312) --> command: ping
+26/09/2018 08:44:18.358	Info	Connected by ('127.0.0.1', 3326) --> command: ping
+Saving img ./media\20180926\180926074406000248.png...
+get_dx_data @ get_dx_data 304 349
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.75100016594
+get_dx_data @ dx final: nan
+--END--
+26/09/2018 08:44:33.391	Info	Connected by ('127.0.0.1', 3334) --> command: ping
+26/09/2018 08:44:48.096	Info	Connected by ('127.0.0.1', 3335) --> command: switch_off
+26/09/2018 08:46:13.932	Info	Connected by ('127.0.0.1', 3343) --> command: ping
+26/09/2018 08:46:13.932	Info	Connected by ('127.0.0.1', 3359) --> command: ping
+26/09/2018 08:46:28.965	Info	Connected by ('127.0.0.1', 3366) --> command: ping
+26/09/2018 08:46:34.997	Info	Connected by ('127.0.0.1', 3367) --> command: shutdown
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 

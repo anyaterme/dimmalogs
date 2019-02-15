@@ -1,0 +1,236 @@
+
+18/10/2018 18:24:28.123	Info	
+
+18/10/2018 18:24:28.123	Info	--- INICIALIZANDO EL TELESCOPIO ---
+
+18/10/2018 18:24:28.123	Debg	---------------------------------------------
+18/10/2018 18:24:28.123	Debg	-------------------- Meteo ------------------
+18/10/2018 18:24:28.123	Debg	---------------------------------------------
+18/10/2018 18:24:30.186	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+18/10/2018 18:24:30.186	Info		Wind speed: 19.9 km/h -- Humidity: 11.0 % -- Dust: 0.0008 m-3
+
+18/10/2018 18:24:30.186	Debg	---------------------------------------------
+18/10/2018 18:24:30.186	Debg	------------------ Get Ready ----------------
+18/10/2018 18:24:30.186	Debg	---------------------------------------------
+18/10/2018 18:24:30.186	Info	Abriendo cupula (este proceso puede tardar unos minutos)...
+18/10/2018 18:24:30.201	Info	Abriendo cupula lado A...
+18/10/2018 18:25:00.442	Info	Lado A abierto
+18/10/2018 18:25:03.442	Info	Abriendo cupula lado B...
+18/10/2018 18:25:33.651	Info	Lado B abierto
+18/10/2018 18:25:33.667	Info	Cupula abierta
+18/10/2018 18:25:33.667	Info	Encendiendo la montura...
+18/10/2018 18:25:33.667	Info	Montura encendida
+18/10/2018 18:25:43.669	Info	Encendiendo el foco...
+18/10/2018 18:25:43.685	Info	Foco encendida
+18/10/2018 18:25:43.685	Info	Llevando la montura al home...
+18/10/2018 18:26:01.532	Info	Montura en el home
+18/10/2018 18:26:01.532	Info	--- Listo para empezar observacion ---
+
+18/10/2018 18:26:01.532	Info	--- INICIANDO OBSERVACION ---
+
+18/10/2018 18:26:06.408	Error(set control): 	[Errno 2] No such file or directory: 'C:\\DIMMA\\dimma-master\\git\\dimma\\deploy\\agent\\libs\\..\\configs/control.json'
+18/10/2018 18:26:06.408	Error(get config): 	[Errno 2] No such file or directory: 'C:\\DIMMA\\dimma-master\\git\\dimma\\deploy\\agent\\libs\\..\\configs/control.json'
+18/10/2018 18:26:06.423	Debg	---------------------------------------------
+18/10/2018 18:26:06.423	Debg	-------------------- Meteo ------------------
+18/10/2018 18:26:06.423	Debg	---------------------------------------------
+18/10/2018 18:26:08.439	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+18/10/2018 18:26:08.439	Info		Wind speed: 16.3 km/h -- Humidity: 11.8 % -- Dust: 0.0009 m-3
+
+18/10/2018 18:26:08.439	Debg	---------------------------------------------
+18/10/2018 18:26:08.439	Debg	---------------- Star Selection -------------
+18/10/2018 18:26:08.439	Debg	---------------------------------------------
+18/10/2018 18:26:08.439	Info	Seleccionando estella...
+18/10/2018 18:27:10.983	Info	Estella seleccionada --> Altair
+	airmass: 1.167802
+	ha hours: hms_tuple(h=-1.0, m=-43.0, s=-24.120688758517588)
+	ra: 19.861230
+	dec: 8.920246
+18/10/2018 18:27:10.983	Info	*** Seleccion de estrella: 62.54 ***
+18/10/2018 18:27:10.983	Debg	---------------------------------------------
+18/10/2018 18:27:10.983	Debg	-------------- Check spots ------------------
+18/10/2018 18:27:10.983	Debg	---------------------------------------------
+18/10/2018 18:27:10.983	Info	Centrando spots...
+18/10/2018 18:27:14.062	Info	Intento 0
+18/10/2018 18:27:15.390	Info	Ventana de spots fuera de rango (cx: 565 - cy: 345 - left: 80 - right: 560 - down: 30 - up: 450)
+18/10/2018 18:27:15.390	Info	Moviendo telescopio...
+18/10/2018 18:27:16.594	Info	Intento 1
+18/10/2018 18:27:17.969	Info	DX fuera de rango (dx: 178.0 - min: 25.0 - max: 45.0)
+18/10/2018 18:27:17.969	Info	Moviendo telescopio...
+18/10/2018 18:27:20.079	Info	Intento 2
+18/10/2018 18:27:21.157	Info	Moviendo telescopio...
+18/10/2018 18:27:22.454	Info	Intento 3
+18/10/2018 18:27:23.532	Info	Moviendo telescopio...
+18/10/2018 18:27:24.798	Info	Intento 4
+18/10/2018 18:27:25.877	Info	Moviendo telescopio...
+18/10/2018 18:27:28.127	Info	Intento 5
+18/10/2018 18:27:32.081	Info	Los spots estan centrados
+18/10/2018 18:27:32.081	Info	*** Centrado de spots: 21.1 ***
+18/10/2018 18:27:32.081	Debg	---------------------------------------------
+18/10/2018 18:27:32.081	Debg	--------------- Check focal -----------------
+18/10/2018 18:27:32.081	Debg	---------------------------------------------
+18/10/2018 18:27:32.081	Info	Comprobando el foco...
+18/10/2018 18:27:32.081	Info	Intento 0
+18/10/2018 18:27:39.879	Info	DX: 33.51 (MIN: 34.5 - MAX: 35.5)
+18/10/2018 18:27:39.879	Info	Moviendo el foco...
+18/10/2018 18:27:40.473	Info	Intento 1
+18/10/2018 18:27:48.334	Info	DX: 35.06 (MIN: 34.5 - MAX: 35.5)
+18/10/2018 18:27:48.334	Info	La imagen esta enfocada
+18/10/2018 18:27:48.334	Info	*** Enfocado: 16.25 ***
+18/10/2018 18:27:48.334	Info	*** Seleccion de estrella: 99.9 ***
+18/10/2018 18:27:48.334	Debg	---------------------------------------------
+18/10/2018 18:27:48.334	Debg	---------- Generating datas file ------------
+18/10/2018 18:27:48.334	Debg	---------------------------------------------
+18/10/2018 18:27:48.334	Info	##### PACK: OT_P4S99O_181018182748
+18/10/2018 18:29:49.030	Info	##### (OT_P4S99O_181018182748) Se ha generado el fichero: D:/DIMMLAB\18_10_18\OT181018172937.txt
+18/10/2018 18:29:49.030	Info	*** Generacion del fichero 120.7
+18/10/2018 18:29:49.046	Debg	---------------------------------------------
+18/10/2018 18:29:49.046	Debg	------------ Calculating seeing -------------
+18/10/2018 18:29:49.046	Debg	---------------------------------------------
+18/10/2018 18:29:50.374	Info	Paquete OT_P4S99O_181018182748 no es valido
+18/10/2018 18:29:51.030	Info	###### (OT_P4S99O_181018182748) SEEING: 0.0 (used imgs: 0)
+18/10/2018 18:29:51.030	Info	*** Calculo del seeing 1.98
+18/10/2018 18:29:51.030	Info	*** Procesado de datos: 122.7 ***
+18/10/2018 18:29:51.030	Info	*** TIEMPO TOTAL ITERACION: 222.59 ***
+18/10/2018 18:29:51.030	Debg	---------------------------------------------
+18/10/2018 18:29:51.030	Debg	-------------------- Meteo ------------------
+18/10/2018 18:29:51.030	Debg	---------------------------------------------
+18/10/2018 18:29:52.781	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+18/10/2018 18:29:52.781	Info		Wind speed: 16.3 km/h -- Humidity: 11.8 % -- Dust: 0.0009 m-3
+
+18/10/2018 18:29:52.781	Debg	---------------------------------------------
+18/10/2018 18:29:52.796	Debg	---------------- Star Selection -------------
+18/10/2018 18:29:52.796	Debg	---------------------------------------------
+18/10/2018 18:29:52.796	Info	Comprobando que la estella es observable...
+18/10/2018 18:29:53.281	info	La estrella sigue siendo observable(Altair)
+18/10/2018 18:29:54.516	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.72336685799', 'az': '123.484544', 'name': 'Altair', 'airmass': '1.167802', 'ha_hours': 'hms_tuple(h=-1.0, m=-43.0, s=-24.120688758517588)', 'alt': '58.904517', 'dec': '8.920246', 'magnitude': '0.760000', 'ra': '19.861230'}
+18/10/2018 18:29:54.516	Info	*** Seleccion de estrella: 1.72 ***
+18/10/2018 18:29:54.531	Debg	---------------------------------------------
+18/10/2018 18:29:54.531	Debg	-------------- Check spots ------------------
+18/10/2018 18:29:54.531	Debg	---------------------------------------------
+18/10/2018 18:29:54.531	Info	Centrando spots...
+18/10/2018 18:29:56.547	Info	Intento 0
+18/10/2018 18:30:00.485	Info	Los spots estan centrados
+18/10/2018 18:30:00.485	Info	*** Centrado de spots: 5.95 ***
+18/10/2018 18:30:00.485	Debg	---------------------------------------------
+18/10/2018 18:30:00.485	Debg	--------------- Check focal -----------------
+18/10/2018 18:30:00.485	Debg	---------------------------------------------
+18/10/2018 18:30:00.485	Info	Comprobando el foco...
+18/10/2018 18:30:00.485	Info	Intento 0
+18/10/2018 18:30:00.876	Info	DX: 32.95 (MIN: 34.5 - MAX: 35.5)
+18/10/2018 18:30:00.876	Info	Moviendo el foco...
+18/10/2018 18:30:01.251	Info	Intento 1
+18/10/2018 18:30:09.065	Info	DX: 36.05 (MIN: 34.5 - MAX: 35.5)
+18/10/2018 18:30:09.065	Info	Moviendo el foco...
+18/10/2018 18:30:09.565	Info	Intento 2
+18/10/2018 18:30:14.238	Info	Maximos fuera de rango (diff: 808.0 - nsigma: 539.2901696081947)
+18/10/2018 18:30:14.301	Info	Maximos fuera de rango (diff: 761.0 - nsigma: 581.0494930301219)
+18/10/2018 18:30:16.957	Info	DX: 36.49 (MIN: 34.5 - MAX: 35.5)
+18/10/2018 18:30:16.957	Info	Moviendo el foco...
+18/10/2018 18:30:17.364	Info	Intento 3
+18/10/2018 18:30:25.115	Info	DX: 36.41 (MIN: 34.5 - MAX: 35.5)
+18/10/2018 18:30:25.115	Info	Moviendo el foco...
+18/10/2018 18:30:25.506	Info	Intento 4
+18/10/2018 18:30:34.407	Info	DX: 35.57 (MIN: 34.5 - MAX: 35.5)
+18/10/2018 18:30:34.407	Info	Moviendo el foco...
+18/10/2018 18:30:34.766	Info	Intento 5
+18/10/2018 18:30:42.643	Info	DX: 35.75 (MIN: 34.5 - MAX: 35.5)
+18/10/2018 18:30:42.643	Info	Moviendo el foco...
+18/10/2018 18:30:43.080	Info	Intento 6
+18/10/2018 18:30:51.613	Info	DX: 34.76 (MIN: 34.5 - MAX: 35.5)
+18/10/2018 18:30:51.613	Info	La imagen esta enfocada
+18/10/2018 18:30:51.629	Info	*** Enfocado: 51.14 ***
+18/10/2018 18:30:51.629	Info	*** Seleccion de estrella: 58.85 ***
+18/10/2018 18:30:51.629	Debg	---------------------------------------------
+18/10/2018 18:30:51.629	Debg	---------- Generating datas file ------------
+18/10/2018 18:30:51.629	Debg	---------------------------------------------
+18/10/2018 18:30:51.629	Info	##### PACK: OT_XKQ501_181018183051
+18/10/2018 18:32:54.841	Info	##### (OT_XKQ501_181018183051) Se ha generado el fichero: D:/DIMMLAB\18_10_18\OT181018173242.txt
+18/10/2018 18:32:54.841	Info	*** Generacion del fichero 123.21
+18/10/2018 18:32:54.856	Debg	---------------------------------------------
+18/10/2018 18:32:54.856	Debg	------------ Calculating seeing -------------
+18/10/2018 18:32:54.856	Debg	---------------------------------------------
+18/10/2018 18:32:58.404	Info	###### (OT_XKQ501_181018183051) SEEING: 2.115104678328712 (used imgs: 185)
+18/10/2018 18:32:58.404	Info	*** Calculo del seeing 3.55
+18/10/2018 18:32:58.404	Info	*** Procesado de datos: 126.78 ***
+18/10/2018 18:32:58.404	Info	*** TIEMPO TOTAL ITERACION: 185.62 ***
+18/10/2018 18:32:58.420	Debg	---------------------------------------------
+18/10/2018 18:32:58.420	Debg	-------------------- Meteo ------------------
+18/10/2018 18:32:58.420	Debg	---------------------------------------------
+18/10/2018 18:33:00.623	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+18/10/2018 18:33:00.623	Info		Wind speed: 15.5 km/h -- Humidity: 10.9 % -- Dust: 0.001 m-3
+
+18/10/2018 18:33:00.639	Debg	---------------------------------------------
+18/10/2018 18:33:00.639	Debg	---------------- Star Selection -------------
+18/10/2018 18:33:00.639	Debg	---------------------------------------------
+18/10/2018 18:33:00.639	Info	Comprobando que la estella es observable...
+18/10/2018 18:33:01.358	info	La estrella sigue siendo observable(Altair)
+18/10/2018 18:33:02.717	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.63979421625', 'az': '125.129169', 'name': 'Altair', 'airmass': '1.156845', 'ha_hours': 'hms_tuple(h=-1.0, m=-38.0, s=-23.25917849181252)', 'alt': '59.816310', 'dec': '8.920246', 'magnitude': '0.760000', 'ra': '19.861230'}
+18/10/2018 18:33:02.717	Info	*** Seleccion de estrella: 2.08 ***
+18/10/2018 18:33:02.717	Debg	---------------------------------------------
+18/10/2018 18:33:02.717	Debg	-------------- Check spots ------------------
+18/10/2018 18:33:02.717	Debg	---------------------------------------------
+18/10/2018 18:33:02.717	Info	Centrando spots...
+18/10/2018 18:33:04.749	Info	Intento 0
+18/10/2018 18:33:08.734	Info	Los spots estan centrados
+18/10/2018 18:33:08.734	Info	*** Centrado de spots: 6.02 ***
+18/10/2018 18:33:08.734	Debg	---------------------------------------------
+18/10/2018 18:33:08.734	Debg	--------------- Check focal -----------------
+18/10/2018 18:33:08.734	Debg	---------------------------------------------
+18/10/2018 18:33:08.734	Info	Comprobando el foco...
+18/10/2018 18:33:08.734	Info	Intento 0
+18/10/2018 18:33:09.140	Info	DX: 34.04 (MIN: 34.5 - MAX: 35.5)
+18/10/2018 18:33:09.140	Info	Moviendo el foco...
+18/10/2018 18:33:09.641	Info	Intento 1
+18/10/2018 18:33:17.564	Info	DX: 33.77 (MIN: 34.5 - MAX: 35.5)
+18/10/2018 18:33:17.564	Info	Moviendo el foco...
+18/10/2018 18:33:17.908	Info	Intento 2
+18/10/2018 18:33:27.660	Info	DX: 34.31 (MIN: 34.5 - MAX: 35.5)
+18/10/2018 18:33:27.660	Info	Moviendo el foco...
+18/10/2018 18:33:28.035	Info	Intento 3
+18/10/2018 18:33:33.895	Info	Maximos fuera de rango (diff: 601.0 - nsigma: 576.6320498771573)
+18/10/2018 18:33:36.505	Info	DX: 35.04 (MIN: 34.5 - MAX: 35.5)
+18/10/2018 18:33:36.505	Info	La imagen esta enfocada
+18/10/2018 18:33:36.505	Info	*** Enfocado: 27.77 ***
+18/10/2018 18:33:36.505	Info	*** Seleccion de estrella: 35.88 ***
+18/10/2018 18:33:36.505	Debg	---------------------------------------------
+18/10/2018 18:33:36.505	Debg	---------- Generating datas file ------------
+18/10/2018 18:33:36.505	Debg	---------------------------------------------
+18/10/2018 18:33:36.521	Info	##### PACK: OT_KA6N6B_181018183336
+18/10/2018 18:36:33.337	Info	##### (OT_KA6N6B_181018183336) Se ha generado el fichero: D:/DIMMLAB\18_10_18\OT181018173621.txt
+18/10/2018 18:36:33.337	Info	*** Generacion del fichero 176.83
+18/10/2018 18:36:33.337	Debg	---------------------------------------------
+18/10/2018 18:36:33.337	Debg	------------ Calculating seeing -------------
+18/10/2018 18:36:33.337	Debg	---------------------------------------------
+18/10/2018 18:36:34.697	Info	
+
+18/10/2018 18:36:34.697	Info	--- PARANDO OBSERVACION ---
+
+18/10/2018 18:36:34.697	Info	Indicando fin del proceso...
+18/10/2018 18:36:35.744	Info	Paquete OT_KA6N6B_181018183336 no es valido
+18/10/2018 18:36:36.432	Info	###### (OT_KA6N6B_181018183336) SEEING: 0.0 (used imgs: 0)
+18/10/2018 18:36:36.432	Info	*** Calculo del seeing 3.1
+18/10/2018 18:36:36.432	Info	*** Procesado de datos: 179.93 ***
+18/10/2018 18:36:36.432	Info	*** TIEMPO TOTAL ITERACION: 215.81 ***
+18/10/2018 18:36:36.432	Debg	---------------------------------------------
+18/10/2018 18:36:36.432	Debg	-------------------- Meteo ------------------
+18/10/2018 18:36:36.432	Debg	---------------------------------------------
+18/10/2018 18:36:37.948	Info	Estacion de referencia: http://vivaldi.ll.iac.es/OOCC/observing-tool/ot-meteorology/ 
+18/10/2018 18:36:37.948	Info		Wind speed: 20.8 km/h -- Humidity: 10.4 % -- Dust: 0.001 m-3
+
+18/10/2018 18:36:37.948	Info	Parando la observacion...
+18/10/2018 18:36:37.948	Info	 --- OBSERVACION TERMINADA ---
+18/10/2018 18:36:39.698	Info	--- CERRANDO EL TELESCOPIO ---
+
+18/10/2018 18:36:39.698	Debg	---------------------------------------------
+18/10/2018 18:36:39.698	Debg	------------------ Switch Off ---------------
+18/10/2018 18:36:39.713	Debg	---------------------------------------------
+18/10/2018 18:36:39.713	Info	Llevando la montura al home...
+18/10/2018 18:37:58.167	Info	Montura en el home
+18/10/2018 18:37:58.167	Info	Apagando la montura...
+18/10/2018 18:37:58.198	Info	Montura apagada
+18/10/2018 18:38:08.200	Info	Apagando el foco...
+18/10/2018 18:38:08.215	Info	Foco apagado
+18/10/2018 18:38:08.215	Info	Cerrando cupula...
+18/10/2018 18:38:51.583	Info	Cupula cerrada
+18/10/2018 18:38:51.583	Info	--- TELESCOPIO CERRADO ---
+

@@ -1,0 +1,2217 @@
+
+date: 03/07/2018 00:02:10.577	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:02:10.593	code: Info	test: Centrando spots...
+date: 03/07/2018 00:02:13.125	code: Info	test: Intento 1
+date: 03/07/2018 00:04:10.291	code: Error (center spots)	test: list index out of range
+date: 03/07/2018 00:04:10.291	code: Info	test: Intento 2
+date: 03/07/2018 00:05:04.084	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:05:04.099	code: Info	test: Centrando spots...
+date: 03/07/2018 00:05:07.272	code: Info	test: Intento 1
+date: 03/07/2018 00:05:18.212	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 00:05:18.227	code: Info	test: Comprobando el foco...
+date: 03/07/2018 00:05:18.227	code: Info	test: Intento 0
+date: 03/07/2018 00:05:30.246	code: Error (get dx dat)	test: global name 'dx_aux' is not defined
+date: 03/07/2018 00:05:30.261	code: Error (check focal points)	test: global name 'min_fp' is not defined
+date: 03/07/2018 00:05:30.261	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 00:17:11.381	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:17:11.396	code: Info	test: Centrando spots...
+date: 03/07/2018 00:17:13.459	code: Info	test: Intento 1
+date: 03/07/2018 00:17:49.467	code: Error (center spots)	test: list index out of range
+date: 03/07/2018 00:17:49.467	code: Info	test: Intento 2
+date: 03/07/2018 00:18:34.446	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:18:34.446	code: Info	test: Centrando spots...
+date: 03/07/2018 00:18:36.509	code: Info	test: Intento 1
+date: 03/07/2018 00:18:45.854	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 00:18:45.854	code: Info	test: Comprobando el foco...
+date: 03/07/2018 00:18:45.870	code: Info	test: Intento 0
+date: 03/07/2018 00:18:59.451	code: Error (get dx dat)	test: float division by zero
+date: 03/07/2018 00:18:59.451	code: Info	test: DX: 0.0
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:18:59.451	code: Info	test: Moviendo el foco...
+date: 03/07/2018 00:18:59.467	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 00:26:05.795	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:26:05.810	code: Info	test: Centrando spots...
+date: 03/07/2018 00:26:08.795	code: Info	test: Intento 1
+date: 03/07/2018 00:26:18.860	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 00:26:18.860	code: Info	test: Comprobando el foco...
+date: 03/07/2018 00:26:18.860	code: Info	test: Intento 0
+date: 03/07/2018 00:26:33.957	code: Error (get dx dat)	test: float division by zero
+date: 03/07/2018 00:26:33.957	code: Info	test: DX: 0.0
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:26:33.957	code: Info	test: Moviendo el foco...
+date: 03/07/2018 00:26:33.957	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 00:29:00.973	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:29:00.989	code: Info	test: Centrando spots...
+date: 03/07/2018 00:29:03.052	code: Info	test: Intento 1
+date: 03/07/2018 00:30:14.020	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:30:14.036	code: Info	test: Centrando spots...
+date: 03/07/2018 00:30:16.099	code: Info	test: Intento 1
+date: 03/07/2018 00:30:25.648	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 00:30:25.648	code: Info	test: Comprobando el foco...
+date: 03/07/2018 00:30:25.648	code: Info	test: Intento 0
+date: 03/07/2018 00:30:25.648	code: Error (get dx dat)	test: not enough arguments for format string
+date: 03/07/2018 00:30:25.648	code: Info	test: DX: 0.0
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:30:25.648	code: Info	test: Moviendo el foco...
+date: 03/07/2018 00:30:25.648	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 00:31:38.479	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:31:38.495	code: Info	test: Centrando spots...
+date: 03/07/2018 00:31:40.558	code: Info	test: Intento 1
+date: 03/07/2018 00:31:49.435	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 00:31:49.435	code: Info	test: Comprobando el foco...
+date: 03/07/2018 00:31:49.435	code: Info	test: Intento 0
+date: 03/07/2018 00:33:17.923	code: Info	test: DX: 36.24316
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:33:17.923	code: Info	test: Moviendo el foco...
+date: 03/07/2018 00:33:17.923	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 00:36:31.277	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:36:31.277	code: Info	test: Centrando spots...
+date: 03/07/2018 00:36:33.340	code: Info	test: Intento 1
+date: 03/07/2018 00:36:43.108	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 00:36:43.108	code: Info	test: Comprobando el foco...
+date: 03/07/2018 00:36:43.108	code: Info	test: Intento 0
+date: 03/07/2018 00:38:09.486	code: Info	test: DX: 35.590035
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:38:09.502	code: Info	test: Moviendo el foco...
+date: 03/07/2018 00:38:09.502	code: Info	test: Intento 1
+date: 03/07/2018 00:39:35.145	code: Info	test: DX: 35.94541999999999
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:39:35.145	code: Info	test: Moviendo el foco...
+date: 03/07/2018 00:39:35.145	code: Info	test: Intento 2
+date: 03/07/2018 00:41:20.074	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:41:20.090	code: Info	test: Centrando spots...
+date: 03/07/2018 00:41:22.153	code: Info	test: Intento 1
+date: 03/07/2018 00:42:33.107	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:42:33.107	code: Info	test: Centrando spots...
+date: 03/07/2018 00:42:35.264	code: Info	test: Intento 1
+date: 03/07/2018 00:42:45.672	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 00:42:45.672	code: Info	test: Comprobando el foco...
+date: 03/07/2018 00:42:45.688	code: Info	test: Intento 0
+date: 03/07/2018 00:42:55.174	code: Info	test: DX: 36.286545000000004
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:42:55.190	code: Info	test: Moviendo el foco...
+date: 03/07/2018 00:42:55.190	code: Info	test: Intento 1
+date: 03/07/2018 00:43:04.880	code: Info	test: DX: 36.390544999999996
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:43:04.880	code: Info	test: Moviendo el foco...
+date: 03/07/2018 00:43:04.880	code: Info	test: Intento 2
+date: 03/07/2018 00:43:14.647	code: Info	test: DX: 35.25935
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:43:14.647	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 00:52:50.145	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:52:50.145	code: Info	test: Centrando spots...
+date: 03/07/2018 00:52:52.271	code: Info	test: Intento 1
+date: 03/07/2018 00:53:01.523	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 00:53:01.523	code: Info	test: Comprobando el foco...
+date: 03/07/2018 00:53:01.523	code: Info	test: Intento 0
+date: 03/07/2018 00:53:11.337	code: Info	test: DX: 36.349289999999996
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:53:11.337	code: Info	test: Moviendo el foco...
+date: 03/07/2018 00:53:11.353	code: Info	test: Intento 1
+date: 03/07/2018 00:53:21.074	code: Info	test: DX: 34.90474
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:53:21.074	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 00:56:28.880	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:56:28.880	code: Info	test: Centrando spots...
+date: 03/07/2018 00:56:30.943	code: Info	test: Intento 1
+date: 03/07/2018 00:56:39.930	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 00:56:39.930	code: Info	test: Comprobando el foco...
+date: 03/07/2018 00:56:39.930	code: Info	test: Intento 0
+date: 03/07/2018 00:56:49.354	code: Info	test: DX: 36.029935
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:56:49.354	code: Info	test: Moviendo el foco...
+date: 03/07/2018 00:56:49.369	code: Info	test: Intento 1
+date: 03/07/2018 00:56:59.168	code: Info	test: DX: 36.140204999999995
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:56:59.168	code: Info	test: Moviendo el foco...
+date: 03/07/2018 00:56:59.184	code: Info	test: Intento 2
+date: 03/07/2018 00:57:08.826	code: Info	test: DX: 35.39189
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:57:08.826	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 00:59:22.590	code: Info	test: Inicio del proceso
+date: 03/07/2018 00:59:22.606	code: Info	test: Centrando spots...
+date: 03/07/2018 00:59:24.669	code: Info	test: Intento 1
+date: 03/07/2018 00:59:34.249	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 00:59:34.264	code: Info	test: Comprobando el foco...
+date: 03/07/2018 00:59:34.264	code: Info	test: Intento 0
+date: 03/07/2018 00:59:44.063	code: Info	test: DX: 36.499385000000004
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:59:44.063	code: Info	test: Moviendo el foco...
+date: 03/07/2018 00:59:44.110	code: Info	test: Intento 1
+date: 03/07/2018 00:59:53.737	code: Info	test: DX: 35.488255
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 00:59:53.737	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 01:03:28.955	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:03:28.971	code: Info	test: Centrando spots...
+date: 03/07/2018 01:03:31.034	code: Info	test: Intento 1
+date: 03/07/2018 01:03:39.598	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 01:03:39.598	code: Info	test: Comprobando el foco...
+date: 03/07/2018 01:03:39.614	code: Info	test: Intento 0
+date: 03/07/2018 01:03:49.241	code: Info	test: DX: 36.406530000000004
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:03:49.241	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:03:49.288	code: Info	test: Intento 1
+date: 03/07/2018 01:03:58.805	code: Info	test: DX: 37.58065
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:03:58.805	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:03:59.821	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexi�n ya que el equipo de destino ha denegado activamente dicha conexi�n
+date: 03/07/2018 01:03:59.821	code: Error (check focal points)	test: global name 'messages' is not defined
+date: 03/07/2018 01:03:59.821	code: Info	test: Intento 2
+date: 03/07/2018 01:04:09.901	code: Info	test: DX: 36.57998
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:04:09.901	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:05:39.905	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:05:39.905	code: Info	test: Centrando spots...
+date: 03/07/2018 01:05:41.984	code: Info	test: Intento 1
+date: 03/07/2018 01:05:50.470	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 01:05:50.470	code: Info	test: Comprobando el foco...
+date: 03/07/2018 01:05:50.470	code: Info	test: Intento 0
+date: 03/07/2018 01:06:00.363	code: Info	test: DX: 37.44189
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:06:00.363	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:06:00.488	code: Info	test: Intento 1
+date: 03/07/2018 01:06:10.131	code: Info	test: DX: 36.64904
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:06:10.131	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:06:11.209	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexi�n ya que el equipo de destino ha denegado activamente dicha conexi�n
+date: 03/07/2018 01:06:11.209	code: Error (check focal points)	test: global name 'messages' is not defined
+date: 03/07/2018 01:06:11.209	code: Info	test: Intento 2
+date: 03/07/2018 01:06:20.805	code: Info	test: DX: 38.042895
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:06:20.805	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:06:21.774	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexi�n ya que el equipo de destino ha denegado activamente dicha conexi�n
+date: 03/07/2018 01:06:21.774	code: Error (check focal points)	test: global name 'messages' is not defined
+date: 03/07/2018 01:07:05.830	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:07:05.846	code: Info	test: Centrando spots...
+date: 03/07/2018 01:07:07.909	code: Info	test: Intento 1
+date: 03/07/2018 01:07:12.910	code: Info	test: Setting position to az:-0.015296, alt:-0.009830 from star
+date: 03/07/2018 01:07:14.223	code: Info	test: Intento 2
+date: 03/07/2018 01:07:19.396	code: Info	test: Setting position to az:-0.010952, alt:-0.023981 from star
+date: 03/07/2018 01:07:20.662	code: Info	test: Intento 3
+date: 03/07/2018 01:07:22.803	code: Info	test: Setting position to az:0.004916, alt:-0.034194 from star
+date: 03/07/2018 01:07:24.444	code: Info	test: Intento 4
+date: 03/07/2018 01:07:26.554	code: Info	test: Setting position to az:0.027980, alt:-0.032291 from star
+date: 03/07/2018 01:07:28.398	code: Info	test: Intento 5
+date: 03/07/2018 01:07:31.539	code: Info	test: Setting position to az:0.048847, alt:-0.014343 from star
+date: 03/07/2018 01:07:33.227	code: Info	test: Intento 6
+date: 03/07/2018 01:07:35.321	code: Info	test: Setting position to az:0.056697, alt:0.016648 from star
+date: 03/07/2018 01:07:36.837	code: Info	test: Intento 7
+date: 03/07/2018 01:07:38.931	code: Info	test: Setting position to az:0.044054, alt:0.050841 from star
+date: 03/07/2018 01:07:40.416	code: Info	test: Intento 8
+date: 03/07/2018 01:07:42.510	code: Info	test: Setting position to az:0.010738, alt:0.074687 from star
+date: 03/07/2018 01:07:44.386	code: Info	test: Intento 9
+date: 03/07/2018 01:07:46.495	code: Info	test: Setting position to az:-0.034744, alt:0.076078 from star
+date: 03/07/2018 01:07:48.543	code: Info	test: Intento 10
+date: 03/07/2018 01:07:50.653	code: Info	test: Setting position to az:-0.077242, alt:0.049641 from star
+date: 03/07/2018 01:07:52.778	code: Info	test: Intento 11
+date: 03/07/2018 01:07:54.872	code: Info	test: Setting position to az:-0.100000, alt:0.000000 from star
+date: 03/07/2018 01:07:56.701	code: Info	test: Intento 12
+date: 03/07/2018 01:07:58.811	code: Info	test: Setting position to az:-0.010000, alt:-0.000000 from star
+date: 03/07/2018 01:08:02.561	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 01:08:45.618	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:08:45.633	code: Info	test: Centrando spots...
+date: 03/07/2018 01:08:47.743	code: Info	test: Intento 1
+date: 03/07/2018 01:08:53.557	code: Info	test: Setting position to az:-0.015296, alt:-0.009830 from star
+date: 03/07/2018 01:08:54.870	code: Info	test: Intento 2
+date: 03/07/2018 01:09:00.933	code: Info	test: Setting position to az:-0.010952, alt:-0.023981 from star
+date: 03/07/2018 01:09:02.434	code: Info	test: Intento 3
+date: 03/07/2018 01:09:08.091	code: Info	test: Setting position to az:0.004916, alt:-0.034194 from star
+date: 03/07/2018 01:09:09.826	code: Info	test: Intento 4
+date: 03/07/2018 01:09:11.920	code: Info	test: Setting position to az:0.027980, alt:-0.032291 from star
+date: 03/07/2018 01:09:13.671	code: Info	test: Intento 5
+date: 03/07/2018 01:09:17.984	code: Info	test: Setting position to az:0.048847, alt:-0.014343 from star
+date: 03/07/2018 01:09:19.688	code: Info	test: Intento 6
+date: 03/07/2018 01:09:21.782	code: Info	test: Setting position to az:0.056697, alt:0.016648 from star
+date: 03/07/2018 01:09:23.079	code: Info	test: Intento 7
+date: 03/07/2018 01:09:25.157	code: Info	test: Setting position to az:0.044054, alt:0.050841 from star
+date: 03/07/2018 01:09:26.689	code: Info	test: Intento 8
+date: 03/07/2018 01:09:28.768	code: Info	test: Setting position to az:0.010738, alt:0.074687 from star
+date: 03/07/2018 01:09:30.706	code: Info	test: Intento 9
+date: 03/07/2018 01:09:32.800	code: Info	test: Setting position to az:-0.034744, alt:0.076078 from star
+date: 03/07/2018 01:09:34.894	code: Info	test: Intento 10
+date: 03/07/2018 01:09:37.004	code: Info	test: Setting position to az:-0.077242, alt:0.049641 from star
+date: 03/07/2018 01:09:39.207	code: Info	test: Intento 11
+date: 03/07/2018 01:09:41.317	code: Info	test: Setting position to az:-0.100000, alt:0.000000 from star
+date: 03/07/2018 01:09:43.036	code: Info	test: Intento 12
+date: 03/07/2018 01:09:45.131	code: Info	test: Setting position to az:-0.010000, alt:-0.000000 from star
+date: 03/07/2018 01:09:48.928	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 01:12:40.628	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:12:40.956	code: Info	test: Centrando spots...
+date: 03/07/2018 01:12:43.019	code: Info	test: Intento 1
+date: 03/07/2018 01:12:48.739	code: Info	test: Setting position to az:-0.011472, alt:-0.007372 from star
+date: 03/07/2018 01:12:49.990	code: Info	test: Intento 2
+date: 03/07/2018 01:12:55.569	code: Info	test: Setting position to az:-0.007175, alt:-0.015712 from star
+date: 03/07/2018 01:12:56.882	code: Info	test: Intento 3
+date: 03/07/2018 01:13:03.008	code: Info	test: Setting position to az:0.002976, alt:-0.020696 from star
+date: 03/07/2018 01:13:04.555	code: Info	test: Intento 4
+date: 03/07/2018 01:13:08.134	code: Info	test: Setting position to az:0.016074, alt:-0.018550 from star
+date: 03/07/2018 01:13:09.697	code: Info	test: Intento 5
+date: 03/07/2018 01:13:19.371	code: Info	test: Setting position to az:0.027040, alt:-0.007940 from star
+date: 03/07/2018 01:13:20.934	code: Info	test: Intento 6
+date: 03/07/2018 01:13:23.028	code: Info	test: Setting position to az:0.030529, alt:0.008964 from star
+date: 03/07/2018 01:13:24.357	code: Info	test: Intento 7
+date: 03/07/2018 01:13:26.451	code: Info	test: Setting position to az:0.023218, alt:0.026795 from star
+date: 03/07/2018 01:13:27.967	code: Info	test: Intento 8
+date: 03/07/2018 01:13:30.045	code: Info	test: Setting position to az:0.005563, alt:0.038693 from star
+date: 03/07/2018 01:13:31.796	code: Info	test: Intento 9
+date: 03/07/2018 01:13:33.874	code: Info	test: Setting position to az:-0.017750, alt:0.038866 from star
+date: 03/07/2018 01:13:35.656	code: Info	test: Intento 10
+date: 03/07/2018 01:13:37.750	code: Info	test: Setting position to az:-0.039004, alt:0.025066 from star
+date: 03/07/2018 01:13:39.469	code: Info	test: Intento 11
+date: 03/07/2018 01:13:41.563	code: Info	test: Setting position to az:-0.050000, alt:0.000000 from star
+date: 03/07/2018 01:13:43.126	code: Info	test: Intento 12
+date: 03/07/2018 01:13:45.220	code: Info	test: Setting position to az:-0.010000, alt:-0.000000 from star
+date: 03/07/2018 01:13:48.956	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 01:15:30.478	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:15:30.493	code: Info	test: Centrando spots...
+date: 03/07/2018 01:15:32.681	code: Info	test: Intento 1
+date: 03/07/2018 01:15:42.058	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 01:15:42.058	code: Info	test: Comprobando el foco...
+date: 03/07/2018 01:15:42.074	code: Info	test: Intento 0
+date: 03/07/2018 01:15:53.827	code: Info	test: DX: 37.90435
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:15:53.827	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:15:53.858	code: Info	test: Intento 1
+date: 03/07/2018 01:16:07.314	code: Info	test: DX: 38.642795
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:16:07.314	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:16:07.345	code: Info	test: Intento 2
+date: 03/07/2018 01:16:19.988	code: Info	test: DX: 37.59982
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:16:19.988	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:19:16.324	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:19:16.324	code: Info	test: Centrando spots...
+date: 03/07/2018 01:19:18.418	code: Info	test: Intento 1
+date: 03/07/2018 01:19:28.842	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 01:19:28.842	code: Info	test: Comprobando el foco...
+date: 03/07/2018 01:19:28.842	code: Info	test: Intento 0
+date: 03/07/2018 01:19:41.017	code: Info	test: DX: 38.011755
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:19:41.017	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:19:41.063	code: Info	test: Intento 1
+date: 03/07/2018 01:19:53.738	code: Info	test: DX: 37.651210000000006
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:19:53.738	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:19:53.769	code: Info	test: Intento 2
+date: 03/07/2018 01:20:06.006	code: Info	test: DX: 37.489805000000004
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:20:06.006	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:20:06.069	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 01:21:54.484	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:21:54.500	code: Info	test: Centrando spots...
+date: 03/07/2018 01:21:56.594	code: Info	test: Intento 1
+date: 03/07/2018 01:22:06.783	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 01:22:06.783	code: Info	test: Comprobando el foco...
+date: 03/07/2018 01:22:06.783	code: Info	test: Intento 0
+date: 03/07/2018 01:22:21.443	code: Info	test: DX: 37.65694
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:22:21.443	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:22:21.474	code: Info	test: Intento 1
+date: 03/07/2018 01:22:34.243	code: Info	test: DX: 37.653589999999994
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:22:34.243	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:22:34.289	code: Info	test: Intento 2
+date: 03/07/2018 01:22:47.198	code: Info	test: DX: 37.216260000000005
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:22:47.198	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:22:47.292	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 01:25:28.999	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:25:29.015	code: Info	test: Centrando spots...
+date: 03/07/2018 01:25:31.078	code: Info	test: Intento 1
+date: 03/07/2018 01:25:40.517	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 01:25:40.517	code: Info	test: Comprobando el foco...
+date: 03/07/2018 01:25:40.517	code: Info	test: Intento 0
+date: 03/07/2018 01:25:53.208	code: Info	test: DX: 37.691250000000004
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:25:53.208	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:25:53.239	code: Info	test: Intento 1
+date: 03/07/2018 01:26:06.117	code: Info	test: DX: 37.803700000000006
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:26:06.117	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:26:06.179	code: Info	test: Intento 2
+date: 03/07/2018 01:26:19.104	code: Info	test: DX: 37.539534999999994
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:26:19.104	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:26:19.151	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 01:32:34.850	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:32:34.865	code: Info	test: Centrando spots...
+date: 03/07/2018 01:32:36.928	code: Info	test: Intento 1
+date: 03/07/2018 01:32:46.790	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 01:32:46.790	code: Info	test: Comprobando el foco...
+date: 03/07/2018 01:32:46.790	code: Info	test: Intento 0
+date: 03/07/2018 01:33:00.230	code: Info	test: DX: 37.650225
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:33:00.230	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:33:00.434	code: Info	test: Intento 1
+date: 03/07/2018 01:33:12.952	code: Info	test: DX: 37.687975
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:33:12.952	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:33:12.999	code: Info	test: Intento 2
+date: 03/07/2018 01:33:25.798	code: Info	test: DX: 37.381479999999996
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:33:25.798	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:33:25.861	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 01:36:33.402	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:36:33.417	code: Info	test: Centrando spots...
+date: 03/07/2018 01:36:35.824	code: Info	test: Intento 1
+date: 03/07/2018 01:36:44.576	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 01:36:44.592	code: Info	test: Comprobando el foco...
+date: 03/07/2018 01:36:44.592	code: Info	test: Intento 0
+date: 03/07/2018 01:37:02.986	code: Info	test: DX: 37.44961500000001
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:37:02.986	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:37:04.346	code: Info	test: Intento 1
+date: 03/07/2018 01:37:20.584	code: Info	test: DX: 37.155485000000006
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:37:20.584	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:37:21.678	code: Info	test: Intento 2
+date: 03/07/2018 01:37:36.462	code: Info	test: DX: 36.70909499999999
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:37:36.462	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:37:37.556	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 01:40:06.464	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:40:06.479	code: Info	test: Centrando spots...
+date: 03/07/2018 01:40:09.199	code: Info	test: Intento 1
+date: 03/07/2018 01:40:21.733	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 01:40:21.748	code: Info	test: Comprobando el foco...
+date: 03/07/2018 01:40:21.764	code: Info	test: Intento 0
+date: 03/07/2018 01:40:38.033	code: Info	test: DX: 36.10888
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:40:38.049	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:40:38.986	code: Info	test: Intento 1
+date: 03/07/2018 01:40:55.584	code: Info	test: DX: 37.354139999999994
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:40:55.584	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:40:56.553	code: Info	test: Intento 2
+date: 03/07/2018 01:41:13.463	code: Info	test: DX: 36.677150000000005
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:41:13.463	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:41:16.651	code: Info	test: Intento 3
+date: 03/07/2018 01:41:33.941	code: Info	test: DX: 29.366994999999996
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:41:33.941	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:41:36.301	code: Info	test: Intento 4
+date: 03/07/2018 01:41:54.461	code: Info	test: DX: 26.248519999999996
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 01:41:54.461	code: Info	test: Moviendo el foco...
+date: 03/07/2018 01:41:56.149	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 01:47:44.475	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:47:44.475	code: Info	test: Centrando spots...
+date: 03/07/2018 01:47:48.210	code: Info	test: Intento 1
+date: 03/07/2018 01:47:57.884	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 01:54:22.134	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 01:56:41.008	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:56:41.008	code: Info	test: Encendiendo la montura...
+date: 03/07/2018 01:56:41.055	code: Info	test: Montura encendida
+date: 03/07/2018 01:56:51.057	code: Info	test: Encendiendo el foco...
+date: 03/07/2018 01:56:51.073	code: Info	test: Foco encendida
+date: 03/07/2018 01:56:51.073	code: Info	test: Llevando la montura al home...
+date: 03/07/2018 01:57:16.063	code: Info	test: Montura en el home
+date: 03/07/2018 01:57:16.063	code: Info	test: Seleccionando estella  ...
+date: 03/07/2018 01:58:16.904	code: Info	test: Estella seleccionada --> Deneb
+	airmass: 1.157441
+	ha hours: hms_tuple(h=-2.0, m=-6.0, s=-38.17101939069204)
+	alt: 59.765634
+	az: 47.104107
+date: 03/07/2018 01:58:16.904	code: Info	test: Centrando spots...
+date: 03/07/2018 01:59:39.688	code: Info	test: Inicio del proceso
+date: 03/07/2018 01:59:39.703	code: Info	test: Centrando spots...
+date: 03/07/2018 01:59:42.751	code: Info	test: Intento 1
+date: 03/07/2018 01:59:51.956	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 01:59:51.956	code: Info	test: Comprobando el foco...
+date: 03/07/2018 01:59:51.956	code: Info	test: Intento 0
+date: 03/07/2018 02:00:02.865	code: Info	test: DX: 25.024435
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:00:02.865	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:00:03.537	code: Info	test: Intento 1
+date: 03/07/2018 02:00:15.242	code: Info	test: DX: 25.183204999999997
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:00:15.242	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:00:15.555	code: Info	test: Intento 2
+date: 03/07/2018 02:00:27.151	code: Info	test: DX: 24.642184999999998
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:00:27.151	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:00:27.401	code: Info	test: Intento 3
+date: 03/07/2018 02:00:39.779	code: Info	test: DX: 24.527345000000004
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:00:39.779	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:00:39.998	code: Info	test: Intento 4
+date: 03/07/2018 02:00:51.672	code: Info	test: DX: 24.191435
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:00:51.672	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:00:51.860	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 02:02:45.669	code: Info	test: Inicio del proceso
+date: 03/07/2018 02:02:45.685	code: Info	test: Centrando spots...
+date: 03/07/2018 02:02:47.748	code: Info	test: Intento 1
+date: 03/07/2018 02:02:58.203	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 02:02:58.203	code: Info	test: Comprobando el foco...
+date: 03/07/2018 02:02:58.203	code: Info	test: Intento 0
+date: 03/07/2018 02:03:10.347	code: Info	test: DX: 23.939445
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:03:10.347	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:03:10.503	code: Info	test: Intento 1
+date: 03/07/2018 02:03:22.177	code: Info	test: DX: 23.140784999999997
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:03:22.177	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:03:22.334	code: Info	test: Intento 2
+date: 03/07/2018 02:03:34.383	code: Info	test: DX: 23.698355
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:03:34.383	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:03:34.555	code: Info	test: Intento 3
+date: 03/07/2018 02:03:45.979	code: Info	test: DX: 23.80194
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:03:45.979	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:03:46.151	code: Info	test: Intento 4
+date: 03/07/2018 02:03:57.732	code: Info	test: DX: 23.289685
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:03:57.732	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:03:57.904	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 02:12:11.435	code: Info	test: Inicio del proceso
+date: 03/07/2018 02:12:11.497	code: Info	test: Centrando spots...
+date: 03/07/2018 02:12:13.576	code: Info	test: Intento 1
+date: 03/07/2018 02:12:24.531	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 02:12:24.531	code: Info	test: Comprobando el foco...
+date: 03/07/2018 02:12:24.531	code: Info	test: Intento 0
+date: 03/07/2018 02:12:37.221	code: Info	test: DX: 23.095464999999997
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:12:37.221	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:12:37.378	code: Info	test: Intento 1
+date: 03/07/2018 02:12:49.505	code: Info	test: DX: 23.18845
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:12:49.505	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:12:49.677	code: Info	test: Intento 2
+date: 03/07/2018 02:13:02.868	code: Info	test: DX: 22.754114999999995
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:13:02.868	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:13:03.118	code: Info	test: Intento 3
+date: 03/07/2018 02:13:15.480	code: Info	test: DX: 23.32895
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:13:15.480	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:13:15.667	code: Info	test: Intento 4
+date: 03/07/2018 02:13:28.373	code: Info	test: DX: 23.305085
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:13:28.389	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:13:28.545	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 02:17:44.317	code: Info	test: Inicio del proceso
+date: 03/07/2018 02:17:44.333	code: Info	test: Centrando spots...
+date: 03/07/2018 02:17:46.396	code: Info	test: Intento 1
+date: 03/07/2018 02:17:57.291	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 02:17:57.291	code: Info	test: Comprobando el foco...
+date: 03/07/2018 02:17:57.291	code: Info	test: Intento 0
+date: 03/07/2018 02:18:09.904	code: Info	test: DX: 23.450120000000002
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:18:09.904	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:18:10.060	code: Info	test: Intento 1
+date: 03/07/2018 02:18:22.643	code: Info	test: DX: 21.75564
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:18:22.643	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:18:22.658	code: Info	test: Intento 2
+date: 03/07/2018 02:18:34.600	code: Info	test: DX: 22.396539999999998
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:18:34.600	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:18:34.771	code: Info	test: Intento 3
+date: 03/07/2018 02:18:46.712	code: Info	test: DX: 22.464355
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:18:46.712	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:18:46.743	code: Info	test: Intento 4
+date: 03/07/2018 02:18:59.340	code: Info	test: DX: 22.963050000000003
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:18:59.340	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:18:59.528	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 02:20:39.491	code: Info	test: Inicio del proceso
+date: 03/07/2018 02:20:39.507	code: Info	test: Centrando spots...
+date: 03/07/2018 02:20:41.570	code: Info	test: Intento 1
+date: 03/07/2018 02:20:53.291	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 02:20:53.291	code: Info	test: Comprobando el foco...
+date: 03/07/2018 02:20:53.291	code: Info	test: Intento 0
+date: 03/07/2018 02:21:06.248	code: Info	test: DX: 23.24213
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:21:06.248	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:21:06.404	code: Info	test: Intento 1
+date: 03/07/2018 02:21:19.423	code: Info	test: DX: 22.890909999999998
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:21:19.423	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:21:19.579	code: Info	test: Intento 2
+date: 03/07/2018 02:21:31.187	code: Info	test: DX: 23.212509999999998
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:21:31.187	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:21:31.437	code: Info	test: Intento 3
+date: 03/07/2018 02:21:43.846	code: Info	test: DX: 23.23123
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:21:43.846	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:21:44.018	code: Info	test: Intento 4
+date: 03/07/2018 02:21:56.037	code: Info	test: DX: 23.24304
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:21:56.037	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:21:56.193	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 02:22:17.949	code: Info	test: Inicio del proceso
+date: 03/07/2018 02:22:17.964	code: Info	test: Centrando spots...
+date: 03/07/2018 02:22:20.027	code: Info	test: Intento 1
+date: 03/07/2018 02:22:31.014	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 02:22:31.014	code: Info	test: Comprobando el foco...
+date: 03/07/2018 02:22:31.014	code: Info	test: Intento 0
+date: 03/07/2018 02:22:44.143	code: Info	test: DX: 22.645184999999998
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:22:44.143	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:22:44.299	code: Info	test: Intento 1
+date: 03/07/2018 02:22:56.755	code: Info	test: DX: 22.560415
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:22:56.755	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:22:56.943	code: Info	test: Intento 2
+date: 03/07/2018 02:23:08.915	code: Info	test: DX: 23.442255000000003
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:23:08.915	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:23:09.071	code: Info	test: Intento 3
+date: 03/07/2018 02:23:20.965	code: Info	test: DX: 22.533915
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:23:20.965	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:23:21.121	code: Info	test: Intento 4
+date: 03/07/2018 02:23:32.624	code: Info	test: DX: 23.08845
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:23:32.624	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:23:32.796	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 02:25:14.444	code: Info	test: Inicio del proceso
+date: 03/07/2018 02:25:14.460	code: Info	test: Centrando spots...
+date: 03/07/2018 02:25:16.538	code: Info	test: Intento 1
+date: 03/07/2018 02:25:26.119	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 02:25:26.119	code: Info	test: Comprobando el foco...
+date: 03/07/2018 02:25:26.134	code: Info	test: Intento 0
+date: 03/07/2018 02:25:38.825	code: Info	test: DX: 23.14056
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:25:38.825	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:25:38.981	code: Info	test: Intento 1
+date: 03/07/2018 02:25:51.031	code: Info	test: DX: 22.702855
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:25:51.031	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:25:51.203	code: Info	test: Intento 2
+date: 03/07/2018 02:26:03.752	code: Info	test: DX: 22.896279999999997
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:26:03.752	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:26:03.909	code: Info	test: Intento 3
+date: 03/07/2018 02:26:16.162	code: Info	test: DX: 23.140405
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:26:16.162	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:26:16.318	code: Info	test: Intento 4
+date: 03/07/2018 02:26:28.461	code: Info	test: DX: 23.043735
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:26:28.461	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:26:28.618	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 02:30:21.921	code: Info	test: Inicio del proceso
+date: 03/07/2018 02:30:21.936	code: Info	test: Centrando spots...
+date: 03/07/2018 02:30:23.999	code: Info	test: Intento 1
+date: 03/07/2018 02:30:35.892	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 02:30:35.892	code: Info	test: Comprobando el foco...
+date: 03/07/2018 02:30:35.892	code: Info	test: Intento 0
+date: 03/07/2018 02:30:48.411	code: Info	test: DX: 22.799805000000003
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:30:48.411	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:30:48.583	code: Info	test: Intento 1
+date: 03/07/2018 02:31:00.773	code: Info	test: DX: 22.589085000000004
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:31:00.773	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:31:00.945	code: Info	test: Intento 2
+date: 03/07/2018 02:31:13.870	code: Info	test: DX: 22.857969999999998
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:31:13.870	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:31:14.042	code: Info	test: Intento 3
+date: 03/07/2018 02:31:26.060	code: Info	test: DX: 22.345495
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:31:26.060	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:31:26.232	code: Info	test: Intento 4
+date: 03/07/2018 02:31:38.075	code: Info	test: DX: 22.96694
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:31:38.075	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:31:38.246	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 02:33:10.111	code: Info	test: Inicio del proceso
+date: 03/07/2018 02:33:10.126	code: Info	test: Centrando spots...
+date: 03/07/2018 02:33:12.189	code: Info	test: Intento 1
+date: 03/07/2018 02:33:22.770	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 02:33:22.770	code: Info	test: Comprobando el foco...
+date: 03/07/2018 02:33:22.770	code: Info	test: Intento 0
+date: 03/07/2018 02:33:35.773	code: Info	test: DX: 22.594255
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:33:35.773	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:33:35.929	code: Info	test: Intento 1
+date: 03/07/2018 02:33:47.619	code: Info	test: DX: 23.2819
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:33:47.619	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:33:47.791	code: Info	test: Intento 2
+date: 03/07/2018 02:33:59.747	code: Info	test: DX: 23.710245000000004
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:33:59.747	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:33:59.919	code: Info	test: Intento 3
+date: 03/07/2018 02:34:12.499	code: Info	test: DX: 23.004985
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:34:12.499	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:34:12.656	code: Info	test: Intento 4
+date: 03/07/2018 02:34:24.846	code: Info	test: DX: 22.982459999999996
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:34:24.846	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:34:25.002	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 02:46:09.866	code: Info	test: Inicio del proceso
+date: 03/07/2018 02:46:09.882	code: Info	test: Centrando spots...
+date: 03/07/2018 02:46:11.945	code: Info	test: Intento 1
+date: 03/07/2018 02:46:22.744	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 02:46:22.744	code: Info	test: Comprobando el foco...
+date: 03/07/2018 02:46:22.744	code: Info	test: Intento 0
+date: 03/07/2018 02:46:34.716	code: Info	test: DX: 22.999525000000002
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:46:34.716	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:46:46.687	code: Info	test: Intento 1
+date: 03/07/2018 02:46:59.190	code: Info	test: DX: 22.129235
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:46:59.190	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:46:59.487	code: Info	test: Intento 2
+date: 03/07/2018 02:47:11.380	code: Info	test: DX: 21.898964999999997
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:47:11.380	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:47:11.536	code: Info	test: Intento 3
+date: 03/07/2018 02:47:23.664	code: Info	test: DX: 22.181440000000002
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:47:23.664	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:47:23.820	code: Info	test: Intento 4
+date: 03/07/2018 02:47:36.385	code: Info	test: DX: 23.147895
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:47:36.385	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:47:36.542	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 02:54:12.020	code: Info	test: Inicio del proceso
+date: 03/07/2018 02:54:12.036	code: Info	test: Centrando spots...
+date: 03/07/2018 02:54:14.099	code: Info	test: Intento 1
+date: 03/07/2018 02:54:24.570	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 02:54:24.570	code: Info	test: Comprobando el foco...
+date: 03/07/2018 02:54:24.570	code: Info	test: Intento 0
+date: 03/07/2018 02:54:37.823	code: Info	test: DX: 23.639585
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:54:37.823	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:54:38.354	code: Info	test: Intento 1
+date: 03/07/2018 02:54:50.591	code: Info	test: DX: 23.849385000000005
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:54:50.591	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:54:51.169	code: Info	test: Intento 2
+date: 03/07/2018 02:55:02.953	code: Info	test: DX: 24.25216
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:55:02.953	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:55:03.719	code: Info	test: Intento 3
+date: 03/07/2018 02:55:16.034	code: Info	test: DX: 23.8918
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:55:16.034	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:55:16.847	code: Info	test: Intento 4
+date: 03/07/2018 02:55:28.818	code: Info	test: DX: 24.687134999999998
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 02:55:28.818	code: Info	test: Moviendo el foco...
+date: 03/07/2018 02:55:29.724	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 02:59:54.188	code: Info	test: Inicio del proceso
+date: 03/07/2018 02:59:54.188	code: Info	test: Centrando spots...
+date: 03/07/2018 02:59:56.267	code: Info	test: Intento 1
+date: 03/07/2018 03:00:08.285	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 03:00:08.285	code: Info	test: Comprobando el foco...
+date: 03/07/2018 03:00:08.285	code: Info	test: Intento 0
+date: 03/07/2018 03:00:20.241	code: Info	test: DX: 24.055014999999997
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:00:20.256	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:00:20.272	code: Error (check focal points)	test: global name 'fp_min' is not defined
+date: 03/07/2018 03:00:20.272	code: Info	test: Intento 1
+date: 03/07/2018 03:00:32.447	code: Info	test: DX: 23.884854999999995
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:00:32.447	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:00:32.478	code: Error (check focal points)	test: global name 'fp_min' is not defined
+date: 03/07/2018 03:00:32.478	code: Info	test: Intento 2
+date: 03/07/2018 03:00:44.340	code: Info	test: DX: 23.4553
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:00:44.340	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:00:44.355	code: Error (check focal points)	test: global name 'fp_min' is not defined
+date: 03/07/2018 03:00:44.371	code: Info	test: Intento 3
+date: 03/07/2018 03:01:06.782	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:01:06.798	code: Info	test: Centrando spots...
+date: 03/07/2018 03:01:09.001	code: Info	test: Intento 1
+date: 03/07/2018 03:01:19.973	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 03:01:19.973	code: Info	test: Comprobando el foco...
+date: 03/07/2018 03:01:19.973	code: Info	test: Intento 0
+date: 03/07/2018 03:01:30.959	code: Info	test: DX: 24.054125000000003
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:01:30.959	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:01:31.600	code: Error (check focal points)	test: global name 'fwd' is not defined
+date: 03/07/2018 03:01:31.600	code: Info	test: Intento 1
+date: 03/07/2018 03:01:43.226	code: Info	test: DX: 23.752245
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:01:43.226	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:01:43.711	code: Error (check focal points)	test: global name 'fwd' is not defined
+date: 03/07/2018 03:01:43.711	code: Info	test: Intento 2
+date: 03/07/2018 03:01:55.557	code: Info	test: DX: 24.500890000000002
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:01:55.557	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:01:56.026	code: Error (check focal points)	test: global name 'fwd' is not defined
+date: 03/07/2018 03:01:56.026	code: Info	test: Intento 3
+date: 03/07/2018 03:02:07.841	code: Info	test: DX: 25.489285000000002
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:02:07.841	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:02:08.341	code: Error (check focal points)	test: global name 'fwd' is not defined
+date: 03/07/2018 03:02:08.341	code: Info	test: Intento 4
+date: 03/07/2018 03:02:19.656	code: Info	test: DX: 26.555494999999997
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:02:19.656	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:02:20.140	code: Error (check focal points)	test: global name 'fwd' is not defined
+date: 03/07/2018 03:02:20.156	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 03:03:42.143	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:03:42.158	code: Info	test: Centrando spots...
+date: 03/07/2018 03:03:44.221	code: Info	test: Intento 1
+date: 03/07/2018 03:03:56.661	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 03:03:56.677	code: Info	test: Comprobando el foco...
+date: 03/07/2018 03:03:56.677	code: Info	test: Intento 0
+date: 03/07/2018 03:04:07.804	code: Info	test: DX: 27.086989999999997
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:04:07.804	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:04:08.289	code: Info	test: Intento 1
+date: 03/07/2018 03:04:19.104	code: Info	test: DX: 28.438589999999998
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:04:19.104	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:04:19.541	code: Info	test: Intento 2
+date: 03/07/2018 03:04:30.059	code: Info	test: DX: 29.64359
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:04:30.059	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:04:30.544	code: Info	test: Intento 3
+date: 03/07/2018 03:04:41.171	code: Info	test: DX: 30.80193
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:04:41.171	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:04:41.640	code: Info	test: Intento 4
+date: 03/07/2018 03:04:52.330	code: Info	test: DX: 31.443225
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:04:52.330	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:04:52.783	code: Error (comprobando el foco)	test: ERR_FOCAL_FOCUS
+date: 03/07/2018 03:05:09.771	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:05:09.787	code: Info	test: Centrando spots...
+date: 03/07/2018 03:05:11.850	code: Info	test: Intento 1
+date: 03/07/2018 03:05:24.665	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 03:05:24.665	code: Info	test: Comprobando el foco...
+date: 03/07/2018 03:05:24.665	code: Info	test: Intento 0
+date: 03/07/2018 03:05:35.370	code: Info	test: DX: 34.18890999999999
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:05:35.370	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:05:35.839	code: Info	test: Intento 1
+date: 03/07/2018 03:05:46.138	code: Info	test: DX: 34.15095
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:05:46.138	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:05:46.592	code: Info	test: Intento 2
+date: 03/07/2018 03:05:57.313	code: Info	test: DX: 35.389415
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:05:57.313	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 03:11:14.522	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:11:14.538	code: Info	test: Centrando spots...
+date: 03/07/2018 03:11:16.616	code: Info	test: Intento 1
+date: 03/07/2018 03:11:28.603	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 03:11:28.619	code: Info	test: Comprobando el foco...
+date: 03/07/2018 03:12:26.988	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:12:26.988	code: Info	test: Centrando spots...
+date: 03/07/2018 03:12:29.113	code: Info	test: Intento 1
+date: 03/07/2018 03:12:40.960	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 03:12:40.960	code: Info	test: Comprobando el foco...
+date: 03/07/2018 03:12:40.960	code: Info	test: Intento 0
+date: 03/07/2018 03:12:51.634	code: Info	test: DX: 36.004504999999995
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:12:51.634	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:12:52.228	code: Info	test: Intento 1
+date: 03/07/2018 03:13:02.339	code: Info	test: DX: 36.208070000000006
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:13:02.339	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:13:02.746	code: Info	test: Intento 2
+date: 03/07/2018 03:13:13.248	code: Info	test: DX: 35.95725
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:13:13.248	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:13:13.592	code: Info	test: Intento 3
+date: 03/07/2018 03:13:23.906	code: Info	test: DX: 36.166295
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:13:23.906	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:13:24.266	code: Info	test: Intento 4
+date: 03/07/2018 03:13:34.487	code: Info	test: DX: 36.404520000000005
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:13:34.487	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:13:34.846	code: Info	test: Intento 5
+date: 03/07/2018 03:13:45.489	code: Info	test: DX: 35.09268
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:13:45.505	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:13:45.520	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 03:15:46.516	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:15:46.531	code: Info	test: Centrando spots...
+date: 03/07/2018 03:15:48.594	code: Info	test: Intento 1
+date: 03/07/2018 03:15:59.378	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 03:15:59.393	code: Info	test: Comprobando el foco...
+date: 03/07/2018 03:15:59.393	code: Info	test: Intento 0
+date: 03/07/2018 03:16:10.239	code: Info	test: DX: 35.000105
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:16:10.239	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:16:10.271	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 03:22:42.856	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:22:42.871	code: Info	test: Centrando spots...
+date: 03/07/2018 03:22:44.934	code: Info	test: Intento 1
+date: 03/07/2018 03:22:47.279	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 03:22:48.357	code: Info	test: Intento 2
+date: 03/07/2018 03:22:50.436	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 03:22:51.295	code: Info	test: Intento 3
+date: 03/07/2018 03:22:53.374	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 03:22:54.608	code: Info	test: Intento 4
+date: 03/07/2018 03:22:56.703	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 03:22:58.000	code: Info	test: Intento 5
+date: 03/07/2018 03:23:00.078	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 03:23:01.313	code: Info	test: Intento 6
+date: 03/07/2018 03:23:03.407	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 03:23:04.548	code: Info	test: Intento 7
+date: 03/07/2018 03:23:06.642	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 03:23:07.908	code: Info	test: Intento 8
+date: 03/07/2018 03:23:10.002	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 03:23:11.284	code: Info	test: Intento 9
+date: 03/07/2018 03:23:13.362	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 03:23:14.660	code: Info	test: Intento 10
+date: 03/07/2018 03:23:16.738	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 03:23:18.176	code: Info	test: Intento 11
+date: 03/07/2018 03:23:20.255	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 03:23:21.520	code: Info	test: Intento 12
+date: 03/07/2018 03:23:23.615	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 03:23:26.850	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 03:24:28.004	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:24:28.019	code: Info	test: Centrando spots...
+date: 03/07/2018 03:24:30.082	code: Info	test: Intento 1
+date: 03/07/2018 03:24:32.286	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 03:24:33.395	code: Info	test: Intento 2
+date: 03/07/2018 03:24:35.490	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 03:24:36.349	code: Info	test: Intento 3
+date: 03/07/2018 03:24:38.459	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 03:24:39.553	code: Info	test: Intento 4
+date: 03/07/2018 03:24:41.647	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 03:24:42.913	code: Info	test: Intento 5
+date: 03/07/2018 03:24:45.007	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 03:24:46.039	code: Info	test: Intento 6
+date: 03/07/2018 03:24:48.133	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 03:24:49.258	code: Info	test: Intento 7
+date: 03/07/2018 03:24:51.337	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 03:24:52.587	code: Info	test: Intento 8
+date: 03/07/2018 03:24:54.681	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 03:24:55.963	code: Info	test: Intento 9
+date: 03/07/2018 03:24:58.057	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 03:24:59.511	code: Info	test: Intento 10
+date: 03/07/2018 03:25:01.652	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 03:25:02.949	code: Info	test: Intento 11
+date: 03/07/2018 03:25:05.027	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 03:25:06.371	code: Info	test: Intento 12
+date: 03/07/2018 03:25:08.450	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 03:25:11.748	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 03:25:44.552	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:25:44.567	code: Info	test: Seleccionando estella  ...
+date: 03/07/2018 03:26:54.582	code: Info	test: Estella seleccionada --> Deneb
+	airmass: 1.057087
+	ha hours: hms_tuple(h=-0.0, m=-41.0, s=-23.81769815993607)
+	alt: 71.084133
+	az: 22.922117
+date: 03/07/2018 03:26:54.582	code: Info	test: Centrando spots...
+date: 03/07/2018 03:26:56.599	code: Info	test: Intento 1
+date: 03/07/2018 03:27:10.664	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 03:27:10.664	code: Info	test: Comprobando el foco...
+date: 03/07/2018 03:27:10.664	code: Info	test: Intento 0
+date: 03/07/2018 03:27:20.666	code: Info	test: DX: 33.8033
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:27:20.666	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:27:21.166	code: Info	test: Intento 1
+date: 03/07/2018 03:27:33.278	code: Info	test: DX: 35.055839999999996
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 03:27:33.278	code: Info	test: Moviendo el foco...
+date: 03/07/2018 03:27:33.294	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 03:28:35.948	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:28:35.948	code: Info	test: Seleccionando estella  ...
+date: 03/07/2018 03:29:40.931	code: Info	test: Estella seleccionada --> Vega
+	airmass: 1.071647
+	ha hours: hms_tuple(h=1.0, m=28.0, s=7.307998616209659)
+	alt: 68.929986
+	az: 305.598996
+date: 03/07/2018 03:29:40.931	code: Info	test: Centrando spots...
+date: 03/07/2018 03:29:42.947	code: Info	test: Intento 1
+date: 03/07/2018 03:29:45.338	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 03:29:46.385	code: Info	test: Intento 2
+date: 03/07/2018 03:29:48.464	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 03:29:49.324	code: Info	test: Intento 3
+date: 03/07/2018 03:29:51.402	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 03:29:52.434	code: Info	test: Intento 4
+date: 03/07/2018 03:29:54.512	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 03:29:55.575	code: Info	test: Intento 5
+date: 03/07/2018 03:29:57.669	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 03:29:58.732	code: Info	test: Intento 6
+date: 03/07/2018 03:30:00.810	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 03:30:01.701	code: Info	test: Intento 7
+date: 03/07/2018 03:30:03.842	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 03:30:05.124	code: Info	test: Intento 8
+date: 03/07/2018 03:30:07.218	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 03:30:08.453	code: Info	test: Intento 9
+date: 03/07/2018 03:30:10.531	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 03:30:12.032	code: Info	test: Intento 10
+date: 03/07/2018 03:30:14.110	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 03:30:15.595	code: Info	test: Intento 11
+date: 03/07/2018 03:30:17.673	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 03:30:18.908	code: Info	test: Intento 12
+date: 03/07/2018 03:30:20.987	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 03:30:24.253	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 03:30:42.241	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:30:42.257	code: Info	test: Seleccionando estella  ...
+date: 03/07/2018 03:31:01.386	code: Info	test: Estella seleccionada --> Vega
+	airmass: 1.071647
+	ha hours: hms_tuple(h=1.0, m=28.0, s=7.307998616209659)
+	alt: 68.929986
+	az: 305.598996
+date: 03/07/2018 03:31:01.386	code: Info	test: Centrando spots...
+date: 03/07/2018 03:31:03.418	code: Info	test: Intento 1
+date: 03/07/2018 03:31:05.512	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 03:31:06.575	code: Info	test: Intento 2
+date: 03/07/2018 03:31:08.669	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 03:31:09.513	code: Info	test: Intento 3
+date: 03/07/2018 03:31:11.591	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 03:31:12.639	code: Info	test: Intento 4
+date: 03/07/2018 03:31:14.717	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 03:31:15.749	code: Info	test: Intento 5
+date: 03/07/2018 03:31:17.843	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 03:31:18.874	code: Info	test: Intento 6
+date: 03/07/2018 03:31:20.969	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 03:31:22.031	code: Info	test: Intento 7
+date: 03/07/2018 03:31:24.110	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 03:31:25.126	code: Info	test: Intento 8
+date: 03/07/2018 03:31:27.220	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 03:31:28.470	code: Info	test: Intento 9
+date: 03/07/2018 03:31:30.564	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 03:31:32.096	code: Info	test: Intento 10
+date: 03/07/2018 03:31:34.237	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 03:31:35.443	code: Info	test: Intento 11
+date: 03/07/2018 03:31:37.537	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 03:31:38.850	code: Info	test: Intento 12
+date: 03/07/2018 03:31:40.960	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 03:31:44.992	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 03:34:45.593	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:34:45.593	code: Info	test: Seleccionando estella  ...
+date: 03/07/2018 03:35:04.863	code: Info	test: Estella seleccionada --> Vega
+	airmass: 1.078329
+	ha hours: hms_tuple(h=1.0, m=33.0, s=8.12933830072609)
+	alt: 68.026868
+	az: 304.584236
+date: 03/07/2018 03:35:04.879	code: Info	test: Centrando spots...
+date: 03/07/2018 03:35:06.895	code: Info	test: Intento 1
+date: 03/07/2018 03:35:08.989	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 03:35:10.036	code: Info	test: Intento 2
+date: 03/07/2018 03:35:12.646	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 03:35:13.490	code: Info	test: Intento 3
+date: 03/07/2018 03:35:15.584	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 03:35:16.663	code: Info	test: Intento 4
+date: 03/07/2018 03:35:18.741	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 03:35:19.804	code: Info	test: Intento 5
+date: 03/07/2018 03:35:21.883	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 03:35:23.102	code: Info	test: Intento 6
+date: 03/07/2018 03:35:25.180	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 03:35:26.259	code: Info	test: Intento 7
+date: 03/07/2018 03:35:28.337	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 03:35:29.650	code: Info	test: Intento 8
+date: 03/07/2018 03:35:31.744	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 03:35:32.994	code: Info	test: Intento 9
+date: 03/07/2018 03:35:35.073	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 03:35:36.386	code: Info	test: Intento 10
+date: 03/07/2018 03:35:38.480	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 03:35:39.949	code: Info	test: Intento 11
+date: 03/07/2018 03:35:42.028	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 03:35:43.278	code: Info	test: Intento 12
+date: 03/07/2018 03:35:45.356	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 03:35:48.607	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 03:35:51.623	code: Info	test: Seleccionando estella  ...
+date: 03/07/2018 03:36:12.612	code: Info	test: Estella seleccionada --> Vega
+	airmass: 1.078329
+	ha hours: hms_tuple(h=1.0, m=33.0, s=8.12933830072609)
+	alt: 68.026868
+	az: 304.584236
+date: 03/07/2018 03:36:12.628	code: Info	test: Centrando spots...
+date: 03/07/2018 03:36:14.675	code: Info	test: Intento 1
+date: 03/07/2018 03:36:16.770	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 03:36:17.895	code: Info	test: Intento 2
+date: 03/07/2018 03:36:19.973	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 03:36:20.880	code: Info	test: Intento 3
+date: 03/07/2018 03:36:22.958	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 03:36:24.099	code: Info	test: Intento 4
+date: 03/07/2018 03:36:26.209	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 03:36:27.600	code: Info	test: Intento 5
+date: 03/07/2018 03:36:29.694	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 03:36:31.038	code: Info	test: Intento 6
+date: 03/07/2018 03:36:33.133	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 03:36:34.305	code: Info	test: Intento 7
+date: 03/07/2018 03:36:36.399	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 03:36:37.790	code: Info	test: Intento 8
+date: 03/07/2018 03:36:39.868	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 03:36:41.087	code: Info	test: Intento 9
+date: 03/07/2018 03:36:43.166	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 03:36:44.479	code: Info	test: Intento 10
+date: 03/07/2018 03:36:46.573	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 03:36:48.042	code: Info	test: Intento 11
+date: 03/07/2018 03:36:50.136	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 03:37:10.156	code: Info	test: Intento 12
+date: 03/07/2018 03:37:12.235	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 03:37:43.601	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 03:39:33.984	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:39:34.000	code: Info	test: Seleccionando estella  ...
+date: 03/07/2018 03:39:55.489	code: Info	test: Estella seleccionada --> Vega
+	airmass: 1.085451
+	ha hours: hms_tuple(h=1.0, m=38.0, s=8.950677882630202)
+	alt: 67.113255
+	az: 303.678230
+date: 03/07/2018 03:39:55.489	code: Info	test: Centrando spots...
+date: 03/07/2018 03:39:57.521	code: Info	test: Intento 1
+date: 03/07/2018 03:39:59.599	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 03:40:00.865	code: Info	test: Intento 2
+date: 03/07/2018 03:40:02.959	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 03:40:04.053	code: Info	test: Intento 3
+date: 03/07/2018 03:40:06.132	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 03:40:07.242	code: Info	test: Intento 4
+date: 03/07/2018 03:40:09.320	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 03:40:10.680	code: Info	test: Intento 5
+date: 03/07/2018 03:40:12.774	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 03:40:14.102	code: Info	test: Intento 6
+date: 03/07/2018 03:40:16.197	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 03:40:17.322	code: Info	test: Intento 7
+date: 03/07/2018 03:40:19.400	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 03:40:20.791	code: Info	test: Intento 8
+date: 03/07/2018 03:40:22.886	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 03:40:24.198	code: Info	test: Intento 9
+date: 03/07/2018 03:40:26.277	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 03:40:27.637	code: Info	test: Intento 10
+date: 03/07/2018 03:40:29.731	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 03:40:31.341	code: Info	test: Intento 11
+date: 03/07/2018 03:40:33.419	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 03:40:34.779	code: Info	test: Intento 12
+date: 03/07/2018 03:40:36.873	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 03:40:40.218	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 03:40:43.218	code: Info	test: Seleccionando estella Vega ...
+date: 03/07/2018 03:40:43.453	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 03:40:43.453	code: Error (seleccionando estrella)	test: UNKNOWN ERROR
+date: 03/07/2018 03:45:00.877	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:45:00.893	code: Info	test: Seleccionando estella...
+date: 03/07/2018 03:45:22.444	code: Info	test: Estella seleccionada --> Vega
+	airmass: 1.093024
+	ha hours: hms_tuple(h=1.0, m=43.0, s=9.802154002650525)
+	alt: 66.190395
+	az: 302.869604
+date: 03/07/2018 03:45:22.444	code: Info	test: Centrando spots...
+date: 03/07/2018 03:45:24.460	code: Info	test: Intento 1
+date: 03/07/2018 03:45:26.554	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 03:45:27.648	code: Info	test: Intento 2
+date: 03/07/2018 03:45:29.727	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 03:45:30.571	code: Info	test: Intento 3
+date: 03/07/2018 03:45:32.665	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 03:45:33.712	code: Info	test: Intento 4
+date: 03/07/2018 03:45:35.806	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 03:45:37.072	code: Info	test: Intento 5
+date: 03/07/2018 03:45:39.167	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 03:45:40.432	code: Info	test: Intento 6
+date: 03/07/2018 03:45:42.527	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 03:45:43.558	code: Info	test: Intento 7
+date: 03/07/2018 03:45:45.652	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 03:45:46.903	code: Info	test: Intento 8
+date: 03/07/2018 03:45:48.981	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 03:45:50.497	code: Info	test: Intento 9
+date: 03/07/2018 03:45:52.591	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 03:45:54.060	code: Info	test: Intento 10
+date: 03/07/2018 03:45:56.155	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 03:45:57.671	code: Info	test: Intento 11
+date: 03/07/2018 03:45:59.765	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 03:46:00.999	code: Info	test: Intento 12
+date: 03/07/2018 03:46:03.094	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 03:46:06.266	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 03:46:09.283	code: Info	test: Seleccionando estella...
+date: 03/07/2018 03:46:09.423	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 03:46:09.423	code: Error (seleccionando estrella)	test: UNKNOWN ERROR
+date: 03/07/2018 03:47:05.873	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:47:05.889	code: Info	test: Seleccionando estella...
+date: 03/07/2018 03:47:27.065	code: Info	test: Estella seleccionada --> Vega
+	airmass: 1.093024
+	ha hours: hms_tuple(h=1.0, m=43.0, s=9.802154002650525)
+	alt: 66.190395
+	az: 302.869604
+date: 03/07/2018 03:47:27.065	code: Info	test: Centrando spots...
+date: 03/07/2018 03:47:29.081	code: Info	test: Intento 1
+date: 03/07/2018 03:47:31.175	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 03:47:32.316	code: Info	test: Intento 2
+date: 03/07/2018 03:47:34.426	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 03:47:35.286	code: Info	test: Intento 3
+date: 03/07/2018 03:47:37.380	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 03:47:38.521	code: Info	test: Intento 4
+date: 03/07/2018 03:47:40.631	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 03:47:41.693	code: Info	test: Intento 5
+date: 03/07/2018 03:47:43.787	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 03:47:44.866	code: Info	test: Intento 6
+date: 03/07/2018 03:47:46.944	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 03:47:48.023	code: Info	test: Intento 7
+date: 03/07/2018 03:47:50.117	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 03:47:51.367	code: Info	test: Intento 8
+date: 03/07/2018 03:47:53.446	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 03:47:54.712	code: Info	test: Intento 9
+date: 03/07/2018 03:47:56.790	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 03:47:58.087	code: Info	test: Intento 10
+date: 03/07/2018 03:48:00.166	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 03:48:01.948	code: Info	test: Intento 11
+date: 03/07/2018 03:48:04.120	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 03:48:05.386	code: Info	test: Intento 12
+date: 03/07/2018 03:48:07.480	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 03:48:10.575	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 03:48:13.591	code: Info	test: Seleccionando estella...
+date: 03/07/2018 03:48:13.731	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 03:48:13.731	code: Error (seleccionando estrella)	test: UNKNOWN ERROR
+date: 03/07/2018 03:48:47.958	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:48:47.973	code: Info	test: Seleccionando estella...
+date: 03/07/2018 03:49:09.728	code: Info	test: Estella seleccionada --> Vega
+	airmass: 1.101062
+	ha hours: hms_tuple(h=1.0, m=48.0, s=10.643544419147304)
+	alt: 65.259574
+	az: 302.148562
+date: 03/07/2018 03:49:09.728	code: Info	test: Centrando spots...
+date: 03/07/2018 03:49:11.760	code: Info	test: Intento 1
+date: 03/07/2018 03:49:13.854	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 03:49:14.901	code: Info	test: Intento 2
+date: 03/07/2018 03:49:16.995	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 03:49:17.855	code: Info	test: Intento 3
+date: 03/07/2018 03:49:19.949	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 03:49:21.027	code: Info	test: Intento 4
+date: 03/07/2018 03:49:23.122	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 03:49:24.403	code: Info	test: Intento 5
+date: 03/07/2018 03:49:26.497	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 03:49:27.529	code: Info	test: Intento 6
+date: 03/07/2018 03:49:29.623	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 03:49:30.670	code: Info	test: Intento 7
+date: 03/07/2018 03:49:32.764	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 03:49:33.999	code: Info	test: Intento 8
+date: 03/07/2018 03:49:36.156	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 03:49:37.390	code: Info	test: Intento 9
+date: 03/07/2018 03:49:39.485	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 03:49:40.922	code: Info	test: Intento 10
+date: 03/07/2018 03:49:43.017	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 03:49:44.298	code: Info	test: Intento 11
+date: 03/07/2018 03:49:46.392	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 03:49:47.674	code: Info	test: Intento 12
+date: 03/07/2018 03:49:49.768	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 03:49:53.019	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 03:49:56.035	code: Info	test: Seleccionando estella...
+date: 03/07/2018 03:50:12.429	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 03/07/2018 03:51:54.068	code: Info	test: Inicio del proceso
+date: 03/07/2018 03:51:54.083	code: Info	test: Seleccionando estella...
+date: 03/07/2018 03:52:16.870	code: Info	test: Estella seleccionada --> Vega
+	airmass: 1.101062
+	ha hours: hms_tuple(h=1.0, m=48.0, s=10.643544419147304)
+	alt: 65.259574
+	az: 302.148562
+date: 03/07/2018 03:52:16.870	code: Info	test: Centrando spots...
+date: 03/07/2018 03:52:18.886	code: Info	test: Intento 1
+date: 03/07/2018 03:52:20.996	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 03:52:22.121	code: Info	test: Intento 2
+date: 03/07/2018 03:52:24.215	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 03:52:25.278	code: Info	test: Intento 3
+date: 03/07/2018 03:52:27.372	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 03:52:29.138	code: Info	test: Intento 4
+date: 03/07/2018 03:52:31.217	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 03:52:32.311	code: Info	test: Intento 5
+date: 03/07/2018 03:52:34.389	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 03:52:35.671	code: Info	test: Intento 6
+date: 03/07/2018 03:52:37.765	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 03:52:38.874	code: Info	test: Intento 7
+date: 03/07/2018 03:52:40.969	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 03:52:42.266	code: Info	test: Intento 8
+date: 03/07/2018 03:52:44.344	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 03:52:45.595	code: Info	test: Intento 9
+date: 03/07/2018 03:52:47.689	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 03:52:49.174	code: Info	test: Intento 10
+date: 03/07/2018 03:52:51.252	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 03:52:52.752	code: Info	test: Intento 11
+date: 03/07/2018 03:52:54.847	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 03:52:56.097	code: Info	test: Intento 12
+date: 03/07/2018 03:52:58.191	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 03:53:01.567	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 03:53:04.583	code: Info	test: Seleccionando estella...
+date: 03/07/2018 03:53:21.524	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 03/07/2018 04:02:10.941	code: Info	test: Inicio del proceso
+date: 03/07/2018 04:02:10.957	code: Info	test: Seleccionando estella...
+date: 03/07/2018 04:02:44.699	code: Info	test: Estella seleccionada --> Altair
+	airmass: 1.082916
+	ha hours: hms_tuple(h=0.0, m=49.0, s=7.018255177424351)
+	alt: 67.433057
+	az: 213.194906
+date: 03/07/2018 04:02:44.699	code: Info	test: Centrando spots...
+date: 03/07/2018 04:02:46.730	code: Info	test: Intento 1
+date: 03/07/2018 04:02:48.825	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 04:02:49.872	code: Info	test: Intento 2
+date: 03/07/2018 04:02:51.966	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 04:02:52.826	code: Info	test: Intento 3
+date: 03/07/2018 04:02:54.967	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 04:02:56.014	code: Info	test: Intento 4
+date: 03/07/2018 04:02:58.108	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 04:02:59.358	code: Info	test: Intento 5
+date: 03/07/2018 04:03:01.484	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 04:03:02.750	code: Info	test: Intento 6
+date: 03/07/2018 04:03:04.844	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 04:03:05.938	code: Info	test: Intento 7
+date: 03/07/2018 04:03:08.032	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 04:03:09.079	code: Info	test: Intento 8
+date: 03/07/2018 04:03:11.173	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 04:03:12.439	code: Info	test: Intento 9
+date: 03/07/2018 04:03:14.815	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 04:03:16.049	code: Info	test: Intento 10
+date: 03/07/2018 04:03:18.144	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 04:03:19.644	code: Info	test: Intento 11
+date: 03/07/2018 04:03:21.738	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 04:03:23.035	code: Info	test: Intento 12
+date: 03/07/2018 04:03:25.129	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 04:03:28.396	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 04:03:31.396	code: Info	test: Seleccionando estella...
+date: 03/07/2018 04:03:57.762	code: Info	test: Estella seleccionada --> Vega
+	airmass: 1.128113
+	ha hours: hms_tuple(h=2.0, m=3.0, s=13.187846534520702)
+	alt: 62.428556
+	az: 300.428852
+date: 03/07/2018 04:03:57.762	code: Info	test: Centrando spots...
+date: 03/07/2018 04:03:59.793	code: Info	test: Intento 1
+date: 03/07/2018 04:04:06.576	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 04:04:07.732	code: Info	test: Intento 2
+date: 03/07/2018 04:04:15.953	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 04:04:16.797	code: Info	test: Intento 3
+date: 03/07/2018 04:04:23.564	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 04:04:24.830	code: Info	test: Intento 4
+date: 03/07/2018 04:04:30.097	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 04:04:31.144	code: Info	test: Intento 5
+date: 03/07/2018 04:04:37.583	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 04:04:38.692	code: Info	test: Intento 6
+date: 03/07/2018 04:04:46.350	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 04:04:47.382	code: Info	test: Intento 7
+date: 03/07/2018 04:04:56.837	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 04:04:58.087	code: Info	test: Intento 8
+date: 03/07/2018 04:05:00.197	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 04:05:01.666	code: Info	test: Intento 9
+date: 03/07/2018 04:05:03.823	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 04:05:05.308	code: Info	test: Intento 10
+date: 03/07/2018 04:05:07.386	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 04:05:08.840	code: Info	test: Intento 11
+date: 03/07/2018 04:05:14.825	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 04:05:16.873	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 04:05:16.873	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 04:05:16.873	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 04:05:16.873	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 04:05:16.888	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 04:05:18.217	code: Info	test: Intento 12
+date: 03/07/2018 04:05:20.311	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 04:05:23.577	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 21:16:40.705	code: Info	test: Inicio del proceso
+date: 03/07/2018 21:16:40.721	code: Info	test: Seleccionando estella...
+date: 03/07/2018 21:17:07.649	code: Info	test: Estella seleccionada --> Alphecca
+	airmass: 1.083098
+	ha hours: hms_tuple(h=-1.0, m=-41.0, s=-46.15398873027431)
+	alt: 67.409852
+	az: 88.140625
+date: 03/07/2018 21:17:07.649	code: Info	test: Centrando spots...
+date: 03/07/2018 21:17:10.634	code: Info	test: Intento 1
+date: 03/07/2018 21:17:12.728	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 21:17:16.072	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 21:17:16.072	code: Info	test: Intento 2
+date: 03/07/2018 21:17:18.151	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 21:17:20.902	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 21:17:20.917	code: Info	test: Intento 3
+date: 03/07/2018 21:17:22.996	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 21:17:25.731	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 21:17:25.731	code: Info	test: Intento 4
+date: 03/07/2018 21:17:27.825	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 21:17:30.560	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 21:17:30.560	code: Info	test: Intento 5
+date: 03/07/2018 21:17:32.826	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 21:17:35.389	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 21:17:35.389	code: Info	test: Intento 6
+date: 03/07/2018 21:17:37.483	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 21:17:40.265	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 21:17:40.281	code: Info	test: Intento 7
+date: 03/07/2018 21:17:42.359	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 21:17:45.141	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 21:17:45.141	code: Info	test: Intento 8
+date: 03/07/2018 21:17:47.235	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 21:17:49.908	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 21:17:49.908	code: Info	test: Intento 9
+date: 03/07/2018 21:17:51.986	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 21:17:54.768	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 21:17:54.784	code: Info	test: Intento 10
+date: 03/07/2018 21:17:56.862	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 21:17:59.582	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 21:17:59.597	code: Info	test: Intento 11
+date: 03/07/2018 21:18:01.692	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 21:18:04.427	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 21:18:04.442	code: Info	test: Intento 12
+date: 03/07/2018 21:18:06.536	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 21:18:09.271	code: Error (send commands)	test: invalid syntax (<string>, line 1)
+date: 03/07/2018 21:18:11.491	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 21:18:14.601	code: Info	test: Seleccionando estella...
+date: 03/07/2018 21:18:34.371	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 03/07/2018 21:19:14.864	code: Info	test: Inicio del proceso
+date: 03/07/2018 21:19:14.864	code: Info	test: Encendiendo la montura...
+date: 03/07/2018 21:19:14.926	code: Info	test: Montura encendida
+date: 03/07/2018 21:19:24.928	code: Info	test: Encendiendo el foco...
+date: 03/07/2018 21:19:24.944	code: Info	test: Foco encendida
+date: 03/07/2018 21:19:24.944	code: Info	test: Llevando la montura al home...
+date: 03/07/2018 21:19:42.307	code: Info	test: Montura en el home
+date: 03/07/2018 21:19:42.323	code: Info	test: Seleccionando estella...
+date: 03/07/2018 21:20:46.024	code: Info	test: Estella seleccionada --> Alphecca
+	airmass: 1.074688
+	ha hours: hms_tuple(h=-1.0, m=-36.0, s=-45.31255021718522)
+	alt: 68.513116
+	az: 88.658743
+date: 03/07/2018 21:20:46.040	code: Info	test: Centrando spots...
+date: 03/07/2018 21:20:48.056	code: Info	test: Intento 1
+date: 03/07/2018 21:20:54.573	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 21:20:55.667	code: Info	test: Intento 2
+date: 03/07/2018 21:21:03.309	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 21:21:04.372	code: Info	test: Intento 3
+date: 03/07/2018 21:21:11.108	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 21:21:12.171	code: Info	test: Intento 4
+date: 03/07/2018 21:21:21.673	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 21:21:22.985	code: Info	test: Intento 5
+date: 03/07/2018 21:21:30.378	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 21:21:31.675	code: Info	test: Intento 6
+date: 03/07/2018 21:21:37.207	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 21:21:38.286	code: Info	test: Intento 7
+date: 03/07/2018 21:21:40.380	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 21:21:41.474	code: Info	test: Intento 8
+date: 03/07/2018 21:21:43.568	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 21:21:44.850	code: Info	test: Intento 9
+date: 03/07/2018 21:21:47.069	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 21:21:48.522	code: Info	test: Intento 10
+date: 03/07/2018 21:21:50.616	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 21:21:51.867	code: Info	test: Intento 11
+date: 03/07/2018 21:21:56.743	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 21:21:58.102	code: Info	test: Intento 12
+date: 03/07/2018 21:22:00.244	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 21:22:04.291	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 21:22:07.651	code: Info	test: Seleccionando estella...
+date: 03/07/2018 21:22:24.890	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 03/07/2018 21:22:59.291	code: Info	test: Inicio del proceso
+date: 03/07/2018 21:22:59.291	code: Info	test: Encendiendo la montura...
+date: 03/07/2018 21:22:59.353	code: Info	test: Montura encendida
+date: 03/07/2018 21:23:09.371	code: Info	test: Encendiendo el foco...
+date: 03/07/2018 21:23:09.387	code: Info	test: Foco encendida
+date: 03/07/2018 21:23:09.387	code: Info	test: Llevando la montura al home...
+date: 03/07/2018 21:24:25.169	code: Info	test: Montura en el home
+date: 03/07/2018 21:24:25.200	code: Info	test: Seleccionando estella...
+date: 03/07/2018 21:25:29.698	code: Info	test: Estella seleccionada --> Alphecca
+	airmass: 1.066799
+	ha hours: hms_tuple(h=-1.0, m=-31.0, s=-44.46102599904421)
+	alt: 69.616654
+	az: 89.199093
+date: 03/07/2018 21:25:29.698	code: Info	test: Centrando spots...
+date: 03/07/2018 21:25:31.730	code: Info	test: Intento 1
+date: 03/07/2018 21:25:38.779	code: Info	test: Setting position to az:-0.002294, alt:-0.001474 from star
+date: 03/07/2018 21:25:39.841	code: Info	test: Intento 2
+date: 03/07/2018 21:25:47.124	code: Info	test: Setting position to az:-0.001850, alt:-0.004052 from star
+date: 03/07/2018 21:25:48.046	code: Info	test: Intento 3
+date: 03/07/2018 21:25:55.266	code: Info	test: Setting position to az:0.000880, alt:-0.006119 from star
+date: 03/07/2018 21:25:56.532	code: Info	test: Intento 4
+date: 03/07/2018 21:26:06.706	code: Info	test: Setting position to az:0.005179, alt:-0.005977 from star
+date: 03/07/2018 21:26:08.238	code: Info	test: Intento 5
+date: 03/07/2018 21:26:17.490	code: Info	test: Setting position to az:0.009246, alt:-0.002715 from star
+date: 03/07/2018 21:26:18.818	code: Info	test: Intento 6
+date: 03/07/2018 21:26:23.710	code: Info	test: Setting position to az:0.010903, alt:0.003202 from star
+date: 03/07/2018 21:26:24.804	code: Info	test: Intento 7
+date: 03/07/2018 21:26:26.898	code: Info	test: Setting position to az:0.008573, alt:0.009893 from star
+date: 03/07/2018 21:26:27.961	code: Info	test: Intento 8
+date: 03/07/2018 21:26:30.071	code: Info	test: Setting position to az:0.002109, alt:0.014667 from star
+date: 03/07/2018 21:26:31.368	code: Info	test: Intento 9
+date: 03/07/2018 21:26:33.462	code: Info	test: Setting position to az:-0.006873, alt:0.015050 from star
+date: 03/07/2018 21:26:34.916	code: Info	test: Intento 10
+date: 03/07/2018 21:26:37.010	code: Info	test: Setting position to az:-0.015372, alt:0.009879 from star
+date: 03/07/2018 21:26:38.229	code: Info	test: Intento 11
+date: 03/07/2018 21:26:43.152	code: Info	test: Setting position to az:-0.020000, alt:0.000000 from star
+date: 03/07/2018 21:26:44.449	code: Info	test: Intento 12
+date: 03/07/2018 21:26:46.543	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 21:26:49.794	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 21:26:52.810	code: Info	test: Seleccionando estella...
+date: 03/07/2018 21:27:09.220	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 03/07/2018 21:33:01.810	code: Info	test: Inicio del proceso
+date: 03/07/2018 21:33:01.825	code: Info	test: Encendiendo la montura...
+date: 03/07/2018 21:33:01.888	code: Info	test: Montura encendida
+date: 03/07/2018 21:33:11.890	code: Info	test: Encendiendo el foco...
+date: 03/07/2018 21:33:11.906	code: Info	test: Foco encendida
+date: 03/07/2018 21:33:11.906	code: Info	test: Llevando la montura al home...
+date: 03/07/2018 21:34:28.969	code: Info	test: Montura en el home
+date: 03/07/2018 21:34:28.985	code: Info	test: Seleccionando estella...
+date: 03/07/2018 21:35:29.983	code: Info	test: Estella seleccionada --> Alphecca
+	airmass: 1.052516
+	ha hours: hms_tuple(h=-1.0, m=-21.0, s=-42.74805283573798)
+	alt: 71.824106
+	az: 90.363708
+date: 03/07/2018 21:35:29.998	code: Info	test: Centrando spots...
+date: 03/07/2018 21:35:32.014	code: Info	test: Intento 1
+date: 03/07/2018 21:37:42.699	code: Info	test: Inicio del proceso
+date: 03/07/2018 21:37:42.715	code: Info	test: Centrando spots...
+date: 03/07/2018 21:37:44.762	code: Info	test: Intento 1
+date: 03/07/2018 21:38:49.729	code: Info	test: Inicio del proceso
+date: 03/07/2018 21:38:49.745	code: Info	test: Centrando spots...
+date: 03/07/2018 21:38:51.792	code: Info	test: Intento 1
+date: 03/07/2018 21:39:57.838	code: Info	test: Inicio del proceso
+date: 03/07/2018 21:39:57.853	code: Info	test: Centrando spots...
+date: 03/07/2018 21:39:59.901	code: Info	test: Intento 1
+date: 03/07/2018 21:40:07.824	code: Info	test: Setting position to az:-0.001530, alt:-0.000983 from star
+date: 03/07/2018 21:40:09.043	code: Info	test: Intento 2
+date: 03/07/2018 21:40:16.357	code: Info	test: Setting position to az:-0.001095, alt:-0.002398 from star
+date: 03/07/2018 21:40:17.248	code: Info	test: Intento 3
+date: 03/07/2018 21:40:25.203	code: Info	test: Setting position to az:0.000492, alt:-0.003419 from star
+date: 03/07/2018 21:40:26.344	code: Info	test: Intento 4
+date: 03/07/2018 21:40:34.736	code: Info	test: Setting position to az:0.002798, alt:-0.003229 from star
+date: 03/07/2018 21:40:35.783	code: Info	test: Intento 5
+date: 03/07/2018 21:40:43.848	code: Info	test: Setting position to az:0.004885, alt:-0.001434 from star
+date: 03/07/2018 21:40:44.942	code: Info	test: Intento 6
+date: 03/07/2018 21:40:51.834	code: Info	test: Setting position to az:0.005670, alt:0.001665 from star
+date: 03/07/2018 21:40:52.881	code: Info	test: Intento 7
+date: 03/07/2018 21:40:56.350	code: Info	test: Setting position to az:0.004405, alt:0.005084 from star
+date: 03/07/2018 21:40:57.366	code: Info	test: Intento 8
+date: 03/07/2018 21:40:59.461	code: Info	test: Setting position to az:0.001074, alt:0.007469 from star
+date: 03/07/2018 21:41:00.711	code: Info	test: Intento 9
+date: 03/07/2018 21:41:02.946	code: Info	test: Setting position to az:-0.003474, alt:0.007608 from star
+date: 03/07/2018 21:41:04.383	code: Info	test: Intento 10
+date: 03/07/2018 21:41:06.478	code: Info	test: Setting position to az:-0.007724, alt:0.004964 from star
+date: 03/07/2018 21:41:07.525	code: Info	test: Intento 11
+date: 03/07/2018 21:41:14.104	code: Info	test: Setting position to az:-0.010000, alt:0.000000 from star
+date: 03/07/2018 21:41:15.167	code: Info	test: Intento 12
+date: 03/07/2018 21:41:24.763	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 21:41:28.076	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 21:41:31.077	code: Info	test: Centrando spots...
+date: 03/07/2018 21:41:33.093	code: Info	test: Intento 1
+date: 03/07/2018 21:41:35.187	code: Info	test: Setting position to az:-0.001530, alt:-0.000983 from star
+date: 03/07/2018 21:41:36.219	code: Info	test: Intento 2
+date: 03/07/2018 21:41:38.297	code: Info	test: Setting position to az:-0.001095, alt:-0.002398 from star
+date: 03/07/2018 21:41:39.313	code: Info	test: Intento 3
+date: 03/07/2018 21:41:41.407	code: Info	test: Setting position to az:0.000492, alt:-0.003419 from star
+date: 03/07/2018 21:41:42.517	code: Info	test: Intento 4
+date: 03/07/2018 21:41:44.595	code: Info	test: Setting position to az:0.002798, alt:-0.003229 from star
+date: 03/07/2018 21:41:45.627	code: Info	test: Intento 5
+date: 03/07/2018 21:41:47.721	code: Info	test: Setting position to az:0.004885, alt:-0.001434 from star
+date: 03/07/2018 21:41:48.752	code: Info	test: Intento 6
+date: 03/07/2018 21:41:50.862	code: Info	test: Setting position to az:0.005670, alt:0.001665 from star
+date: 03/07/2018 21:41:51.878	code: Info	test: Intento 7
+date: 03/07/2018 21:41:54.160	code: Info	test: Setting position to az:0.004405, alt:0.005084 from star
+date: 03/07/2018 21:41:55.223	code: Info	test: Intento 8
+date: 03/07/2018 21:41:57.317	code: Info	test: Setting position to az:0.001074, alt:0.007469 from star
+date: 03/07/2018 21:41:58.364	code: Info	test: Intento 9
+date: 03/07/2018 21:42:04.865	code: Info	test: Error en hide_window:> index 480 is out of bounds for axis 0 with size 480
+date: 03/07/2018 21:42:13.570	code: Info	test: Setting position to az:-0.003474, alt:0.007608 from star
+date: 03/07/2018 21:42:14.868	code: Info	test: Intento 10
+date: 03/07/2018 21:42:17.024	code: Info	test: Setting position to az:-0.007724, alt:0.004964 from star
+date: 03/07/2018 21:42:18.697	code: Info	test: Intento 11
+date: 03/07/2018 21:42:20.791	code: Info	test: Setting position to az:-0.010000, alt:0.000000 from star
+date: 03/07/2018 21:42:22.010	code: Info	test: Intento 12
+date: 03/07/2018 21:42:24.104	code: Info	test: Setting position to az:-0.001000, alt:-0.000000 from star
+date: 03/07/2018 21:42:27.355	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 22:21:36.018	code: Info	test: Inicio del proceso
+date: 03/07/2018 22:21:36.034	code: Info	test: Centrando spots...
+date: 03/07/2018 22:21:38.175	code: Info	test: Intento 1
+date: 03/07/2018 22:21:47.193	code: Info	test: Intento 2
+date: 03/07/2018 22:21:55.398	code: Info	test: Intento 3
+date: 03/07/2018 22:22:03.149	code: Info	test: Intento 4
+date: 03/07/2018 22:22:07.979	code: Info	test: Intento 5
+date: 03/07/2018 22:22:12.745	code: Info	test: Intento 6
+date: 03/07/2018 22:22:17.559	code: Info	test: Intento 7
+date: 03/07/2018 22:22:23.216	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 22:22:26.217	code: Info	test: Centrando spots...
+date: 03/07/2018 22:22:28.249	code: Info	test: Intento 1
+date: 03/07/2018 22:22:32.921	code: Info	test: Intento 2
+date: 03/07/2018 22:22:37.668	code: Info	test: Intento 3
+date: 03/07/2018 22:22:41.091	code: Info	test: Intento 4
+date: 03/07/2018 22:22:49.780	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 22:22:49.780	code: Info	test: Comprobando el foco...
+date: 03/07/2018 22:22:49.780	code: Info	test: Intento 0
+date: 03/07/2018 22:22:58.860	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:22:58.876	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:22:58.876	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:22:58.876	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:22:58.891	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 22:22:59.001	code: Error (get window)	test: could not broadcast input array from shape (12) into shape (20)
+date: 03/07/2018 22:22:59.001	code: Error (get window)	test: could not broadcast input array from shape (12) into shape (20)
+date: 03/07/2018 22:22:59.001	code: Error (get window)	test: could not broadcast input array from shape (12) into shape (20)
+date: 03/07/2018 22:22:59.001	code: Error (get window)	test: could not broadcast input array from shape (12) into shape (20)
+date: 03/07/2018 22:22:59.235	code: Error (get window)	test: could not broadcast input array from shape (14) into shape (20)
+date: 03/07/2018 22:22:59.235	code: Error (get window)	test: could not broadcast input array from shape (14) into shape (20)
+date: 03/07/2018 22:22:59.235	code: Error (get window)	test: could not broadcast input array from shape (14) into shape (20)
+date: 03/07/2018 22:22:59.235	code: Error (get window)	test: could not broadcast input array from shape (14) into shape (20)
+date: 03/07/2018 22:22:59.329	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:22:59.345	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:22:59.345	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:22:59.345	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:22:59.345	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:22:59.345	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:22:59.345	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:22:59.345	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:01.579	code: Info	test: DX: 53.83239000000001
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 22:23:01.579	code: Info	test: Moviendo el foco...
+date: 03/07/2018 22:23:02.064	code: Info	test: Intento 1
+date: 03/07/2018 22:23:10.863	code: Error (get window)	test: could not broadcast input array from shape (17) into shape (20)
+date: 03/07/2018 22:23:10.863	code: Error (get window)	test: could not broadcast input array from shape (17) into shape (20)
+date: 03/07/2018 22:23:10.863	code: Error (get window)	test: could not broadcast input array from shape (17) into shape (20)
+date: 03/07/2018 22:23:10.863	code: Error (get window)	test: could not broadcast input array from shape (17) into shape (20)
+date: 03/07/2018 22:23:10.894	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:10.894	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:10.894	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:10.894	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:10.894	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:10.894	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:10.894	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:10.910	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.066	code: Error (get window)	test: could not broadcast input array from shape (16) into shape (20)
+date: 03/07/2018 22:23:11.066	code: Error (get window)	test: could not broadcast input array from shape (16) into shape (20)
+date: 03/07/2018 22:23:11.066	code: Error (get window)	test: could not broadcast input array from shape (16) into shape (20)
+date: 03/07/2018 22:23:11.066	code: Error (get window)	test: could not broadcast input array from shape (16) into shape (20)
+date: 03/07/2018 22:23:11.113	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 22:23:11.175	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 22:23:11.253	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 22:23:11.347	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.347	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.347	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.347	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.347	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.347	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.363	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.363	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.410	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.410	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.410	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.425	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.425	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.425	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.425	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.425	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 22:23:11.457	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 22:23:13.691	code: Info	test: DX: 50.471515000000004
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 22:23:13.691	code: Info	test: Moviendo el foco...
+date: 03/07/2018 22:23:14.051	code: Info	test: Intento 2
+date: 03/07/2018 22:24:28.583	code: Info	test: Inicio del proceso
+date: 03/07/2018 22:24:28.598	code: Info	test: Seleccionando estella...
+date: 03/07/2018 22:25:34.535	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.031534
+	ha hours: hms_tuple(h=0.0, m=47.0, s=22.603367624307964)
+	alt: 75.796377
+	az: 232.227111
+date: 03/07/2018 22:25:34.535	code: Info	test: Centrando spots...
+date: 03/07/2018 22:25:36.551	code: Info	test: Intento 1
+date: 03/07/2018 22:25:40.317	code: Info	test: Intento 2
+date: 03/07/2018 22:25:44.677	code: Info	test: Intento 3
+date: 03/07/2018 22:25:48.069	code: Info	test: Intento 4
+date: 03/07/2018 22:25:51.866	code: Info	test: Intento 5
+date: 03/07/2018 22:25:55.602	code: Info	test: Intento 6
+date: 03/07/2018 22:25:59.352	code: Info	test: Intento 7
+date: 03/07/2018 22:26:04.604	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 22:26:07.620	code: Info	test: Seleccionando estella...
+date: 03/07/2018 22:26:23.670	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 03/07/2018 22:27:38.749	code: Info	test: Inicio del proceso
+date: 03/07/2018 22:27:38.765	code: Info	test: Seleccionando estella...
+date: 03/07/2018 22:28:08.990	code: Info	test: Estella seleccionada --> Alkaid
+	airmass: 1.112613
+	ha hours: hms_tuple(h=1.0, m=20.0, s=39.06110981545936)
+	alt: 63.998646
+	az: 329.105009
+date: 03/07/2018 22:28:08.990	code: Info	test: Centrando spots...
+date: 03/07/2018 22:28:11.006	code: Info	test: Intento 1
+date: 03/07/2018 22:28:14.788	code: Info	test: Intento 2
+date: 03/07/2018 22:28:18.383	code: Info	test: Intento 3
+date: 03/07/2018 22:28:21.368	code: Info	test: Intento 4
+date: 03/07/2018 22:28:25.103	code: Info	test: Intento 5
+date: 03/07/2018 22:28:28.869	code: Info	test: Intento 6
+date: 03/07/2018 22:28:32.620	code: Info	test: Intento 7
+date: 03/07/2018 22:28:37.981	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 22:28:40.997	code: Info	test: Seleccionando estella...
+date: 03/07/2018 22:29:09.191	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.035733
+	ha hours: hms_tuple(h=0.0, m=52.0, s=23.434809696531573)
+	alt: 74.905867
+	az: 235.316968
+date: 03/07/2018 22:29:09.191	code: Info	test: Centrando spots...
+date: 03/07/2018 22:29:11.207	code: Info	test: Intento 1
+date: 03/07/2018 22:29:14.754	code: Info	test: Intento 2
+date: 03/07/2018 22:29:18.521	code: Info	test: Intento 3
+date: 03/07/2018 22:29:21.646	code: Info	test: Intento 4
+date: 03/07/2018 22:29:25.413	code: Info	test: Intento 5
+date: 03/07/2018 22:29:29.164	code: Info	test: Intento 6
+date: 03/07/2018 22:29:32.915	code: Info	test: Intento 7
+date: 03/07/2018 22:29:38.291	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 22:30:46.352	code: Info	test: Inicio del proceso
+date: 03/07/2018 22:30:46.368	code: Info	test: Seleccionando estella...
+date: 03/07/2018 22:31:17.312	code: Info	test: Estella seleccionada --> Alkaid
+	airmass: 1.112613
+	ha hours: hms_tuple(h=1.0, m=20.0, s=39.06110981545936)
+	alt: 63.998646
+	az: 329.105009
+date: 03/07/2018 22:31:17.312	code: Info	test: Centrando spots...
+date: 03/07/2018 22:31:20.391	code: Info	test: Intento 1
+date: 03/07/2018 22:31:24.189	code: Info	test: Intento 2
+date: 03/07/2018 22:31:27.893	code: Info	test: Intento 3
+date: 03/07/2018 22:31:31.034	code: Info	test: Intento 4
+date: 03/07/2018 22:31:34.785	code: Info	test: Intento 5
+date: 03/07/2018 22:31:38.520	code: Info	test: Intento 6
+date: 03/07/2018 22:31:42.271	code: Info	test: Intento 7
+date: 03/07/2018 22:31:47.428	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 22:31:50.444	code: Info	test: Seleccionando estella...
+date: 03/07/2018 22:32:19.826	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.035733
+	ha hours: hms_tuple(h=0.0, m=52.0, s=23.434809696531573)
+	alt: 74.905867
+	az: 235.316968
+date: 03/07/2018 22:32:19.826	code: Info	test: Centrando spots...
+date: 03/07/2018 22:32:21.858	code: Info	test: Intento 1
+date: 03/07/2018 22:32:25.561	code: Info	test: Intento 2
+date: 03/07/2018 22:32:29.328	code: Info	test: Intento 3
+date: 03/07/2018 22:32:32.469	code: Info	test: Intento 4
+date: 03/07/2018 22:32:36.236	code: Info	test: Intento 5
+date: 03/07/2018 22:32:39.927	code: Info	test: Intento 6
+date: 03/07/2018 22:32:43.646	code: Info	test: Intento 7
+date: 03/07/2018 22:32:49.038	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 22:37:50.369	code: Info	test: Inicio del proceso
+date: 03/07/2018 22:37:50.369	code: Info	test: Seleccionando estella...
+date: 03/07/2018 22:38:21.876	code: Info	test: Estella seleccionada --> Alkaid
+	airmass: 1.124102
+	ha hours: hms_tuple(h=1.0, m=30.0, s=40.74414952937602)
+	alt: 62.822720
+	az: 326.559451
+date: 03/07/2018 22:38:21.876	code: Info	test: Centrando spots...
+date: 03/07/2018 22:38:23.908	code: Info	test: Intento 1
+date: 03/07/2018 22:38:27.721	code: Info	test: Intento 2
+date: 03/07/2018 22:38:31.487	code: Info	test: Intento 3
+date: 03/07/2018 22:38:34.644	code: Info	test: Intento 4
+date: 03/07/2018 22:38:38.379	code: Info	test: Intento 5
+date: 03/07/2018 22:38:42.115	code: Info	test: Intento 6
+date: 03/07/2018 22:38:45.662	code: Info	test: Intento 7
+date: 03/07/2018 22:38:51.085	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 22:38:54.102	code: Info	test: Seleccionando estella...
+date: 03/07/2018 22:39:23.467	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.045503
+	ha hours: hms_tuple(h=1.0, m=2.0, s=25.117784512824954)
+	alt: 73.033685
+	az: 240.583807
+date: 03/07/2018 22:39:23.467	code: Info	test: Centrando spots...
+date: 03/07/2018 22:39:25.483	code: Info	test: Intento 1
+date: 03/07/2018 22:39:29.234	code: Info	test: Intento 2
+date: 03/07/2018 22:39:33.032	code: Info	test: Intento 3
+date: 03/07/2018 22:39:36.142	code: Info	test: Intento 4
+date: 03/07/2018 22:39:39.909	code: Info	test: Intento 5
+date: 03/07/2018 22:39:43.487	code: Info	test: Intento 6
+date: 03/07/2018 22:39:47.223	code: Info	test: Intento 7
+date: 03/07/2018 22:39:52.568	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 23:19:18.309	code: Info	test: Inicio del proceso
+date: 03/07/2018 23:19:18.325	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:19:46.174	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.104653
+	ha hours: hms_tuple(h=1.0, m=42.0, s=31.90967482992619)
+	alt: 64.858382
+	az: 254.190659
+date: 03/07/2018 23:19:46.190	code: Info	test: Centrando spots...
+date: 03/07/2018 23:19:48.206	code: Info	test: Intento 1
+date: 03/07/2018 23:19:57.208	code: Info	test: Intento 2
+date: 03/07/2018 23:20:06.663	code: Info	test: Intento 3
+date: 03/07/2018 23:20:14.712	code: Info	test: Intento 4
+date: 03/07/2018 23:20:18.463	code: Info	test: Intento 5
+date: 03/07/2018 23:20:22.229	code: Info	test: Intento 6
+date: 03/07/2018 23:20:26.027	code: Info	test: Intento 7
+date: 03/07/2018 23:20:31.419	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 23:20:34.419	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:20:52.204	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 03/07/2018 23:21:13.834	code: Info	test: Inicio del proceso
+date: 03/07/2018 23:21:13.850	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:21:34.401	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.104653
+	ha hours: hms_tuple(h=1.0, m=42.0, s=31.90967482992619)
+	alt: 64.858382
+	az: 254.190659
+date: 03/07/2018 23:21:34.401	code: Info	test: Centrando spots...
+date: 03/07/2018 23:21:36.417	code: Info	test: Intento 1
+date: 03/07/2018 23:21:46.919	code: Info	test: Intento 2
+date: 03/07/2018 23:21:55.234	code: Info	test: Intento 3
+date: 03/07/2018 23:22:04.939	code: Info	test: Intento 4
+date: 03/07/2018 23:22:08.549	code: Info	test: Intento 5
+date: 03/07/2018 23:22:12.316	code: Info	test: Intento 6
+date: 03/07/2018 23:22:16.051	code: Info	test: Intento 7
+date: 03/07/2018 23:22:21.364	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 23:22:24.381	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:22:41.237	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 03/07/2018 23:23:01.772	code: Info	test: Inicio del proceso
+date: 03/07/2018 23:23:01.804	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:23:51.924	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.114568
+	ha hours: hms_tuple(h=1.0, m=47.0, s=32.75116231307848)
+	alt: 63.793338
+	az: 255.387344
+date: 03/07/2018 23:23:51.924	code: Info	test: Centrando spots...
+date: 03/07/2018 23:23:53.940	code: Info	test: Intento 1
+date: 03/07/2018 23:24:03.270	code: Info	test: Intento 2
+date: 03/07/2018 23:24:13.351	code: Info	test: Intento 3
+date: 03/07/2018 23:24:21.133	code: Info	test: Intento 4
+date: 03/07/2018 23:24:24.900	code: Info	test: Intento 5
+date: 03/07/2018 23:24:28.682	code: Info	test: Intento 6
+date: 03/07/2018 23:24:32.417	code: Info	test: Intento 7
+date: 03/07/2018 23:24:37.840	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 23:24:40.841	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:24:57.016	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 03/07/2018 23:27:53.898	code: Info	test: Inicio del proceso
+date: 03/07/2018 23:27:53.914	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:28:15.559	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.125120
+	ha hours: hms_tuple(h=1.0, m=52.0, s=33.80320151494686)
+	alt: 62.721896
+	az: 256.514150
+date: 03/07/2018 23:28:15.559	code: Info	test: Centrando spots...
+date: 03/07/2018 23:28:17.591	code: Info	test: Intento 1
+date: 03/07/2018 23:28:26.921	code: Info	test: Intento 2
+date: 03/07/2018 23:28:36.314	code: Info	test: Intento 3
+date: 03/07/2018 23:28:44.034	code: Info	test: Intento 4
+date: 03/07/2018 23:28:47.785	code: Info	test: Intento 5
+date: 03/07/2018 23:28:51.552	code: Info	test: Intento 6
+date: 03/07/2018 23:28:55.349	code: Info	test: Intento 7
+date: 03/07/2018 23:29:00.522	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 23:29:03.539	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:29:19.370	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 03/07/2018 23:29:54.347	code: Info	test: Inicio del proceso
+date: 03/07/2018 23:29:54.347	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:30:15.867	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.125120
+	ha hours: hms_tuple(h=1.0, m=52.0, s=33.80320151494686)
+	alt: 62.721896
+	az: 256.514150
+date: 03/07/2018 23:30:15.882	code: Info	test: Centrando spots...
+date: 03/07/2018 23:30:17.899	code: Info	test: Intento 1
+date: 03/07/2018 23:30:26.385	code: Info	test: Intento 2
+date: 03/07/2018 23:30:35.465	code: Info	test: Intento 3
+date: 03/07/2018 23:30:44.529	code: Info	test: Intento 4
+date: 03/07/2018 23:30:47.921	code: Info	test: Intento 5
+date: 03/07/2018 23:30:51.547	code: Info	test: Intento 6
+date: 03/07/2018 23:30:55.079	code: Info	test: Intento 7
+date: 03/07/2018 23:31:00.236	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 23:31:03.252	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:31:19.146	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 03/07/2018 23:34:55.731	code: Info	test: Inicio del proceso
+date: 03/07/2018 23:34:55.731	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:35:16.986	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.136320
+	ha hours: hms_tuple(h=1.0, m=57.0, s=34.6546940646536)
+	alt: 61.646245
+	az: 257.577417
+date: 03/07/2018 23:35:17.002	code: Info	test: Centrando spots...
+date: 03/07/2018 23:35:19.018	code: Info	test: Intento 1
+date: 03/07/2018 23:35:28.238	code: Info	test: Intento 2
+date: 03/07/2018 23:35:37.006	code: Info	test: Intento 3
+date: 03/07/2018 23:35:44.617	code: Info	test: Intento 4
+date: 03/07/2018 23:35:48.180	code: Info	test: Intento 5
+date: 03/07/2018 23:35:51.525	code: Info	test: Intento 6
+date: 03/07/2018 23:35:55.088	code: Info	test: Intento 7
+date: 03/07/2018 23:36:00.511	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 23:36:04.246	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:37:08.370	code: Info	test: Estella seleccionada --> Vega
+	airmass: 1.172178
+	ha hours: hms_tuple(h=-2.0, m=-23.0, s=-28.738492845911594)
+	alt: 58.551620
+	az: 61.072302
+date: 03/07/2018 23:37:08.370	code: Info	test: Centrando spots...
+date: 03/07/2018 23:37:10.386	code: Info	test: Intento 1
+date: 03/07/2018 23:37:17.137	code: Info	test: Intento 2
+date: 03/07/2018 23:37:24.670	code: Info	test: Intento 3
+date: 03/07/2018 23:37:30.906	code: Info	test: Intento 4
+date: 03/07/2018 23:37:34.688	code: Info	test: Intento 5
+date: 03/07/2018 23:37:38.048	code: Info	test: Intento 6
+date: 03/07/2018 23:37:41.643	code: Info	test: Intento 7
+date: 03/07/2018 23:37:46.987	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 23:40:52.356	code: Info	test: Inicio del proceso
+date: 03/07/2018 23:40:52.371	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:41:51.759	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.148208
+	ha hours: hms_tuple(h=2.0, m=2.0, s=35.646581441695275)
+	alt: 60.565797
+	az: 258.585210
+date: 03/07/2018 23:41:51.759	code: Info	test: Centrando spots...
+date: 03/07/2018 23:41:53.775	code: Info	test: Intento 1
+date: 03/07/2018 23:41:57.323	code: Info	test: Intento 2
+date: 03/07/2018 23:42:00.652	code: Info	test: Intento 3
+date: 03/07/2018 23:42:03.700	code: Info	test: Intento 4
+date: 03/07/2018 23:42:07.060	code: Info	test: Intento 5
+date: 03/07/2018 23:42:10.404	code: Info	test: Intento 6
+date: 03/07/2018 23:42:13.983	code: Info	test: Intento 7
+date: 03/07/2018 23:42:19.328	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 23:42:22.344	code: Info	test: Seleccionando estella...
+date: 03/07/2018 23:43:20.456	code: Info	test: Estella seleccionada --> Vega
+	airmass: 1.149198
+	ha hours: hms_tuple(h=-2.0, m=-13.0, s=-26.875176945484895)
+	alt: 60.478418
+	az: 60.428325
+date: 03/07/2018 23:43:20.456	code: Info	test: Centrando spots...
+date: 03/07/2018 23:43:22.472	code: Info	test: Intento 1
+date: 03/07/2018 23:43:30.286	code: Info	test: Intento 2
+date: 03/07/2018 23:43:38.163	code: Info	test: Intento 3
+date: 03/07/2018 23:43:45.524	code: Info	test: Intento 4
+date: 03/07/2018 23:43:48.931	code: Info	test: Intento 5
+date: 03/07/2018 23:43:52.244	code: Info	test: Intento 6
+date: 03/07/2018 23:43:55.854	code: Info	test: Intento 7
+date: 03/07/2018 23:44:01.230	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 23:45:59.178	code: Info	test: Inicio del proceso
+date: 03/07/2018 23:45:59.209	code: Info	test: Centrando spots...
+date: 03/07/2018 23:46:01.382	code: Info	test: Intento 1
+date: 03/07/2018 23:46:10.290	code: Info	test: Intento 2
+date: 03/07/2018 23:46:17.854	code: Info	test: Intento 3
+date: 03/07/2018 23:46:20.776	code: Info	test: Intento 4
+date: 03/07/2018 23:46:24.105	code: Info	test: Intento 5
+date: 03/07/2018 23:46:27.700	code: Info	test: Intento 6
+date: 03/07/2018 23:46:31.232	code: Info	test: Intento 7
+date: 03/07/2018 23:46:36.389	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 23:46:39.405	code: Info	test: Centrando spots...
+date: 03/07/2018 23:46:41.453	code: Info	test: Intento 1
+date: 03/07/2018 23:46:45.063	code: Info	test: Intento 2
+date: 03/07/2018 23:46:48.611	code: Info	test: Intento 3
+date: 03/07/2018 23:46:51.768	code: Info	test: Intento 4
+date: 03/07/2018 23:47:00.582	code: Info	test: Intento 5
+date: 03/07/2018 23:47:04.020	code: Info	test: Intento 6
+date: 03/07/2018 23:47:07.412	code: Info	test: Intento 7
+date: 03/07/2018 23:47:18.695	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 03/07/2018 23:49:24.973	code: Info	test: Inicio del proceso
+date: 03/07/2018 23:49:24.988	code: Info	test: Centrando spots...
+date: 03/07/2018 23:49:27.036	code: Info	test: Intento 1
+date: 03/07/2018 23:49:32.474	code: Info	test: Intento 2
+date: 03/07/2018 23:49:37.725	code: Info	test: Intento 3
+date: 03/07/2018 23:49:42.602	code: Info	test: Intento 4
+date: 03/07/2018 23:49:47.931	code: Info	test: Intento 5
+date: 03/07/2018 23:50:01.684	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 23:50:01.699	code: Info	test: Comprobando el foco...
+date: 03/07/2018 23:50:01.699	code: Info	test: Intento 0
+date: 03/07/2018 23:50:09.951	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:50:10.061	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:50:12.639	code: Info	test: DX: 44.995095000000006
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 23:50:12.639	code: Info	test: Moviendo el foco...
+date: 03/07/2018 23:50:12.983	code: Info	test: Intento 1
+date: 03/07/2018 23:50:21.673	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:50:21.766	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.766	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.766	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.766	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.813	code: Error (get window)	test: could not broadcast input array from shape (18) into shape (20)
+date: 03/07/2018 23:50:21.813	code: Error (get window)	test: could not broadcast input array from shape (18) into shape (20)
+date: 03/07/2018 23:50:21.813	code: Error (get window)	test: could not broadcast input array from shape (18) into shape (20)
+date: 03/07/2018 23:50:21.813	code: Error (get window)	test: could not broadcast input array from shape (18) into shape (20)
+date: 03/07/2018 23:50:21.844	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:50:21.860	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.860	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.860	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.860	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.907	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.907	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.907	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.907	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.907	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.907	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.923	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.923	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:21.985	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:50:22.126	code: Error (get window)	test: could not broadcast input array from shape (18) into shape (20)
+date: 03/07/2018 23:50:22.141	code: Error (get window)	test: could not broadcast input array from shape (18) into shape (20)
+date: 03/07/2018 23:50:22.141	code: Error (get window)	test: could not broadcast input array from shape (18) into shape (20)
+date: 03/07/2018 23:50:22.141	code: Error (get window)	test: could not broadcast input array from shape (18) into shape (20)
+date: 03/07/2018 23:50:24.533	code: Info	test: DX: 47.662935
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 23:50:24.533	code: Info	test: Moviendo el foco...
+date: 03/07/2018 23:50:24.892	code: Info	test: Intento 2
+date: 03/07/2018 23:50:33.597	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:50:33.660	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:33.660	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:33.660	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:33.660	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:33.847	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:33.863	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:33.863	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:33.863	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:33.878	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:33.878	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:33.878	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:33.878	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:33.894	code: Error (get window)	test: could not broadcast input array from shape (12) into shape (20)
+date: 03/07/2018 23:50:33.910	code: Error (get window)	test: could not broadcast input array from shape (12) into shape (20)
+date: 03/07/2018 23:50:33.910	code: Error (get window)	test: could not broadcast input array from shape (12) into shape (20)
+date: 03/07/2018 23:50:33.910	code: Error (get window)	test: could not broadcast input array from shape (12) into shape (20)
+date: 03/07/2018 23:50:33.941	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:50:33.988	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:34.003	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:34.003	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:34.003	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:34.019	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:34.019	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:34.019	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:34.035	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:50:36.285	code: Info	test: DX: nan
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 23:50:36.285	code: Info	test: Moviendo el foco...
+date: 03/07/2018 23:50:36.301	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 23:50:36.316	code: Info	test: Centrando spots...
+date: 03/07/2018 23:50:38.332	code: Info	test: Intento 1
+date: 03/07/2018 23:50:43.693	code: Info	test: Intento 2
+date: 03/07/2018 23:50:48.772	code: Info	test: Intento 3
+date: 03/07/2018 23:51:01.744	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 23:51:02.463	code: Info	test: Comprobando el foco...
+date: 03/07/2018 23:51:02.635	code: Info	test: Intento 0
+date: 03/07/2018 23:51:16.669	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:51:16.856	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:17.310	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:17.435	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:17.591	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:17.591	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:17.591	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:17.591	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:17.591	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:17.841	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:51:18.138	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:51:18.326	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:51:18.466	code: Error (get window)	test: could not broadcast input array from shape (18) into shape (20)
+date: 03/07/2018 23:51:18.732	code: Error (get window)	test: could not broadcast input array from shape (18) into shape (20)
+date: 03/07/2018 23:51:18.857	code: Error (get window)	test: could not broadcast input array from shape (18) into shape (20)
+date: 03/07/2018 23:51:19.123	code: Error (get window)	test: could not broadcast input array from shape (18) into shape (20)
+date: 03/07/2018 23:51:21.561	code: Info	test: DX: 43.0111
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 23:51:21.561	code: Info	test: Moviendo el foco...
+date: 03/07/2018 23:51:21.967	code: Info	test: Intento 1
+date: 03/07/2018 23:51:43.878	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:51:43.972	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:51:44.019	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:51:44.050	code: Error (get window)	test: could not broadcast input array from shape (16) into shape (20)
+date: 03/07/2018 23:51:44.050	code: Error (get window)	test: could not broadcast input array from shape (16) into shape (20)
+date: 03/07/2018 23:51:44.065	code: Error (get window)	test: could not broadcast input array from shape (16) into shape (20)
+date: 03/07/2018 23:51:44.065	code: Error (get window)	test: could not broadcast input array from shape (16) into shape (20)
+date: 03/07/2018 23:51:44.159	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:51:46.441	code: Info	test: DX: 49.18210499999999
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 23:51:46.441	code: Info	test: Moviendo el foco...
+date: 03/07/2018 23:51:46.785	code: Info	test: Intento 2
+date: 03/07/2018 23:51:55.443	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:51:55.490	code: Error (get window)	test: could not broadcast input array from shape (17) into shape (20)
+date: 03/07/2018 23:51:55.490	code: Error (get window)	test: could not broadcast input array from shape (17) into shape (20)
+date: 03/07/2018 23:51:55.505	code: Error (get window)	test: could not broadcast input array from shape (17) into shape (20)
+date: 03/07/2018 23:51:55.505	code: Error (get window)	test: could not broadcast input array from shape (17) into shape (20)
+date: 03/07/2018 23:51:55.599	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:55.599	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:55.599	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:55.599	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:55.615	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:55.615	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:55.615	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:55.615	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:55.646	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:51:55.693	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:51:55.724	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:51:55.849	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:51:55.912	code: Error (get window)	test: could not broadcast input array from shape (13) into shape (20)
+date: 03/07/2018 23:51:55.912	code: Error (get window)	test: could not broadcast input array from shape (13) into shape (20)
+date: 03/07/2018 23:51:55.927	code: Error (get window)	test: could not broadcast input array from shape (13) into shape (20)
+date: 03/07/2018 23:51:55.927	code: Error (get window)	test: could not broadcast input array from shape (13) into shape (20)
+date: 03/07/2018 23:51:55.943	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:55.943	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:55.943	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:55.959	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:51:58.303	code: Info	test: DX: 56.017219999999995
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 23:51:58.303	code: Info	test: Moviendo el foco...
+date: 03/07/2018 23:51:58.694	code: Info	test: Intento 3
+date: 03/07/2018 23:52:07.477	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:52:08.024	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:52:08.039	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:52:08.039	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:52:08.039	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:52:08.039	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:52:08.039	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:52:08.039	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:52:08.071	code: Error (get window)	test: could not broadcast input array from shape (13) into shape (20)
+date: 03/07/2018 23:52:08.071	code: Error (get window)	test: could not broadcast input array from shape (13) into shape (20)
+date: 03/07/2018 23:52:08.071	code: Error (get window)	test: could not broadcast input array from shape (13) into shape (20)
+date: 03/07/2018 23:52:08.071	code: Error (get window)	test: could not broadcast input array from shape (13) into shape (20)
+date: 03/07/2018 23:52:08.290	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:52:08.290	code: Error (get window)	test: could not broadcast input array from shape (11) into shape (20)
+date: 03/07/2018 23:52:08.290	code: Error (get window)	test: could not broadcast input array from shape (11) into shape (20)
+date: 03/07/2018 23:52:08.290	code: Error (get window)	test: could not broadcast input array from shape (11) into shape (20)
+date: 03/07/2018 23:52:08.290	code: Error (get window)	test: could not broadcast input array from shape (11) into shape (20)
+date: 03/07/2018 23:52:08.321	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:52:08.461	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:52:08.477	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:52:08.618	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:52:08.633	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:52:10.868	code: Info	test: DX: nan
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 23:52:10.868	code: Info	test: Moviendo el foco...
+date: 03/07/2018 23:52:10.884	code: Info	test: El foco estÃ¡ enfocado
+date: 03/07/2018 23:54:03.099	code: Info	test: Inicio del proceso
+date: 03/07/2018 23:54:03.115	code: Info	test: Centrando spots...
+date: 03/07/2018 23:54:41.592	code: Info	test: Inicio del proceso
+date: 03/07/2018 23:54:41.607	code: Info	test: Centrando spots...
+date: 03/07/2018 23:54:43.655	code: Info	test: Intento 1
+date: 03/07/2018 23:54:54.188	code: Info	test: Intento 2
+date: 03/07/2018 23:55:05.519	code: Info	test: Los spots estÃ¡n centrados
+date: 03/07/2018 23:55:05.519	code: Info	test: Comprobando el foco...
+date: 03/07/2018 23:55:05.535	code: Info	test: Intento 0
+date: 03/07/2018 23:55:14.411	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:55:14.490	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:55:14.662	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:14.662	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:14.662	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:14.662	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:14.802	code: Error (get window)	test: could not broadcast input array from shape (14) into shape (20)
+date: 03/07/2018 23:55:14.802	code: Error (get window)	test: could not broadcast input array from shape (14) into shape (20)
+date: 03/07/2018 23:55:14.802	code: Error (get window)	test: could not broadcast input array from shape (14) into shape (20)
+date: 03/07/2018 23:55:14.818	code: Error (get window)	test: could not broadcast input array from shape (14) into shape (20)
+date: 03/07/2018 23:55:14.880	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:14.880	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:14.880	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:14.880	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:17.131	code: Info	test: DX: 44.124069999999996
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 23:55:17.131	code: Info	test: Moviendo el foco...
+date: 03/07/2018 23:55:17.490	code: Info	test: Intento 1
+date: 03/07/2018 23:55:26.023	code: Error (get window)	test: could not broadcast input array from shape (13) into shape (20)
+date: 03/07/2018 23:55:26.023	code: Error (get window)	test: could not broadcast input array from shape (13) into shape (20)
+date: 03/07/2018 23:55:26.023	code: Error (get window)	test: could not broadcast input array from shape (13) into shape (20)
+date: 03/07/2018 23:55:26.023	code: Error (get window)	test: could not broadcast input array from shape (13) into shape (20)
+date: 03/07/2018 23:55:26.086	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:55:26.242	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:55:26.414	code: Info	test: Error en hide_window:> index 60 is out of bounds for axis 0 with size 60
+date: 03/07/2018 23:55:26.492	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:26.492	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:26.492	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:26.508	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:26.508	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:26.508	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:26.508	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:26.508	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 03/07/2018 23:55:28.727	code: Info	test: DX: 43.92683
+	MIN: 34.5
+	MAX: 35.5
+date: 03/07/2018 23:55:28.727	code: Info	test: Moviendo el foco...
+date: 03/07/2018 23:55:29.087	code: Info	test: Intento 2

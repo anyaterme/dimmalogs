@@ -1,0 +1,1485 @@
+
+05/10/2018 07:25:12.676	Debg	---------------------------------------------
+05/10/2018 07:25:12.676	Debg	-------------------- Meteo ------------------
+05/10/2018 07:25:12.676	Debg	---------------------------------------------
+05/10/2018 07:25:14.035	Info	Wind speed: 8.4 km/h -- Humidity: 37.3 %
+05/10/2018 07:25:14.035	Debg	---------------------------------------------
+05/10/2018 07:25:14.035	Debg	------------------ Get Ready ----------------
+05/10/2018 07:25:14.035	Debg	---------------------------------------------
+05/10/2018 07:25:14.035	Info	Abriendo cupula...
+05/10/2018 07:26:17.371	Info	Cupula abierta
+05/10/2018 07:26:17.371	Info	Encendiendo la montura...
+05/10/2018 07:26:17.387	Info	Montura encendida
+05/10/2018 07:26:27.388	Info	Encendiendo el foco...
+05/10/2018 07:26:27.388	Info	Foco encendida
+05/10/2018 07:26:27.388	Info	Llevando la montura al home...
+05/10/2018 07:26:56.579	Info	Montura en el home
+05/10/2018 07:26:56.579	Info	*** Listo para empezar observacion ***
+05/10/2018 07:27:03.752	Info	--- INICIANDO LA OBSERVACION ---
+05/10/2018 07:27:13.050	Debg	---------------------------------------------
+05/10/2018 07:27:13.050	Debg	-------------------- Meteo ------------------
+05/10/2018 07:27:13.050	Debg	---------------------------------------------
+05/10/2018 07:27:14.535	Info	Wind speed: 5.3 km/h -- Humidity: 38.2 %
+05/10/2018 07:27:14.535	Debg	---------------------------------------------
+05/10/2018 07:27:14.535	Debg	---------------- Star Selection -------------
+05/10/2018 07:27:14.535	Debg	---------------------------------------------
+05/10/2018 07:27:14.535	Info	Seleccionando estella...
+05/10/2018 07:28:18.824	Info	Estella seleccionada --> Pollux
+	airmass: 1.062944
+	ha hours: hms_tuple(h=-1.0, m=-30.0, s=-0.5617875023514074)
+	ra: 7.774185
+	dec: 27.978861
+05/10/2018 07:28:18.824	Info	*** Seleccion de estrella: 64.29 ***
+05/10/2018 07:28:18.824	Debg	---------------------------------------------
+05/10/2018 07:28:18.824	Debg	-------------- Check spots ------------------
+05/10/2018 07:28:18.824	Debg	---------------------------------------------
+05/10/2018 07:28:18.824	Info	Centrando spots...
+05/10/2018 07:28:21.965	Info	Intento 0
+05/10/2018 07:28:23.277	Info	DX fuera de rango (dx: 108.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:23.277	Info	Moviendo telescopio...
+05/10/2018 07:28:24.184	Info	Intento 1
+05/10/2018 07:28:25.449	Info	DX fuera de rango (dx: 88.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:25.449	Info	Moviendo telescopio...
+05/10/2018 07:28:26.934	Info	Intento 2
+05/10/2018 07:28:28.215	Info	DX fuera de rango (dx: 338.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:28.215	Info	Moviendo telescopio...
+05/10/2018 07:28:29.231	Info	Intento 3
+05/10/2018 07:28:30.528	Info	DX fuera de rango (dx: 243.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:30.528	Info	Moviendo telescopio...
+05/10/2018 07:28:31.560	Info	Intento 4
+05/10/2018 07:28:32.857	Info	Maximos fuera de rango (diff: 5.508107541965384e+87 - nsigma: 27.493064630742694)
+05/10/2018 07:28:32.857	Info	Moviendo telescopio...
+05/10/2018 07:28:34.326	Info	Intento 5
+05/10/2018 07:28:35.623	Info	DX fuera de rango (dx: 157.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:35.638	Info	Moviendo telescopio...
+05/10/2018 07:28:37.091	Info	Intento 6
+05/10/2018 07:28:38.404	Info	DX fuera de rango (dx: 322.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:38.404	Info	Moviendo telescopio...
+05/10/2018 07:28:39.498	Info	Intento 7
+05/10/2018 07:28:40.795	Info	DX fuera de rango (dx: 59.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:40.811	Info	Moviendo telescopio...
+05/10/2018 07:28:41.873	Info	Intento 8
+05/10/2018 07:28:43.155	Info	DX fuera de rango (dx: 13.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:43.155	Info	Moviendo telescopio...
+05/10/2018 07:28:44.014	Info	Intento 9
+05/10/2018 07:28:45.311	Info	DX fuera de rango (dx: 64.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:45.311	Info	Moviendo telescopio...
+05/10/2018 07:28:46.968	Info	Intento 10
+05/10/2018 07:28:48.296	Info	DX fuera de rango (dx: 166.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:48.296	Info	Moviendo telescopio...
+05/10/2018 07:28:50.031	Info	Intento 11
+05/10/2018 07:28:51.359	Info	DX fuera de rango (dx: 425.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:51.359	Info	Moviendo telescopio...
+05/10/2018 07:28:52.859	Info	Intento 12
+05/10/2018 07:28:54.125	Info	DX fuera de rango (dx: 370.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:54.125	Info	Moviendo telescopio...
+05/10/2018 07:28:55.187	Info	Intento 13
+05/10/2018 07:28:56.500	Info	DX fuera de rango (dx: 175.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:56.500	Info	Moviendo telescopio...
+05/10/2018 07:28:57.563	Info	Intento 14
+05/10/2018 07:28:58.813	Info	DX fuera de rango (dx: 196.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:28:58.813	Info	Moviendo telescopio...
+05/10/2018 07:28:59.735	Info	Intento 15
+05/10/2018 07:29:01.016	Info	Ventana de spots fuera de rango (cx: 558 - cy: 197 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:29:01.016	Info	Moviendo telescopio...
+05/10/2018 07:29:02.079	Info	Intento 16
+05/10/2018 07:29:03.438	Info	DX fuera de rango (dx: 313.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:29:03.438	Info	Moviendo telescopio...
+05/10/2018 07:29:05.095	Info	Intento 17
+05/10/2018 07:29:06.423	Info	Ventana de spots fuera de rango (cx: 500 - cy: 34 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:29:06.423	Info	Moviendo telescopio...
+05/10/2018 07:29:07.876	Info	Intento 18
+05/10/2018 07:29:09.189	Info	Moviendo telescopio...
+05/10/2018 07:29:10.892	Info	Intento 19
+05/10/2018 07:29:12.158	Info	DX fuera de rango (dx: 478.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:29:12.158	Info	Moviendo telescopio...
+05/10/2018 07:29:13.658	Info	Intento 20
+05/10/2018 07:29:14.940	Info	DX fuera de rango (dx: 295.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:29:14.940	Info	Moviendo telescopio...
+05/10/2018 07:29:15.971	Info	Intento 21
+05/10/2018 07:29:17.253	Info	DX fuera de rango (dx: 138.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:29:17.253	Info	Moviendo telescopio...
+05/10/2018 07:29:18.268	Info	Intento 22
+05/10/2018 07:29:19.550	Info	DX fuera de rango (dx: 86.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:29:19.550	Info	Moviendo telescopio...
+05/10/2018 07:29:20.612	Info	Intento 23
+05/10/2018 07:29:21.956	Info	DX fuera de rango (dx: 285.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:29:21.956	Info	Moviendo telescopio...
+05/10/2018 07:29:23.035	Info	Intento 24
+05/10/2018 07:29:24.332	Info	Moviendo telescopio...
+05/10/2018 07:29:25.426	Info	Intento 25
+05/10/2018 07:29:26.707	Info	DX fuera de rango (dx: 238.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:29:26.707	Info	Moviendo telescopio...
+05/10/2018 07:29:28.473	Info	Intento 26
+05/10/2018 07:29:29.770	Info	DX fuera de rango (dx: 153.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:29:29.770	Info	Moviendo telescopio...
+05/10/2018 07:29:31.207	Info	Intento 27
+05/10/2018 07:29:32.489	Info	Ventana de spots fuera de rango (cx: 558 - cy: 308 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:29:32.489	Info	Moviendo telescopio...
+05/10/2018 07:29:33.927	Info	Intento 28
+05/10/2018 07:29:35.255	Info	Moviendo telescopio...
+05/10/2018 07:29:36.911	Info	Intento 29
+05/10/2018 07:29:38.208	Info	DX fuera de rango (dx: 13.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:29:38.208	Info	Moviendo telescopio...
+05/10/2018 07:29:41.896	Error (centrando los spots)	No se han podido centrar los spots
+05/10/2018 07:29:41.896	Info	*** Seleccion de estrella: 147.36 ***
+05/10/2018 07:29:44.897	Info	*** TIEMPO TOTAL ITERACION: 150.36 ***
+05/10/2018 07:29:44.897	Debg	---------------------------------------------
+05/10/2018 07:29:44.897	Debg	-------------------- Meteo ------------------
+05/10/2018 07:29:44.912	Debg	---------------------------------------------
+05/10/2018 07:29:46.569	Info	Wind speed: 5.3 km/h -- Humidity: 38.2 %
+05/10/2018 07:29:46.584	Debg	---------------------------------------------
+05/10/2018 07:29:46.584	Debg	---------------- Star Selection -------------
+05/10/2018 07:29:46.584	Debg	---------------------------------------------
+05/10/2018 07:29:46.584	Info	Seleccionando estella...
+05/10/2018 07:30:50.827	Info	Estella seleccionada --> Aldebaran
+	airmass: 1.110107
+	ha hours: hms_tuple(h=1.0, m=39.0, s=26.893008357576633)
+	ra: 4.616559
+	dec: 16.545697
+05/10/2018 07:30:50.827	Info	*** Seleccion de estrella: 64.24 ***
+05/10/2018 07:30:50.827	Debg	---------------------------------------------
+05/10/2018 07:30:50.827	Debg	-------------- Check spots ------------------
+05/10/2018 07:30:50.827	Debg	---------------------------------------------
+05/10/2018 07:30:50.827	Info	Centrando spots...
+05/10/2018 07:30:52.905	Info	Intento 0
+05/10/2018 07:30:54.202	Info	DX fuera de rango (dx: 209.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:30:54.202	Info	Moviendo telescopio...
+05/10/2018 07:30:55.249	Info	Intento 1
+05/10/2018 07:30:56.546	Info	Ventana de spots fuera de rango (cx: 588 - cy: 200 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:30:56.546	Info	Moviendo telescopio...
+05/10/2018 07:30:58.234	Info	Intento 2
+05/10/2018 07:30:59.484	Info	Flujos fuera de rango (diff: 5.6441798841131464e+290 - range: 3.0)
+05/10/2018 07:30:59.484	Info	Moviendo telescopio...
+05/10/2018 07:31:00.515	Info	Intento 3
+05/10/2018 07:31:01.812	Info	DX fuera de rango (dx: 256.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:01.812	Info	Moviendo telescopio...
+05/10/2018 07:31:02.672	Info	Intento 4
+05/10/2018 07:31:03.922	Info	Ventana de spots fuera de rango (cx: 475 - cy: 436 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:31:03.922	Info	Moviendo telescopio...
+05/10/2018 07:31:05.360	Info	Intento 5
+05/10/2018 07:31:06.641	Info	DX fuera de rango (dx: 162.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:06.641	Info	Moviendo telescopio...
+05/10/2018 07:31:08.079	Info	Intento 6
+05/10/2018 07:31:09.360	Info	DX fuera de rango (dx: 98.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:09.360	Info	Moviendo telescopio...
+05/10/2018 07:31:10.501	Info	Intento 7
+05/10/2018 07:31:11.767	Info	DX fuera de rango (dx: 264.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:11.767	Info	Moviendo telescopio...
+05/10/2018 07:31:12.626	Info	Intento 8
+05/10/2018 07:31:13.939	Info	DX fuera de rango (dx: 71.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:13.939	Info	Moviendo telescopio...
+05/10/2018 07:31:14.970	Info	Intento 9
+05/10/2018 07:31:16.267	Info	DX fuera de rango (dx: 125.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:16.283	Info	Moviendo telescopio...
+05/10/2018 07:31:17.783	Info	Intento 10
+05/10/2018 07:31:19.096	Info	DX fuera de rango (dx: 208.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:19.096	Info	Moviendo telescopio...
+05/10/2018 07:31:20.721	Info	Intento 11
+05/10/2018 07:31:22.002	Info	Ventana de spots fuera de rango (cx: 450 - cy: 25 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:31:22.002	Info	Moviendo telescopio...
+05/10/2018 07:31:23.502	Info	Intento 12
+05/10/2018 07:31:24.784	Info	DX fuera de rango (dx: 12.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:24.784	Info	Moviendo telescopio...
+05/10/2018 07:31:25.862	Info	Intento 13
+05/10/2018 07:31:27.159	Info	DX fuera de rango (dx: 215.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:27.175	Info	Moviendo telescopio...
+05/10/2018 07:31:28.034	Info	Intento 14
+05/10/2018 07:31:29.316	Info	DX fuera de rango (dx: 7.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:29.316	Info	Moviendo telescopio...
+05/10/2018 07:31:30.409	Info	Intento 15
+05/10/2018 07:31:31.691	Info	Ventana de spots fuera de rango (cx: 593 - cy: 53 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:31:31.691	Info	Moviendo telescopio...
+05/10/2018 07:31:32.550	Info	Intento 16
+05/10/2018 07:31:33.847	Info	DX fuera de rango (dx: 186.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:33.847	Info	Moviendo telescopio...
+05/10/2018 07:31:35.269	Info	Intento 17
+05/10/2018 07:31:36.582	Info	Ventana de spots fuera de rango (cx: 588 - cy: 203 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:31:36.582	Info	Moviendo telescopio...
+05/10/2018 07:31:38.254	Info	Intento 18
+05/10/2018 07:31:39.536	Info	DX fuera de rango (dx: 120.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:39.536	Info	Moviendo telescopio...
+05/10/2018 07:31:40.989	Info	Intento 19
+05/10/2018 07:31:42.255	Info	DX fuera de rango (dx: 242.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:42.255	Info	Moviendo telescopio...
+05/10/2018 07:31:43.755	Info	Intento 20
+05/10/2018 07:31:45.021	Info	Ventana de spots fuera de rango (cx: 543 - cy: 307 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:31:45.021	Info	Moviendo telescopio...
+05/10/2018 07:31:46.036	Info	Intento 21
+05/10/2018 07:31:47.255	Info	Ventana de spots fuera de rango (cx: 292 - cy: 18 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:31:47.255	Info	Moviendo telescopio...
+05/10/2018 07:31:48.318	Info	Intento 22
+05/10/2018 07:31:49.631	Info	DX fuera de rango (dx: 173.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:49.631	Info	Moviendo telescopio...
+05/10/2018 07:31:50.709	Info	Intento 23
+05/10/2018 07:31:52.006	Info	DX fuera de rango (dx: 250.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:52.006	Info	Moviendo telescopio...
+05/10/2018 07:31:53.053	Info	Intento 24
+05/10/2018 07:31:54.334	Info	DX fuera de rango (dx: 74.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:31:54.334	Info	Moviendo telescopio...
+05/10/2018 07:31:55.412	Info	Intento 25
+05/10/2018 07:31:56.803	Info	Ventana de spots fuera de rango (cx: 533 - cy: 25 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:31:56.803	Info	Moviendo telescopio...
+05/10/2018 07:31:59.054	Info	Intento 26
+05/10/2018 07:32:00.335	Info	Ventana de spots fuera de rango (cx: 310 - cy: 28 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:32:00.335	Info	Moviendo telescopio...
+05/10/2018 07:32:01.788	Info	Intento 27
+05/10/2018 07:32:03.117	Info	Moviendo telescopio...
+05/10/2018 07:32:04.554	Info	Intento 28
+05/10/2018 07:32:05.836	Info	DX fuera de rango (dx: 225.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:32:05.836	Info	Moviendo telescopio...
+05/10/2018 07:32:07.289	Info	Intento 29
+05/10/2018 07:32:08.602	Info	Ventana de spots fuera de rango (cx: 559 - cy: 242 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:32:08.602	Info	Moviendo telescopio...
+05/10/2018 07:32:12.258	Error (centrando los spots)	No se han podido centrar los spots
+05/10/2018 07:32:12.258	Info	*** Seleccion de estrella: 145.69 ***
+05/10/2018 07:32:15.259	Info	*** TIEMPO TOTAL ITERACION: 148.69 ***
+05/10/2018 07:32:15.259	Debg	---------------------------------------------
+05/10/2018 07:32:15.259	Debg	-------------------- Meteo ------------------
+05/10/2018 07:32:15.259	Debg	---------------------------------------------
+05/10/2018 07:32:16.540	Info	Wind speed: 3.6 km/h -- Humidity: 38.7 %
+05/10/2018 07:32:16.540	Debg	---------------------------------------------
+05/10/2018 07:32:16.540	Debg	---------------- Star Selection -------------
+05/10/2018 07:32:16.540	Debg	---------------------------------------------
+05/10/2018 07:32:16.540	Info	Seleccionando estella...
+05/10/2018 07:32:46.747	Info	Estella seleccionada --> Capella
+	airmass: 1.076032
+	ha hours: hms_tuple(h=1.0, m=3.0, s=23.329734099163772)
+	ra: 5.301119
+	dec: 46.013906
+05/10/2018 07:32:46.747	Info	*** Seleccion de estrella: 30.21 ***
+05/10/2018 07:32:46.747	Debg	---------------------------------------------
+05/10/2018 07:32:46.747	Debg	-------------- Check spots ------------------
+05/10/2018 07:32:46.747	Debg	---------------------------------------------
+05/10/2018 07:32:46.747	Info	Centrando spots...
+05/10/2018 07:32:48.778	Info	Intento 0
+05/10/2018 07:32:50.075	Info	DX fuera de rango (dx: 154.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:32:50.075	Info	Moviendo telescopio...
+05/10/2018 07:32:51.107	Info	Intento 1
+05/10/2018 07:32:52.388	Info	DX fuera de rango (dx: 370.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:32:52.388	Info	Moviendo telescopio...
+05/10/2018 07:32:53.888	Info	Intento 2
+05/10/2018 07:32:55.264	Info	DX fuera de rango (dx: 56.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:32:55.264	Info	Moviendo telescopio...
+05/10/2018 07:32:56.295	Info	Intento 3
+05/10/2018 07:32:57.545	Info	Ventana de spots fuera de rango (cx: 293 - cy: 54 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:32:57.545	Info	Moviendo telescopio...
+05/10/2018 07:32:58.545	Info	Intento 4
+05/10/2018 07:32:59.873	Info	Ventana de spots fuera de rango (cx: 569 - cy: 202 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:32:59.873	Info	Moviendo telescopio...
+05/10/2018 07:33:01.327	Info	Intento 5
+05/10/2018 07:33:02.608	Info	DX fuera de rango (dx: 113.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:02.624	Info	Moviendo telescopio...
+05/10/2018 07:33:04.061	Info	Intento 6
+05/10/2018 07:33:05.405	Info	DX fuera de rango (dx: 0.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:05.405	Info	Moviendo telescopio...
+05/10/2018 07:33:06.452	Info	Intento 7
+05/10/2018 07:33:07.718	Info	DX fuera de rango (dx: 251.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:07.718	Info	Moviendo telescopio...
+05/10/2018 07:33:08.765	Info	Intento 8
+05/10/2018 07:33:10.062	Info	DX fuera de rango (dx: 293.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:10.062	Info	Moviendo telescopio...
+05/10/2018 07:33:11.109	Info	Intento 9
+05/10/2018 07:33:12.422	Info	DX fuera de rango (dx: 300.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:12.422	Info	Moviendo telescopio...
+05/10/2018 07:33:13.891	Info	Intento 10
+05/10/2018 07:33:15.188	Info	DX fuera de rango (dx: 66.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:15.188	Info	Moviendo telescopio...
+05/10/2018 07:33:16.625	Info	Intento 11
+05/10/2018 07:33:17.969	Info	DX fuera de rango (dx: 254.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:17.969	Info	Moviendo telescopio...
+05/10/2018 07:33:19.610	Info	Intento 12
+05/10/2018 07:33:20.939	Info	DX fuera de rango (dx: 222.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:20.939	Info	Moviendo telescopio...
+05/10/2018 07:33:21.954	Info	Intento 13
+05/10/2018 07:33:23.251	Info	DX fuera de rango (dx: 79.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:23.251	Info	Moviendo telescopio...
+05/10/2018 07:33:24.330	Info	Intento 14
+05/10/2018 07:33:25.642	Info	DX fuera de rango (dx: 25.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:25.642	Info	Moviendo telescopio...
+05/10/2018 07:33:26.705	Info	Intento 15
+05/10/2018 07:33:27.986	Info	DX fuera de rango (dx: 10.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:27.986	Info	Moviendo telescopio...
+05/10/2018 07:33:29.049	Info	Intento 16
+05/10/2018 07:33:30.330	Info	DX fuera de rango (dx: 69.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:30.330	Info	Moviendo telescopio...
+05/10/2018 07:33:31.752	Info	Intento 17
+05/10/2018 07:33:33.049	Info	Ventana de spots fuera de rango (cx: 577 - cy: 145 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:33:33.049	Info	Moviendo telescopio...
+05/10/2018 07:33:34.456	Info	Intento 18
+05/10/2018 07:33:35.722	Info	DX fuera de rango (dx: 15.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:35.722	Info	Moviendo telescopio...
+05/10/2018 07:33:37.159	Info	Intento 19
+05/10/2018 07:33:38.456	Info	DX fuera de rango (dx: 153.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:38.456	Info	Moviendo telescopio...
+05/10/2018 07:33:40.160	Info	Intento 20
+05/10/2018 07:33:41.441	Info	Ventana de spots fuera de rango (cx: 477 - cy: 35 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:33:41.441	Info	Moviendo telescopio...
+05/10/2018 07:33:42.519	Info	Intento 21
+05/10/2018 07:33:43.848	Info	DX fuera de rango (dx: 3.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:43.848	Info	Moviendo telescopio...
+05/10/2018 07:33:44.863	Info	Intento 22
+05/10/2018 07:33:46.160	Info	DX fuera de rango (dx: 180.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:46.160	Info	Moviendo telescopio...
+05/10/2018 07:33:47.223	Info	Intento 23
+05/10/2018 07:33:48.520	Info	Ventana de spots fuera de rango (cx: 616 - cy: 257 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:33:48.520	Info	Moviendo telescopio...
+05/10/2018 07:33:49.395	Info	Intento 24
+05/10/2018 07:33:50.661	Info	Ventana de spots fuera de rango (cx: 307 - cy: 35 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:33:50.661	Info	Moviendo telescopio...
+05/10/2018 07:33:51.708	Info	Intento 25
+05/10/2018 07:33:52.958	Info	Ventana de spots fuera de rango (cx: 333 - cy: 57 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:33:52.974	Info	Moviendo telescopio...
+05/10/2018 07:33:54.411	Info	Intento 26
+05/10/2018 07:33:55.661	Info	Ventana de spots fuera de rango (cx: 602 - cy: 69 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:33:55.661	Info	Moviendo telescopio...
+05/10/2018 07:33:57.177	Info	Intento 27
+05/10/2018 07:33:58.474	Info	DX fuera de rango (dx: 153.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:33:58.474	Info	Moviendo telescopio...
+05/10/2018 07:33:59.881	Info	Intento 28
+05/10/2018 07:34:01.147	Info	Ventana de spots fuera de rango (cx: 601 - cy: 24 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:34:01.147	Info	Moviendo telescopio...
+05/10/2018 07:34:02.819	Info	Intento 29
+05/10/2018 07:34:04.116	Info	DX fuera de rango (dx: 280.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:34:04.131	Info	Moviendo telescopio...
+05/10/2018 07:34:07.850	Error (centrando los spots)	No se han podido centrar los spots
+05/10/2018 07:34:07.850	Info	*** Seleccion de estrella: 111.31 ***
+05/10/2018 07:34:10.851	Info	*** TIEMPO TOTAL ITERACION: 114.31 ***
+05/10/2018 07:34:10.851	Debg	---------------------------------------------
+05/10/2018 07:34:10.851	Debg	-------------------- Meteo ------------------
+05/10/2018 07:34:10.851	Debg	---------------------------------------------
+05/10/2018 07:34:12.414	Info	Wind speed: 3.6 km/h -- Humidity: 38.7 %
+05/10/2018 07:34:12.429	Debg	---------------------------------------------
+05/10/2018 07:34:12.429	Debg	---------------- Star Selection -------------
+05/10/2018 07:34:12.429	Debg	---------------------------------------------
+05/10/2018 07:34:12.429	Info	Seleccionando estella...
+05/10/2018 07:35:19.078	Info	Estella seleccionada --> Pollux
+	airmass: 1.055830
+	ha hours: hms_tuple(h=-1.0, m=-24.0, s=-59.710461569700826)
+	ra: 7.774185
+	dec: 27.978861
+05/10/2018 07:35:19.078	Info	*** Seleccion de estrella: 66.65 ***
+05/10/2018 07:35:19.078	Debg	---------------------------------------------
+05/10/2018 07:35:19.078	Debg	-------------- Check spots ------------------
+05/10/2018 07:35:19.078	Debg	---------------------------------------------
+05/10/2018 07:35:19.094	Info	Centrando spots...
+05/10/2018 07:35:21.125	Info	Intento 0
+05/10/2018 07:35:22.406	Info	DX fuera de rango (dx: 171.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:35:22.406	Info	Moviendo telescopio...
+05/10/2018 07:35:23.485	Info	Intento 1
+05/10/2018 07:35:24.766	Info	DX fuera de rango (dx: 107.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:35:24.766	Info	Moviendo telescopio...
+05/10/2018 07:35:26.391	Info	Intento 2
+05/10/2018 07:35:27.657	Info	Ventana de spots fuera de rango (cx: 324 - cy: 57 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:35:27.657	Info	Moviendo telescopio...
+05/10/2018 07:35:28.657	Info	Intento 3
+05/10/2018 07:35:29.954	Info	DX fuera de rango (dx: 118.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:35:29.954	Info	Moviendo telescopio...
+05/10/2018 07:35:30.829	Info	Intento 4
+05/10/2018 07:35:32.033	Info	Flujos fuera de rango (diff: 7.433750397437848e+281 - range: 3.0)
+05/10/2018 07:35:32.033	Info	Moviendo telescopio...
+05/10/2018 07:35:33.439	Info	Intento 5
+05/10/2018 07:35:34.752	Info	DX fuera de rango (dx: 246.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:35:34.752	Info	Moviendo telescopio...
+05/10/2018 07:35:36.189	Info	Intento 6
+05/10/2018 07:35:37.549	Info	DX fuera de rango (dx: 443.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:35:37.549	Info	Moviendo telescopio...
+05/10/2018 07:35:38.627	Info	Intento 7
+05/10/2018 07:35:39.940	Info	Moviendo telescopio...
+05/10/2018 07:35:40.784	Info	Intento 8
+05/10/2018 07:35:42.081	Info	DX fuera de rango (dx: 78.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:35:42.081	Info	Moviendo telescopio...
+05/10/2018 07:35:43.143	Info	Intento 9
+05/10/2018 07:35:44.456	Info	DX fuera de rango (dx: 341.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:35:44.456	Info	Moviendo telescopio...
+05/10/2018 07:35:45.894	Info	Intento 10
+05/10/2018 07:35:47.175	Info	Ventana de spots fuera de rango (cx: 548 - cy: 110 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:35:47.191	Info	Moviendo telescopio...
+05/10/2018 07:35:48.582	Info	Intento 11
+05/10/2018 07:35:49.879	Info	DX fuera de rango (dx: 239.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:35:49.879	Info	Moviendo telescopio...
+05/10/2018 07:35:51.317	Info	Intento 12
+05/10/2018 07:35:52.583	Info	DX fuera de rango (dx: 65.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:35:52.583	Info	Moviendo telescopio...
+05/10/2018 07:35:53.661	Info	Intento 13
+05/10/2018 07:35:54.942	Info	Maximos fuera de rango (diff: 177.236225 - nsigma: 43.46955093601692)
+05/10/2018 07:35:54.942	Info	Moviendo telescopio...
+05/10/2018 07:35:56.005	Info	Intento 14
+05/10/2018 07:35:57.349	Info	DX fuera de rango (dx: 136.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:35:57.349	Info	Moviendo telescopio...
+05/10/2018 07:35:58.427	Info	Intento 15
+05/10/2018 07:35:59.662	Info	DX fuera de rango (dx: 252.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:35:59.662	Info	Moviendo telescopio...
+05/10/2018 07:36:00.740	Info	Intento 16
+05/10/2018 07:36:02.037	Info	DX fuera de rango (dx: 139.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:36:02.037	Info	Moviendo telescopio...
+05/10/2018 07:36:03.693	Info	Intento 17
+05/10/2018 07:36:04.928	Info	Flujos fuera de rango (diff: 2.8103836544266933e+281 - range: 3.0)
+05/10/2018 07:36:04.928	Info	Moviendo telescopio...
+05/10/2018 07:36:06.584	Info	Intento 18
+05/10/2018 07:36:07.897	Info	DX fuera de rango (dx: 385.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:36:07.897	Info	Moviendo telescopio...
+05/10/2018 07:36:09.366	Info	Intento 19
+05/10/2018 07:36:10.694	Info	DX fuera de rango (dx: 19.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:36:10.694	Info	Moviendo telescopio...
+05/10/2018 07:36:12.351	Info	Intento 20
+05/10/2018 07:36:13.648	Info	Ventana de spots fuera de rango (cx: 395 - cy: 463 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:36:13.648	Info	Moviendo telescopio...
+05/10/2018 07:36:14.695	Info	Intento 21
+05/10/2018 07:36:15.992	Info	Flujos fuera de rango (diff: 9.629085859643999e+290 - range: 3.0)
+05/10/2018 07:36:15.992	Info	Moviendo telescopio...
+05/10/2018 07:36:16.882	Info	Intento 22
+05/10/2018 07:36:18.148	Info	DX fuera de rango (dx: 320.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:36:18.148	Info	Moviendo telescopio...
+05/10/2018 07:36:19.180	Info	Intento 23
+05/10/2018 07:36:20.477	Info	DX fuera de rango (dx: 301.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:36:20.477	Info	Moviendo telescopio...
+05/10/2018 07:36:21.477	Info	Intento 24
+05/10/2018 07:36:22.742	Info	DX fuera de rango (dx: 403.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:36:22.742	Info	Moviendo telescopio...
+05/10/2018 07:36:23.852	Info	Intento 25
+05/10/2018 07:36:25.149	Info	DX fuera de rango (dx: 161.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:36:25.149	Info	Moviendo telescopio...
+05/10/2018 07:36:26.649	Info	Intento 26
+05/10/2018 07:36:27.931	Info	DX fuera de rango (dx: 201.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:36:27.931	Info	Moviendo telescopio...
+05/10/2018 07:36:29.400	Info	Intento 27
+05/10/2018 07:36:30.712	Info	Moviendo telescopio...
+05/10/2018 07:36:32.150	Info	Intento 28
+05/10/2018 07:36:33.447	Info	Ventana de spots fuera de rango (cx: 547 - cy: 169 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:36:33.447	Info	Moviendo telescopio...
+05/10/2018 07:36:34.869	Info	Intento 29
+05/10/2018 07:36:36.135	Info	DX fuera de rango (dx: 3.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:36:36.150	Info	Moviendo telescopio...
+05/10/2018 07:36:39.776	Error (centrando los spots)	No se han podido centrar los spots
+05/10/2018 07:36:39.776	Info	*** Seleccion de estrella: 147.35 ***
+05/10/2018 07:36:39.776	Error (manage auto select error)	It's not posible to select a star. Next trying on 60 seconds.
+05/10/2018 07:36:39.776	Info	Llevando la montura al home...
+05/10/2018 07:37:59.879	Info	Montura en el home
+05/10/2018 07:38:59.887	Info	*** TIEMPO TOTAL ITERACION: 287.46 ***
+05/10/2018 07:38:59.887	Debg	---------------------------------------------
+05/10/2018 07:38:59.887	Debg	-------------------- Meteo ------------------
+05/10/2018 07:38:59.887	Debg	---------------------------------------------
+05/10/2018 07:39:01.481	Info	Wind speed: 4.6 km/h -- Humidity: 38.5 %
+05/10/2018 07:39:01.481	Debg	---------------------------------------------
+05/10/2018 07:39:01.481	Debg	---------------- Star Selection -------------
+05/10/2018 07:39:01.481	Debg	---------------------------------------------
+05/10/2018 07:39:01.481	Info	Seleccionando estella...
+05/10/2018 07:39:29.234	Info	Estella seleccionada --> Aldebaran
+	airmass: 1.132808
+	ha hours: hms_tuple(h=1.0, m=50.0, s=31.988788908984986)
+	ra: 4.616559
+	dec: 16.545698
+05/10/2018 07:39:29.234	Info	*** Seleccion de estrella: 27.75 ***
+05/10/2018 07:39:29.234	Debg	---------------------------------------------
+05/10/2018 07:39:29.234	Debg	-------------- Check spots ------------------
+05/10/2018 07:39:29.234	Debg	---------------------------------------------
+05/10/2018 07:39:29.234	Info	Centrando spots...
+05/10/2018 07:39:31.281	Info	Intento 0
+05/10/2018 07:39:32.578	Info	Ventana de spots fuera de rango (cx: 618 - cy: 22 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:39:32.578	Info	Moviendo telescopio...
+05/10/2018 07:39:33.641	Info	Intento 1
+05/10/2018 07:39:34.969	Info	DX fuera de rango (dx: 183.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:39:34.969	Info	Moviendo telescopio...
+05/10/2018 07:39:36.485	Info	Intento 2
+05/10/2018 07:39:37.797	Info	DX fuera de rango (dx: 225.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:39:37.813	Info	Moviendo telescopio...
+05/10/2018 07:39:38.844	Info	Intento 3
+05/10/2018 07:39:40.173	Info	DX fuera de rango (dx: 342.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:39:40.173	Info	Moviendo telescopio...
+05/10/2018 07:39:41.204	Info	Intento 4
+05/10/2018 07:39:42.486	Info	DX fuera de rango (dx: 388.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:39:42.486	Info	Moviendo telescopio...
+05/10/2018 07:39:43.986	Info	Intento 5
+05/10/2018 07:39:45.267	Info	Flujos fuera de rango (diff: 3.502523099786041e+254 - range: 3.0)
+05/10/2018 07:39:45.267	Info	Moviendo telescopio...
+05/10/2018 07:39:46.720	Info	Intento 6
+05/10/2018 07:39:48.080	Info	DX fuera de rango (dx: 350.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:39:48.080	Info	Moviendo telescopio...
+05/10/2018 07:39:49.096	Info	Intento 7
+05/10/2018 07:39:50.424	Info	DX fuera de rango (dx: 138.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:39:50.424	Info	Moviendo telescopio...
+05/10/2018 07:39:51.268	Info	Intento 8
+05/10/2018 07:39:52.596	Info	Moviendo telescopio...
+05/10/2018 07:39:53.628	Info	Intento 9
+05/10/2018 07:39:54.909	Info	DX fuera de rango (dx: 16.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:39:54.909	Info	Moviendo telescopio...
+05/10/2018 07:39:56.393	Info	Intento 10
+05/10/2018 07:39:57.784	Info	DX fuera de rango (dx: 451.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:39:57.784	Info	Moviendo telescopio...
+05/10/2018 07:39:59.269	Info	Intento 11
+05/10/2018 07:40:00.550	Info	DX fuera de rango (dx: 109.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:40:00.550	Info	Moviendo telescopio...
+05/10/2018 07:40:02.019	Info	Intento 12
+05/10/2018 07:40:03.285	Info	Ventana de spots fuera de rango (cx: 427 - cy: 9 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:40:03.285	Info	Moviendo telescopio...
+05/10/2018 07:40:04.363	Info	Intento 13
+05/10/2018 07:40:05.738	Info	DX fuera de rango (dx: 192.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:40:05.738	Info	Moviendo telescopio...
+05/10/2018 07:40:06.770	Info	Intento 14
+05/10/2018 07:40:08.098	Info	Moviendo telescopio...
+05/10/2018 07:40:09.161	Info	Intento 15
+05/10/2018 07:40:10.473	Info	DX fuera de rango (dx: 98.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:40:10.473	Info	Moviendo telescopio...
+05/10/2018 07:40:11.552	Info	Intento 16
+05/10/2018 07:40:12.864	Info	DX fuera de rango (dx: 343.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:40:12.880	Info	Moviendo telescopio...
+05/10/2018 07:40:14.505	Info	Intento 17
+05/10/2018 07:40:15.849	Info	DX fuera de rango (dx: 179.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:40:15.849	Info	Moviendo telescopio...
+05/10/2018 07:40:17.302	Info	Intento 18
+05/10/2018 07:40:18.615	Info	DX fuera de rango (dx: 290.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:40:18.615	Info	Moviendo telescopio...
+05/10/2018 07:40:20.099	Info	Intento 19
+05/10/2018 07:40:21.381	Info	Ventana de spots fuera de rango (cx: 325 - cy: 18 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:40:21.381	Info	Moviendo telescopio...
+05/10/2018 07:40:23.006	Info	Intento 20
+05/10/2018 07:40:24.366	Info	DX fuera de rango (dx: 8.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:40:24.366	Info	Moviendo telescopio...
+05/10/2018 07:40:25.397	Info	Intento 21
+05/10/2018 07:40:26.741	Info	DX fuera de rango (dx: 72.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:40:26.741	Info	Moviendo telescopio...
+05/10/2018 07:40:27.772	Info	Intento 22
+05/10/2018 07:40:29.085	Info	Ventana de spots fuera de rango (cx: 322 - cy: 35 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:40:29.085	Info	Moviendo telescopio...
+05/10/2018 07:40:30.148	Info	Intento 23
+05/10/2018 07:40:31.507	Info	DX fuera de rango (dx: 424.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:40:31.507	Info	Moviendo telescopio...
+05/10/2018 07:40:32.538	Info	Intento 24
+05/10/2018 07:40:33.773	Info	Flujos fuera de rango (diff: 4.075799110502051e+290 - range: 3.0)
+05/10/2018 07:40:33.789	Info	Moviendo telescopio...
+05/10/2018 07:40:34.820	Info	Intento 25
+05/10/2018 07:40:36.117	Info	DX fuera de rango (dx: 173.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:40:36.117	Info	Moviendo telescopio...
+05/10/2018 07:40:37.602	Info	Intento 26
+05/10/2018 07:40:38.914	Info	DX fuera de rango (dx: 193.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:40:38.930	Info	Moviendo telescopio...
+05/10/2018 07:40:40.352	Info	Intento 27
+05/10/2018 07:40:41.665	Info	Flujos fuera de rango (diff: 4.3676612500959564e+290 - range: 3.0)
+05/10/2018 07:40:41.665	Info	Moviendo telescopio...
+05/10/2018 07:40:43.368	Info	Intento 28
+05/10/2018 07:40:44.681	Info	DX fuera de rango (dx: 261.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:40:44.681	Info	Moviendo telescopio...
+05/10/2018 07:40:46.118	Info	Intento 29
+05/10/2018 07:40:47.415	Info	DX fuera de rango (dx: 157.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:40:47.415	Info	Moviendo telescopio...
+05/10/2018 07:40:51.134	Error (centrando los spots)	No se han podido centrar los spots
+05/10/2018 07:40:51.134	Info	*** Seleccion de estrella: 109.65 ***
+05/10/2018 07:40:54.135	Info	*** TIEMPO TOTAL ITERACION: 112.65 ***
+05/10/2018 07:40:54.135	Debg	---------------------------------------------
+05/10/2018 07:40:54.135	Debg	-------------------- Meteo ------------------
+05/10/2018 07:40:54.135	Debg	---------------------------------------------
+05/10/2018 07:40:55.338	Info	Wind speed: 4.6 km/h -- Humidity: 38.5 %
+05/10/2018 07:40:55.338	Debg	---------------------------------------------
+05/10/2018 07:40:55.338	Debg	---------------- Star Selection -------------
+05/10/2018 07:40:55.338	Debg	---------------------------------------------
+05/10/2018 07:40:55.338	Info	Seleccionando estella...
+05/10/2018 07:41:25.545	Info	Estella seleccionada --> Capella
+	airmass: 1.081418
+	ha hours: hms_tuple(h=1.0, m=9.0, s=27.574114752895653)
+	ra: 5.301119
+	dec: 46.013906
+05/10/2018 07:41:25.545	Info	*** Seleccion de estrella: 30.21 ***
+05/10/2018 07:41:25.545	Debg	---------------------------------------------
+05/10/2018 07:41:25.561	Debg	-------------- Check spots ------------------
+05/10/2018 07:41:25.561	Debg	---------------------------------------------
+05/10/2018 07:41:25.561	Info	Centrando spots...
+05/10/2018 07:41:27.576	Info	Intento 0
+05/10/2018 07:41:28.920	Info	Maximos fuera de rango (diff: 361.51890625000004 - nsigma: 35.7974409710234)
+05/10/2018 07:41:28.920	Info	Moviendo telescopio...
+05/10/2018 07:41:29.952	Info	Intento 1
+05/10/2018 07:41:31.264	Info	Flujos fuera de rango (diff: 4.4384982656758315e+290 - range: 3.0)
+05/10/2018 07:41:31.264	Info	Moviendo telescopio...
+05/10/2018 07:41:32.952	Info	Intento 2
+05/10/2018 07:41:34.265	Info	DX fuera de rango (dx: 285.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:41:34.265	Info	Moviendo telescopio...
+05/10/2018 07:41:35.312	Info	Intento 3
+05/10/2018 07:41:36.578	Info	Ventana de spots fuera de rango (cx: 335 - cy: 45 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:41:36.578	Info	Moviendo telescopio...
+05/10/2018 07:41:37.625	Info	Intento 4
+05/10/2018 07:41:38.953	Info	DX fuera de rango (dx: 315.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:41:38.968	Info	Moviendo telescopio...
+05/10/2018 07:41:40.406	Info	Intento 5
+05/10/2018 07:41:41.703	Info	DX fuera de rango (dx: 237.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:41:41.703	Info	Moviendo telescopio...
+05/10/2018 07:41:43.156	Info	Intento 6
+05/10/2018 07:41:44.500	Info	DX fuera de rango (dx: 72.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:41:44.500	Info	Moviendo telescopio...
+05/10/2018 07:41:45.563	Info	Intento 7
+05/10/2018 07:41:46.891	Info	Flujos fuera de rango (diff: 3.861641825651122e+290 - range: 3.0)
+05/10/2018 07:41:46.891	Info	Moviendo telescopio...
+05/10/2018 07:41:47.985	Info	Intento 8
+05/10/2018 07:41:49.313	Info	DX fuera de rango (dx: 204.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:41:49.313	Info	Moviendo telescopio...
+05/10/2018 07:41:50.345	Info	Intento 9
+05/10/2018 07:41:51.626	Info	DX fuera de rango (dx: 170.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:41:51.626	Info	Moviendo telescopio...
+05/10/2018 07:41:53.283	Info	Intento 10
+05/10/2018 07:41:54.611	Info	DX fuera de rango (dx: 204.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:41:54.611	Info	Moviendo telescopio...
+05/10/2018 07:41:56.049	Info	Intento 11
+05/10/2018 07:41:57.393	Info	DX fuera de rango (dx: 334.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:41:57.393	Info	Moviendo telescopio...
+05/10/2018 07:41:59.033	Info	Intento 12
+05/10/2018 07:42:00.362	Info	Flujos fuera de rango (diff: 4.169768017834191e+290 - range: 3.0)
+05/10/2018 07:42:00.362	Info	Moviendo telescopio...
+05/10/2018 07:42:01.456	Info	Intento 13
+05/10/2018 07:42:02.815	Info	DX fuera de rango (dx: 266.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:42:02.815	Info	Moviendo telescopio...
+05/10/2018 07:42:03.909	Info	Intento 14
+05/10/2018 07:42:05.237	Info	Ventana de spots fuera de rango (cx: 560 - cy: 185 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:42:05.237	Info	Moviendo telescopio...
+05/10/2018 07:42:06.284	Info	Intento 15
+05/10/2018 07:42:07.566	Info	Ventana de spots fuera de rango (cx: 307 - cy: 43 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:42:07.566	Info	Moviendo telescopio...
+05/10/2018 07:42:08.628	Info	Intento 16
+05/10/2018 07:42:09.941	Info	DX fuera de rango (dx: 124.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:42:09.941	Info	Moviendo telescopio...
+05/10/2018 07:42:11.582	Info	Intento 17
+05/10/2018 07:42:12.894	Info	Ventana de spots fuera de rango (cx: 593 - cy: 369 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:42:12.894	Info	Moviendo telescopio...
+05/10/2018 07:42:14.363	Info	Intento 18
+05/10/2018 07:42:15.692	Info	DX fuera de rango (dx: 238.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:42:15.692	Info	Moviendo telescopio...
+05/10/2018 07:42:17.145	Info	Intento 19
+05/10/2018 07:42:18.520	Info	DX fuera de rango (dx: 103.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:42:18.520	Info	Moviendo telescopio...
+05/10/2018 07:42:20.036	Info	Intento 20
+05/10/2018 07:42:21.333	Info	DX fuera de rango (dx: 245.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:42:21.333	Info	Moviendo telescopio...
+05/10/2018 07:42:22.333	Info	Intento 21
+05/10/2018 07:42:23.614	Info	DX fuera de rango (dx: 227.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:42:23.630	Info	Moviendo telescopio...
+05/10/2018 07:42:24.646	Info	Intento 22
+05/10/2018 07:42:25.959	Info	DX fuera de rango (dx: 109.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:42:25.959	Info	Moviendo telescopio...
+05/10/2018 07:42:27.006	Info	Intento 23
+05/10/2018 07:42:28.318	Info	DX fuera de rango (dx: 509.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:42:28.318	Info	Moviendo telescopio...
+05/10/2018 07:42:29.350	Info	Intento 24
+05/10/2018 07:42:30.709	Info	DX fuera de rango (dx: 54.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:42:30.725	Info	Moviendo telescopio...
+05/10/2018 07:42:31.740	Info	Intento 25
+05/10/2018 07:42:33.022	Info	Flujos fuera de rango (diff: 4.7529257022296494e+290 - range: 3.0)
+05/10/2018 07:42:33.022	Info	Moviendo telescopio...
+05/10/2018 07:42:34.522	Info	Intento 26
+05/10/2018 07:42:35.866	Info	DX fuera de rango (dx: 62.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:42:35.866	Info	Moviendo telescopio...
+05/10/2018 07:42:37.538	Info	Intento 27
+05/10/2018 07:42:38.835	Info	Ventana de spots fuera de rango (cx: 447 - cy: 29 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:42:38.835	Info	Moviendo telescopio...
+05/10/2018 07:42:40.273	Info	Intento 28
+05/10/2018 07:42:41.539	Info	DX fuera de rango (dx: 147.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:42:41.539	Info	Moviendo telescopio...
+05/10/2018 07:42:42.992	Info	Intento 29
+05/10/2018 07:42:44.289	Info	Ventana de spots fuera de rango (cx: 254 - cy: 19 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:42:44.289	Info	Moviendo telescopio...
+05/10/2018 07:42:47.961	Error (centrando los spots)	No se han podido centrar los spots
+05/10/2018 07:42:47.961	Info	*** Seleccion de estrella: 112.62 ***
+05/10/2018 07:42:50.962	Info	*** TIEMPO TOTAL ITERACION: 115.62 ***
+05/10/2018 07:42:50.962	Debg	---------------------------------------------
+05/10/2018 07:42:50.962	Debg	-------------------- Meteo ------------------
+05/10/2018 07:42:50.962	Debg	---------------------------------------------
+05/10/2018 07:42:52.368	Info	Wind speed: 3.9 km/h -- Humidity: 38.1 %
+05/10/2018 07:42:52.368	Debg	---------------------------------------------
+05/10/2018 07:42:52.384	Debg	---------------- Star Selection -------------
+05/10/2018 07:42:52.384	Debg	---------------------------------------------
+05/10/2018 07:42:52.384	Info	Seleccionando estella...
+05/10/2018 07:44:00.236	Info	Estella seleccionada --> Pollux
+	airmass: 1.041776
+	ha hours: hms_tuple(h=-1.0, m=-13.0, s=-54.59467943037673)
+	ra: 7.774185
+	dec: 27.978861
+05/10/2018 07:44:00.236	Info	*** Seleccion de estrella: 67.85 ***
+05/10/2018 07:44:00.236	Debg	---------------------------------------------
+05/10/2018 07:44:00.236	Debg	-------------- Check spots ------------------
+05/10/2018 07:44:00.236	Debg	---------------------------------------------
+05/10/2018 07:44:00.236	Info	Centrando spots...
+05/10/2018 07:44:02.267	Info	Intento 0
+05/10/2018 07:44:03.517	Info	Ventana de spots fuera de rango (cx: 289 - cy: 466 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:44:03.517	Info	Moviendo telescopio...
+05/10/2018 07:44:04.721	Info	Intento 1
+05/10/2018 07:44:06.033	Info	DX fuera de rango (dx: 189.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:06.033	Info	Moviendo telescopio...
+05/10/2018 07:44:07.455	Info	Intento 2
+05/10/2018 07:44:08.690	Info	Ventana de spots fuera de rango (cx: 421 - cy: 30 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:44:08.690	Info	Moviendo telescopio...
+05/10/2018 07:44:09.752	Info	Intento 3
+05/10/2018 07:44:11.049	Info	DX fuera de rango (dx: 97.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:11.049	Info	Moviendo telescopio...
+05/10/2018 07:44:12.050	Info	Intento 4
+05/10/2018 07:44:13.347	Info	DX fuera de rango (dx: 350.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:13.347	Info	Moviendo telescopio...
+05/10/2018 07:44:14.800	Info	Intento 5
+05/10/2018 07:44:16.128	Info	DX fuera de rango (dx: 388.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:16.128	Info	Moviendo telescopio...
+05/10/2018 07:44:17.816	Info	Intento 6
+05/10/2018 07:44:19.113	Info	DX fuera de rango (dx: 207.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:19.113	Info	Moviendo telescopio...
+05/10/2018 07:44:20.191	Info	Intento 7
+05/10/2018 07:44:21.269	Info	Moviendo telescopio...
+05/10/2018 07:44:22.332	Info	Intento 8
+05/10/2018 07:44:23.442	Info	Moviendo telescopio...
+05/10/2018 07:44:24.535	Info	Intento 9
+05/10/2018 07:44:25.879	Info	DX fuera de rango (dx: 125.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:25.879	Info	Moviendo telescopio...
+05/10/2018 07:44:27.301	Info	Intento 10
+05/10/2018 07:44:28.598	Info	Flujos fuera de rango (diff: 3.834587548099552e+290 - range: 3.0)
+05/10/2018 07:44:28.598	Info	Moviendo telescopio...
+05/10/2018 07:44:30.286	Info	Intento 11
+05/10/2018 07:44:31.552	Info	DX fuera de rango (dx: 125.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:31.552	Info	Moviendo telescopio...
+05/10/2018 07:44:33.052	Info	Intento 12
+05/10/2018 07:44:34.380	Info	DX fuera de rango (dx: 196.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:34.380	Info	Moviendo telescopio...
+05/10/2018 07:44:35.255	Info	Intento 13
+05/10/2018 07:44:36.334	Info	Moviendo telescopio...
+05/10/2018 07:44:37.365	Info	Intento 14
+05/10/2018 07:44:38.647	Info	DX fuera de rango (dx: 221.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:38.647	Info	Moviendo telescopio...
+05/10/2018 07:44:39.740	Info	Intento 15
+05/10/2018 07:44:41.037	Info	DX fuera de rango (dx: 312.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:41.037	Info	Moviendo telescopio...
+05/10/2018 07:44:42.084	Info	Intento 16
+05/10/2018 07:44:43.366	Info	DX fuera de rango (dx: 473.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:43.366	Info	Moviendo telescopio...
+05/10/2018 07:44:44.819	Info	Intento 17
+05/10/2018 07:44:46.085	Info	DX fuera de rango (dx: 339.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:46.085	Info	Moviendo telescopio...
+05/10/2018 07:44:47.585	Info	Intento 18
+05/10/2018 07:44:48.851	Info	DX fuera de rango (dx: 291.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:48.851	Info	Moviendo telescopio...
+05/10/2018 07:44:50.257	Info	Intento 19
+05/10/2018 07:44:51.554	Info	DX fuera de rango (dx: 230.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:51.554	Info	Moviendo telescopio...
+05/10/2018 07:44:53.023	Info	Intento 20
+05/10/2018 07:44:54.305	Info	DX fuera de rango (dx: 304.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:54.305	Info	Moviendo telescopio...
+05/10/2018 07:44:55.211	Info	Intento 21
+05/10/2018 07:44:56.571	Info	DX fuera de rango (dx: 215.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:56.571	Info	Moviendo telescopio...
+05/10/2018 07:44:57.618	Info	Intento 22
+05/10/2018 07:44:58.930	Info	DX fuera de rango (dx: 168.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:44:58.930	Info	Moviendo telescopio...
+05/10/2018 07:44:59.977	Info	Intento 23
+05/10/2018 07:45:01.274	Info	DX fuera de rango (dx: 220.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:45:01.274	Info	Moviendo telescopio...
+05/10/2018 07:45:02.274	Info	Intento 24
+05/10/2018 07:45:03.556	Info	Ventana de spots fuera de rango (cx: 172 - cy: 49 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:45:03.556	Info	Moviendo telescopio...
+05/10/2018 07:45:04.650	Info	Intento 25
+05/10/2018 07:45:05.962	Info	Flujos fuera de rango (diff: 4.820116540662096e+290 - range: 3.0)
+05/10/2018 07:45:05.962	Info	Moviendo telescopio...
+05/10/2018 07:45:07.384	Info	Intento 26
+05/10/2018 07:45:08.697	Info	Ventana de spots fuera de rango (cx: 459 - cy: 55 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:45:08.697	Info	Moviendo telescopio...
+05/10/2018 07:45:10.244	Info	Intento 27
+05/10/2018 07:45:11.526	Info	DX fuera de rango (dx: 79.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:45:11.526	Info	Moviendo telescopio...
+05/10/2018 07:45:12.994	Info	Intento 28
+05/10/2018 07:45:14.370	Info	DX fuera de rango (dx: 297.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:45:14.370	Info	Moviendo telescopio...
+05/10/2018 07:45:16.010	Info	Intento 29
+05/10/2018 07:45:17.339	Info	DX fuera de rango (dx: 220.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:45:17.339	Info	Moviendo telescopio...
+05/10/2018 07:45:21.011	Error (centrando los spots)	No se han podido centrar los spots
+05/10/2018 07:45:21.011	Info	*** Seleccion de estrella: 148.64 ***
+05/10/2018 07:45:24.011	Info	*** TIEMPO TOTAL ITERACION: 151.64 ***
+05/10/2018 07:45:24.011	Debg	---------------------------------------------
+05/10/2018 07:45:24.011	Debg	-------------------- Meteo ------------------
+05/10/2018 07:45:24.011	Debg	---------------------------------------------
+05/10/2018 07:45:25.465	Info	Wind speed: 3.9 km/h -- Humidity: 38.1 %
+05/10/2018 07:45:25.465	Debg	---------------------------------------------
+05/10/2018 07:45:25.465	Debg	---------------- Star Selection -------------
+05/10/2018 07:45:25.465	Debg	---------------------------------------------
+05/10/2018 07:45:25.465	Info	Seleccionando estella...
+05/10/2018 07:46:29.435	Info	Estella seleccionada --> Aldebaran
+	airmass: 1.144141
+	ha hours: hms_tuple(h=1.0, m=55.0, s=32.86018768375044)
+	ra: 4.616559
+	dec: 16.545698
+05/10/2018 07:46:29.435	Info	*** Seleccion de estrella: 63.97 ***
+05/10/2018 07:46:29.435	Debg	---------------------------------------------
+05/10/2018 07:46:29.435	Debg	-------------- Check spots ------------------
+05/10/2018 07:46:29.435	Debg	---------------------------------------------
+05/10/2018 07:46:29.435	Info	Centrando spots...
+05/10/2018 07:46:31.467	Info	Intento 0
+05/10/2018 07:46:32.795	Info	DX fuera de rango (dx: 304.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:46:32.795	Info	Moviendo telescopio...
+05/10/2018 07:46:33.889	Info	Intento 1
+05/10/2018 07:46:35.202	Info	DX fuera de rango (dx: 414.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:46:35.202	Info	Moviendo telescopio...
+05/10/2018 07:46:36.858	Info	Intento 2
+05/10/2018 07:46:38.171	Info	DX fuera de rango (dx: 482.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:46:38.171	Info	Moviendo telescopio...
+05/10/2018 07:46:39.015	Info	Intento 3
+05/10/2018 07:46:40.312	Info	Flujos fuera de rango (diff: 8.913638046645975e+290 - range: 3.0)
+05/10/2018 07:46:40.312	Info	Moviendo telescopio...
+05/10/2018 07:46:41.359	Info	Intento 4
+05/10/2018 07:46:42.687	Info	DX fuera de rango (dx: 99.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:46:42.687	Info	Moviendo telescopio...
+05/10/2018 07:46:44.156	Info	Intento 5
+05/10/2018 07:46:45.422	Info	Flujos fuera de rango (diff: 5.4518487184513676e+290 - range: 3.0)
+05/10/2018 07:46:45.422	Info	Moviendo telescopio...
+05/10/2018 07:46:47.047	Info	Intento 6
+05/10/2018 07:46:48.375	Info	DX fuera de rango (dx: 375.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:46:48.375	Info	Moviendo telescopio...
+05/10/2018 07:46:49.422	Info	Intento 7
+05/10/2018 07:46:50.735	Info	DX fuera de rango (dx: 338.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:46:50.735	Info	Moviendo telescopio...
+05/10/2018 07:46:51.610	Info	Intento 8
+05/10/2018 07:46:52.922	Info	DX fuera de rango (dx: 438.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:46:52.922	Info	Moviendo telescopio...
+05/10/2018 07:46:53.938	Info	Intento 9
+05/10/2018 07:46:55.266	Info	DX fuera de rango (dx: 184.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:46:55.266	Info	Moviendo telescopio...
+05/10/2018 07:46:56.720	Info	Intento 10
+05/10/2018 07:46:58.032	Info	DX fuera de rango (dx: 321.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:46:58.032	Info	Moviendo telescopio...
+05/10/2018 07:46:59.470	Info	Intento 11
+05/10/2018 07:47:00.798	Info	Ventana de spots fuera de rango (cx: 593 - cy: 21 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:47:00.798	Info	Moviendo telescopio...
+05/10/2018 07:47:02.455	Info	Intento 12
+05/10/2018 07:47:03.783	Info	Moviendo telescopio...
+05/10/2018 07:47:04.846	Info	Intento 13
+05/10/2018 07:47:05.924	Info	Moviendo telescopio...
+05/10/2018 07:47:06.955	Info	Intento 14
+05/10/2018 07:47:08.268	Info	DX fuera de rango (dx: 62.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:47:08.268	Info	Moviendo telescopio...
+05/10/2018 07:47:09.315	Info	Intento 15
+05/10/2018 07:47:10.612	Info	DX fuera de rango (dx: 402.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:47:10.612	Info	Moviendo telescopio...
+05/10/2018 07:47:11.612	Info	Intento 16
+05/10/2018 07:47:12.894	Info	DX fuera de rango (dx: 178.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:47:12.894	Info	Moviendo telescopio...
+05/10/2018 07:47:14.378	Info	Intento 17
+05/10/2018 07:47:15.675	Info	DX fuera de rango (dx: 155.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:47:15.675	Info	Moviendo telescopio...
+05/10/2018 07:47:17.129	Info	Intento 18
+05/10/2018 07:47:18.457	Info	Ventana de spots fuera de rango (cx: 544 - cy: 195 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:47:18.457	Info	Moviendo telescopio...
+05/10/2018 07:47:19.910	Info	Intento 19
+05/10/2018 07:47:21.223	Info	DX fuera de rango (dx: 475.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:47:21.223	Info	Moviendo telescopio...
+05/10/2018 07:47:22.754	Info	Intento 20
+05/10/2018 07:47:24.051	Info	Ventana de spots fuera de rango (cx: 547 - cy: 78 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:47:24.051	Info	Moviendo telescopio...
+05/10/2018 07:47:25.083	Info	Intento 21
+05/10/2018 07:47:26.317	Info	Flujos fuera de rango (diff: 3.750911246328579e+290 - range: 3.0)
+05/10/2018 07:47:26.317	Info	Moviendo telescopio...
+05/10/2018 07:47:27.427	Info	Intento 22
+05/10/2018 07:47:28.755	Info	DX fuera de rango (dx: 120.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:47:28.755	Info	Moviendo telescopio...
+05/10/2018 07:47:29.802	Info	Intento 23
+05/10/2018 07:47:31.130	Info	DX fuera de rango (dx: 220.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:47:31.130	Info	Moviendo telescopio...
+05/10/2018 07:47:32.177	Info	Intento 24
+05/10/2018 07:47:33.490	Info	DX fuera de rango (dx: 266.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:47:33.490	Info	Moviendo telescopio...
+05/10/2018 07:47:34.521	Info	Intento 25
+05/10/2018 07:47:35.850	Info	Moviendo telescopio...
+05/10/2018 07:47:37.553	Info	Intento 26
+05/10/2018 07:47:38.850	Info	Moviendo telescopio...
+05/10/2018 07:47:40.428	Info	Intento 27
+05/10/2018 07:47:41.725	Info	DX fuera de rango (dx: 83.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:47:41.741	Info	Moviendo telescopio...
+05/10/2018 07:47:43.179	Info	Intento 28
+05/10/2018 07:47:44.538	Info	DX fuera de rango (dx: 129.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:47:44.538	Info	Moviendo telescopio...
+05/10/2018 07:47:46.273	Info	Intento 29
+05/10/2018 07:47:47.351	Info	Moviendo telescopio...
+05/10/2018 07:47:51.039	Error (centrando los spots)	No se han podido centrar los spots
+05/10/2018 07:47:51.039	Info	*** Seleccion de estrella: 145.57 ***
+05/10/2018 07:47:51.039	Error (manage auto select error)	It's not posible to select a star. Next trying on 60 seconds.
+05/10/2018 07:47:51.039	Info	Llevando la montura al home...
+05/10/2018 07:48:15.698	Info	Montura en el home
+05/10/2018 07:49:15.705	Info	*** TIEMPO TOTAL ITERACION: 230.24 ***
+05/10/2018 07:49:15.705	Debg	---------------------------------------------
+05/10/2018 07:49:15.705	Debg	-------------------- Meteo ------------------
+05/10/2018 07:49:15.705	Debg	---------------------------------------------
+05/10/2018 07:49:17.112	Info	Wind speed: 4.2 km/h -- Humidity: 37.2 %
+05/10/2018 07:49:17.127	Debg	---------------------------------------------
+05/10/2018 07:49:17.127	Debg	---------------- Star Selection -------------
+05/10/2018 07:49:17.127	Debg	---------------------------------------------
+05/10/2018 07:49:17.127	Info	Seleccionando estella...
+05/10/2018 07:49:50.444	Info	Estella seleccionada --> Capella
+	airmass: 1.091786
+	ha hours: hms_tuple(h=1.0, m=19.0, s=45.09992113966938)
+	ra: 5.301119
+	dec: 46.013906
+05/10/2018 07:49:50.444	Info	*** Seleccion de estrella: 33.32 ***
+05/10/2018 07:49:50.444	Debg	---------------------------------------------
+05/10/2018 07:49:50.444	Debg	-------------- Check spots ------------------
+05/10/2018 07:49:50.444	Debg	---------------------------------------------
+05/10/2018 07:49:50.444	Info	Centrando spots...
+05/10/2018 07:49:52.491	Info	Intento 0
+05/10/2018 07:49:53.569	Info	Moviendo telescopio...
+05/10/2018 07:49:54.679	Info	Intento 1
+05/10/2018 07:49:55.945	Info	DX fuera de rango (dx: 338.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:49:55.945	Info	Moviendo telescopio...
+05/10/2018 07:49:57.367	Info	Intento 2
+05/10/2018 07:49:58.726	Info	Ventana de spots fuera de rango (cx: 521 - cy: 45 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:49:58.726	Info	Moviendo telescopio...
+05/10/2018 07:49:59.789	Info	Intento 3
+05/10/2018 07:50:01.102	Info	DX fuera de rango (dx: 173.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:50:01.102	Info	Moviendo telescopio...
+05/10/2018 07:50:02.227	Info	Intento 4
+05/10/2018 07:50:03.508	Info	Ventana de spots fuera de rango (cx: 466 - cy: 23 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:50:03.508	Info	Moviendo telescopio...
+05/10/2018 07:50:05.149	Info	Intento 5
+05/10/2018 07:50:06.399	Info	Flujos fuera de rango (diff: 3.9982319994025315e+290 - range: 3.0)
+05/10/2018 07:50:06.415	Info	Moviendo telescopio...
+05/10/2018 07:50:08.056	Info	Intento 6
+05/10/2018 07:50:09.353	Info	DX fuera de rango (dx: 474.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:50:09.353	Info	Moviendo telescopio...
+05/10/2018 07:50:10.431	Info	Intento 7
+05/10/2018 07:50:11.744	Info	DX fuera de rango (dx: 313.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:50:11.744	Info	Moviendo telescopio...
+05/10/2018 07:50:12.587	Info	Intento 8
+05/10/2018 07:50:13.666	Info	Moviendo telescopio...
+05/10/2018 07:50:14.572	Info	Intento 9
+05/10/2018 07:50:15.838	Info	Ventana de spots fuera de rango (cx: 380 - cy: 37 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:50:15.838	Info	Moviendo telescopio...
+05/10/2018 07:50:17.338	Info	Intento 10
+05/10/2018 07:50:18.635	Info	DX fuera de rango (dx: 261.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:50:18.635	Info	Moviendo telescopio...
+05/10/2018 07:50:20.057	Info	Intento 11
+05/10/2018 07:50:21.370	Info	DX fuera de rango (dx: 45.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:50:21.370	Info	Moviendo telescopio...
+05/10/2018 07:50:22.792	Info	Intento 12
+05/10/2018 07:50:24.104	Info	DX fuera de rango (dx: 454.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:50:24.104	Info	Moviendo telescopio...
+05/10/2018 07:50:25.167	Info	Intento 13
+05/10/2018 07:50:26.480	Info	DX fuera de rango (dx: 272.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:50:26.480	Info	Moviendo telescopio...
+05/10/2018 07:50:27.574	Info	Intento 14
+05/10/2018 07:50:28.902	Info	Moviendo telescopio...
+05/10/2018 07:50:29.949	Info	Intento 15
+05/10/2018 07:50:31.027	Info	Moviendo telescopio...
+05/10/2018 07:50:32.074	Info	Intento 16
+05/10/2018 07:50:33.387	Info	Moviendo telescopio...
+05/10/2018 07:50:35.012	Info	Intento 17
+05/10/2018 07:50:36.325	Info	DX fuera de rango (dx: 58.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:50:36.325	Info	Moviendo telescopio...
+05/10/2018 07:50:37.794	Info	Intento 18
+05/10/2018 07:50:39.137	Info	DX fuera de rango (dx: 74.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:50:39.137	Info	Moviendo telescopio...
+05/10/2018 07:50:40.778	Info	Intento 19
+05/10/2018 07:50:42.091	Info	DX fuera de rango (dx: 210.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:50:42.091	Info	Moviendo telescopio...
+05/10/2018 07:50:43.576	Info	Intento 20
+05/10/2018 07:50:44.888	Info	Ventana de spots fuera de rango (cx: 592 - cy: 240 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:50:44.888	Info	Moviendo telescopio...
+05/10/2018 07:50:45.904	Info	Intento 21
+05/10/2018 07:50:47.185	Info	DX fuera de rango (dx: 268.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:50:47.185	Info	Moviendo telescopio...
+05/10/2018 07:50:48.248	Info	Intento 22
+05/10/2018 07:50:49.498	Info	DX fuera de rango (dx: 50.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:50:49.498	Info	Moviendo telescopio...
+05/10/2018 07:50:50.529	Info	Intento 23
+05/10/2018 07:50:51.811	Info	Ventana de spots fuera de rango (cx: 461 - cy: 52 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:50:51.811	Info	Moviendo telescopio...
+05/10/2018 07:50:52.827	Info	Intento 24
+05/10/2018 07:50:54.077	Info	DX fuera de rango (dx: 412.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:50:54.077	Info	Moviendo telescopio...
+05/10/2018 07:50:55.108	Info	Intento 25
+05/10/2018 07:50:56.327	Info	Ventana de spots fuera de rango (cx: 100 - cy: 248 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:50:56.327	Info	Moviendo telescopio...
+05/10/2018 07:50:57.968	Info	Intento 26
+05/10/2018 07:50:59.046	Info	Moviendo telescopio...
+05/10/2018 07:51:00.515	Info	Intento 27
+05/10/2018 07:51:01.875	Info	Ventana de spots fuera de rango (cx: 547 - cy: 49 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:51:01.875	Info	Moviendo telescopio...
+05/10/2018 07:51:03.390	Info	Intento 28
+05/10/2018 07:51:04.703	Info	DX fuera de rango (dx: 267.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:51:04.703	Info	Moviendo telescopio...
+05/10/2018 07:51:06.141	Info	Intento 29
+05/10/2018 07:51:07.219	Info	Moviendo telescopio...
+05/10/2018 07:51:11.110	Error (centrando los spots)	No se han podido centrar los spots
+05/10/2018 07:51:11.110	Info	*** Seleccion de estrella: 113.98 ***
+05/10/2018 07:51:14.110	Info	*** TIEMPO TOTAL ITERACION: 116.98 ***
+05/10/2018 07:51:14.110	Debg	---------------------------------------------
+05/10/2018 07:51:14.110	Debg	-------------------- Meteo ------------------
+05/10/2018 07:51:14.110	Debg	---------------------------------------------
+05/10/2018 07:51:15.611	Info	Wind speed: 5.6 km/h -- Humidity: 37.4 %
+05/10/2018 07:51:15.611	Debg	---------------------------------------------
+05/10/2018 07:51:15.626	Debg	---------------- Star Selection -------------
+05/10/2018 07:51:15.626	Debg	---------------------------------------------
+05/10/2018 07:51:15.626	Info	Seleccionando estella...
+05/10/2018 07:52:22.166	Info	Estella seleccionada --> Pollux
+	airmass: 1.035863
+	ha hours: hms_tuple(h=-1.0, m=-8.0, s=-37.94020744719127)
+	ra: 7.774185
+	dec: 27.978861
+05/10/2018 07:52:22.166	Info	*** Seleccion de estrella: 66.54 ***
+05/10/2018 07:52:22.181	Debg	---------------------------------------------
+05/10/2018 07:52:22.181	Debg	-------------- Check spots ------------------
+05/10/2018 07:52:22.181	Debg	---------------------------------------------
+05/10/2018 07:52:22.181	Info	Centrando spots...
+05/10/2018 07:52:24.213	Info	Intento 0
+05/10/2018 07:52:25.494	Info	DX fuera de rango (dx: 282.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:52:25.494	Info	Moviendo telescopio...
+05/10/2018 07:52:26.869	Info	Intento 1
+05/10/2018 07:52:28.166	Info	DX fuera de rango (dx: 89.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:52:28.166	Info	Moviendo telescopio...
+05/10/2018 07:52:29.620	Info	Intento 2
+05/10/2018 07:52:30.698	Info	Moviendo telescopio...
+05/10/2018 07:52:31.698	Info	Intento 3
+05/10/2018 07:52:32.776	Info	Moviendo telescopio...
+05/10/2018 07:52:33.792	Info	Intento 4
+05/10/2018 07:52:35.136	Info	DX fuera de rango (dx: 295.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:52:35.136	Info	Moviendo telescopio...
+05/10/2018 07:52:36.574	Info	Intento 5
+05/10/2018 07:52:37.652	Info	Moviendo telescopio...
+05/10/2018 07:52:39.074	Info	Intento 6
+05/10/2018 07:52:40.355	Info	Ventana de spots fuera de rango (cx: 362 - cy: 49 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:52:40.355	Info	Moviendo telescopio...
+05/10/2018 07:52:41.465	Info	Intento 7
+05/10/2018 07:52:42.746	Info	Ventana de spots fuera de rango (cx: 548 - cy: 203 - left: 100 - right: 540 - down: 60 - up: 420)
+05/10/2018 07:52:42.746	Info	Moviendo telescopio...
+05/10/2018 07:52:43.793	Info	Intento 8
+05/10/2018 07:52:44.856	Info	Moviendo telescopio...
+05/10/2018 07:52:45.919	Info	Intento 9
+05/10/2018 07:52:47.012	Info	Moviendo telescopio...
+05/10/2018 07:52:48.528	Info	Intento 10
+05/10/2018 07:52:49.638	Info	Moviendo telescopio...
+05/10/2018 07:52:51.263	Info	Intento 11
+05/10/2018 07:52:52.341	Info	Moviendo telescopio...
+05/10/2018 07:52:53.779	Info	Intento 12
+05/10/2018 07:52:54.857	Info	Moviendo telescopio...
+05/10/2018 07:52:55.904	Info	Intento 13
+05/10/2018 07:52:56.982	Info	Moviendo telescopio...
+05/10/2018 07:52:57.998	Info	Intento 14
+05/10/2018 07:52:59.076	Info	Moviendo telescopio...
+05/10/2018 07:53:00.123	Info	Intento 15
+05/10/2018 07:53:01.202	Info	Moviendo telescopio...
+05/10/2018 07:53:02.249	Info	Intento 16
+05/10/2018 07:53:03.327	Info	Moviendo telescopio...
+05/10/2018 07:53:04.765	Info	Intento 17
+05/10/2018 07:53:05.843	Info	Moviendo telescopio...
+05/10/2018 07:53:07.265	Info	Intento 18
+05/10/2018 07:53:08.343	Info	Moviendo telescopio...
+05/10/2018 07:53:09.765	Info	Intento 19
+05/10/2018 07:53:11.031	Info	DX fuera de rango (dx: 275.0 - min: 25.0 - max: 45.0)
+05/10/2018 07:53:11.031	Info	Moviendo telescopio...
+05/10/2018 07:53:12.484	Info	Intento 20
+05/10/2018 07:53:13.562	Info	Moviendo telescopio...
+05/10/2018 07:53:14.469	Info	Intento 21
+05/10/2018 07:53:15.531	Info	Moviendo telescopio...
+05/10/2018 07:53:17.344	Info	Intento 22
+05/10/2018 07:53:18.438	Info	Moviendo telescopio...
+05/10/2018 07:53:19.485	Info	Intento 23
+05/10/2018 07:53:20.563	Info	Moviendo telescopio...
+05/10/2018 07:53:21.626	Info	Intento 24
+05/10/2018 07:53:22.704	Info	Moviendo telescopio...
+05/10/2018 07:53:23.782	Info	Intento 25
+05/10/2018 07:53:24.861	Info	Moviendo telescopio...
+05/10/2018 07:53:26.345	Info	Intento 26
+05/10/2018 07:53:27.424	Info	Moviendo telescopio...
+05/10/2018 07:53:29.064	Info	Intento 27
+05/10/2018 07:53:30.143	Info	Moviendo telescopio...
+05/10/2018 07:53:31.815	Info	Intento 28
+05/10/2018 07:53:32.909	Info	Moviendo telescopio...
+05/10/2018 07:53:34.424	Info	Intento 29
+05/10/2018 07:53:35.503	Info	Moviendo telescopio...
+05/10/2018 07:53:39.128	Error (centrando los spots)	No se han podido centrar los spots
+05/10/2018 07:53:39.128	Info	*** Seleccion de estrella: 143.52 ***
+05/10/2018 07:53:42.128	Info	*** TIEMPO TOTAL ITERACION: 146.52 ***
+05/10/2018 07:53:42.128	Debg	---------------------------------------------
+05/10/2018 07:53:42.128	Debg	-------------------- Meteo ------------------
+05/10/2018 07:53:42.128	Debg	---------------------------------------------
+05/10/2018 07:53:43.535	Info	Wind speed: 5.6 km/h -- Humidity: 37.4 %
+05/10/2018 07:53:43.551	Debg	---------------------------------------------
+05/10/2018 07:53:43.551	Debg	---------------- Star Selection -------------
+05/10/2018 07:53:43.551	Debg	---------------------------------------------
+05/10/2018 07:53:43.551	Info	Seleccionando estella...
+05/10/2018 07:54:47.965	Info	Estella seleccionada --> Aldebaran
+	airmass: 1.169630
+	ha hours: hms_tuple(h=2.0, m=5.0, s=50.33593517104116)
+	ra: 4.616559
+	dec: 16.545698
+05/10/2018 07:54:47.965	Info	*** Seleccion de estrella: 64.41 ***
+05/10/2018 07:54:47.965	Debg	---------------------------------------------
+05/10/2018 07:54:47.965	Debg	-------------- Check spots ------------------
+05/10/2018 07:54:47.965	Debg	---------------------------------------------
+05/10/2018 07:54:47.965	Info	Centrando spots...
+05/10/2018 07:54:49.996	Info	Intento 0
+05/10/2018 07:55:50.945	Error (get_images)	timed out
+05/10/2018 07:55:55.164	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 07:55:55.164	Info	Intento 1
+05/10/2018 07:55:56.180	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:00.399	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:04.618	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:08.853	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:13.338	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:17.558	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:21.808	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:26.465	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:30.684	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:34.919	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:39.560	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:43.779	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:47.999	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:52.280	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:56:56.500	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 07:56:56.500	Info	Intento 2
+05/10/2018 07:56:57.515	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:02.157	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:06.392	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:10.642	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:15.268	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:19.487	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:23.722	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:27.941	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:32.160	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:36.395	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:40.614	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:44.834	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:49.350	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:53.569	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:57:57.788	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 07:57:57.788	Info	Intento 3
+05/10/2018 07:57:58.804	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:03.492	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:07.727	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:11.946	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:16.228	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:20.463	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:25.011	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:29.230	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:33.449	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:38.106	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:42.325	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:46.544	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:51.279	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:55.530	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:58:59.765	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 07:58:59.765	Info	Intento 4
+05/10/2018 07:59:00.859	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:59:05.093	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:59:09.313	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:59:13.954	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:59:18.173	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:59:22.392	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:59:26.987	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:59:31.206	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:59:35.441	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:59:39.660	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:59:43.879	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:59:48.489	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:59:52.740	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 07:59:56.959	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:01.679	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:00:01.679	Info	Intento 5
+05/10/2018 08:00:02.679	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:06.914	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:11.133	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:15.352	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:19.587	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:22.884	Info	Indicando fin del proceso...
+05/10/2018 08:00:23.806	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:28.025	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:32.260	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:36.792	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:41.011	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:45.231	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:49.872	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:54.107	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:00:58.326	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:01:03.045	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:01:03.045	Info	Intento 6
+05/10/2018 08:01:04.061	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:01:08.280	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:01:12.890	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:01:17.110	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:01:21.329	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:01:25.923	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:01:30.158	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:01:34.377	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:01:39.003	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:01:43.238	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:01:47.457	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:01:51.895	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:01:56.114	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:00.709	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:04.928	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:02:04.928	Info	Intento 7
+05/10/2018 08:02:05.944	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:10.179	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:14.788	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:19.023	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:23.243	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:27.462	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:31.697	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:35.963	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:40.182	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:44.401	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:48.902	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:53.121	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:02:57.356	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:02.029	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:06.263	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:03:06.263	Info	Intento 8
+05/10/2018 08:03:07.279	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:11.514	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:15.827	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:20.046	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:24.609	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:28.860	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:33.079	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:37.689	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:41.908	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:46.128	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:50.659	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:54.894	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:03:59.161	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:04:03.630	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:04:07.865	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:04:07.865	Info	Intento 9
+05/10/2018 08:04:08.880	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:04:13.475	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:04:17.725	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:04:21.945	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:04:26.586	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:04:30.821	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:04:35.040	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:04:39.259	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:04:43.478	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:04:47.713	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:04:51.933	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:04:56.152	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:00.621	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:04.856	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:09.075	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:05:09.075	Info	Intento 10
+05/10/2018 08:05:10.091	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:14.873	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:19.108	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:23.327	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:27.546	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:31.781	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:36.579	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:40.798	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:45.064	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:49.705	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:53.825	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:05:58.044	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:06:02.576	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:06:06.810	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:06:11.030	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:06:11.030	Info	Intento 11
+05/10/2018 08:06:12.233	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:06:16.452	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:06:20.687	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:06:25.266	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:06:29.485	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:06:33.736	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:06:38.424	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:06:42.705	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:06:46.925	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:06:51.425	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:06:55.645	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:00.333	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:04.552	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:08.771	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:13.381	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:07:13.381	Info	Intento 12
+05/10/2018 08:07:14.381	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:18.600	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:22.835	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:27.055	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:31.274	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:35.509	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:39.728	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:43.947	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:48.510	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:52.730	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:07:56.949	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:08:01.543	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:08:05.762	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:08:09.997	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:08:14.576	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:08:14.576	Info	Intento 13
+05/10/2018 08:08:15.576	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:08:19.842	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:08:24.343	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:08:28.562	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:08:32.797	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:08:37.860	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:08:42.079	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:08:46.642	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:08:51.190	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:08:56.315	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:09:01.238	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:09:05.817	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:09:10.552	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:09:15.224	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:09:15.224	Info	Intento 14
+05/10/2018 08:09:16.224	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:09:21.100	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:09:25.725	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:09:30.663	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:09:35.242	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:09:40.102	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:09:44.806	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:09:49.697	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:09:54.401	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:09:59.151	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:10:03.683	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:10:08.668	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:10:13.325	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:10:18.357	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:10:18.357	Info	Intento 15
+05/10/2018 08:10:19.357	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:10:24.623	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:10:26.530	Info	Indicando fin del proceso...
+05/10/2018 08:10:29.655	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:10:34.405	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:10:34.859	Debg	---------------------------------------------
+05/10/2018 08:10:34.859	Debg	------------------ Switch Off ---------------
+05/10/2018 08:10:34.859	Debg	---------------------------------------------
+05/10/2018 08:10:34.859	Info	Llevando la montura al home...
+05/10/2018 08:10:39.234	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:10:43.938	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:10:48.798	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:10:53.627	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:10:58.268	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:10:59.737	Info	Montura en el home
+05/10/2018 08:10:59.737	Info	Apagando la montura...
+05/10/2018 08:11:00.080	Info	Montura apagada
+05/10/2018 08:11:02.940	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:11:07.863	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:11:10.113	Info	Apagando el foco...
+05/10/2018 08:11:10.816	Info	Foco apagado
+05/10/2018 08:11:10.816	Info	Cerrando cupula...
+05/10/2018 08:11:12.785	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:11:17.536	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:11:22.364	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:11:22.364	Info	Intento 16
+05/10/2018 08:11:23.365	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:11:28.084	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:11:32.694	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:11:37.554	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:11:42.273	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:11:46.836	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:11:51.696	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:11:56.353	Info	Cupula cerrada
+05/10/2018 08:11:56.415	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:01.260	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:05.979	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:10.839	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:15.637	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:20.981	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:24.216	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:12:24.216	Info	Intento 17
+05/10/2018 08:12:24.216	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:25.435	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:26.669	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:27.888	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:29.107	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:30.326	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:31.560	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:32.779	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:33.998	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:35.217	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:36.452	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:37.670	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:38.889	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:40.108	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:41.343	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:42.562	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:43.781	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:45.000	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:46.234	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:47.453	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:48.672	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:49.891	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:51.125	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:52.344	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:53.563	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:54.782	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:56.016	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:57.235	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:58.454	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:12:59.689	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:00.908	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:02.127	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:03.345	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:04.580	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:05.799	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:07.018	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:08.237	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:09.471	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:10.690	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:11.909	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:13.128	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:14.362	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:15.581	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:16.800	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:18.019	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:19.254	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:20.473	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:21.691	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:22.910	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:24.145	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:25.364	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:13:25.364	Info	Intento 18
+05/10/2018 08:13:25.364	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:26.598	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:27.817	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:29.036	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:30.255	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:31.490	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:32.708	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:33.927	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:35.146	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:36.381	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:37.600	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:38.819	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:40.037	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:41.272	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:42.491	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:43.710	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:44.929	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:46.163	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:47.382	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:48.601	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:49.820	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:51.054	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:52.273	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:53.492	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:54.727	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:55.946	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:57.165	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:58.383	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:13:59.618	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:00.837	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:02.056	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:03.275	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:04.509	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:05.728	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:06.947	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:08.166	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:09.400	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:10.619	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:11.838	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:13.057	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:14.292	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:15.511	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:16.729	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:17.948	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:19.183	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:20.402	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:21.621	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:22.840	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:24.074	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:25.293	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:26.512	Error	No se ha podido conseguir imagen del servidor
+05/10/2018 08:14:26.512	Info	Intento 19
+05/10/2018 08:14:26.527	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:27.746	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:28.965	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:30.200	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:31.419	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:32.653	Error (get_images)	[Errno 9] Bad file descriptor
+05/10/2018 08:14:33.872	Error (get_images)	[Errno 9] Bad file descriptor

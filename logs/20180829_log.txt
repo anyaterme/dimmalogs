@@ -1,0 +1,1218 @@
+
+date: 30/08/2018 09:42:53.374	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 09:42:54.765	code: Info	text: Estella seleccionada --> Castor
+	airmass: 1.059636
+	ha hours: hms_tuple(h=-1.0, m=-27.0, s=-55.168332524533454)
+	ra: 7.595889
+	dec: 31.845702
+date: 30/08/2018 09:42:54.765	code: Info	text: *** Seleccion de estrella: 51.8080000877 ***
+date: 30/08/2018 09:42:54.780	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:42:54.780	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 09:42:54.780	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:42:54.780	code: Info	text: Centrando spots...
+date: 30/08/2018 09:42:55.812	code: Info	text: Intento 0
+date: 30/08/2018 09:43:00.203	code: Info	text: Los spots estan centrados
+date: 30/08/2018 09:43:00.203	code: Info	text: *** Centrado de spots: 5.42300009727 ***
+date: 30/08/2018 09:43:00.203	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:43:00.203	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 09:43:00.203	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:43:00.203	code: Info	text: Comprobando el foco...
+date: 30/08/2018 09:43:00.218	code: Info	text: Intento 0
+date: 30/08/2018 09:43:08.641	code: Info	text: DX: 25.798679999999997 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:43:08.641	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:43:08.641	code: Info	text: Intento 1
+date: 30/08/2018 09:43:15.939	code: Info	text: DX: 30.79098 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:43:15.939	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:43:16.470	code: Info	text: Intento 2
+date: 30/08/2018 09:43:23.940	code: Info	text: DX: 29.79874 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:43:23.940	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:43:24.315	code: Info	text: Intento 3
+date: 30/08/2018 09:43:31.660	code: Info	text: DX: 29.0003 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:43:31.660	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:43:32.035	code: Info	text: Intento 4
+date: 30/08/2018 09:43:39.223	code: Info	text: DX: 25.8151 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:43:39.223	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:43:39.223	code: Info	text: Intento 5
+date: 30/08/2018 09:43:46.662	code: Info	text: DX: 31.992339999999995 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:43:46.662	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:43:47.021	code: Info	text: Intento 6
+date: 30/08/2018 09:43:54.350	code: Info	text: DX: 31.202479999999998 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:43:54.350	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:43:54.709	code: Info	text: Intento 7
+date: 30/08/2018 09:44:02.054	code: Info	text: DX: 32.598879999999994 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:44:02.054	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:44:02.445	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 09:44:02.445	code: Info	text: *** Seleccion de estrella: 119.487999916 ***
+date: 30/08/2018 09:44:05.445	code: Info	text: *** TIEMPO TOTAL ITERACION: 122.487999916 ***
+date: 30/08/2018 09:44:05.445	code: Info	text: Parando la observacion...
+date: 30/08/2018 09:44:05.445	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 09:45:44.270	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:45:44.270	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 09:45:44.270	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:45:44.270	code: Info	text: Seleccionando estella...
+date: 30/08/2018 09:46:09.538	code: Info	text: Estella seleccionada --> Pollux
+	airmass: 1.068315
+	ha hours: hms_tuple(h=-1.0, m=-33.0, s=-35.12818544367548)
+	ra: 7.773892
+	dec: 27.979686
+date: 30/08/2018 09:46:09.538	code: Info	text: *** Seleccion de estrella: 25.2680001259 ***
+date: 30/08/2018 09:46:09.538	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:46:09.538	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 09:46:09.538	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:46:09.538	code: Info	text: Centrando spots...
+date: 30/08/2018 09:46:12.336	code: Info	text: Intento 0
+date: 30/08/2018 09:46:15.820	code: Info	text: Los spots estan centrados
+date: 30/08/2018 09:46:15.820	code: Info	text: *** Centrado de spots: 6.28199982643 ***
+date: 30/08/2018 09:46:15.820	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:46:15.820	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 09:46:15.820	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:46:15.820	code: Info	text: Comprobando el foco...
+date: 30/08/2018 09:46:15.836	code: Info	text: Intento 0
+date: 30/08/2018 09:46:23.478	code: Info	text: DX: 48.24324 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:46:23.478	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:46:23.478	code: Info	text: Intento 1
+date: 30/08/2018 09:46:29.728	code: Info	text: DX: 49.74754 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:46:29.728	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:46:29.728	code: Info	text: Intento 2
+date: 30/08/2018 09:46:36.135	code: Info	text: DX: 58.78604 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:46:36.135	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:46:36.135	code: Info	text: Intento 3
+date: 30/08/2018 09:46:42.527	code: Info	text: DX: 54.15074 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:46:42.527	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:46:42.527	code: Info	text: Intento 4
+date: 30/08/2018 09:46:49.074	code: Info	text: DX: 67.29008000000002 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:46:49.074	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:46:49.074	code: Info	text: Intento 5
+date: 30/08/2018 09:46:55.466	code: Info	text: DX: 28.33668 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:46:55.466	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:46:55.841	code: Info	text: Intento 6
+date: 30/08/2018 09:47:02.139	code: Info	text: DX: 54.87512 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:47:02.139	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:47:02.139	code: Info	text: Intento 7
+date: 30/08/2018 09:47:08.421	code: Info	text: DX: 47.92552 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:47:08.421	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:47:08.421	code: Info	text: Intento 8
+date: 30/08/2018 09:47:14.718	code: Info	text: DX: 45.94182 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:47:14.718	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:47:14.718	code: Info	text: Intento 9
+date: 30/08/2018 09:47:21.047	code: Info	text: DX: 33.96605999999999 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:47:21.047	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:47:21.422	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 09:47:21.422	code: Info	text: *** Seleccion de estrella: 97.1519999504 ***
+date: 30/08/2018 09:47:24.422	code: Info	text: *** TIEMPO TOTAL ITERACION: 100.15199995 ***
+date: 30/08/2018 09:47:24.438	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:47:24.438	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 09:47:24.438	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:47:24.438	code: Info	text: Seleccionando estella...
+date: 30/08/2018 09:47:48.222	code: Info	text: Estella seleccionada --> Castor
+	airmass: 1.052988
+	ha hours: hms_tuple(h=-1.0, m=-22.0, s=-54.316976992603045)
+	ra: 7.595889
+	dec: 31.845702
+date: 30/08/2018 09:47:48.222	code: Info	text: *** Seleccion de estrella: 23.7839999199 ***
+date: 30/08/2018 09:47:48.222	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:47:48.222	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 09:47:48.222	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:47:48.222	code: Info	text: Centrando spots...
+date: 30/08/2018 09:47:49.269	code: Info	text: Intento 0
+date: 30/08/2018 09:47:53.645	code: Info	text: Los spots estan centrados
+date: 30/08/2018 09:47:53.645	code: Info	text: *** Centrado de spots: 5.42300009727 ***
+date: 30/08/2018 09:47:53.645	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:47:53.645	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 09:47:53.645	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:47:53.645	code: Info	text: Comprobando el foco...
+date: 30/08/2018 09:47:53.645	code: Info	text: Intento 0
+date: 30/08/2018 09:48:01.943	code: Info	text: DX: 34.7953 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:48:01.943	code: Info	text: La imagen esta enfocada
+date: 30/08/2018 09:48:01.943	code: Info	text: *** Enfocado: 8.29800009727 ***
+date: 30/08/2018 09:48:01.943	code: Info	text: *** Seleccion de estrella: 37.5050001144 ***
+date: 30/08/2018 09:48:01.943	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:48:01.943	code: Debg	text: -------- Generando fichero de datos ---------
+date: 30/08/2018 09:48:01.943	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:48:01.943	code: Info	text: ##### PACK: OT_4SBEH3_180830094801
+date: 30/08/2018 09:49:08.529	code: Info	text: ##### (OT_4SBEH3_180830094801) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180829\OT20180830094907.txt
+date: 30/08/2018 09:49:08.529	code: Info	text: *** Generacion del fichero 66.5859999657
+date: 30/08/2018 09:49:08.529	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:49:08.529	code: Debg	text: ------------- Calculando seeing -------------
+date: 30/08/2018 09:49:08.529	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:49:08.685	code: Info	text: ###### (OT_4SBEH3_180830094801) SEEING: 2.5876383287166993
+date: 30/08/2018 09:49:08.685	code: Info	text: *** Calculo del seeing 0.155999898911
+date: 30/08/2018 09:49:08.685	code: Info	text: *** Procesado de datos: 66.7419998646 ***
+date: 30/08/2018 09:49:08.685	code: Info	text: *** TIEMPO TOTAL ITERACION: 104.246999979 ***
+date: 30/08/2018 09:49:08.685	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:49:08.685	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 09:49:08.685	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:49:08.685	code: Info	text: Comprobando que la estella es observable...
+date: 30/08/2018 09:49:09.216	code: info	text: La estrella sigue siendo observable(Castor)
+date: 30/08/2018 09:49:09.216	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '-1.38175471583', 'az': '73.696278', 'name': 'Castor', 'airmass': '1.052988', 'ha_hours': 'hms_tuple(h=-1.0, m=-22.0, s=-54.316976992603045)', 'alt': '71.746116', 'dec': '31.845702', 'magnitude': '1.580000', 'ra': '7.595889'}
+date: 30/08/2018 09:49:09.216	code: Info	text: *** Seleccion de estrella: 0.531000137329 ***
+date: 30/08/2018 09:49:09.216	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:49:09.216	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 09:49:09.216	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:49:09.216	code: Info	text: Centrando spots...
+date: 30/08/2018 09:49:10.248	code: Info	text: Intento 0
+date: 30/08/2018 09:49:13.764	code: Info	text: Los spots estan centrados
+date: 30/08/2018 09:49:13.764	code: Info	text: *** Centrado de spots: 4.54799985886 ***
+date: 30/08/2018 09:49:13.764	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:49:13.764	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 09:49:13.764	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:49:13.764	code: Info	text: Comprobando el foco...
+date: 30/08/2018 09:49:13.764	code: Info	text: Intento 0
+date: 30/08/2018 09:49:13.811	code: Info	text: DX: 34.995524999999994 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:49:13.826	code: Info	text: La imagen esta enfocada
+date: 30/08/2018 09:49:13.826	code: Info	text: *** Enfocado: 0.0620000362396 ***
+date: 30/08/2018 09:49:13.826	code: Info	text: *** Seleccion de estrella: 5.14100003242 ***
+date: 30/08/2018 09:49:13.826	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:49:13.826	code: Debg	text: -------- Generando fichero de datos ---------
+date: 30/08/2018 09:49:13.826	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:49:13.826	code: Info	text: ##### PACK: OT_1C9CHS_180830094913
+date: 30/08/2018 09:49:49.956	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 09:50:19.694	code: Info	text: ##### (OT_1C9CHS_180830094913) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180829\OT20180830095018.txt
+date: 30/08/2018 09:50:19.694	code: Info	text: *** Generacion del fichero 65.8680000305
+date: 30/08/2018 09:50:19.694	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:50:19.694	code: Debg	text: ------------- Calculando seeing -------------
+date: 30/08/2018 09:50:19.694	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:50:19.834	code: Info	text: ###### (OT_1C9CHS_180830094913) SEEING: 2.0666356609558507
+date: 30/08/2018 09:50:19.834	code: Info	text: *** Calculo del seeing 0.140000104904
+date: 30/08/2018 09:50:19.834	code: Info	text: *** Procesado de datos: 66.0080001354 ***
+date: 30/08/2018 09:50:19.834	code: Info	text: *** TIEMPO TOTAL ITERACION: 71.1490001678 ***
+date: 30/08/2018 09:50:19.834	code: Info	text: Parando la observacion...
+date: 30/08/2018 09:50:19.834	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 09:52:14.520	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:52:14.536	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 09:52:14.536	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:52:14.536	code: Info	text: Seleccionando estella...
+date: 30/08/2018 09:52:39.755	code: Info	text: Estella seleccionada --> Pollux
+	airmass: 1.060847
+	ha hours: hms_tuple(h=-1.0, m=-28.0, s=-34.01612619101229)
+	ra: 7.773892
+	dec: 27.979686
+date: 30/08/2018 09:52:39.755	code: Info	text: *** Seleccion de estrella: 25.2190001011 ***
+date: 30/08/2018 09:52:39.755	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:52:39.755	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 09:52:39.755	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:52:39.755	code: Info	text: Centrando spots...
+date: 30/08/2018 09:52:42.786	code: Info	text: Intento 0
+date: 30/08/2018 09:52:46.287	code: Info	text: Los spots estan centrados
+date: 30/08/2018 09:52:46.287	code: Info	text: *** Centrado de spots: 6.53199982643 ***
+date: 30/08/2018 09:52:46.287	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:52:46.287	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 09:52:46.287	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:52:46.287	code: Info	text: Comprobando el foco...
+date: 30/08/2018 09:52:46.302	code: Info	text: Intento 0
+date: 30/08/2018 09:52:54.475	code: Info	text: DX: 35.596680000000006 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:52:54.475	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:52:54.975	code: Info	text: Intento 1
+date: 30/08/2018 09:53:01.460	code: Info	text: DX: 68.51926 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:53:01.460	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:53:01.460	code: Info	text: Intento 2
+date: 30/08/2018 09:53:08.008	code: Info	text: DX: 73.0593 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:53:08.008	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:53:08.008	code: Info	text: Intento 3
+date: 30/08/2018 09:53:14.415	code: Info	text: DX: 42.70178 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:53:14.415	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:53:14.806	code: Info	text: Intento 4
+date: 30/08/2018 09:53:21.103	code: Info	text: DX: 62.09832 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:53:21.103	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:53:21.103	code: Info	text: Intento 5
+date: 30/08/2018 09:53:27.417	code: Info	text: DX: 57.069939999999995 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:53:27.417	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:53:27.417	code: Info	text: Intento 6
+date: 30/08/2018 09:53:33.746	code: Info	text: DX: 73.79378 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:53:33.746	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:53:33.746	code: Info	text: Intento 7
+date: 30/08/2018 09:53:40.012	code: Info	text: DX: 38.02012 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:53:40.012	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:53:40.387	code: Info	text: Intento 8
+date: 30/08/2018 09:53:46.638	code: Info	text: DX: 51.48306 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:53:46.638	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:53:46.638	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 09:53:46.638	code: Info	text: *** Seleccion de estrella: 92.1180000305 ***
+date: 30/08/2018 09:53:49.638	code: Info	text: *** TIEMPO TOTAL ITERACION: 95.1180000305 ***
+date: 30/08/2018 09:53:49.638	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:53:49.638	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 09:53:49.654	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:53:49.654	code: Info	text: Seleccionando estella...
+date: 30/08/2018 09:54:13.282	code: Info	text: Estella seleccionada --> Castor
+	airmass: 1.046784
+	ha hours: hms_tuple(h=-1.0, m=-17.0, s=-53.20492339946689)
+	ra: 7.595889
+	dec: 31.845702
+date: 30/08/2018 09:54:13.282	code: Info	text: *** Seleccion de estrella: 23.628000021 ***
+date: 30/08/2018 09:54:13.282	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:54:13.282	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 09:54:13.282	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:54:13.282	code: Info	text: Centrando spots...
+date: 30/08/2018 09:54:14.672	code: Info	text: Intento 0
+date: 30/08/2018 09:54:18.735	code: Info	text: Los spots estan centrados
+date: 30/08/2018 09:54:18.735	code: Info	text: *** Centrado de spots: 5.45299983025 ***
+date: 30/08/2018 09:54:18.735	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:54:18.735	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 09:54:18.735	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:54:18.735	code: Info	text: Comprobando el foco...
+date: 30/08/2018 09:54:18.735	code: Info	text: Intento 0
+date: 30/08/2018 09:54:27.065	code: Info	text: DX: 28.60058 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:54:27.065	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:54:27.565	code: Info	text: Intento 1
+date: 30/08/2018 09:54:34.956	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:54:34.956	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 09:54:34.956	code: Info	text: *** Seleccion de estrella: 45.3180000782 ***
+date: 30/08/2018 09:54:37.956	code: Info	text: *** TIEMPO TOTAL ITERACION: 48.3180000782 ***
+date: 30/08/2018 09:54:37.956	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:54:37.956	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 09:54:37.956	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:54:37.956	code: Info	text: Seleccionando estella...
+date: 30/08/2018 09:55:02.678	code: Info	text: Estella seleccionada --> Pollux
+	airmass: 1.053871
+	ha hours: hms_tuple(h=-1.0, m=-23.0, s=-33.08452235416233)
+	ra: 7.773892
+	dec: 27.979686
+date: 30/08/2018 09:55:02.694	code: Info	text: *** Seleccion de estrella: 24.7379999161 ***
+date: 30/08/2018 09:55:02.694	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:55:02.694	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 09:55:02.694	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:55:02.694	code: Info	text: Centrando spots...
+date: 30/08/2018 09:55:03.756	code: Info	text: Intento 0
+date: 30/08/2018 09:55:08.101	code: Info	text: Los spots estan centrados
+date: 30/08/2018 09:55:08.101	code: Info	text: *** Centrado de spots: 5.40700006485 ***
+date: 30/08/2018 09:55:08.101	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:55:08.101	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 09:55:08.101	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:55:08.101	code: Info	text: Comprobando el foco...
+date: 30/08/2018 09:55:08.116	code: Info	text: Intento 0
+date: 30/08/2018 09:55:16.289	code: Info	text: DX: 33.79782 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:55:16.289	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:55:16.727	code: Info	text: Intento 1
+date: 30/08/2018 09:55:24.040	code: Info	text: DX: 37.4494 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:55:24.040	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:55:24.509	code: Info	text: Intento 2
+date: 30/08/2018 09:55:30.822	code: Info	text: DX: 42.04142 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:55:30.822	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:55:31.244	code: Info	text: Intento 3
+date: 30/08/2018 09:55:37.495	code: Info	text: DX: 40.11904 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:55:37.495	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:55:37.854	code: Info	text: Intento 4
+date: 30/08/2018 09:55:43.933	code: Info	text: DX: 41.419579999999996 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:55:43.933	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:55:44.746	code: Info	text: Intento 5
+date: 30/08/2018 09:55:51.059	code: Info	text: DX: 31.22516 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:55:51.059	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:55:51.559	code: Info	text: Intento 6
+date: 30/08/2018 09:55:58.013	code: Info	text: DX: 79.12158 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:55:58.013	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:55:58.013	code: Info	text: Intento 7
+date: 30/08/2018 09:56:04.873	code: Info	text: DX: 48.62967999999999 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:56:04.873	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:56:04.873	code: Info	text: Intento 8
+date: 30/08/2018 09:56:11.827	code: Info	text: DX: 46.647619999999996 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:56:11.827	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 09:56:11.827	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 09:56:11.827	code: Info	text: *** Seleccion de estrella: 93.8709998131 ***
+date: 30/08/2018 09:56:14.828	code: Info	text: *** TIEMPO TOTAL ITERACION: 96.871999979 ***
+date: 30/08/2018 09:56:14.828	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:56:14.828	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 09:56:14.828	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:56:14.828	code: Info	text: Seleccionando estella...
+date: 30/08/2018 09:56:38.471	code: Info	text: Estella seleccionada --> Castor
+	airmass: 1.041023
+	ha hours: hms_tuple(h=-1.0, m=-12.0, s=-52.273325219224915)
+	ra: 7.595889
+	dec: 31.845702
+date: 30/08/2018 09:56:38.471	code: Info	text: *** Seleccion de estrella: 23.6429998875 ***
+date: 30/08/2018 09:56:38.471	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:56:38.471	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 09:56:38.471	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:56:38.471	code: Info	text: Centrando spots...
+date: 30/08/2018 09:56:39.503	code: Info	text: Intento 0
+date: 30/08/2018 09:56:43.894	code: Info	text: Los spots estan centrados
+date: 30/08/2018 09:56:43.894	code: Info	text: *** Centrado de spots: 5.42300009727 ***
+date: 30/08/2018 09:56:43.894	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:56:43.894	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 09:56:43.894	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:56:43.894	code: Info	text: Comprobando el foco...
+date: 30/08/2018 09:56:43.894	code: Info	text: Intento 0
+date: 30/08/2018 09:56:52.363	code: Info	text: DX: 33.39356 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:56:52.363	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:56:52.801	code: Info	text: Intento 1
+date: 30/08/2018 09:56:54.942	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 09:57:00.146	code: Info	text: DX: 32.999199999999995 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:57:00.146	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:57:00.521	code: Info	text: Intento 2
+date: 30/08/2018 09:57:07.850	code: Info	text: DX: 33.00016 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:57:07.850	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:57:08.209	code: Info	text: Intento 3
+date: 30/08/2018 09:57:15.569	code: Info	text: DX: 34.2019 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:57:15.726	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:57:16.101	code: Info	text: Intento 4
+date: 30/08/2018 09:57:23.445	code: Info	text: DX: 34.3974 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:57:23.445	code: Info	text: Moviendo el foco...
+date: 30/08/2018 09:57:23.820	code: Info	text: Intento 5
+date: 30/08/2018 09:57:31.134	code: Info	text: DX: 35.401559999999996 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 09:57:31.134	code: Info	text: La imagen esta enfocada
+date: 30/08/2018 09:57:31.134	code: Info	text: *** Enfocado: 47.2400000095 ***
+date: 30/08/2018 09:57:31.134	code: Info	text: *** Seleccion de estrella: 76.3059999943 ***
+date: 30/08/2018 09:57:31.134	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:57:31.134	code: Debg	text: -------- Generando fichero de datos ---------
+date: 30/08/2018 09:57:31.134	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:57:31.134	code: Info	text: ##### PACK: OT_TBZZZT_180830095731
+date: 30/08/2018 09:58:37.048	code: Info	text: ##### (OT_TBZZZT_180830095731) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180829\OT20180830095835.txt
+date: 30/08/2018 09:58:37.048	code: Info	text: *** Generacion del fichero 65.9140000343
+date: 30/08/2018 09:58:37.048	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:58:37.048	code: Debg	text: ------------- Calculando seeing -------------
+date: 30/08/2018 09:58:37.048	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 09:58:37.173	code: Info	text: ###### (OT_TBZZZT_180830095731) SEEING: 3.239438309733441
+date: 30/08/2018 09:58:37.173	code: Info	text: *** Calculo del seeing 0.125
+date: 30/08/2018 09:58:37.173	code: Info	text: *** Procesado de datos: 66.0390000343 ***
+date: 30/08/2018 09:58:37.173	code: Info	text: *** TIEMPO TOTAL ITERACION: 142.345000029 ***
+date: 30/08/2018 09:58:37.189	code: Info	text: Parando la observacion...
+date: 30/08/2018 09:58:37.189	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 10:06:03.435	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:06:03.435	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:06:03.435	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:06:03.435	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:06:29.125	code: Info	text: Estella seleccionada --> Pollux
+	airmass: 1.041326
+	ha hours: hms_tuple(h=-1.0, m=-13.0, s=-31.401850946495173)
+	ra: 7.773892
+	dec: 27.979686
+date: 30/08/2018 10:06:29.125	code: Info	text: *** Seleccion de estrella: 25.6900000572 ***
+date: 30/08/2018 10:06:29.125	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:06:29.125	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 10:06:29.125	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:06:29.125	code: Info	text: Centrando spots...
+date: 30/08/2018 10:06:30.157	code: Info	text: Intento 0
+date: 30/08/2018 10:06:33.626	code: Info	text: Los spots estan centrados
+date: 30/08/2018 10:06:33.626	code: Info	text: *** Centrado de spots: 4.50099992752 ***
+date: 30/08/2018 10:06:33.626	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:06:33.626	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 10:06:33.641	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:06:33.641	code: Info	text: Comprobando el foco...
+date: 30/08/2018 10:06:33.641	code: Info	text: Intento 0
+date: 30/08/2018 10:06:41.892	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:06:41.892	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 10:06:41.892	code: Info	text: *** Seleccion de estrella: 38.4730000496 ***
+date: 30/08/2018 10:06:44.893	code: Info	text: *** TIEMPO TOTAL ITERACION: 41.4739999771 ***
+date: 30/08/2018 10:06:44.893	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:06:44.893	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:06:44.893	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:06:44.893	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:07:08.849	code: Info	text: Estella seleccionada --> Castor
+	airmass: 1.030777
+	ha hours: hms_tuple(h=-1.0, m=-2.0, s=-50.590665122756135)
+	ra: 7.595889
+	dec: 31.845702
+date: 30/08/2018 10:07:08.849	code: Info	text: *** Seleccion de estrella: 23.9560000896 ***
+date: 30/08/2018 10:07:08.849	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:07:08.864	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 10:07:08.864	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:07:08.864	code: Info	text: Centrando spots...
+date: 30/08/2018 10:07:09.911	code: Info	text: Intento 0
+date: 30/08/2018 10:07:14.303	code: Info	text: Los spots estan centrados
+date: 30/08/2018 10:07:14.303	code: Info	text: *** Centrado de spots: 5.43899989128 ***
+date: 30/08/2018 10:07:14.303	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:07:14.303	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 10:07:14.303	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:07:14.303	code: Info	text: Comprobando el foco...
+date: 30/08/2018 10:07:14.303	code: Info	text: Intento 0
+date: 30/08/2018 10:07:22.491	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:07:22.491	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 10:07:22.491	code: Info	text: *** Seleccion de estrella: 37.5980000496 ***
+date: 30/08/2018 10:07:25.491	code: Info	text: *** TIEMPO TOTAL ITERACION: 40.5980000496 ***
+date: 30/08/2018 10:07:25.491	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:07:25.491	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:07:25.491	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:07:25.491	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:07:31.930	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 10:07:49.948	code: Info	text: Estella seleccionada --> Pollux
+	airmass: 1.041326
+	ha hours: hms_tuple(h=-1.0, m=-13.0, s=-31.401850946495173)
+	ra: 7.773892
+	dec: 27.979686
+date: 30/08/2018 10:07:49.948	code: Info	text: *** Seleccion de estrella: 24.4570000172 ***
+date: 30/08/2018 10:07:49.963	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:07:49.963	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 10:07:49.963	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:07:49.963	code: Info	text: Centrando spots...
+date: 30/08/2018 10:07:51.338	code: Info	text: Intento 0
+date: 30/08/2018 10:07:55.464	code: Info	text: Los spots estan centrados
+date: 30/08/2018 10:07:55.479	code: Info	text: *** Centrado de spots: 5.51600003242 ***
+date: 30/08/2018 10:07:55.479	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:07:55.479	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 10:07:55.479	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:07:55.479	code: Info	text: Comprobando el foco...
+date: 30/08/2018 10:07:55.479	code: Info	text: Intento 0
+date: 30/08/2018 10:08:02.590	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:08:02.590	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 10:08:02.590	code: Info	text: *** Seleccion de estrella: 37.0989999771 ***
+date: 30/08/2018 10:08:05.590	code: Info	text: *** TIEMPO TOTAL ITERACION: 40.0989999771 ***
+date: 30/08/2018 10:08:05.590	code: Info	text: Parando la observacion...
+date: 30/08/2018 10:08:05.590	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 10:08:50.486	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:08:50.486	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:08:50.486	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:08:50.486	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:09:13.442	code: Info	text: Estella seleccionada --> Pollux
+	airmass: 1.041326
+	ha hours: hms_tuple(h=-1.0, m=-13.0, s=-31.401850946495173)
+	ra: 7.773892
+	dec: 27.979686
+date: 30/08/2018 10:09:13.442	code: Info	text: *** Seleccion de estrella: 22.9559998512 ***
+date: 30/08/2018 10:09:13.442	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:09:13.442	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 10:09:13.442	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:09:13.442	code: Info	text: Centrando spots...
+date: 30/08/2018 10:09:14.817	code: Info	text: Intento 0
+date: 30/08/2018 10:09:18.833	code: Info	text: Los spots estan centrados
+date: 30/08/2018 10:09:18.833	code: Info	text: *** Centrado de spots: 5.39100003242 ***
+date: 30/08/2018 10:09:18.833	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:09:18.833	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 10:09:18.833	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:09:18.833	code: Info	text: Comprobando el foco...
+date: 30/08/2018 10:09:18.833	code: Info	text: Intento 0
+date: 30/08/2018 10:09:26.928	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:09:26.928	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 10:09:26.928	code: Info	text: *** Seleccion de estrella: 36.4419999123 ***
+date: 30/08/2018 10:09:29.928	code: Info	text: *** TIEMPO TOTAL ITERACION: 39.4419999123 ***
+date: 30/08/2018 10:09:29.928	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:09:29.928	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:09:29.928	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:09:29.928	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:09:54.353	code: Info	text: Estella seleccionada --> Castor
+	airmass: 1.030777
+	ha hours: hms_tuple(h=-1.0, m=-2.0, s=-50.590665122756135)
+	ra: 7.595889
+	dec: 31.845702
+date: 30/08/2018 10:09:54.353	code: Info	text: *** Seleccion de estrella: 24.4249999523 ***
+date: 30/08/2018 10:09:54.353	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:09:54.353	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 10:09:54.353	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:09:54.353	code: Info	text: Centrando spots...
+date: 30/08/2018 10:09:55.416	code: Info	text: Intento 0
+date: 30/08/2018 10:09:59.885	code: Info	text: Los spots estan centrados
+date: 30/08/2018 10:09:59.885	code: Info	text: *** Centrado de spots: 5.53200006485 ***
+date: 30/08/2018 10:09:59.885	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:09:59.885	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 10:09:59.901	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:09:59.901	code: Info	text: Comprobando el foco...
+date: 30/08/2018 10:09:59.901	code: Info	text: Intento 0
+date: 30/08/2018 10:10:08.074	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:10:08.074	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 10:10:08.074	code: Info	text: *** Seleccion de estrella: 38.1459999084 ***
+date: 30/08/2018 10:10:10.199	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 10:10:11.074	code: Info	text: *** TIEMPO TOTAL ITERACION: 41.1459999084 ***
+date: 30/08/2018 10:10:11.074	code: Info	text: Parando la observacion...
+date: 30/08/2018 10:10:11.074	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 10:14:07.386	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:14:07.386	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:14:07.386	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:14:07.386	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:14:33.061	code: Info	text: Estella seleccionada --> Pollux
+	airmass: 1.035731
+	ha hours: hms_tuple(h=-1.0, m=-8.0, s=-30.57054041630643)
+	ra: 7.773892
+	dec: 27.979686
+date: 30/08/2018 10:14:33.061	code: Info	text: *** Seleccion de estrella: 25.6750001907 ***
+date: 30/08/2018 10:14:33.061	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:14:33.061	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 10:14:33.061	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:14:33.061	code: Info	text: Centrando spots...
+date: 30/08/2018 10:14:34.108	code: Info	text: Intento 0
+date: 30/08/2018 10:14:38.483	code: Info	text: Los spots estan centrados
+date: 30/08/2018 10:14:38.483	code: Info	text: *** Centrado de spots: 5.42199993134 ***
+date: 30/08/2018 10:14:38.483	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:14:38.483	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 10:14:38.483	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:14:38.483	code: Info	text: Comprobando el foco...
+date: 30/08/2018 10:14:38.483	code: Info	text: Intento 0
+date: 30/08/2018 10:14:44.578	code: Info	text: Verificando centro
+date: 30/08/2018 10:14:44.593	code: Info	text: Verificando centro
+date: 30/08/2018 10:14:44.609	code: Info	text: Verificando centro
+date: 30/08/2018 10:14:44.609	code: Info	text: Verificando centro
+date: 30/08/2018 10:14:44.625	code: Info	text: Verificando centro
+date: 30/08/2018 10:14:44.640	code: Info	text: Imagenes procesadas: 0
+date: 30/08/2018 10:14:46.859	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:14:46.859	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 10:14:46.859	code: Info	text: *** Seleccion de estrella: 39.4730000496 ***
+date: 30/08/2018 10:14:49.860	code: Info	text: *** TIEMPO TOTAL ITERACION: 42.4739999771 ***
+date: 30/08/2018 10:14:49.860	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:14:49.860	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:14:49.860	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:14:49.860	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:14:50.953	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 10:15:15.144	code: Info	text: Estella seleccionada --> Castor
+	airmass: 1.022169
+	ha hours: hms_tuple(h=-0.0, m=-52.0, s=-48.89795936763704)
+	ra: 7.595889
+	dec: 31.845701
+date: 30/08/2018 10:15:15.144	code: Info	text: *** Seleccion de estrella: 25.2840001583 ***
+date: 30/08/2018 10:15:15.144	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:15:15.144	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 10:15:15.144	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:15:15.144	code: Info	text: Centrando spots...
+date: 30/08/2018 10:15:16.191	code: Info	text: Intento 0
+date: 30/08/2018 10:15:20.676	code: Info	text: Los spots estan centrados
+date: 30/08/2018 10:15:20.676	code: Info	text: *** Centrado de spots: 5.53200006485 ***
+date: 30/08/2018 10:15:20.676	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:15:20.676	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 10:15:20.676	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:15:20.676	code: Info	text: Comprobando el foco...
+date: 30/08/2018 10:15:20.691	code: Info	text: Intento 0
+date: 30/08/2018 10:15:25.661	code: Info	text: Verificando centro
+date: 30/08/2018 10:15:25.676	code: Info	text: Verificando centro
+date: 30/08/2018 10:15:25.692	code: Info	text: Verificando centro
+date: 30/08/2018 10:15:25.692	code: Info	text: Verificando centro
+date: 30/08/2018 10:15:25.708	code: Info	text: Verificando centro
+date: 30/08/2018 10:15:25.723	code: Info	text: Imagenes procesadas: 0
+date: 30/08/2018 10:15:27.942	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:15:27.942	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 10:15:27.942	code: Info	text: *** Seleccion de estrella: 38.0820000172 ***
+date: 30/08/2018 10:15:30.943	code: Info	text: *** TIEMPO TOTAL ITERACION: 41.0830001831 ***
+date: 30/08/2018 10:15:30.943	code: Info	text: Parando la observacion...
+date: 30/08/2018 10:15:30.943	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 10:18:33.074	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:18:33.074	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:18:33.074	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:18:33.074	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:18:59.030	code: Info	text: Estella seleccionada --> Pollux
+	airmass: 1.030574
+	ha hours: hms_tuple(h=-1.0, m=-3.0, s=-29.70913387812793)
+	ra: 7.773892
+	dec: 27.979685
+date: 30/08/2018 10:18:59.030	code: Info	text: *** Seleccion de estrella: 25.9560000896 ***
+date: 30/08/2018 10:18:59.030	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:18:59.030	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 10:18:59.030	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:18:59.030	code: Info	text: Centrando spots...
+date: 30/08/2018 10:19:00.453	code: Info	text: Intento 0
+date: 30/08/2018 10:19:02.203	code: Error (center spots)	text: global name 'limit_up' is not defined
+date: 30/08/2018 10:19:04.422	code: Info	text: Los spots estan centrados
+date: 30/08/2018 10:19:04.422	code: Info	text: *** Centrado de spots: 5.39199995995 ***
+date: 30/08/2018 10:19:04.422	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:19:04.422	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 10:19:04.437	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:19:04.437	code: Info	text: Comprobando el foco...
+date: 30/08/2018 10:19:04.437	code: Info	text: Intento 0
+date: 30/08/2018 10:19:10.360	code: Info	text: Verificando centro
+date: 30/08/2018 10:19:10.360	code: Error (get dx dat)	text: global name 'limit_up' is not defined
+date: 30/08/2018 10:19:10.360	code: Info	text: DX: 0.0 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:19:10.360	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 10:19:10.360	code: Info	text: Intento 1
+date: 30/08/2018 10:19:15.548	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 10:23:55.497	code: Error (get dx dat)	text: [Errno 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+date: 30/08/2018 10:23:55.497	code: Info	text: DX: 0.0 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:23:55.497	code: Error	text: Imagenes no aptas para calcular el foco
+date: 30/08/2018 10:23:55.497	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 10:23:55.497	code: Info	text: *** Seleccion de estrella: 322.423000097 ***
+date: 30/08/2018 10:23:58.497	code: Info	text: *** TIEMPO TOTAL ITERACION: 325.423000097 ***
+date: 30/08/2018 10:23:58.497	code: Info	text: Parando la observacion...
+date: 30/08/2018 10:23:58.497	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 10:25:04.709	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:25:04.709	code: Debg	text: ------------------ Get Ready ----------------
+date: 30/08/2018 10:25:04.709	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:25:04.709	code: Info	text: Abriendo cupula...
+date: 30/08/2018 10:25:17.835	code: Info	text: Cupula abierta
+date: 30/08/2018 10:25:17.835	code: Info	text: Encendiendo la montura...
+date: 30/08/2018 10:25:17.851	code: Info	text: Montura encendida
+date: 30/08/2018 10:25:27.852	code: Info	text: Encendiendo el foco...
+date: 30/08/2018 10:25:27.883	code: Info	text: Foco encendida
+date: 30/08/2018 10:25:27.899	code: Info	text: Llevando la montura al home...
+date: 30/08/2018 10:26:50.987	code: Info	text: Montura en el home
+date: 30/08/2018 10:26:50.987	code: Info	text: *** Listo para empezar observacion ***
+date: 30/08/2018 10:27:08.333	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:27:08.333	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:27:08.333	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:27:08.333	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:28:12.028	code: Info	text: Estella seleccionada --> Pollux
+	airmass: 1.021533
+	ha hours: hms_tuple(h=-0.0, m=-53.0, s=-28.036507882422228)
+	ra: 7.773892
+	dec: 27.979685
+date: 30/08/2018 10:28:12.028	code: Info	text: *** Seleccion de estrella: 63.6950001717 ***
+date: 30/08/2018 10:28:12.028	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:28:12.028	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 10:28:12.028	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:28:12.028	code: Info	text: Centrando spots...
+date: 30/08/2018 10:28:15.076	code: Info	text: Intento 0
+date: 30/08/2018 10:28:16.294	code: Info	text: (s1Y: 430 - s2Y: 431 - s1X: 509 - s2X: 547) - (cy: 430, cx: 528)
+date: 30/08/2018 10:28:18.545	code: Info	text: Los spots estan centrados
+date: 30/08/2018 10:28:18.545	code: Info	text: *** Centrado de spots: 6.51699995995 ***
+date: 30/08/2018 10:28:18.545	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:28:18.545	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 10:28:18.545	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:28:18.545	code: Info	text: Comprobando el foco...
+date: 30/08/2018 10:28:18.545	code: Info	text: Intento 0
+date: 30/08/2018 10:28:24.530	code: Info	text: Verificando centro
+date: 30/08/2018 10:28:24.545	code: Info	text: (s1Y: 28 - s2Y: 30 - s1X: 66 - s2X: 103) - (cy: 29, cx: 84)
+date: 30/08/2018 10:28:24.545	code: Info	text: Verificando centro
+date: 30/08/2018 10:28:24.561	code: Info	text: (s1Y: 29 - s2Y: 29 - s1X: 67 - s2X: 103) - (cy: 29, cx: 85)
+date: 30/08/2018 10:28:24.561	code: Info	text: Verificando centro
+date: 30/08/2018 10:28:24.561	code: Info	text: (s1Y: 27 - s2Y: 30 - s1X: 66 - s2X: 104) - (cy: 28, cx: 85)
+date: 30/08/2018 10:28:24.561	code: Info	text: Verificando centro
+date: 30/08/2018 10:28:24.577	code: Info	text: (s1Y: 28 - s2Y: 29 - s1X: 67 - s2X: 103) - (cy: 28, cx: 85)
+date: 30/08/2018 10:28:24.577	code: Info	text: Verificando centro
+date: 30/08/2018 10:28:24.592	code: Info	text: (s1Y: 28 - s2Y: 29 - s1X: 67 - s2X: 104) - (cy: 28, cx: 85)
+date: 30/08/2018 10:28:24.592	code: Info	text: Imagenes procesadas: 0
+date: 30/08/2018 10:28:26.811	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:28:26.811	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 10:28:26.811	code: Info	text: *** Seleccion de estrella: 78.478000164 ***
+date: 30/08/2018 10:28:28.358	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 10:28:29.812	code: Info	text: *** TIEMPO TOTAL ITERACION: 81.4790000916 ***
+date: 30/08/2018 10:28:29.812	code: Info	text: Parando la observacion...
+date: 30/08/2018 10:28:29.812	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 10:41:27.825	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:41:27.825	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:41:27.825	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:41:27.825	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:41:47.375	code: Error (seleccionando estrella)	text: No se ha encontrado la estrella
+date: 30/08/2018 10:41:47.375	code: Info	text: *** Seleccion de estrella: 19.5499999523 ***
+date: 30/08/2018 10:41:50.375	code: Info	text: *** TIEMPO TOTAL ITERACION: 22.5499999523 ***
+date: 30/08/2018 10:41:50.375	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:41:50.375	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:41:50.375	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:41:50.375	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:42:10.518	code: Error (seleccionando estrella)	text: No se ha encontrado la estrella
+date: 30/08/2018 10:42:10.518	code: Info	text: *** Seleccion de estrella: 20.1429998875 ***
+date: 30/08/2018 10:42:13.518	code: Info	text: *** TIEMPO TOTAL ITERACION: 23.1429998875 ***
+date: 30/08/2018 10:42:13.518	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:42:13.518	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:42:13.518	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:42:13.518	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:42:35.021	code: Error (seleccionando estrella)	text: No se ha encontrado la estrella
+date: 30/08/2018 10:42:35.021	code: Info	text: *** Seleccion de estrella: 21.503000021 ***
+date: 30/08/2018 10:42:38.021	code: Info	text: *** TIEMPO TOTAL ITERACION: 24.503000021 ***
+date: 30/08/2018 10:42:38.021	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:42:38.021	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:42:38.021	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:42:38.021	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:42:59.807	code: Error (seleccionando estrella)	text: No se ha encontrado la estrella
+date: 30/08/2018 10:42:59.807	code: Info	text: *** Seleccion de estrella: 21.7860000134 ***
+date: 30/08/2018 10:42:59.807	code: Error (manage auto select error)	text: It's not posible to select a star. Next trying on 60 seconds.
+date: 30/08/2018 10:43:59.815	code: Info	text: *** TIEMPO TOTAL ITERACION: 81.7940001488 ***
+date: 30/08/2018 10:43:59.815	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:43:59.815	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:43:59.815	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:43:59.815	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:44:47.789	code: Info	text: Estella seleccionada --> Capella
+	airmass: 1.131818
+	ha hours: hms_tuple(h=1.0, m=49.0, s=57.94536640022642)
+	ra: 5.300707
+	dec: 46.013425
+date: 30/08/2018 10:44:47.789	code: Info	text: *** Seleccion de estrella: 47.9739999771 ***
+date: 30/08/2018 10:44:47.789	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:44:47.789	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 10:44:47.789	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:44:47.789	code: Info	text: Centrando spots...
+date: 30/08/2018 10:44:48.836	code: Info	text: Intento 0
+date: 30/08/2018 10:44:51.102	code: Info	text: (s1Y: 161 - s2Y: 254 - s1X: 30 - s2X: 375) - (cy: 207, cx: 202)
+date: 30/08/2018 10:44:51.118	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 10:44:55.853	code: Info	text: Los spots estan centrados
+date: 30/08/2018 10:44:55.853	code: Info	text: *** Centrado de spots: 8.06399989128 ***
+date: 30/08/2018 10:44:55.853	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:44:55.853	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 10:44:55.853	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:44:55.853	code: Info	text: Comprobando el foco...
+date: 30/08/2018 10:44:55.868	code: Info	text: Intento 0
+date: 30/08/2018 10:44:59.744	code: Info	text: Verificando centro
+date: 30/08/2018 10:44:59.744	code: Info	text: (s1Y: 0 - s2Y: 12 - s1X: 110 - s2X: 131) - (cy: 6, cx: 120)
+date: 30/08/2018 10:44:59.759	code: Info	text: Verificando centro
+date: 30/08/2018 10:44:59.759	code: Info	text: (s1Y: 46 - s2Y: 33 - s1X: 134 - s2X: 145) - (cy: 39, cx: 139)
+date: 30/08/2018 10:44:59.775	code: Info	text: Verificando centro
+date: 30/08/2018 10:44:59.775	code: Info	text: (s1Y: 43 - s2Y: 44 - s1X: 118 - s2X: 148) - (cy: 43, cx: 133)
+date: 30/08/2018 10:44:59.791	code: Info	text: Imagen valida
+date: 30/08/2018 10:44:59.791	code: Info	text: Verificando centro
+date: 30/08/2018 10:44:59.791	code: Info	text: (s1Y: 56 - s2Y: 23 - s1X: 117 - s2X: 136) - (cy: 39, cx: 126)
+date: 30/08/2018 10:44:59.806	code: Info	text: Verificando centro
+date: 30/08/2018 10:44:59.806	code: Info	text: (s1Y: 39 - s2Y: 0 - s1X: 120 - s2X: 134) - (cy: 19, cx: 127)
+date: 30/08/2018 10:44:59.806	code: Info	text: Imagenes procesadas: 1
+date: 30/08/2018 10:45:02.025	code: Info	text: DX: 29.9983 (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:45:02.025	code: Info	text: Moviendo el foco...
+date: 30/08/2018 10:45:02.478	code: Info	text: Intento 1
+date: 30/08/2018 10:45:06.119	code: Info	text: Verificando centro
+date: 30/08/2018 10:45:06.135	code: Info	text: (s1Y: 29 - s2Y: 28 - s1X: 93 - s2X: 139) - (cy: 28, cx: 116)
+date: 30/08/2018 10:45:06.135	code: Info	text: Verificando centro
+date: 30/08/2018 10:45:06.151	code: Info	text: (s1Y: 48 - s2Y: 27 - s1X: 101 - s2X: 150) - (cy: 37, cx: 125)
+date: 30/08/2018 10:45:06.151	code: Info	text: Verificando centro
+date: 30/08/2018 10:45:06.151	code: Info	text: (s1Y: 15 - s2Y: 51 - s1X: 13 - s2X: 137) - (cy: 33, cx: 75)
+date: 30/08/2018 10:45:06.166	code: Info	text: Verificando centro
+date: 30/08/2018 10:45:06.166	code: Info	text: (s1Y: 48 - s2Y: 31 - s1X: 94 - s2X: 158) - (cy: 39, cx: 126)
+date: 30/08/2018 10:45:06.182	code: Info	text: Verificando centro
+date: 30/08/2018 10:45:06.198	code: Info	text: (s1Y: 35 - s2Y: 41 - s1X: 119 - s2X: 152) - (cy: 38, cx: 135)
+date: 30/08/2018 10:45:06.198	code: Info	text: Imagenes procesadas: 0
+date: 30/08/2018 10:45:08.417	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:45:08.417	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 10:45:08.417	code: Info	text: *** Seleccion de estrella: 68.6019999981 ***
+date: 30/08/2018 10:45:11.417	code: Info	text: *** TIEMPO TOTAL ITERACION: 71.6019999981 ***
+date: 30/08/2018 10:45:11.417	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:45:11.417	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:45:11.417	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:45:11.417	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:45:14.324	code: Info	text: Estella seleccionada --> Capella
+	airmass: 1.139952
+	ha hours: hms_tuple(h=1.0, m=54.0, s=58.79667476713294)
+	ra: 5.300707
+	dec: 46.013425
+date: 30/08/2018 10:45:14.324	code: Info	text: *** Seleccion de estrella: 2.90699982643 ***
+date: 30/08/2018 10:45:14.324	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:45:14.324	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 10:45:14.324	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:45:14.324	code: Info	text: Centrando spots...
+date: 30/08/2018 10:45:15.355	code: Info	text: Intento 0
+date: 30/08/2018 10:45:17.558	code: Info	text: (s1Y: 187 - s2Y: 250 - s1X: 28 - s2X: 339) - (cy: 218, cx: 183)
+date: 30/08/2018 10:45:17.558	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 10:45:22.512	code: Info	text: Los spots estan centrados
+date: 30/08/2018 10:45:22.512	code: Info	text: *** Centrado de spots: 8.18800020218 ***
+date: 30/08/2018 10:45:22.512	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:45:22.512	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 10:45:22.528	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:45:22.528	code: Info	text: Comprobando el foco...
+date: 30/08/2018 10:45:22.528	code: Info	text: Intento 0
+date: 30/08/2018 10:45:26.606	code: Info	text: Verificando centro
+date: 30/08/2018 10:45:26.622	code: Info	text: (s1Y: 34 - s2Y: 51 - s1X: 132 - s2X: 137) - (cy: 42, cx: 134)
+date: 30/08/2018 10:45:26.622	code: Info	text: Verificando centro
+date: 30/08/2018 10:45:26.622	code: Info	text: (s1Y: 37 - s2Y: 18 - s1X: 108 - s2X: 137) - (cy: 27, cx: 122)
+date: 30/08/2018 10:45:26.638	code: Info	text: Verificando centro
+date: 30/08/2018 10:45:26.638	code: Info	text: (s1Y: 36 - s2Y: 56 - s1X: 93 - s2X: 110) - (cy: 46, cx: 101)
+date: 30/08/2018 10:45:26.653	code: Info	text: Verificando centro
+date: 30/08/2018 10:45:26.653	code: Info	text: (s1Y: 38 - s2Y: 13 - s1X: 72 - s2X: 123) - (cy: 25, cx: 97)
+date: 30/08/2018 10:45:26.653	code: Info	text: Verificando centro
+date: 30/08/2018 10:45:26.669	code: Info	text: (s1Y: 25 - s2Y: 40 - s1X: 40 - s2X: 133) - (cy: 32, cx: 86)
+date: 30/08/2018 10:45:26.669	code: Info	text: Imagenes procesadas: 0
+date: 30/08/2018 10:45:27.794	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 10:45:28.888	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:45:28.888	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 10:45:28.888	code: Info	text: *** Seleccion de estrella: 17.4709999561 ***
+date: 30/08/2018 10:45:31.888	code: Info	text: *** TIEMPO TOTAL ITERACION: 20.4709999561 ***
+date: 30/08/2018 10:45:31.888	code: Info	text: Parando la observacion...
+date: 30/08/2018 10:45:31.888	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 10:56:07.583	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:56:07.583	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 10:56:07.583	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:56:07.583	code: Info	text: Seleccionando estella...
+date: 30/08/2018 10:56:10.317	code: Info	text: Estella seleccionada --> Capella
+	airmass: 1.157606
+	ha hours: hms_tuple(h=2.0, m=5.0, s=0.5594838818847592)
+	ra: 5.300707
+	dec: 46.013425
+date: 30/08/2018 10:56:10.317	code: Info	text: *** Seleccion de estrella: 2.73399996758 ***
+date: 30/08/2018 10:56:10.317	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:56:10.317	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 10:56:10.317	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:56:10.317	code: Info	text: Centrando spots...
+date: 30/08/2018 10:56:11.724	code: Info	text: Intento 0
+date: 30/08/2018 10:56:13.443	code: Info	text: (s1Y: 232 - s2Y: 232 - s1X: 0 - s2X: 40) - (cy: 232, cx: 20)
+date: 30/08/2018 10:56:13.443	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 10:56:17.975	code: Info	text: Los spots estan centrados
+date: 30/08/2018 10:56:17.975	code: Info	text: *** Centrado de spots: 7.65799999237 ***
+date: 30/08/2018 10:56:17.975	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:56:17.975	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 10:56:17.975	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 10:56:17.990	code: Info	text: Comprobando el foco...
+date: 30/08/2018 10:56:17.990	code: Info	text: Intento 0
+date: 30/08/2018 10:56:21.866	code: Info	text: Verificando centro
+date: 30/08/2018 10:56:21.866	code: Info	text: (s1Y: 54 - s2Y: 21 - s1X: 124 - s2X: 158) - (cy: 37, cx: 141)
+date: 30/08/2018 10:56:21.881	code: Info	text: diff: inf - nsigma: 752.5803510780706
+date: 30/08/2018 10:56:21.881	code: Info	text: Verificando centro
+date: 30/08/2018 10:56:21.881	code: Info	text: (s1Y: 47 - s2Y: 39 - s1X: 112 - s2X: 153) - (cy: 43, cx: 132)
+date: 30/08/2018 10:56:21.897	code: Info	text: diff: nan - nsigma: 752.8387504963396
+date: 30/08/2018 10:56:21.897	code: Info	text: Verificando centro
+date: 30/08/2018 10:56:21.897	code: Info	text: (s1Y: 38 - s2Y: 4 - s1X: 63 - s2X: 129) - (cy: 21, cx: 96)
+date: 30/08/2018 10:56:21.897	code: Info	text: diff: nan - nsigma: 752.6899682276534
+date: 30/08/2018 10:56:21.912	code: Info	text: Verificando centro
+date: 30/08/2018 10:56:21.912	code: Info	text: (s1Y: 10 - s2Y: 39 - s1X: 140 - s2X: 142) - (cy: 24, cx: 141)
+date: 30/08/2018 10:56:21.912	code: Info	text: diff: nan - nsigma: 752.3957945316434
+date: 30/08/2018 10:56:21.912	code: Info	text: Verificando centro
+date: 30/08/2018 10:56:21.928	code: Info	text: (s1Y: 27 - s2Y: 56 - s1X: 123 - s2X: 146) - (cy: 41, cx: 134)
+date: 30/08/2018 10:56:21.928	code: Info	text: diff: nan - nsigma: 752.9046768826169
+date: 30/08/2018 10:56:21.928	code: Info	text: Imagenes procesadas: 0
+date: 30/08/2018 10:56:24.147	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 10:56:24.147	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 10:56:24.163	code: Info	text: *** Seleccion de estrella: 16.5800001621 ***
+date: 30/08/2018 10:56:24.444	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 10:56:27.163	code: Info	text: *** TIEMPO TOTAL ITERACION: 19.5800001621 ***
+date: 30/08/2018 10:56:27.163	code: Info	text: Parando la observacion...
+date: 30/08/2018 10:56:27.163	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 11:13:37.929	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:13:37.929	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 11:13:37.929	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:13:37.929	code: Info	text: Seleccionando estella...
+date: 30/08/2018 11:13:40.773	code: Info	text: Estella seleccionada --> Capella
+	airmass: 1.187763
+	ha hours: hms_tuple(h=2.0, m=20.0, s=3.1034038940131126)
+	ra: 5.300707
+	dec: 46.013425
+date: 30/08/2018 11:13:40.773	code: Info	text: *** Seleccion de estrella: 2.84400010109 ***
+date: 30/08/2018 11:13:40.773	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:13:40.773	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 11:13:40.773	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:13:40.773	code: Info	text: Centrando spots...
+date: 30/08/2018 11:13:42.211	code: Info	text: Intento 0
+date: 30/08/2018 11:13:43.930	code: Info	text: (s1Y: 217 - s2Y: 218 - s1X: 0 - s2X: 36) - (cy: 217, cx: 18)
+date: 30/08/2018 11:13:43.930	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:13:48.509	code: Info	text: Los spots estan centrados
+date: 30/08/2018 11:13:48.509	code: Info	text: *** Centrado de spots: 7.73600006104 ***
+date: 30/08/2018 11:13:48.509	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:13:48.509	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 11:13:48.509	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:13:48.509	code: Info	text: Comprobando el foco...
+date: 30/08/2018 11:13:48.509	code: Info	text: Intento 0
+date: 30/08/2018 11:13:52.666	code: Info	text: Verificando centro
+date: 30/08/2018 11:13:52.666	code: Info	text: (s1Y: 53 - s2Y: 50 - s1X: 134 - s2X: 145) - (cy: 51, cx: 139)
+date: 30/08/2018 11:13:52.666	code: Info	text: diff: nan - nsigma: 773.1794979588751
+date: 30/08/2018 11:13:52.681	code: Info	text: Verificando centro
+date: 30/08/2018 11:13:52.681	code: Info	text: (s1Y: 36 - s2Y: 26 - s1X: 128 - s2X: 142) - (cy: 31, cx: 135)
+date: 30/08/2018 11:13:52.681	code: Info	text: diff: nan - nsigma: 772.9458340427691
+date: 30/08/2018 11:13:52.681	code: Info	text: Verificando centro
+date: 30/08/2018 11:13:52.697	code: Info	text: (s1Y: 54 - s2Y: 22 - s1X: 66 - s2X: 146) - (cy: 38, cx: 106)
+date: 30/08/2018 11:13:52.697	code: Info	text: diff: nan - nsigma: 772.272699686473
+date: 30/08/2018 11:13:52.697	code: Info	text: Verificando centro
+date: 30/08/2018 11:13:52.712	code: Info	text: (s1Y: 29 - s2Y: 48 - s1X: 109 - s2X: 146) - (cy: 38, cx: 127)
+date: 30/08/2018 11:13:52.712	code: Info	text: diff: nan - nsigma: 773.1472164621097
+date: 30/08/2018 11:13:52.712	code: Info	text: Verificando centro
+date: 30/08/2018 11:13:52.728	code: Info	text: (s1Y: 45 - s2Y: 45 - s1X: 67 - s2X: 123) - (cy: 45, cx: 95)
+date: 30/08/2018 11:13:52.728	code: Info	text: diff: nan - nsigma: 772.853128597921
+date: 30/08/2018 11:13:52.728	code: Info	text: Imagenes procesadas: 0
+date: 30/08/2018 11:13:54.947	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 11:13:54.947	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 11:13:54.947	code: Info	text: *** Seleccion de estrella: 17.0180001259 ***
+date: 30/08/2018 11:13:57.947	code: Info	text: *** TIEMPO TOTAL ITERACION: 20.0180001259 ***
+date: 30/08/2018 11:13:57.947	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:13:57.947	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 11:13:57.947	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:13:57.947	code: Info	text: Seleccionando estella...
+date: 30/08/2018 11:14:00.667	code: Info	text: Estella seleccionada --> Capella
+	airmass: 1.187763
+	ha hours: hms_tuple(h=2.0, m=20.0, s=3.1034038940131126)
+	ra: 5.300707
+	dec: 46.013425
+date: 30/08/2018 11:14:00.667	code: Info	text: *** Seleccion de estrella: 2.72000002861 ***
+date: 30/08/2018 11:14:00.667	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:14:00.667	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 11:14:00.667	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:14:00.667	code: Info	text: Centrando spots...
+date: 30/08/2018 11:14:02.026	code: Info	text: Intento 0
+date: 30/08/2018 11:14:03.979	code: Info	text: (s1Y: 220 - s2Y: 255 - s1X: 35 - s2X: 427) - (cy: 237, cx: 231)
+date: 30/08/2018 11:14:03.995	code: Info	text: diff: nan - nsigma: 780.2631294826886
+date: 30/08/2018 11:14:03.995	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:14:08.621	code: Info	text: Los spots estan centrados
+date: 30/08/2018 11:14:08.621	code: Info	text: *** Centrado de spots: 7.95399999619 ***
+date: 30/08/2018 11:14:08.621	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:14:08.621	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 11:14:08.621	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:14:08.621	code: Info	text: Comprobando el foco...
+date: 30/08/2018 11:14:08.621	code: Info	text: Intento 0
+date: 30/08/2018 11:14:13.324	code: Info	text: Verificando centro
+date: 30/08/2018 11:14:13.324	code: Info	text: (s1Y: 14 - s2Y: 53 - s1X: 32 - s2X: 146) - (cy: 33, cx: 89)
+date: 30/08/2018 11:14:13.340	code: Info	text: diff: nan - nsigma: 783.4132933854361
+date: 30/08/2018 11:14:13.340	code: Info	text: Verificando centro
+date: 30/08/2018 11:14:13.340	code: Info	text: (s1Y: 23 - s2Y: 25 - s1X: 57 - s2X: 108) - (cy: 24, cx: 82)
+date: 30/08/2018 11:14:13.340	code: Info	text: diff: nan - nsigma: 784.2201359658868
+date: 30/08/2018 11:14:13.356	code: Info	text: Verificando centro
+date: 30/08/2018 11:14:13.356	code: Info	text: (s1Y: 18 - s2Y: 44 - s1X: 51 - s2X: 98) - (cy: 31, cx: 74)
+date: 30/08/2018 11:14:13.356	code: Info	text: diff: nan - nsigma: 784.2969326007815
+date: 30/08/2018 11:14:13.356	code: Info	text: Verificando centro
+date: 30/08/2018 11:14:13.371	code: Info	text: (s1Y: 19 - s2Y: 36 - s1X: 117 - s2X: 124) - (cy: 27, cx: 120)
+date: 30/08/2018 11:14:13.371	code: Info	text: diff: nan - nsigma: 783.7100490623211
+date: 30/08/2018 11:14:13.371	code: Info	text: Verificando centro
+date: 30/08/2018 11:14:13.387	code: Info	text: (s1Y: 45 - s2Y: 34 - s1X: 109 - s2X: 150) - (cy: 39, cx: 129)
+date: 30/08/2018 11:14:13.387	code: Info	text: diff: nan - nsigma: 784.0965082733893
+date: 30/08/2018 11:14:13.387	code: Info	text: Imagenes procesadas: 0
+date: 30/08/2018 11:14:15.606	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 11:14:15.606	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 11:14:15.606	code: Info	text: *** Seleccion de estrella: 17.6589999199 ***
+date: 30/08/2018 11:14:17.340	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 11:14:18.606	code: Info	text: *** TIEMPO TOTAL ITERACION: 20.6589999199 ***
+date: 30/08/2018 11:14:18.606	code: Info	text: Parando la observacion...
+date: 30/08/2018 11:14:18.606	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 11:18:13.463	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:18:13.479	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 11:18:13.479	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:18:13.479	code: Info	text: Seleccionando estella...
+date: 30/08/2018 11:18:16.276	code: Info	text: Estella seleccionada --> Capella
+	airmass: 1.198862
+	ha hours: hms_tuple(h=2.0, m=25.0, s=3.9547122941250734)
+	ra: 5.300707
+	dec: 46.013425
+date: 30/08/2018 11:18:16.276	code: Info	text: *** Seleccion de estrella: 2.79699993134 ***
+date: 30/08/2018 11:18:16.276	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:18:16.276	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 11:18:16.276	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:18:16.276	code: Info	text: Centrando spots...
+date: 30/08/2018 11:18:17.745	code: Info	text: Intento 0
+date: 30/08/2018 11:18:20.182	code: Info	text: (s1Y: 209 - s2Y: 221 - s1X: 35 - s2X: 473) - (cy: 215, cx: 254)
+date: 30/08/2018 11:18:20.198	code: Info	text: diff: nan - nsigma: 786.1364605285714
+date: 30/08/2018 11:18:20.198	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:18:24.074	code: Info	text: Los spots estan centrados
+date: 30/08/2018 11:18:24.074	code: Info	text: *** Centrado de spots: 7.79799985886 ***
+date: 30/08/2018 11:18:24.074	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:18:24.074	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 11:18:24.074	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:18:24.074	code: Info	text: Comprobando el foco...
+date: 30/08/2018 11:18:24.074	code: Info	text: Intento 0
+date: 30/08/2018 11:18:27.465	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 11:18:28.402	code: Info	text: Verificando centro
+date: 30/08/2018 11:18:28.402	code: Info	text: (s1Y: 27 - s2Y: 51 - s1X: 117 - s2X: 144) - (cy: 39, cx: 130)
+date: 30/08/2018 11:18:28.402	code: Info	text: diff: nan - nsigma: 789.0279062755484
+date: 30/08/2018 11:18:28.402	code: Info	text: Verificando centro
+date: 30/08/2018 11:18:28.418	code: Info	text: (s1Y: 51 - s2Y: 59 - s1X: 74 - s2X: 122) - (cy: 55, cx: 98)
+date: 30/08/2018 11:18:28.418	code: Info	text: diff: nan - nsigma: 789.2486805867541
+date: 30/08/2018 11:18:28.418	code: Info	text: Verificando centro
+date: 30/08/2018 11:18:28.433	code: Info	text: (s1Y: 53 - s2Y: 44 - s1X: 65 - s2X: 100) - (cy: 48, cx: 82)
+date: 30/08/2018 11:18:28.433	code: Info	text: diff: nan - nsigma: 788.1090011851635
+date: 30/08/2018 11:18:28.433	code: Info	text: Verificando centro
+date: 30/08/2018 11:18:28.449	code: Info	text: (s1Y: 54 - s2Y: 27 - s1X: 132 - s2X: 154) - (cy: 40, cx: 143)
+date: 30/08/2018 11:18:28.449	code: Info	text: diff: nan - nsigma: 789.236732896388
+date: 30/08/2018 11:18:28.449	code: Info	text: Verificando centro
+date: 30/08/2018 11:18:28.449	code: Info	text: (s1Y: 51 - s2Y: 51 - s1X: 69 - s2X: 103) - (cy: 51, cx: 86)
+date: 30/08/2018 11:18:28.465	code: Info	text: diff: nan - nsigma: 788.857429592709
+date: 30/08/2018 11:18:28.465	code: Info	text: Imagenes procesadas: 0
+date: 30/08/2018 11:18:30.684	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 11:18:30.684	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 11:18:30.684	code: Info	text: *** Seleccion de estrella: 17.2209999561 ***
+date: 30/08/2018 11:18:33.684	code: Info	text: *** TIEMPO TOTAL ITERACION: 20.2209999561 ***
+date: 30/08/2018 11:18:33.684	code: Info	text: Parando la observacion...
+date: 30/08/2018 11:18:33.684	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 11:25:11.449	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:25:11.449	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 11:25:11.449	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:25:11.449	code: Info	text: Seleccionando estella...
+date: 30/08/2018 11:25:14.231	code: Info	text: Estella seleccionada --> Capella
+	airmass: 1.222750
+	ha hours: hms_tuple(h=2.0, m=35.0, s=5.697430222920161)
+	ra: 5.300707
+	dec: 46.013425
+date: 30/08/2018 11:25:14.231	code: Info	text: *** Seleccion de estrella: 2.78200006485 ***
+date: 30/08/2018 11:25:14.231	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:25:14.231	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 11:25:14.231	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:25:14.231	code: Info	text: Centrando spots...
+date: 30/08/2018 11:25:15.543	code: Info	text: Intento 0
+date: 30/08/2018 11:25:17.950	code: Info	text: Imagen: ./media\20180830/_20180830112517169000_1J9CG7_image.png
+date: 30/08/2018 11:25:18.106	code: Info	text: (s1Y: 206 - s2Y: 206 - s1X: 0 - s2X: 40) - (cy: 206, cx: 20)
+date: 30/08/2018 11:25:18.106	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:25:21.982	code: Info	text: Los spots estan centrados
+date: 30/08/2018 11:25:21.982	code: Info	text: *** Centrado de spots: 7.75100016594 ***
+date: 30/08/2018 11:25:21.982	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:25:21.982	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 11:25:21.982	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:25:21.982	code: Info	text: Comprobando el foco...
+date: 30/08/2018 11:25:21.982	code: Info	text: Intento 0
+date: 30/08/2018 11:25:25.529	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 11:25:25.951	code: Info	text: Verificando centro
+date: 30/08/2018 11:25:25.951	code: Info	text: (s1Y: 33 - s2Y: 34 - s1X: 122 - s2X: 133) - (cy: 33, cx: 127)
+date: 30/08/2018 11:25:25.967	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 783.4070636384988
+date: 30/08/2018 11:25:25.967	code: Info	text: Verificando centro
+date: 30/08/2018 11:25:25.967	code: Info	text: (s1Y: 57 - s2Y: 16 - s1X: 96 - s2X: 154) - (cy: 36, cx: 125)
+date: 30/08/2018 11:25:25.967	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 783.2991472418566
+date: 30/08/2018 11:25:25.967	code: Info	text: Verificando centro
+date: 30/08/2018 11:25:25.982	code: Info	text: (s1Y: 0 - s2Y: 23 - s1X: 132 - s2X: 139) - (cy: 11, cx: 135)
+date: 30/08/2018 11:25:25.982	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 783.6004520616951
+date: 30/08/2018 11:25:25.982	code: Info	text: Verificando centro
+date: 30/08/2018 11:25:25.998	code: Info	text: (s1Y: 30 - s2Y: 47 - s1X: 84 - s2X: 153) - (cy: 38, cx: 118)
+date: 30/08/2018 11:25:25.998	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 783.3011727000104
+date: 30/08/2018 11:25:25.998	code: Info	text: Verificando centro
+date: 30/08/2018 11:25:26.013	code: Info	text: (s1Y: 48 - s2Y: 58 - s1X: 127 - s2X: 158) - (cy: 53, cx: 142)
+date: 30/08/2018 11:25:26.013	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 783.2498765164934
+date: 30/08/2018 11:25:26.013	code: Info	text: Imagenes procesadas: 0
+date: 30/08/2018 11:25:28.232	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 11:25:28.232	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 11:25:28.232	code: Info	text: *** Seleccion de estrella: 16.7830002308 ***
+date: 30/08/2018 11:25:31.233	code: Info	text: *** TIEMPO TOTAL ITERACION: 19.7840001583 ***
+date: 30/08/2018 11:25:31.233	code: Info	text: Parando la observacion...
+date: 30/08/2018 11:25:31.233	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 11:26:22.286	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:26:22.286	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 11:26:22.286	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:26:22.286	code: Info	text: Seleccionando estella...
+date: 30/08/2018 11:26:25.083	code: Info	text: Estella seleccionada --> Capella
+	airmass: 1.222750
+	ha hours: hms_tuple(h=2.0, m=35.0, s=5.697430222920161)
+	ra: 5.300707
+	dec: 46.013425
+date: 30/08/2018 11:26:25.083	code: Info	text: *** Seleccion de estrella: 2.79699993134 ***
+date: 30/08/2018 11:26:25.083	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:26:25.083	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 11:26:25.083	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:26:25.083	code: Info	text: Centrando spots...
+date: 30/08/2018 11:26:26.161	code: Info	text: Intento 0
+date: 30/08/2018 11:26:28.959	code: Info	text: Imagen: ./media\20180830/_20180830112628162000_ZHNTB8_image.png
+date: 30/08/2018 11:26:29.146	code: Info	text: (s1Y: 198 - s2Y: 199 - s1X: 1 - s2X: 40) - (cy: 198, cx: 20)
+date: 30/08/2018 11:26:29.146	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:26:33.068	code: Info	text: Los spots estan centrados
+date: 30/08/2018 11:26:33.068	code: Info	text: *** Centrado de spots: 7.98500013351 ***
+date: 30/08/2018 11:26:33.068	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:26:33.068	code: Debg	text: --------------- Check focal -----------------
+date: 30/08/2018 11:26:33.068	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:26:33.068	code: Info	text: Comprobando el foco...
+date: 30/08/2018 11:26:33.068	code: Info	text: Intento 0
+date: 30/08/2018 11:26:35.037	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 11:26:37.522	code: Info	text: Verificando centro
+date: 30/08/2018 11:26:37.522	code: Info	text: (s1Y: 10 - s2Y: 56 - s1X: 91 - s2X: 147) - (cy: 33, cx: 119)
+date: 30/08/2018 11:26:37.522	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 783.8824361904365
+date: 30/08/2018 11:26:37.538	code: Info	text: Verificando centro
+date: 30/08/2018 11:26:37.538	code: Info	text: (s1Y: 28 - s2Y: 0 - s1X: 109 - s2X: 128) - (cy: 14, cx: 118)
+date: 30/08/2018 11:26:37.538	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 784.0941288257313
+date: 30/08/2018 11:26:37.538	code: Info	text: Verificando centro
+date: 30/08/2018 11:26:37.553	code: Info	text: (s1Y: 59 - s2Y: 53 - s1X: 116 - s2X: 149) - (cy: 56, cx: 132)
+date: 30/08/2018 11:26:37.553	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 783.8556694165833
+date: 30/08/2018 11:26:37.553	code: Info	text: Verificando centro
+date: 30/08/2018 11:26:37.569	code: Info	text: (s1Y: 54 - s2Y: 39 - s1X: 102 - s2X: 137) - (cy: 46, cx: 119)
+date: 30/08/2018 11:26:37.569	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 784.2716938750475
+date: 30/08/2018 11:26:37.569	code: Info	text: Verificando centro
+date: 30/08/2018 11:26:37.569	code: Info	text: (s1Y: 31 - s2Y: 26 - s1X: 116 - s2X: 146) - (cy: 28, cx: 131)
+date: 30/08/2018 11:26:37.585	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 783.6653289080883
+date: 30/08/2018 11:26:37.585	code: Info	text: Imagenes procesadas: 0
+date: 30/08/2018 11:26:39.804	code: Info	text: DX: nan (MIN: 34.5 - MAX: 35.5)
+date: 30/08/2018 11:26:39.804	code: Error (comprobando el foco)	text: ERR_FOCAL_FOCUS
+date: 30/08/2018 11:26:39.804	code: Info	text: *** Seleccion de estrella: 17.5179998875 ***
+date: 30/08/2018 11:26:42.804	code: Info	text: *** TIEMPO TOTAL ITERACION: 20.5179998875 ***
+date: 30/08/2018 11:26:42.804	code: Info	text: Parando la observacion...
+date: 30/08/2018 11:26:42.804	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 11:29:13.447	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:29:13.447	code: Debg	text: ---------------- Star Selection -------------
+date: 30/08/2018 11:29:13.463	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:29:13.463	code: Info	text: Seleccionando estella...
+date: 30/08/2018 11:29:16.182	code: Info	text: Estella seleccionada --> Capella
+	airmass: 1.222750
+	ha hours: hms_tuple(h=2.0, m=35.0, s=5.697430222920161)
+	ra: 5.300707
+	dec: 46.013425
+date: 30/08/2018 11:29:16.182	code: Info	text: *** Seleccion de estrella: 2.71899986267 ***
+date: 30/08/2018 11:29:16.198	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:29:16.198	code: Debg	text: -------------- Check spots ------------------
+date: 30/08/2018 11:29:16.198	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:29:16.198	code: Info	text: Centrando spots...
+date: 30/08/2018 11:29:17.260	code: Info	text: Intento 0
+date: 30/08/2018 11:29:19.870	code: Info	text: Imagen: ./media\20180830/_20180830112919182000_HSHA8Y_image.png
+date: 30/08/2018 11:29:20.073	code: Info	text: (s1Y: 195 - s2Y: 196 - s1X: 6 - s2X: 46) - (cy: 195, cx: 26)
+date: 30/08/2018 11:29:20.073	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:29:21.745	code: Info	text: Intento 1
+date: 30/08/2018 11:29:23.464	code: Info	text: Imagen: ./media\20180830/_20180830112922761000_5Q2H1M_image.png
+date: 30/08/2018 11:29:23.652	code: Info	text: (s1Y: 196 - s2Y: 258 - s1X: 0 - s2X: 433) - (cy: 227, cx: 216)
+date: 30/08/2018 11:29:23.714	code: Info	text: m1: 8.024157720841384e+276 - m2: 0.0 --- diff: inf - nsigma: 793.9834538656174
+date: 30/08/2018 11:29:23.714	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:29:25.199	code: Info	text: Intento 2
+date: 30/08/2018 11:29:26.871	code: Info	text: Imagen: ./media\20180830/_20180830112926230000_UV257S_image.png
+date: 30/08/2018 11:29:27.043	code: Info	text: (s1Y: 232 - s2Y: 242 - s1X: 413 - s2X: 444) - (cy: 237, cx: 428)
+date: 30/08/2018 11:29:27.058	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 794.0215213163856
+date: 30/08/2018 11:29:27.058	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:29:28.121	code: Info	text: Intento 3
+date: 30/08/2018 11:29:29.809	code: Info	text: Imagen: ./media\20180830/_20180830112929152000_LBXYQE_image.png
+date: 30/08/2018 11:29:30.012	code: Info	text: (s1Y: 202 - s2Y: 222 - s1X: 418 - s2X: 473) - (cy: 212, cx: 445)
+date: 30/08/2018 11:29:30.027	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 794.37908359789
+date: 30/08/2018 11:29:30.027	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:29:31.074	code: Info	text: Intento 4
+date: 30/08/2018 11:29:32.762	code: Info	text: Imagen: ./media\20180830/_20180830112932090000_T9ZL59_image.png
+date: 30/08/2018 11:29:32.981	code: Info	text: (s1Y: 255 - s2Y: 224 - s1X: 362 - s2X: 473) - (cy: 239, cx: 417)
+date: 30/08/2018 11:29:32.997	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 794.3890527801535
+date: 30/08/2018 11:29:32.997	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:29:34.450	code: Info	text: Intento 5
+date: 30/08/2018 11:29:36.122	code: Info	text: Imagen: ./media\20180830/_20180830112935466000_8SB755_image.png
+date: 30/08/2018 11:29:36.309	code: Info	text: (s1Y: 131 - s2Y: 132 - s1X: 58 - s2X: 98) - (cy: 131, cx: 78)
+date: 30/08/2018 11:29:36.309	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:29:37.966	code: Info	text: Intento 6
+date: 30/08/2018 11:29:39.638	code: Info	text: Imagen: ./media\20180830/_20180830112938982000_7BLENS_image.png
+date: 30/08/2018 11:29:39.904	code: Info	text: (s1Y: 224 - s2Y: 226 - s1X: 427 - s2X: 469) - (cy: 225, cx: 448)
+date: 30/08/2018 11:29:39.919	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 794.3653133026125
+date: 30/08/2018 11:29:39.919	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:29:40.935	code: Info	text: Intento 7
+date: 30/08/2018 11:29:42.607	code: Info	text: Imagen: ./media\20180830/_20180830112941966000_DXGLQY_image.png
+date: 30/08/2018 11:29:42.810	code: Info	text: (s1Y: 261 - s2Y: 249 - s1X: 383 - s2X: 468) - (cy: 255, cx: 425)
+date: 30/08/2018 11:29:42.826	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 793.9693504908626
+date: 30/08/2018 11:29:42.826	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:29:43.904	code: Info	text: Intento 8
+date: 30/08/2018 11:29:43.998	code: Info	text: Indicando fin del proceso...
+date: 30/08/2018 11:29:45.607	code: Info	text: Imagen: ./media\20180830/_20180830112944920000_WBKK3Q_image.png
+date: 30/08/2018 11:29:45.779	code: Info	text: (s1Y: 245 - s2Y: 257 - s1X: 407 - s2X: 459) - (cy: 251, cx: 433)
+date: 30/08/2018 11:29:45.795	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 793.8048574987872
+date: 30/08/2018 11:29:45.795	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:29:46.858	code: Info	text: Intento 9
+date: 30/08/2018 11:29:48.545	code: Info	text: Imagen: ./media\20180830/_20180830112947873000_TH5VQI_image.png
+date: 30/08/2018 11:29:48.733	code: Info	text: (s1Y: 233 - s2Y: 222 - s1X: 372 - s2X: 386) - (cy: 227, cx: 379)
+date: 30/08/2018 11:29:48.748	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 794.0313668785197
+date: 30/08/2018 11:29:48.748	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:29:50.155	code: Info	text: Intento 10
+date: 30/08/2018 11:29:51.858	code: Info	text: Imagen: ./media\20180830/_20180830112951171000_9GHNG2_image.png
+date: 30/08/2018 11:29:52.030	code: Info	text: (s1Y: 241 - s2Y: 248 - s1X: 253 - s2X: 358) - (cy: 244, cx: 305)
+date: 30/08/2018 11:29:52.046	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 794.4979301201512
+date: 30/08/2018 11:29:52.046	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:29:53.499	code: Info	text: Intento 11
+date: 30/08/2018 11:29:55.171	code: Info	text: Imagen: ./media\20180830/_20180830112954515000_V7MDII_image.png
+date: 30/08/2018 11:29:55.374	code: Info	text: (s1Y: 247 - s2Y: 278 - s1X: 405 - s2X: 513) - (cy: 262, cx: 459)
+date: 30/08/2018 11:29:55.390	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 794.8115018166164
+date: 30/08/2018 11:29:55.390	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:29:57.546	code: Info	text: Intento 12
+date: 30/08/2018 11:29:59.250	code: Info	text: Imagen: ./media\20180830/_20180830112958609000_DRC39G_image.png
+date: 30/08/2018 11:29:59.406	code: Info	text: (s1Y: 245 - s2Y: 240 - s1X: 418 - s2X: 507) - (cy: 242, cx: 462)
+date: 30/08/2018 11:29:59.422	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 795.3303599171405
+date: 30/08/2018 11:29:59.422	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:30:00.484	code: Info	text: Intento 13
+date: 30/08/2018 11:30:02.203	code: Info	text: Imagen: ./media\20180830/_20180830113001516000_O6G9ZT_image.png
+date: 30/08/2018 11:30:02.391	code: Info	text: (s1Y: 196 - s2Y: 259 - s1X: 273 - s2X: 445) - (cy: 227, cx: 359)
+date: 30/08/2018 11:30:02.406	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 795.0594365458303
+date: 30/08/2018 11:30:02.406	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:30:03.469	code: Info	text: Intento 14
+date: 30/08/2018 11:30:05.141	code: Info	text: Imagen: ./media\20180830/_20180830113004485000_MR58EN_image.png
+date: 30/08/2018 11:30:05.297	code: Info	text: (s1Y: 240 - s2Y: 225 - s1X: 437 - s2X: 487) - (cy: 232, cx: 462)
+date: 30/08/2018 11:30:05.313	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 795.1665667660801
+date: 30/08/2018 11:30:05.313	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:30:06.313	code: Info	text: Intento 15
+date: 30/08/2018 11:30:07.954	code: Info	text: Imagen: ./media\20180830/_20180830113007329000_6XGTZP_image.png
+date: 30/08/2018 11:30:08.188	code: Info	text: (s1Y: 287 - s2Y: 235 - s1X: 368 - s2X: 402) - (cy: 261, cx: 385)
+date: 30/08/2018 11:30:08.204	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 795.3316516243465
+date: 30/08/2018 11:30:08.204	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:30:09.251	code: Info	text: Intento 16
+date: 30/08/2018 11:30:10.876	code: Info	text: Imagen: ./media\20180830/_20180830113010267000_38CPJF_image.png
+date: 30/08/2018 11:30:11.064	code: Info	text: (s1Y: 220 - s2Y: 277 - s1X: 408 - s2X: 427) - (cy: 248, cx: 417)
+date: 30/08/2018 11:30:11.079	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 795.3785008583868
+date: 30/08/2018 11:30:11.079	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:30:12.548	code: Info	text: Intento 17
+date: 30/08/2018 11:30:14.283	code: Info	text: Imagen: ./media\20180830/_20180830113013580000_YXM5HZ_image.png
+date: 30/08/2018 11:30:14.502	code: Info	text: (s1Y: 254 - s2Y: 249 - s1X: 421 - s2X: 473) - (cy: 251, cx: 447)
+date: 30/08/2018 11:30:14.517	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 795.2618557066245
+date: 30/08/2018 11:30:14.517	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:30:16.189	code: Info	text: Intento 18
+date: 30/08/2018 11:30:17.908	code: Info	text: Imagen: ./media\20180830/_20180830113017221000_3DDYAZ_image.png
+date: 30/08/2018 11:30:18.065	code: Info	text: (s1Y: 90 - s2Y: 91 - s1X: 119 - s2X: 158) - (cy: 90, cx: 138)
+date: 30/08/2018 11:30:18.065	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 797.7691341840359
+date: 30/08/2018 11:30:18.080	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:30:19.658	code: Info	text: Intento 19
+date: 30/08/2018 11:30:21.409	code: Info	text: Imagen: ./media\20180830/_20180830113020784000_3X4XKL_image.png
+date: 30/08/2018 11:30:21.627	code: Info	text: (s1Y: 210 - s2Y: 211 - s1X: 422 - s2X: 444) - (cy: 210, cx: 433)
+date: 30/08/2018 11:30:21.643	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 794.8960869000955
+date: 30/08/2018 11:30:21.643	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:30:23.096	code: Info	text: Intento 20
+date: 30/08/2018 11:30:24.768	code: Info	text: Imagen: ./media\20180830/_20180830113024112000_S6MM79_image.png
+date: 30/08/2018 11:30:24.940	code: Info	text: (s1Y: 212 - s2Y: 207 - s1X: 393 - s2X: 407) - (cy: 209, cx: 400)
+date: 30/08/2018 11:30:24.956	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 794.6940026169264
+date: 30/08/2018 11:30:24.956	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:30:26.003	code: Info	text: Intento 21
+date: 30/08/2018 11:30:27.659	code: Info	text: Imagen: ./media\20180830/_20180830113027034000_IGDUW2_image.png
+date: 30/08/2018 11:30:27.863	code: Info	text: (s1Y: 238 - s2Y: 255 - s1X: 305 - s2X: 434) - (cy: 246, cx: 369)
+date: 30/08/2018 11:30:27.878	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 795.0106978313516
+date: 30/08/2018 11:30:27.878	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:30:28.753	code: Info	text: Intento 22
+date: 30/08/2018 11:30:30.425	code: Info	text: Imagen: ./media\20180830/_20180830113029769000_9T4WRT_image.png
+date: 30/08/2018 11:30:30.660	code: Info	text: (s1Y: 198 - s2Y: 231 - s1X: 435 - s2X: 441) - (cy: 214, cx: 438)
+date: 30/08/2018 11:30:30.675	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 795.3138261492725
+date: 30/08/2018 11:30:30.675	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:30:31.676	code: Info	text: Intento 23
+date: 30/08/2018 11:30:33.363	code: Info	text: Imagen: ./media\20180830/_20180830113032707000_47VQVP_image.png
+date: 30/08/2018 11:30:33.520	code: Info	text: (s1Y: 212 - s2Y: 245 - s1X: 442 - s2X: 472) - (cy: 228, cx: 457)
+date: 30/08/2018 11:30:33.551	code: Info	text: m1: 0.0 - m2: 0.0 --- diff: nan - nsigma: 794.9389707945319
+date: 30/08/2018 11:30:33.551	code: Info	text: Moviendo telescopio...
+date: 30/08/2018 11:30:36.739	code: Error (centrando los spots)	text: No se han podido centrar los spots
+date: 30/08/2018 11:30:36.739	code: Info	text: *** Seleccion de estrella: 83.2920000553 ***
+date: 30/08/2018 11:30:39.739	code: Info	text: *** TIEMPO TOTAL ITERACION: 86.2920000553 ***
+date: 30/08/2018 11:30:39.739	code: Info	text: Parando la observacion...
+date: 30/08/2018 11:30:39.739	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 30/08/2018 11:53:09.186	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:53:09.186	code: Debg	text: ------------------ Switch Off ---------------
+date: 30/08/2018 11:53:09.186	code: Debg	text: ---------------------------------------------
+date: 30/08/2018 11:53:09.186	code: Info	text: Llevando la montura al home...
+date: 30/08/2018 11:53:42.846	code: Info	text: Montura en el home
+date: 30/08/2018 11:53:42.846	code: Info	text: Apagando la montura...
+date: 30/08/2018 11:53:42.877	code: Info	text: Montura apagada
+date: 30/08/2018 11:53:52.879	code: Info	text: Apagando el foco...
+date: 30/08/2018 11:53:52.910	code: Info	text: Foco apagado
+date: 30/08/2018 11:53:52.910	code: Info	text: Cerrando cupula...
+date: 30/08/2018 11:54:36.290	code: Info	text: Cupula cerrada

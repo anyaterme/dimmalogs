@@ -1,0 +1,438 @@
+
+date: 28/06/2018 19:04:05.584	code: Info	test: Inicio del proceso
+date: 28/06/2018 19:04:05.584	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 19:05:08.215	code: Info	test: Estella seleccionada --> Denebola
+	airmass: 1.036488
+	ha hours: hms_tuple(h=-0.0, m=-27.0, s=-43.31246731098972)
+	alt: 74.751788
+	az: 153.625316
+date: 28/06/2018 19:12:25.350	code: Info	test: Inicio del proceso
+date: 28/06/2018 19:12:25.350	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 19:12:41.492	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 28/06/2018 19:40:16.776	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexi�n ya que el equipo de destino ha denegado activamente dicha conexi�n
+date: 28/06/2018 19:50:12.699	code: Info	test: Inicio del proceso
+date: 28/06/2018 19:50:12.699	code: Info	test: Abriendo cúpula...
+date: 28/06/2018 19:51:46.957	code: Error (send command)	test: [Errno 10054] Se ha forzado la interrupci�n de una conexi�n existente por el host remoto
+date: 28/06/2018 19:51:46.957	code: Error (send command)	test: [Errno 10054] Se ha forzado la interrupci�n de una conexi�n existente por el host remoto
+date: 28/06/2018 19:51:52.926	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexi�n ya que el equipo de destino ha denegado activamente dicha conexi�n
+date: 28/06/2018 19:52:11.131	code: Info	test: Cúpula abierta
+date: 28/06/2018 19:52:11.131	code: Info	test: Encendiendo la montura...
+date: 28/06/2018 19:52:11.147	code: Info	test: Montura encendida
+date: 28/06/2018 19:52:21.148	code: Info	test: Encendiendo el foco...
+date: 28/06/2018 19:52:21.148	code: Info	test: Foco encendida
+date: 28/06/2018 19:52:21.148	code: Info	test: Llevando la montura al home...
+date: 28/06/2018 19:53:44.249	code: Info	test: Montura en el home
+date: 28/06/2018 19:53:44.249	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 19:54:43.176	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.148949
+	ha hours: hms_tuple(h=-2.0, m=-2.0, s=-53.84001527240471)
+	alt: 60.500358
+	az: 101.355814
+date: 28/06/2018 20:01:19.450	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:01:19.466	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:01:38.686	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.136989
+	ha hours: hms_tuple(h=-1.0, m=-57.0, s=-52.055946259182946)
+	alt: 61.583885
+	az: 102.363146
+date: 28/06/2018 20:02:27.566	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:02:27.581	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:02:44.802	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.125751
+	ha hours: hms_tuple(h=-1.0, m=-52.0, s=-51.2245035754421)
+	alt: 62.659728
+	az: 103.422939
+date: 28/06/2018 20:02:44.817	code: Info	test: Centrando spots...
+date: 28/06/2018 20:05:28.848	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:05:28.848	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:05:46.271	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.125751
+	ha hours: hms_tuple(h=-1.0, m=-52.0, s=-51.2245035754421)
+	alt: 62.659728
+	az: 103.422939
+date: 28/06/2018 20:05:46.271	code: Info	test: Centrando spots...
+date: 28/06/2018 20:05:48.318	code: Info	test: Intento 1
+date: 28/06/2018 20:06:01.101	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 20:07:09.466	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:07:09.482	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:07:28.358	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.115169
+	ha hours: hms_tuple(h=-1.0, m=-47.0, s=-50.39306089342148)
+	alt: 63.730689
+	az: 104.545066
+date: 28/06/2018 20:07:28.374	code: Info	test: Centrando spots...
+date: 28/06/2018 20:07:30.390	code: Info	test: Intento 1
+date: 28/06/2018 20:07:54.329	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 20:09:26.775	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:09:26.775	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:09:47.595	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.115169
+	ha hours: hms_tuple(h=-1.0, m=-47.0, s=-50.39306089342148)
+	alt: 63.730689
+	az: 104.545066
+date: 28/06/2018 20:09:47.595	code: Info	test: Centrando spots...
+date: 28/06/2018 20:09:49.611	code: Info	test: Intento 1
+date: 28/06/2018 20:10:12.191	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 20:10:39.116	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:10:39.147	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:11:00.696	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.115169
+	ha hours: hms_tuple(h=-1.0, m=-47.0, s=-50.39306089342148)
+	alt: 63.730689
+	az: 104.545066
+date: 28/06/2018 20:11:00.711	code: Info	test: Centrando spots...
+date: 28/06/2018 20:11:02.758	code: Info	test: Intento 1
+date: 28/06/2018 20:11:16.510	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 20:12:21.922	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:12:21.937	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:12:44.721	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.105218
+	ha hours: hms_tuple(h=-1.0, m=-42.0, s=-49.57166369523762)
+	alt: 64.796014
+	az: 105.737299
+date: 28/06/2018 20:12:44.736	code: Info	test: Centrando spots...
+date: 28/06/2018 20:12:46.752	code: Info	test: Intento 1
+date: 28/06/2018 20:13:04.957	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 20:14:53.748	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:14:53.763	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:15:15.953	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.105218
+	ha hours: hms_tuple(h=-1.0, m=-42.0, s=-49.57166369523762)
+	alt: 64.796014
+	az: 105.737299
+date: 28/06/2018 20:15:15.968	code: Info	test: Centrando spots...
+date: 28/06/2018 20:15:18.000	code: Info	test: Intento 1
+date: 28/06/2018 20:15:37.299	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 20:20:18.692	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:20:18.708	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:20:41.116	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.095874
+	ha hours: hms_tuple(h=-1.0, m=-37.0, s=-48.730175634550505)
+	alt: 65.854971
+	az: 107.008805
+date: 28/06/2018 20:20:41.116	code: Info	test: Centrando spots...
+date: 28/06/2018 20:20:43.148	code: Info	test: Intento 1
+date: 28/06/2018 20:21:03.946	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 20:22:09.108	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:22:09.124	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:22:32.720	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.087112
+	ha hours: hms_tuple(h=-1.0, m=-32.0, s=-47.82857586598965)
+	alt: 66.906715
+	az: 108.370297
+date: 28/06/2018 20:22:32.720	code: Info	test: Centrando spots...
+date: 28/06/2018 20:22:34.751	code: Info	test: Intento 1
+date: 28/06/2018 20:23:11.895	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 20:23:14.114	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 20:41:05.352	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:41:05.384	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:41:27.542	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.064147
+	ha hours: hms_tuple(h=-1.0, m=-17.0, s=-45.2139037641831)
+	alt: 70.004409
+	az: 113.126103
+date: 28/06/2018 20:41:27.557	code: Info	test: Centrando spots...
+date: 28/06/2018 20:41:29.573	code: Info	test: Intento 1
+date: 28/06/2018 20:41:41.543	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 20:49:09.021	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:49:09.036	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:49:30.632	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.051436
+	ha hours: hms_tuple(h=-1.0, m=-7.0, s=-43.52092230028319)
+	alt: 72.004295
+	az: 117.033401
+date: 28/06/2018 20:49:30.648	code: Info	test: Centrando spots...
+date: 28/06/2018 20:49:32.679	code: Info	test: Intento 1
+date: 28/06/2018 20:50:09.739	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 20:51:27.949	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:51:27.965	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:51:47.967	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.051436
+	ha hours: hms_tuple(h=-1.0, m=-7.0, s=-43.52092230028319)
+	alt: 72.004295
+	az: 117.033401
+date: 28/06/2018 20:51:47.982	code: Info	test: Centrando spots...
+date: 28/06/2018 20:51:50.014	code: Info	test: Intento 1
+date: 28/06/2018 20:52:27.095	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 20:52:27.095	code: Info	test: Intento 2
+date: 28/06/2018 20:53:04.130	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 20:53:04.130	code: Info	test: Intento 3
+date: 28/06/2018 20:53:48.649	code: Info	test: Setting position to az:3.000000, alt:-0.000000 from star
+date: 28/06/2018 20:53:49.259	code: Info	test: Intento 4
+date: 28/06/2018 20:54:03.588	code: Info	test: Setting position to az:1.833333, alt:3.175426 from star
+date: 28/06/2018 20:54:04.291	code: Info	test: Intento 5
+date: 28/06/2018 20:54:17.605	code: Info	test: Setting position to az:-2.166667, alt:3.752777 from star
+date: 28/06/2018 20:54:18.121	code: Info	test: Intento 6
+date: 28/06/2018 20:54:42.998	code: Info	test: Setting position to az:-5.000000, alt:0.000000 from star
+date: 28/06/2018 20:54:43.545	code: Info	test: Intento 7
+date: 28/06/2018 20:54:59.156	code: Info	test: Setting position to az:-1.000000, alt:-0.000000 from star
+date: 28/06/2018 20:55:01.781	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 20:56:20.960	code: Info	test: Inicio del proceso
+date: 28/06/2018 20:56:20.975	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 20:56:41.805	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.045817
+	ha hours: hms_tuple(h=-1.0, m=-2.0, s=-42.66942909030462)
+	alt: 72.977524
+	az: 119.278717
+date: 28/06/2018 20:56:41.805	code: Info	test: Centrando spots...
+date: 28/06/2018 20:56:43.821	code: Info	test: Intento 1
+date: 28/06/2018 20:57:03.667	code: Info	test: Setting position to az:-0.833333, alt:-1.443376 from star
+date: 28/06/2018 20:57:04.323	code: Info	test: Intento 2
+date: 28/06/2018 20:57:41.404	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 20:57:41.404	code: Info	test: Intento 3
+date: 28/06/2018 20:58:18.486	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 20:58:18.486	code: Info	test: Intento 4
+date: 28/06/2018 20:58:55.567	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 20:58:55.567	code: Info	test: Intento 5
+date: 28/06/2018 20:59:08.381	code: Info	test: Setting position to az:-2.166667, alt:3.752777 from star
+date: 28/06/2018 20:59:09.381	code: Info	test: Intento 6
+date: 28/06/2018 20:59:27.680	code: Info	test: Setting position to az:-5.000000, alt:0.000000 from star
+date: 28/06/2018 20:59:28.211	code: Info	test: Intento 7
+date: 28/06/2018 20:59:42.043	code: Info	test: Setting position to az:-1.000000, alt:-0.000000 from star
+date: 28/06/2018 20:59:44.731	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 21:02:48.935	code: Info	test: Inicio del proceso
+date: 28/06/2018 21:02:48.935	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 21:03:08.499	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.035992
+	ha hours: hms_tuple(h=-0.0, m=-52.0, s=-40.98649311888096)
+	alt: 74.852821
+	az: 124.513545
+date: 28/06/2018 21:03:08.515	code: Info	test: Centrando spots...
+date: 28/06/2018 21:03:10.531	code: Info	test: Intento 1
+date: 28/06/2018 21:03:18.578	code: Info	test: Setting position to az:-0.833333, alt:-1.443376 from star
+date: 28/06/2018 21:03:18.953	code: Info	test: Intento 2
+date: 28/06/2018 21:03:48.659	code: Info	test: Setting position to az:1.166667, alt:-2.020726 from star
+date: 28/06/2018 21:03:49.034	code: Info	test: Intento 3
+date: 28/06/2018 21:04:27.803	code: Info	test: Setting position to az:3.000000, alt:-0.000000 from star
+date: 28/06/2018 21:04:28.194	code: Info	test: Intento 4
+date: 28/06/2018 21:04:49.102	code: Info	test: Setting position to az:1.833333, alt:3.175426 from star
+date: 28/06/2018 21:04:49.461	code: Info	test: Intento 5
+date: 28/06/2018 21:05:04.728	code: Info	test: Setting position to az:-2.166667, alt:3.752777 from star
+date: 28/06/2018 21:05:05.244	code: Info	test: Intento 6
+date: 28/06/2018 21:05:21.574	code: Info	test: Setting position to az:-5.000000, alt:0.000000 from star
+date: 28/06/2018 21:05:21.949	code: Info	test: Intento 7
+date: 28/06/2018 21:05:41.857	code: Info	test: Setting position to az:-1.000000, alt:-0.000000 from star
+date: 28/06/2018 21:05:44.435	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 21:06:51.394	code: Info	test: Inicio del proceso
+date: 28/06/2018 21:06:51.394	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 21:07:17.115	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.035992
+	ha hours: hms_tuple(h=-0.0, m=-52.0, s=-40.98649311888096)
+	alt: 74.852821
+	az: 124.513545
+date: 28/06/2018 21:07:17.131	code: Info	test: Centrando spots...
+date: 28/06/2018 21:07:19.147	code: Info	test: Intento 1
+date: 28/06/2018 21:07:56.181	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:07:56.181	code: Info	test: Intento 2
+date: 28/06/2018 21:08:11.073	code: Info	test: Setting position to az:1.166667, alt:-2.020726 from star
+date: 28/06/2018 21:08:11.776	code: Info	test: Intento 3
+date: 28/06/2018 21:08:20.887	code: Info	test: Setting position to az:3.000000, alt:-0.000000 from star
+date: 28/06/2018 21:08:21.480	code: Info	test: Intento 4
+date: 28/06/2018 21:08:33.653	code: Info	test: Setting position to az:1.833333, alt:3.175426 from star
+date: 28/06/2018 21:08:34.169	code: Info	test: Intento 5
+date: 28/06/2018 21:08:47.530	code: Info	test: Setting position to az:-2.166667, alt:3.752777 from star
+date: 28/06/2018 21:08:48.045	code: Info	test: Intento 6
+date: 28/06/2018 21:09:14.345	code: Info	test: Setting position to az:-5.000000, alt:0.000000 from star
+date: 28/06/2018 21:09:14.923	code: Info	test: Intento 7
+date: 28/06/2018 21:09:32.627	code: Info	test: Setting position to az:-1.000000, alt:-0.000000 from star
+date: 28/06/2018 21:09:35.174	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 21:15:25.846	code: Info	test: Inicio del proceso
+date: 28/06/2018 21:15:25.862	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 21:15:44.879	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.027986
+	ha hours: hms_tuple(h=-0.0, m=-42.0, s=-39.273461028778485)
+	alt: 76.599821
+	az: 131.018892
+date: 28/06/2018 21:15:44.895	code: Info	test: Centrando spots...
+date: 28/06/2018 21:15:46.926	code: Info	test: Intento 1
+date: 28/06/2018 21:16:24.039	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:16:24.039	code: Info	test: Intento 2
+date: 28/06/2018 21:17:01.089	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:17:01.089	code: Info	test: Intento 3
+date: 28/06/2018 21:17:38.186	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:17:38.186	code: Info	test: Intento 4
+date: 28/06/2018 21:18:15.299	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:18:15.299	code: Info	test: Intento 5
+date: 28/06/2018 21:18:52.365	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:18:52.365	code: Info	test: Intento 6
+date: 28/06/2018 21:19:29.431	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:19:29.431	code: Info	test: Intento 7
+date: 28/06/2018 21:20:07.029	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:20:09.513	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 21:20:14.576	code: Info	test: Inicio del proceso
+date: 28/06/2018 21:20:14.592	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 21:21:15.644	code: Info	test: Estella seleccionada --> Denebola
+	airmass: 1.140782
+	ha hours: hms_tuple(h=1.0, m=48.0, s=53.50957282456477)
+	alt: 61.233753
+	az: 246.987109
+date: 28/06/2018 21:21:15.644	code: Info	test: Centrando spots...
+date: 28/06/2018 21:21:18.238	code: Info	test: Intento 1
+date: 28/06/2018 21:21:45.381	code: Info	test: Setting position to az:-0.833333, alt:-1.443376 from star
+date: 28/06/2018 21:21:45.741	code: Info	test: Intento 2
+date: 28/06/2018 21:22:13.743	code: Info	test: Setting position to az:1.166667, alt:-2.020726 from star
+date: 28/06/2018 21:22:14.103	code: Info	test: Intento 3
+date: 28/06/2018 21:22:24.682	code: Info	test: Setting position to az:3.000000, alt:-0.000000 from star
+date: 28/06/2018 21:22:24.994	code: Info	test: Intento 4
+date: 28/06/2018 21:22:39.433	code: Info	test: Setting position to az:1.833333, alt:3.175426 from star
+date: 28/06/2018 21:22:39.808	code: Info	test: Intento 5
+date: 28/06/2018 21:23:04.623	code: Info	test: Setting position to az:-2.166667, alt:3.752777 from star
+date: 28/06/2018 21:23:05.123	code: Info	test: Intento 6
+date: 28/06/2018 21:23:27.281	code: Info	test: Setting position to az:-5.000000, alt:0.000000 from star
+date: 28/06/2018 21:23:27.640	code: Info	test: Intento 7
+date: 28/06/2018 21:23:43.173	code: Info	test: Setting position to az:-1.000000, alt:-0.000000 from star
+date: 28/06/2018 21:23:45.751	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 21:24:51.148	code: Info	test: Inicio del proceso
+date: 28/06/2018 21:24:51.164	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 21:25:11.150	code: Info	test: Estella seleccionada --> Denebola
+	airmass: 1.152234
+	ha hours: hms_tuple(h=1.0, m=53.0, s=54.35106168513684)
+	alt: 60.212882
+	az: 248.329733
+date: 28/06/2018 21:25:11.150	code: Info	test: Centrando spots...
+date: 28/06/2018 21:25:13.181	code: Info	test: Intento 1
+date: 28/06/2018 21:25:50.231	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:25:50.231	code: Info	test: Intento 2
+date: 28/06/2018 21:26:27.328	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:26:27.328	code: Info	test: Intento 3
+date: 28/06/2018 21:27:04.425	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:27:04.425	code: Info	test: Intento 4
+date: 28/06/2018 21:27:41.429	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:27:41.429	code: Info	test: Intento 5
+date: 28/06/2018 21:28:18.776	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:28:18.776	code: Info	test: Intento 6
+date: 28/06/2018 21:28:55.889	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:28:55.889	code: Info	test: Intento 7
+date: 28/06/2018 21:29:32.954	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:29:35.173	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 21:31:18.131	code: Info	test: Inicio del proceso
+date: 28/06/2018 21:31:18.147	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 21:31:36.149	code: Info	test: Estella seleccionada --> Denebola
+	airmass: 1.164406
+	ha hours: hms_tuple(h=1.0, m=58.0, s=55.20255560337446)
+	alt: 59.182675
+	az: 249.601921
+date: 28/06/2018 21:31:36.149	code: Info	test: Centrando spots...
+date: 28/06/2018 21:31:38.164	code: Info	test: Intento 1
+date: 28/06/2018 21:32:14.824	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:32:14.824	code: Info	test: Intento 2
+date: 28/06/2018 21:32:51.015	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:32:51.015	code: Info	test: Intento 3
+date: 28/06/2018 21:33:27.252	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:33:27.252	code: Info	test: Intento 4
+date: 28/06/2018 21:34:03.443	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:34:03.443	code: Info	test: Intento 5
+date: 28/06/2018 21:34:39.665	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:34:39.681	code: Info	test: Intento 6
+date: 28/06/2018 21:35:15.887	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:35:15.887	code: Info	test: Intento 7
+date: 28/06/2018 21:35:52.093	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:35:54.328	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 21:38:21.388	code: Info	test: Inicio del proceso
+date: 28/06/2018 21:38:21.388	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 21:38:36.311	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 28/06/2018 21:40:38.796	code: Info	test: Inicio del proceso
+date: 28/06/2018 21:40:38.811	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 21:41:37.207	code: Info	test: Estella seleccionada --> Alphecca
+	airmass: 1.074326
+	ha hours: hms_tuple(h=-1.0, m=-36.0, s=-31.89075069049437)
+	alt: 68.562307
+	az: 88.682887
+date: 28/06/2018 21:41:37.223	code: Info	test: Centrando spots...
+date: 28/06/2018 21:41:39.254	code: Info	test: Intento 1
+date: 28/06/2018 21:42:15.367	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:42:15.398	code: Info	test: Intento 2
+date: 28/06/2018 21:42:51.604	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:42:51.604	code: Info	test: Intento 3
+date: 28/06/2018 21:43:27.842	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:43:27.842	code: Info	test: Intento 4
+date: 28/06/2018 21:44:04.064	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:44:04.095	code: Info	test: Intento 5
+date: 28/06/2018 21:47:15.550	code: Info	test: Inicio del proceso
+date: 28/06/2018 21:47:15.565	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 21:48:36.635	code: Info	test: Inicio del proceso
+date: 28/06/2018 21:48:36.651	code: Info	test: Encendiendo la montura...
+date: 28/06/2018 21:48:36.713	code: Info	test: Montura encendida
+date: 28/06/2018 21:48:46.714	code: Info	test: Encendiendo el foco...
+date: 28/06/2018 21:48:46.730	code: Info	test: Foco encendida
+date: 28/06/2018 21:48:46.730	code: Info	test: Llevando la montura al home...
+date: 28/06/2018 21:50:12.432	code: Info	test: Montura en el home
+date: 28/06/2018 21:50:12.447	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 21:51:13.812	code: Info	test: Estella seleccionada --> Alphecca
+	airmass: 1.057114
+	ha hours: hms_tuple(h=-1.0, m=-25.0, s=-5.606812826734142)
+	alt: 71.079846
+	az: 89.957404
+date: 28/06/2018 21:51:13.812	code: Info	test: Centrando spots...
+date: 28/06/2018 21:51:16.797	code: Info	test: Intento 1
+date: 28/06/2018 21:51:53.144	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:51:53.144	code: Info	test: Intento 2
+date: 28/06/2018 21:52:29.444	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:52:29.444	code: Info	test: Intento 3
+date: 28/06/2018 21:53:05.806	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:53:05.806	code: Info	test: Intento 4
+date: 28/06/2018 21:53:41.825	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:53:41.825	code: Info	test: Intento 5
+date: 28/06/2018 21:54:18.438	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:54:18.438	code: Info	test: Intento 6
+date: 28/06/2018 21:54:54.926	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:54:54.926	code: Info	test: Intento 7
+date: 28/06/2018 21:55:31.616	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 21:55:33.867	code: Info	test: Los spots estÃ¡n centrados
+date: 28/06/2018 21:56:26.215	code: Info	test: Inicio del proceso
+date: 28/06/2018 21:56:26.215	code: Info	test: Encendiendo la montura...
+date: 28/06/2018 21:56:26.262	code: Info	test: Montura encendida
+date: 28/06/2018 21:56:36.278	code: Info	test: Encendiendo el foco...
+date: 28/06/2018 21:56:36.278	code: Info	test: Foco encendida
+date: 28/06/2018 21:56:36.278	code: Info	test: Llevando la montura al home...
+date: 28/06/2018 21:57:54.598	code: Info	test: Montura en el home
+date: 28/06/2018 21:57:54.598	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 22:00:56.753	code: Info	test: Inicio del proceso
+date: 28/06/2018 22:00:56.769	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 22:02:04.494	code: Info	test: Inicio del proceso
+date: 28/06/2018 22:02:04.494	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 22:02:26.636	code: Info	test: Estella seleccionada --> Alphecca
+	airmass: 1.044085
+	ha hours: hms_tuple(h=-1.0, m=-15.0, s=-2.9512161573933327)
+	alt: 73.290656
+	az: 91.218575
+date: 28/06/2018 22:02:26.636	code: Info	test: Centrando spots...
+date: 28/06/2018 22:02:28.652	code: Info	test: Intento 1
+date: 28/06/2018 22:03:42.784	code: Info	test: Setting position to az:-0.833333, alt:-1.443376 from star
+date: 28/06/2018 22:03:43.143	code: Info	test: Intento 2
+date: 28/06/2018 22:04:44.883	code: Info	test: Inicio del proceso
+date: 28/06/2018 22:04:44.883	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 22:05:02.416	code: Info	test: Estella seleccionada --> Alphecca
+	airmass: 1.038277
+	ha hours: hms_tuple(h=-1.0, m=-10.0, s=-2.1197814683389993)
+	alt: 74.393900
+	az: 91.917044
+date: 28/06/2018 22:05:02.416	code: Info	test: Centrando spots...
+date: 28/06/2018 22:05:04.447	code: Info	test: Intento 1
+date: 28/06/2018 22:05:40.701	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 22:05:40.701	code: Info	test: Intento 2
+date: 28/06/2018 22:06:16.735	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 22:06:16.735	code: Info	test: Intento 3
+date: 28/06/2018 22:06:52.754	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 22:06:52.754	code: Info	test: Intento 4
+date: 28/06/2018 22:07:28.867	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 22:07:28.867	code: Info	test: Intento 5
+date: 28/06/2018 22:08:05.260	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 22:08:05.260	code: Info	test: Intento 6
+date: 28/06/2018 22:08:41.576	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 22:08:41.592	code: Info	test: Intento 7
+date: 28/06/2018 22:23:07.299	code: Info	test: Inicio del proceso
+date: 28/06/2018 22:23:07.315	code: Info	test: Seleccionando estella  ...
+date: 28/06/2018 22:23:28.066	code: Info	test: Estella seleccionada --> Alphecca
+	airmass: 1.023490
+	ha hours: hms_tuple(h=-0.0, m=-54.0, s=-59.314632662126456)
+	alt: 77.700869
+	az: 94.440209
+date: 28/06/2018 22:23:28.066	code: Info	test: Centrando spots...
+date: 28/06/2018 22:23:30.129	code: Info	test: Intento 1
+date: 28/06/2018 22:23:40.943	code: Info	test: Setting position to az:-0.833333, alt:-1.443376 from star
+date: 28/06/2018 22:23:41.318	code: Info	test: Intento 2
+date: 28/06/2018 22:24:17.665	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 22:24:17.665	code: Info	test: Intento 3
+date: 28/06/2018 22:24:54.105	code: Error (center spots)	test: list index out of range
+date: 28/06/2018 22:24:54.105	code: Info	test: Intento 4

@@ -1,0 +1,2723 @@
+
+date: 11/09/2018 07:26:17.062	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:26:17.062	code: Debg	text: ------------------ Get Ready ----------------
+date: 11/09/2018 07:26:17.062	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:26:17.062	code: Info	text: Abriendo cupula...
+date: 11/09/2018 07:27:20.452	code: Info	text: Cupula abierta
+date: 11/09/2018 07:27:20.452	code: Info	text: Encendiendo la montura...
+date: 11/09/2018 07:27:20.468	code: Info	text: Montura encendida
+date: 11/09/2018 07:27:30.469	code: Info	text: Encendiendo el foco...
+date: 11/09/2018 07:27:30.485	code: Info	text: Foco encendida
+date: 11/09/2018 07:27:30.485	code: Info	text: Llevando la montura al home...
+date: 11/09/2018 07:27:59.989	code: Info	text: Montura en el home
+date: 11/09/2018 07:27:59.989	code: Info	text: *** Listo para empezar observacion ***
+date: 11/09/2018 07:28:13.178	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:28:13.178	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 07:28:13.178	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:28:13.178	code: Info	text: Seleccionando estella...
+date: 11/09/2018 07:28:45.557	code: Info	text: Estella seleccionada --> Mirfak
+	airmass: 1.113365
+	ha hours: hms_tuple(h=1.0, m=16.0, s=41.74232868118864)
+	ra: 3.427741
+	dec: 49.922265
+date: 11/09/2018 07:28:45.557	code: Info	text: *** Seleccion de estrella: 32.3789999485 ***
+date: 11/09/2018 07:28:45.557	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:28:45.557	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 07:28:45.557	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:28:45.557	code: Info	text: Centrando spots...
+date: 11/09/2018 07:28:48.619	code: Info	text: Intento 0
+date: 11/09/2018 07:28:53.589	code: Info	text: Los spots estan centrados
+date: 11/09/2018 07:28:53.589	code: Info	text: *** Centrado de spots: 8.03200006485 ***
+date: 11/09/2018 07:28:53.589	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:28:53.589	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 07:28:53.589	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:28:53.604	code: Info	text: Comprobando el foco...
+date: 11/09/2018 07:28:53.604	code: Info	text: Intento 0
+date: 11/09/2018 07:29:00.621	code: Info	text: DX: 36.2265 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:29:00.621	code: Info	text: Moviendo el foco...
+date: 11/09/2018 07:29:01.199	code: Info	text: Intento 1
+date: 11/09/2018 07:29:07.653	code: Info	text: DX: 36.22052000000001 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:29:07.653	code: Info	text: Moviendo el foco...
+date: 11/09/2018 07:29:08.059	code: Info	text: Intento 2
+date: 11/09/2018 07:29:14.732	code: Info	text: DX: 36.219500000000004 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:29:14.732	code: Info	text: Moviendo el foco...
+date: 11/09/2018 07:29:15.091	code: Info	text: Intento 3
+date: 11/09/2018 07:29:21.561	code: Info	text: DX: 36.10392 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:29:21.561	code: Info	text: Moviendo el foco...
+date: 11/09/2018 07:29:21.936	code: Info	text: Intento 4
+date: 11/09/2018 07:29:28.109	code: Info	text: DX: 34.94865 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:29:28.109	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 07:29:28.109	code: Info	text: *** Enfocado: 34.5199999809 ***
+date: 11/09/2018 07:29:28.109	code: Info	text: *** Seleccion de estrella: 74.9309999943 ***
+date: 11/09/2018 07:29:28.124	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:29:28.124	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 07:29:28.124	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:29:28.124	code: Info	text: ##### PACK: OT_AKA06K_180911072928
+date: 11/09/2018 07:31:49.438	code: Info	text: ##### (OT_AKA06K_180911072928) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911063028.txt
+date: 11/09/2018 07:31:49.454	code: Info	text: *** Generacion del fichero 141.329999924
+date: 11/09/2018 07:31:49.454	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:31:49.454	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 07:31:49.454	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:31:50.298	code: Info	text: ###### (OT_AKA06K_180911072928) SEEING: 0.5246031318496053
+date: 11/09/2018 07:31:50.298	code: Info	text: *** Calculo del seeing 0.844000101089
+date: 11/09/2018 07:31:50.298	code: Info	text: *** Procesado de datos: 142.174000025 ***
+date: 11/09/2018 07:31:50.298	code: Info	text: *** TIEMPO TOTAL ITERACION: 217.120000124 ***
+date: 11/09/2018 07:31:50.298	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:31:50.298	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 07:31:50.298	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:31:50.298	code: Info	text: Comprobando que la estella es observable...
+date: 11/09/2018 07:31:50.829	code: info	text: La estrella sigue siendo observable(Mirfak)
+date: 11/09/2018 07:31:50.829	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.27826175797', 'az': '331.250497', 'name': 'Mirfak', 'airmass': '1.113365', 'ha_hours': 'hms_tuple(h=1.0, m=16.0, s=41.74232868118864)', 'alt': '63.919447', 'dec': '49.922265', 'magnitude': '1.790000', 'ra': '3.427741'}
+date: 11/09/2018 07:31:50.829	code: Info	text: *** Seleccion de estrella: 0.530999898911 ***
+date: 11/09/2018 07:31:50.829	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:31:50.829	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 07:31:50.829	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:31:50.829	code: Info	text: Centrando spots...
+date: 11/09/2018 07:31:52.861	code: Info	text: Intento 0
+date: 11/09/2018 07:31:57.877	code: Info	text: Los spots estan centrados
+date: 11/09/2018 07:31:57.877	code: Info	text: *** Centrado de spots: 7.04800009727 ***
+date: 11/09/2018 07:31:57.877	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:31:57.877	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 07:31:57.877	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:31:57.892	code: Info	text: Comprobando el foco...
+date: 11/09/2018 07:31:57.892	code: Info	text: Intento 0
+date: 11/09/2018 07:31:58.096	code: Info	text: DX: 57.632415 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:31:58.096	code: Error	text: Imagenes no aptas para calcular el foco
+date: 11/09/2018 07:31:58.096	code: Info	text: Intento 1
+date: 11/09/2018 07:32:05.268	code: Info	text: DX: 34.95635 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:32:05.268	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 07:32:05.268	code: Info	text: *** Enfocado: 7.39099979401 ***
+date: 11/09/2018 07:32:05.268	code: Info	text: *** Seleccion de estrella: 14.9699997902 ***
+date: 11/09/2018 07:32:05.268	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:32:05.268	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 07:32:05.268	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:32:05.268	code: Info	text: ##### PACK: OT_0KGIQ3_180911073205
+date: 11/09/2018 07:34:24.645	code: Info	text: ##### (OT_0KGIQ3_180911073205) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911063307.txt
+date: 11/09/2018 07:34:24.645	code: Info	text: *** Generacion del fichero 139.377000093
+date: 11/09/2018 07:34:24.645	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:34:24.645	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 07:34:24.645	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:34:25.457	code: Info	text: ###### (OT_0KGIQ3_180911073205) SEEING: 0.4798284151596722
+date: 11/09/2018 07:34:25.457	code: Info	text: *** Calculo del seeing 0.81200003624
+date: 11/09/2018 07:34:25.457	code: Info	text: *** Procesado de datos: 140.18900013 ***
+date: 11/09/2018 07:34:25.457	code: Info	text: *** TIEMPO TOTAL ITERACION: 155.15899992 ***
+date: 11/09/2018 07:34:25.473	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:34:25.473	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 07:34:25.473	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:34:25.473	code: Info	text: Comprobando que la estella es observable...
+date: 11/09/2018 07:34:25.957	code: info	text: La estrella sigue siendo observable(Mirfak)
+date: 11/09/2018 07:34:25.957	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.27826175797', 'az': '331.250497', 'name': 'Mirfak', 'airmass': '1.113365', 'ha_hours': 'hms_tuple(h=1.0, m=16.0, s=41.74232868118864)', 'alt': '63.919447', 'dec': '49.922265', 'magnitude': '1.790000', 'ra': '3.427741'}
+date: 11/09/2018 07:34:25.957	code: Info	text: *** Seleccion de estrella: 0.483999967575 ***
+date: 11/09/2018 07:34:25.957	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:34:25.957	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 07:34:25.957	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:34:25.957	code: Info	text: Centrando spots...
+date: 11/09/2018 07:34:27.989	code: Info	text: Intento 0
+date: 11/09/2018 07:34:32.271	code: Info	text: Los spots estan centrados
+date: 11/09/2018 07:34:32.271	code: Info	text: *** Centrado de spots: 6.31399989128 ***
+date: 11/09/2018 07:34:32.271	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:34:32.271	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 07:34:32.271	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:34:32.271	code: Info	text: Comprobando el foco...
+date: 11/09/2018 07:34:32.271	code: Info	text: Intento 0
+date: 11/09/2018 07:34:32.489	code: Info	text: DX: 34.82489499999999 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:34:32.489	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 07:34:32.489	code: Info	text: *** Enfocado: 0.218000173569 ***
+date: 11/09/2018 07:34:32.489	code: Info	text: *** Seleccion de estrella: 7.01600003242 ***
+date: 11/09/2018 07:34:32.489	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:34:32.489	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 07:34:32.489	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:34:32.489	code: Info	text: ##### PACK: OT_CHNI0Y_180911073432
+date: 11/09/2018 07:36:56.000	code: Info	text: ##### (OT_CHNI0Y_180911073432) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911063534.txt
+date: 11/09/2018 07:36:56.000	code: Info	text: *** Generacion del fichero 143.510999918
+date: 11/09/2018 07:36:56.000	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:36:56.000	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 07:36:56.000	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:36:56.781	code: Info	text: ###### (OT_CHNI0Y_180911073432) SEEING: 0.452353071337317
+date: 11/09/2018 07:36:56.781	code: Info	text: *** Calculo del seeing 0.780999898911
+date: 11/09/2018 07:36:56.781	code: Info	text: *** Procesado de datos: 144.291999817 ***
+date: 11/09/2018 07:36:56.781	code: Info	text: *** TIEMPO TOTAL ITERACION: 151.307999849 ***
+date: 11/09/2018 07:36:56.781	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:36:56.781	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 07:36:56.781	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:36:56.781	code: Info	text: Comprobando que la estella es observable...
+date: 11/09/2018 07:37:32.692	code: info	text: La estrella sigue siendo observable(Mirfak)
+date: 11/09/2018 07:37:32.692	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.27826175797', 'az': '331.250497', 'name': 'Mirfak', 'airmass': '1.113365', 'ha_hours': 'hms_tuple(h=1.0, m=16.0, s=41.74232868118864)', 'alt': '63.919447', 'dec': '49.922265', 'magnitude': '1.790000', 'ra': '3.427741'}
+date: 11/09/2018 07:37:32.692	code: Info	text: *** Seleccion de estrella: 35.9110000134 ***
+date: 11/09/2018 07:37:32.707	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:37:32.707	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 07:37:32.707	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:37:32.707	code: Info	text: Centrando spots...
+date: 11/09/2018 07:37:34.723	code: Info	text: Intento 0
+date: 11/09/2018 07:37:38.536	code: Info	text: Los spots estan centrados
+date: 11/09/2018 07:37:38.536	code: Info	text: *** Centrado de spots: 5.82899999619 ***
+date: 11/09/2018 07:37:38.536	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:37:38.536	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 07:37:38.536	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:37:38.536	code: Info	text: Comprobando el foco...
+date: 11/09/2018 07:37:38.536	code: Info	text: Intento 0
+date: 11/09/2018 07:37:38.755	code: Info	text: DX: 34.638135 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:37:38.755	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 07:37:38.755	code: Info	text: *** Enfocado: 0.219000101089 ***
+date: 11/09/2018 07:37:38.755	code: Info	text: *** Seleccion de estrella: 41.9740002155 ***
+date: 11/09/2018 07:37:38.755	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:37:38.755	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 07:37:38.755	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:37:38.755	code: Info	text: ##### PACK: OT_GWNLKX_180911073738
+date: 11/09/2018 07:38:51.514	code: Info	text: Indicando fin del proceso...
+date: 11/09/2018 07:39:43.317	code: Info	text: ##### (OT_GWNLKX_180911073738) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911063824.txt
+date: 11/09/2018 07:39:43.317	code: Info	text: *** Generacion del fichero 124.561999798
+date: 11/09/2018 07:39:43.317	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:39:43.317	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 07:39:43.317	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:39:44.129	code: Info	text: ###### (OT_GWNLKX_180911073738) SEEING: 0.4694408582003554
+date: 11/09/2018 07:39:44.129	code: Info	text: *** Calculo del seeing 0.81200003624
+date: 11/09/2018 07:39:44.145	code: Info	text: *** Procesado de datos: 125.389999866 ***
+date: 11/09/2018 07:39:44.145	code: Info	text: *** TIEMPO TOTAL ITERACION: 167.364000082 ***
+date: 11/09/2018 07:39:44.145	code: Info	text: Parando la observacion...
+date: 11/09/2018 07:39:44.145	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 11/09/2018 07:40:32.057	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:40:32.057	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 07:40:32.057	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:40:32.057	code: Info	text: Seleccionando estella...
+date: 11/09/2018 07:40:52.544	code: Info	text: Estella seleccionada --> Mirfak
+	airmass: 1.124261
+	ha hours: hms_tuple(h=1.0, m=26.0, s=46.6336490460543)
+	ra: 3.427741
+	dec: 49.922266
+date: 11/09/2018 07:40:52.544	code: Info	text: *** Seleccion de estrella: 20.4869999886 ***
+date: 11/09/2018 07:40:52.544	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:40:52.544	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 07:40:52.544	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:40:52.544	code: Info	text: Centrando spots...
+date: 11/09/2018 07:40:54.591	code: Info	text: Intento 0
+date: 11/09/2018 07:41:00.186	code: Info	text: Los spots estan centrados
+date: 11/09/2018 07:41:00.186	code: Info	text: *** Centrado de spots: 7.64200019836 ***
+date: 11/09/2018 07:41:00.186	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:41:00.186	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 07:41:00.186	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:41:00.186	code: Info	text: Comprobando el foco...
+date: 11/09/2018 07:41:00.186	code: Info	text: Intento 0
+date: 11/09/2018 07:41:07.311	code: Info	text: DX: 34.85621999999999 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:41:07.311	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 07:41:07.311	code: Info	text: *** Enfocado: 7.125 ***
+date: 11/09/2018 07:41:07.311	code: Info	text: *** Seleccion de estrella: 35.2540001869 ***
+date: 11/09/2018 07:41:07.311	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:41:07.311	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 07:41:07.311	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:41:07.327	code: Info	text: ##### PACK: OT_J41WH6_180911074107
+date: 11/09/2018 07:43:29.516	code: Info	text: ##### (OT_J41WH6_180911074107) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911064209.txt
+date: 11/09/2018 07:43:29.516	code: Info	text: *** Generacion del fichero 142.204999924
+date: 11/09/2018 07:43:29.516	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:43:29.516	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 07:43:29.516	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:43:30.173	code: Info	text: ###### (OT_J41WH6_180911074107) SEEING: 0.44610435596006504 (used imgs: 115)
+date: 11/09/2018 07:43:30.173	code: Info	text: *** Calculo del seeing 0.65700006485
+date: 11/09/2018 07:43:30.173	code: Info	text: *** Procesado de datos: 142.861999989 ***
+date: 11/09/2018 07:43:30.173	code: Info	text: *** TIEMPO TOTAL ITERACION: 178.116000175 ***
+date: 11/09/2018 07:43:30.188	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:43:30.188	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 07:43:30.188	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:43:30.188	code: Info	text: Comprobando que la estella es observable...
+date: 11/09/2018 07:43:30.704	code: info	text: La estrella sigue siendo observable(Mirfak)
+date: 11/09/2018 07:43:30.704	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.44628712474', 'az': '328.615240', 'name': 'Mirfak', 'airmass': '1.124261', 'ha_hours': 'hms_tuple(h=1.0, m=26.0, s=46.6336490460543)', 'alt': '62.806907', 'dec': '49.922266', 'magnitude': '1.790000', 'ra': '3.427741'}
+date: 11/09/2018 07:43:30.704	code: Info	text: *** Seleccion de estrella: 0.516000032425 ***
+date: 11/09/2018 07:43:30.704	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:43:30.704	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 07:43:30.704	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:43:30.704	code: Info	text: Centrando spots...
+date: 11/09/2018 07:43:32.735	code: Info	text: Intento 0
+date: 11/09/2018 07:43:37.345	code: Info	text: Los spots estan centrados
+date: 11/09/2018 07:43:37.345	code: Info	text: *** Centrado de spots: 6.64100003242 ***
+date: 11/09/2018 07:43:37.345	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:43:37.345	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 07:43:37.345	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:43:37.345	code: Info	text: Comprobando el foco...
+date: 11/09/2018 07:43:37.361	code: Info	text: Intento 0
+date: 11/09/2018 07:43:37.595	code: Info	text: DX: 34.71817 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:43:37.595	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 07:43:37.595	code: Info	text: *** Enfocado: 0.25 ***
+date: 11/09/2018 07:43:37.595	code: Info	text: *** Seleccion de estrella: 7.40700006485 ***
+date: 11/09/2018 07:43:37.595	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:43:37.595	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 07:43:37.595	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:43:37.595	code: Info	text: ##### PACK: OT_VIEIZI_180911074337
+date: 11/09/2018 07:45:31.078	code: Info	text: ##### (OT_VIEIZI_180911074337) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911064439.txt
+date: 11/09/2018 07:45:31.078	code: Info	text: *** Generacion del fichero 113.48300004
+date: 11/09/2018 07:45:31.078	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:45:31.078	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 07:45:31.078	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:45:31.625	code: Info	text: ###### (OT_VIEIZI_180911074337) SEEING: 0.44101933942750143 (used imgs: 86)
+date: 11/09/2018 07:45:31.625	code: Info	text: *** Calculo del seeing 0.546999931335
+date: 11/09/2018 07:45:31.625	code: Info	text: *** Procesado de datos: 114.029999971 ***
+date: 11/09/2018 07:45:31.625	code: Info	text: *** TIEMPO TOTAL ITERACION: 121.437000036 ***
+date: 11/09/2018 07:45:31.640	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:45:31.640	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 07:45:31.640	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:45:31.640	code: Info	text: Comprobando que la estella es observable...
+date: 11/09/2018 07:45:32.141	code: info	text: La estrella sigue siendo observable(Mirfak)
+date: 11/09/2018 07:45:32.141	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.44628712474', 'az': '328.615240', 'name': 'Mirfak', 'airmass': '1.124261', 'ha_hours': 'hms_tuple(h=1.0, m=26.0, s=46.6336490460543)', 'alt': '62.806907', 'dec': '49.922266', 'magnitude': '1.790000', 'ra': '3.427741'}
+date: 11/09/2018 07:45:32.141	code: Info	text: *** Seleccion de estrella: 0.500999927521 ***
+date: 11/09/2018 07:45:32.141	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:45:32.141	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 07:45:32.141	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:45:32.141	code: Info	text: Centrando spots...
+date: 11/09/2018 07:45:34.156	code: Info	text: Intento 0
+date: 11/09/2018 07:45:38.876	code: Info	text: Los spots estan centrados
+date: 11/09/2018 07:45:38.876	code: Info	text: *** Centrado de spots: 6.7349998951 ***
+date: 11/09/2018 07:45:38.891	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:45:38.891	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 07:45:38.891	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:45:38.891	code: Info	text: Comprobando el foco...
+date: 11/09/2018 07:45:38.891	code: Info	text: Intento 0
+date: 11/09/2018 07:45:39.110	code: Info	text: DX: 34.66046000000001 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:45:39.110	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 07:45:39.110	code: Info	text: *** Enfocado: 0.218999862671 ***
+date: 11/09/2018 07:45:39.110	code: Info	text: *** Seleccion de estrella: 7.46999979019 ***
+date: 11/09/2018 07:45:39.110	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:45:39.110	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 07:45:39.110	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:45:39.110	code: Info	text: ##### PACK: OT_KIRZ9R_180911074539
+date: 11/09/2018 07:47:37.558	code: Info	text: ##### (OT_KIRZ9R_180911074539) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911064641.txt
+date: 11/09/2018 07:47:37.558	code: Info	text: *** Generacion del fichero 118.448000193
+date: 11/09/2018 07:47:37.558	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:47:37.558	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 07:47:37.558	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:47:38.121	code: Info	text: ###### (OT_KIRZ9R_180911074539) SEEING: 0.4856121378187685 (used imgs: 94)
+date: 11/09/2018 07:47:38.137	code: Info	text: *** Calculo del seeing 0.578999996185
+date: 11/09/2018 07:47:38.137	code: Info	text: *** Procesado de datos: 119.027000189 ***
+date: 11/09/2018 07:47:38.137	code: Info	text: *** TIEMPO TOTAL ITERACION: 126.496999979 ***
+date: 11/09/2018 07:47:38.137	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:47:38.137	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 07:47:38.137	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:47:38.137	code: Info	text: Comprobando que la estella es observable...
+date: 11/09/2018 07:47:38.840	code: info	text: La estrella sigue siendo observable(Mirfak)
+date: 11/09/2018 07:47:38.840	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.44628712474', 'az': '328.615240', 'name': 'Mirfak', 'airmass': '1.124261', 'ha_hours': 'hms_tuple(h=1.0, m=26.0, s=46.6336490460543)', 'alt': '62.806907', 'dec': '49.922266', 'magnitude': '1.790000', 'ra': '3.427741'}
+date: 11/09/2018 07:47:38.840	code: Info	text: *** Seleccion de estrella: 0.702999830246 ***
+date: 11/09/2018 07:47:38.855	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:47:38.855	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 07:47:38.855	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:47:38.855	code: Info	text: Centrando spots...
+date: 11/09/2018 07:47:40.871	code: Info	text: Intento 0
+date: 11/09/2018 07:47:45.778	code: Info	text: Los spots estan centrados
+date: 11/09/2018 07:47:45.778	code: Info	text: *** Centrado de spots: 6.92300009727 ***
+date: 11/09/2018 07:47:45.778	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:47:45.778	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 07:47:45.778	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:47:45.778	code: Info	text: Comprobando el foco...
+date: 11/09/2018 07:47:45.778	code: Info	text: Intento 0
+date: 11/09/2018 07:47:45.997	code: Info	text: DX: 34.702115 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:47:45.997	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 07:47:45.997	code: Info	text: *** Enfocado: 0.218999862671 ***
+date: 11/09/2018 07:47:45.997	code: Info	text: *** Seleccion de estrella: 7.8599998951 ***
+date: 11/09/2018 07:47:45.997	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:47:45.997	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 07:47:45.997	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:47:45.997	code: Info	text: ##### PACK: OT_269QDA_180911074745
+date: 11/09/2018 07:49:38.886	code: Info	text: ##### (OT_269QDA_180911074745) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911064847.txt
+date: 11/09/2018 07:49:38.886	code: Info	text: *** Generacion del fichero 112.888999939
+date: 11/09/2018 07:49:38.886	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:49:38.886	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 07:49:38.886	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:49:39.433	code: Info	text: ###### (OT_269QDA_180911074745) SEEING: 0.4801709427627775 (used imgs: 50)
+date: 11/09/2018 07:49:39.433	code: Info	text: *** Calculo del seeing 0.547000169754
+date: 11/09/2018 07:49:39.433	code: Info	text: *** Procesado de datos: 113.436000109 ***
+date: 11/09/2018 07:49:39.433	code: Info	text: *** TIEMPO TOTAL ITERACION: 121.296000004 ***
+date: 11/09/2018 07:49:39.433	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:49:39.433	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 07:49:39.433	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:49:39.433	code: Info	text: Comprobando que la estella es observable...
+date: 11/09/2018 07:49:39.901	code: info	text: La estrella sigue siendo observable(Mirfak)
+date: 11/09/2018 07:49:39.901	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.44628712474', 'az': '328.615240', 'name': 'Mirfak', 'airmass': '1.124261', 'ha_hours': 'hms_tuple(h=1.0, m=26.0, s=46.6336490460543)', 'alt': '62.806907', 'dec': '49.922266', 'magnitude': '1.790000', 'ra': '3.427741'}
+date: 11/09/2018 07:49:39.901	code: Info	text: *** Seleccion de estrella: 0.46799993515 ***
+date: 11/09/2018 07:49:39.901	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:49:39.901	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 07:49:39.901	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:49:39.901	code: Info	text: Centrando spots...
+date: 11/09/2018 07:49:41.933	code: Info	text: Intento 0
+date: 11/09/2018 07:49:46.543	code: Info	text: Los spots estan centrados
+date: 11/09/2018 07:49:46.543	code: Info	text: *** Centrado de spots: 6.64199995995 ***
+date: 11/09/2018 07:49:46.543	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:49:46.543	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 07:49:46.543	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:49:46.543	code: Info	text: Comprobando el foco...
+date: 11/09/2018 07:49:46.543	code: Info	text: Intento 0
+date: 11/09/2018 07:49:46.746	code: Info	text: DX: 35.542970000000004 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:49:46.762	code: Info	text: Moviendo el foco...
+date: 11/09/2018 07:49:47.152	code: Info	text: Intento 1
+date: 11/09/2018 07:49:55.622	code: Info	text: DX: 34.966875 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:49:55.622	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 07:49:55.622	code: Info	text: *** Enfocado: 9.07899999619 ***
+date: 11/09/2018 07:49:55.622	code: Info	text: *** Seleccion de estrella: 16.1889998913 ***
+date: 11/09/2018 07:49:55.622	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:49:55.622	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 07:49:55.622	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:49:55.622	code: Info	text: ##### PACK: OT_RE1ZB3_180911074955
+date: 11/09/2018 07:51:46.917	code: Info	text: ##### (OT_RE1ZB3_180911074955) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911065057.txt
+date: 11/09/2018 07:51:46.917	code: Info	text: *** Generacion del fichero 111.295000076
+date: 11/09/2018 07:51:46.917	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:51:46.917	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 07:51:46.917	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:51:47.432	code: Info	text: ###### (OT_RE1ZB3_180911074955) SEEING: 0.4414723026024741 (used imgs: 87)
+date: 11/09/2018 07:51:47.432	code: Info	text: *** Calculo del seeing 0.514999866486
+date: 11/09/2018 07:51:47.432	code: Info	text: *** Procesado de datos: 111.809999943 ***
+date: 11/09/2018 07:51:47.448	code: Info	text: *** TIEMPO TOTAL ITERACION: 128.014999866 ***
+date: 11/09/2018 07:51:47.448	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:51:47.448	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 07:51:47.448	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:51:47.448	code: Info	text: Comprobando que la estella es observable...
+date: 11/09/2018 07:51:47.964	code: info	text: La estrella sigue siendo observable(Mirfak)
+date: 11/09/2018 07:51:47.964	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.44628712474', 'az': '328.615240', 'name': 'Mirfak', 'airmass': '1.124261', 'ha_hours': 'hms_tuple(h=1.0, m=26.0, s=46.6336490460543)', 'alt': '62.806907', 'dec': '49.922266', 'magnitude': '1.790000', 'ra': '3.427741'}
+date: 11/09/2018 07:51:47.979	code: Info	text: *** Seleccion de estrella: 0.531000137329 ***
+date: 11/09/2018 07:51:47.979	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:51:47.979	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 07:51:47.979	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:51:47.979	code: Info	text: Centrando spots...
+date: 11/09/2018 07:51:49.995	code: Info	text: Intento 0
+date: 11/09/2018 07:51:54.840	code: Info	text: Los spots estan centrados
+date: 11/09/2018 07:51:54.840	code: Info	text: *** Centrado de spots: 6.86099982262 ***
+date: 11/09/2018 07:51:54.840	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:51:54.840	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 07:51:54.840	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:51:54.840	code: Info	text: Comprobando el foco...
+date: 11/09/2018 07:51:54.840	code: Info	text: Intento 0
+date: 11/09/2018 07:51:55.074	code: Info	text: DX: 35.150125 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:51:55.074	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 07:51:55.074	code: Info	text: *** Enfocado: 0.233999967575 ***
+date: 11/09/2018 07:51:55.074	code: Info	text: *** Seleccion de estrella: 7.62599992752 ***
+date: 11/09/2018 07:51:55.074	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:51:55.074	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 07:51:55.074	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:51:55.074	code: Info	text: ##### PACK: OT_Q8YW5F_180911075155
+date: 11/09/2018 07:53:46.041	code: Info	text: ##### (OT_Q8YW5F_180911075155) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911065256.txt
+date: 11/09/2018 07:53:46.041	code: Info	text: *** Generacion del fichero 110.967000008
+date: 11/09/2018 07:53:46.041	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:53:46.041	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 07:53:46.041	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:53:46.541	code: Info	text: ###### (OT_Q8YW5F_180911075155) SEEING: 0.5047357760840216 (used imgs: 57)
+date: 11/09/2018 07:53:46.541	code: Info	text: *** Calculo del seeing 0.5
+date: 11/09/2018 07:53:46.541	code: Info	text: *** Procesado de datos: 111.467000008 ***
+date: 11/09/2018 07:53:46.541	code: Info	text: *** TIEMPO TOTAL ITERACION: 119.092999935 ***
+date: 11/09/2018 07:53:46.541	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:53:46.541	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 07:53:46.541	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:53:46.541	code: Info	text: Comprobando que la estella es observable...
+date: 11/09/2018 07:53:47.041	code: info	text: La estrella sigue siendo observable(Mirfak)
+date: 11/09/2018 07:53:47.041	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.44628712474', 'az': '328.615240', 'name': 'Mirfak', 'airmass': '1.124261', 'ha_hours': 'hms_tuple(h=1.0, m=26.0, s=46.6336490460543)', 'alt': '62.806907', 'dec': '49.922266', 'magnitude': '1.790000', 'ra': '3.427741'}
+date: 11/09/2018 07:53:47.041	code: Info	text: *** Seleccion de estrella: 0.5 ***
+date: 11/09/2018 07:53:47.056	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:53:47.056	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 07:53:47.056	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:53:47.056	code: Info	text: Centrando spots...
+date: 11/09/2018 07:53:49.072	code: Info	text: Intento 0
+date: 11/09/2018 07:53:53.823	code: Info	text: Los spots estan centrados
+date: 11/09/2018 07:53:53.823	code: Info	text: *** Centrado de spots: 6.76699995995 ***
+date: 11/09/2018 07:53:53.823	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:53:53.823	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 07:53:53.823	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:53:53.823	code: Info	text: Comprobando el foco...
+date: 11/09/2018 07:53:53.838	code: Info	text: Intento 0
+date: 11/09/2018 07:53:54.042	code: Info	text: DX: 35.527175 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:53:54.042	code: Info	text: Moviendo el foco...
+date: 11/09/2018 07:53:54.417	code: Info	text: Intento 1
+date: 11/09/2018 07:54:02.840	code: Info	text: DX: 34.922819999999994 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:54:02.840	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 07:54:02.840	code: Info	text: *** Enfocado: 9.01699995995 ***
+date: 11/09/2018 07:54:02.840	code: Info	text: *** Seleccion de estrella: 16.2990000248 ***
+date: 11/09/2018 07:54:02.840	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:54:02.840	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 07:54:02.840	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:54:02.840	code: Info	text: ##### PACK: OT_R3ZKAB_180911075402
+date: 11/09/2018 07:55:51.572	code: Info	text: ##### (OT_R3ZKAB_180911075402) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911065504.txt
+date: 11/09/2018 07:55:51.572	code: Info	text: *** Generacion del fichero 108.732000113
+date: 11/09/2018 07:55:51.572	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:55:51.572	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 07:55:51.572	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:55:52.040	code: Info	text: ###### (OT_R3ZKAB_180911075402) SEEING: 0.5150794501556822 (used imgs: 82)
+date: 11/09/2018 07:55:52.040	code: Info	text: *** Calculo del seeing 0.46799993515
+date: 11/09/2018 07:55:52.040	code: Info	text: *** Procesado de datos: 109.200000048 ***
+date: 11/09/2018 07:55:52.040	code: Info	text: *** TIEMPO TOTAL ITERACION: 125.499000072 ***
+date: 11/09/2018 07:55:52.056	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:55:52.056	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 07:55:52.056	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:55:52.056	code: Info	text: Comprobando que la estella es observable...
+date: 11/09/2018 07:55:52.587	code: info	text: La estrella sigue siendo observable(Mirfak)
+date: 11/09/2018 07:55:52.587	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.44628712474', 'az': '328.615240', 'name': 'Mirfak', 'airmass': '1.124261', 'ha_hours': 'hms_tuple(h=1.0, m=26.0, s=46.6336490460543)', 'alt': '62.806907', 'dec': '49.922266', 'magnitude': '1.790000', 'ra': '3.427741'}
+date: 11/09/2018 07:55:52.587	code: Info	text: *** Seleccion de estrella: 0.530999898911 ***
+date: 11/09/2018 07:55:52.587	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:55:52.587	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 07:55:52.587	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:55:52.587	code: Info	text: Centrando spots...
+date: 11/09/2018 07:55:54.603	code: Info	text: Intento 0
+date: 11/09/2018 07:55:59.619	code: Info	text: Los spots estan centrados
+date: 11/09/2018 07:55:59.619	code: Info	text: *** Centrado de spots: 7.03200006485 ***
+date: 11/09/2018 07:55:59.619	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:55:59.619	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 07:55:59.619	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:55:59.619	code: Info	text: Comprobando el foco...
+date: 11/09/2018 07:55:59.619	code: Info	text: Intento 0
+date: 11/09/2018 07:55:59.838	code: Info	text: DX: 35.006735 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:55:59.838	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 07:55:59.838	code: Info	text: *** Enfocado: 0.219000101089 ***
+date: 11/09/2018 07:55:59.838	code: Info	text: *** Seleccion de estrella: 7.78200006485 ***
+date: 11/09/2018 07:55:59.838	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:55:59.838	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 07:55:59.838	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:55:59.838	code: Info	text: ##### PACK: OT_MJIEU1_180911075559
+date: 11/09/2018 07:57:51.753	code: Info	text: ##### (OT_MJIEU1_180911075559) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911065701.txt
+date: 11/09/2018 07:57:51.753	code: Info	text: *** Generacion del fichero 111.914999962
+date: 11/09/2018 07:57:51.753	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:57:51.753	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 07:57:51.769	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:57:52.238	code: Info	text: ###### (OT_MJIEU1_180911075559) SEEING: 0.5185510765788878 (used imgs: 74)
+date: 11/09/2018 07:57:52.238	code: Info	text: *** Calculo del seeing 0.484999895096
+date: 11/09/2018 07:57:52.253	code: Info	text: *** Procesado de datos: 112.414999962 ***
+date: 11/09/2018 07:57:52.253	code: Info	text: *** TIEMPO TOTAL ITERACION: 120.197000027 ***
+date: 11/09/2018 07:57:52.253	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:57:52.253	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 07:57:52.253	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:57:52.253	code: Info	text: Comprobando que la estella es observable...
+date: 11/09/2018 07:57:52.785	code: info	text: La estrella sigue siendo observable(Mirfak)
+date: 11/09/2018 07:57:52.785	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.44628712474', 'az': '328.615240', 'name': 'Mirfak', 'airmass': '1.124261', 'ha_hours': 'hms_tuple(h=1.0, m=26.0, s=46.6336490460543)', 'alt': '62.806907', 'dec': '49.922266', 'magnitude': '1.790000', 'ra': '3.427741'}
+date: 11/09/2018 07:57:52.785	code: Info	text: *** Seleccion de estrella: 0.53200006485 ***
+date: 11/09/2018 07:57:52.785	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:57:52.785	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 07:57:52.785	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:57:52.785	code: Info	text: Centrando spots...
+date: 11/09/2018 07:57:54.816	code: Info	text: Intento 0
+date: 11/09/2018 07:57:59.551	code: Info	text: Los spots estan centrados
+date: 11/09/2018 07:57:59.551	code: Info	text: *** Centrado de spots: 6.76600003242 ***
+date: 11/09/2018 07:57:59.551	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:57:59.551	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 07:57:59.551	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:57:59.551	code: Info	text: Comprobando el foco...
+date: 11/09/2018 07:57:59.551	code: Info	text: Intento 0
+date: 11/09/2018 07:57:59.785	code: Info	text: DX: 35.397415 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 07:57:59.785	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 07:57:59.785	code: Info	text: *** Enfocado: 0.233999967575 ***
+date: 11/09/2018 07:57:59.785	code: Info	text: *** Seleccion de estrella: 7.53200006485 ***
+date: 11/09/2018 07:57:59.785	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:57:59.785	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 07:57:59.785	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:57:59.785	code: Info	text: ##### PACK: OT_O083PN_180911075759
+date: 11/09/2018 07:58:09.318	code: Info	text: Indicando fin del proceso...
+date: 11/09/2018 07:59:45.376	code: Info	text: ##### (OT_O083PN_180911075759) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911065901.txt
+date: 11/09/2018 07:59:45.376	code: Info	text: *** Generacion del fichero 105.590999842
+date: 11/09/2018 07:59:45.376	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:59:45.376	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 07:59:45.376	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 07:59:45.814	code: Info	text: ###### (OT_O083PN_180911075759) SEEING: 0.5140375517445009 (used imgs: 56)
+date: 11/09/2018 07:59:45.814	code: Info	text: *** Calculo del seeing 0.43799996376
+date: 11/09/2018 07:59:45.814	code: Info	text: *** Procesado de datos: 106.028999805 ***
+date: 11/09/2018 07:59:45.814	code: Info	text: *** TIEMPO TOTAL ITERACION: 113.56099987 ***
+date: 11/09/2018 07:59:45.814	code: Info	text: Parando la observacion...
+date: 11/09/2018 07:59:45.814	code: Info	text:  --- OBSERVACION TERMINADA ---
+date: 11/09/2018 08:00:42.211	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:00:42.211	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 08:00:42.211	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:00:42.211	code: Info	text: Seleccionando estella...
+date: 11/09/2018 08:01:03.323	code: Info	text: Estella seleccionada --> Mirfak
+	airmass: 1.150560
+	ha hours: hms_tuple(h=1.0, m=46.0, s=50.04895100143273)
+	ra: 3.427741
+	dec: 49.922266
+date: 11/09/2018 08:01:03.323	code: Info	text: *** Seleccion de estrella: 21.1119999886 ***
+date: 11/09/2018 08:01:03.323	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:01:03.323	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 08:01:03.323	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:01:03.323	code: Info	text: Centrando spots...
+date: 11/09/2018 08:01:05.355	code: Info	text: Intento 0
+date: 11/09/2018 08:01:10.105	code: Info	text: Los spots estan centrados
+date: 11/09/2018 08:01:10.105	code: Info	text: *** Centrado de spots: 6.78200006485 ***
+date: 11/09/2018 08:01:10.105	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:01:10.105	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 08:01:10.105	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:01:10.105	code: Info	text: Comprobando el foco...
+date: 11/09/2018 08:01:10.121	code: Info	text: Intento 0
+date: 11/09/2018 08:01:18.700	code: Info	text: DX: 35.768919999999994 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 08:01:18.700	code: Info	text: Moviendo el foco...
+date: 11/09/2018 08:01:19.075	code: Info	text: Intento 1
+date: 11/09/2018 08:01:26.467	code: Info	text: DX: 35.73426 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 08:01:26.467	code: Info	text: Moviendo el foco...
+date: 11/09/2018 08:01:26.826	code: Info	text: Intento 2
+date: 11/09/2018 08:01:34.187	code: Info	text: DX: 34.61122 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 08:01:34.187	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 08:01:34.202	code: Info	text: *** Enfocado: 24.0969998837 ***
+date: 11/09/2018 08:01:34.202	code: Info	text: *** Seleccion de estrella: 51.9909999371 ***
+date: 11/09/2018 08:01:34.202	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:01:34.202	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 08:01:34.202	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:01:34.202	code: Info	text: ##### PACK: OT_9BH3T4_180911080134
+date: 11/09/2018 08:03:21.887	code: Info	text: ##### (OT_9BH3T4_180911080134) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911070236.txt
+date: 11/09/2018 08:03:21.887	code: Info	text: *** Generacion del fichero 107.685000181
+date: 11/09/2018 08:03:21.887	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:03:21.887	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 08:03:21.887	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:03:22.325	code: Info	text: ###### (OT_9BH3T4_180911080134) SEEING: 0.9666606276871097 (used imgs: 104)
+date: 11/09/2018 08:03:22.325	code: Info	text: *** Calculo del seeing 0.43799996376
+date: 11/09/2018 08:03:22.340	code: Info	text: *** Procesado de datos: 108.138000011 ***
+date: 11/09/2018 08:03:22.340	code: Info	text: *** TIEMPO TOTAL ITERACION: 160.128999949 ***
+date: 11/09/2018 08:03:22.340	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:03:22.340	code: Debg	text: ---------------- Star Selection -------------
+date: 11/09/2018 08:03:22.340	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:03:22.340	code: Info	text: Comprobando que la estella es observable...
+date: 11/09/2018 08:03:22.903	code: info	text: La estrella sigue siendo observable(Mirfak)
+date: 11/09/2018 08:03:22.903	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.78056915306', 'az': '324.190182', 'name': 'Mirfak', 'airmass': '1.150560', 'ha_hours': 'hms_tuple(h=1.0, m=46.0, s=50.04895100143273)', 'alt': '60.358895', 'dec': '49.922266', 'magnitude': '1.790000', 'ra': '3.427741'}
+date: 11/09/2018 08:03:22.903	code: Info	text: *** Seleccion de estrella: 0.563000202179 ***
+date: 11/09/2018 08:03:22.919	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:03:22.919	code: Debg	text: -------------- Check spots ------------------
+date: 11/09/2018 08:03:22.919	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:03:22.919	code: Info	text: Centrando spots...
+date: 11/09/2018 08:03:24.934	code: Info	text: Intento 0
+date: 11/09/2018 08:03:29.669	code: Info	text: Los spots estan centrados
+date: 11/09/2018 08:03:29.669	code: Info	text: *** Centrado de spots: 6.75 ***
+date: 11/09/2018 08:03:29.669	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:03:29.669	code: Debg	text: --------------- Check focal -----------------
+date: 11/09/2018 08:03:29.669	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:03:29.669	code: Info	text: Comprobando el foco...
+date: 11/09/2018 08:03:29.669	code: Info	text: Intento 0
+date: 11/09/2018 08:03:29.888	code: Info	text: DX: 34.69551 (MIN: 34.5 - MAX: 35.5)
+date: 11/09/2018 08:03:29.888	code: Info	text: La imagen esta enfocada
+date: 11/09/2018 08:03:29.888	code: Info	text: *** Enfocado: 0.219000101089 ***
+date: 11/09/2018 08:03:29.888	code: Info	text: *** Seleccion de estrella: 7.54800009727 ***
+date: 11/09/2018 08:03:29.888	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:03:29.888	code: Debg	text: -------- Generando fichero de datos ---------
+date: 11/09/2018 08:03:29.904	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:03:29.904	code: Info	text: ##### PACK: OT_WC9YY0_180911080329
+date: 11/09/2018 08:03:52.750	code: Info	text: Indicando fin del proceso...
+date: 11/09/2018 08:05:14.323	code: Info	text: ##### (OT_WC9YY0_180911080329) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911070431.txt
+date: 11/09/2018 08:05:14.323	code: Info	text: *** Generacion del fichero 104.434999943
+date: 11/09/2018 08:05:14.323	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:05:14.323	code: Debg	text: ------------- Calculando seeing -------------
+date: 11/09/2018 08:05:14.323	code: Debg	text: ---------------------------------------------
+date: 11/09/2018 08:05:14.776	code: Info	text: ###### (OT_WC9YY0_180911080329) SEEING: 0.9229048983896491 (used imgs: 103)
+date: 11/09/2018 08:05:14.776	code: Info	text: *** Calculo del seeing 0.453000068665
+date: 11/09/2018 08:05:14.776	code: Info	text: *** Procesado de datos: 104.888000011 ***
+date: 11/09/2018 08:05:14.776	code: Info	text: *** TIEMPO TOTAL ITERACION: 112.436000109 ***
+date: 11/09/2018 08:05:14.776	code: Info	text: Parando la observacion...
+date: 11/09/2018 08:05:14.776	code: Info	text:  --- OBSERVACION TERMINADA ---
+11/09/2018 08:10:26.442	Debg	---------------------------------------------
+11/09/2018 08:10:26.442	Debg	---------------- Star Selection -------------
+11/09/2018 08:10:26.442	Debg	---------------------------------------------
+11/09/2018 08:10:26.442	Info	Seleccionando estella...
+11/09/2018 08:10:50.163	Info	Estella seleccionada --> Mirfak
+	airmass: 1.166170
+	ha hours: hms_tuple(h=1.0, m=56.0, s=51.972176324071455)
+	ra: 3.427741
+	dec: 49.922267
+11/09/2018 08:10:50.163	Info	*** Seleccion de estrella: 23.7210001945 ***
+11/09/2018 08:10:50.163	Debg	---------------------------------------------
+11/09/2018 08:10:50.163	Debg	-------------- Check spots ------------------
+11/09/2018 08:10:50.163	Debg	---------------------------------------------
+11/09/2018 08:10:50.163	Info	Centrando spots...
+11/09/2018 08:10:52.445	Info	Intento 0
+11/09/2018 08:10:57.383	Info	Los spots estan centrados
+11/09/2018 08:10:57.383	Info	*** Centrado de spots: 7.21999979019 ***
+11/09/2018 08:10:57.383	Debg	---------------------------------------------
+11/09/2018 08:10:57.383	Debg	--------------- Check focal -----------------
+11/09/2018 08:10:57.383	Debg	---------------------------------------------
+11/09/2018 08:10:57.383	Info	Comprobando el foco...
+11/09/2018 08:10:57.383	Info	Intento 0
+11/09/2018 08:11:05.931	Info	DX: 36.788419999999995 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:11:05.931	Info	Moviendo el foco...
+11/09/2018 08:11:06.322	Info	Intento 1
+11/09/2018 08:11:14.010	Info	DX: 36.00246 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:11:14.010	Info	Moviendo el foco...
+11/09/2018 08:11:14.401	Info	Intento 2
+11/09/2018 08:11:21.808	Info	DX: 35.01104 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:11:21.808	Info	La imagen esta enfocada
+11/09/2018 08:11:21.808	Info	*** Enfocado: 24.4250001907 ***
+11/09/2018 08:11:21.808	Info	*** Seleccion de estrella: 55.3660001755 ***
+11/09/2018 08:11:21.808	Debg	---------------------------------------------
+11/09/2018 08:11:21.808	Debg	-------- Generando fichero de datos ---------
+11/09/2018 08:11:21.808	Debg	---------------------------------------------
+11/09/2018 08:11:21.808	Info	##### PACK: OT_G4W8OQ_180911081121
+11/09/2018 08:14:39.613	Info	##### (OT_G4W8OQ_180911081121) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911071317.txt
+11/09/2018 08:14:39.613	Info	*** Generacion del fichero 197.804999828
+11/09/2018 08:14:39.613	Debg	---------------------------------------------
+11/09/2018 08:14:39.613	Debg	------------- Calculando seeing -------------
+11/09/2018 08:14:39.613	Debg	---------------------------------------------
+11/09/2018 08:14:40.551	Info	###### (OT_G4W8OQ_180911081121) SEEING: 0.5209886116981236 (used imgs: 107)
+11/09/2018 08:14:40.551	Info	*** Calculo del seeing 0.938000202179
+11/09/2018 08:14:40.551	Info	*** Procesado de datos: 198.743000031 ***
+11/09/2018 08:14:40.551	Info	*** TIEMPO TOTAL ITERACION: 254.109000206 ***
+11/09/2018 08:14:40.551	Debg	---------------------------------------------
+11/09/2018 08:14:40.566	Debg	---------------- Star Selection -------------
+11/09/2018 08:14:40.566	Debg	---------------------------------------------
+11/09/2018 08:14:40.566	Info	Comprobando que la estella es observable...
+11/09/2018 08:14:41.129	info	La estrella sigue siendo observable(Mirfak)
+11/09/2018 08:14:41.129	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '1.94777004898', 'az': '322.350081', 'name': 'Mirfak', 'airmass': '1.166170', 'ha_hours': 'hms_tuple(h=1.0, m=56.0, s=51.972176324071455)', 'alt': '59.037706', 'dec': '49.922267', 'magnitude': '1.790000', 'ra': '3.427741'}
+11/09/2018 08:14:41.129	Info	*** Seleccion de estrella: 0.56299996376 ***
+11/09/2018 08:14:41.129	Debg	---------------------------------------------
+11/09/2018 08:14:41.129	Debg	-------------- Check spots ------------------
+11/09/2018 08:14:41.129	Debg	---------------------------------------------
+11/09/2018 08:14:41.129	Info	Centrando spots...
+11/09/2018 08:14:43.161	Info	Intento 0
+11/09/2018 08:14:48.692	Info	Los spots estan centrados
+11/09/2018 08:14:48.692	Info	*** Centrado de spots: 7.56299996376 ***
+11/09/2018 08:14:48.692	Debg	---------------------------------------------
+11/09/2018 08:14:48.692	Debg	--------------- Check focal -----------------
+11/09/2018 08:14:48.692	Debg	---------------------------------------------
+11/09/2018 08:14:48.692	Info	Comprobando el foco...
+11/09/2018 08:14:48.692	Info	Intento 0
+11/09/2018 08:14:48.927	Info	DX: 35.659865 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:14:48.927	Info	Moviendo el foco...
+11/09/2018 08:14:49.318	Info	Intento 1
+11/09/2018 08:14:57.772	Info	DX: 35.14716 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:14:57.772	Info	La imagen esta enfocada
+11/09/2018 08:14:57.772	Info	*** Enfocado: 9.08000016212 ***
+11/09/2018 08:14:57.772	Info	*** Seleccion de estrella: 17.2209999561 ***
+11/09/2018 08:14:57.772	Debg	---------------------------------------------
+11/09/2018 08:14:57.772	Debg	-------- Generando fichero de datos ---------
+11/09/2018 08:14:57.787	Debg	---------------------------------------------
+11/09/2018 08:14:57.787	Info	##### PACK: OT_YD3W3W_180911081457
+11/09/2018 08:18:14.289	Info	##### (OT_YD3W3W_180911081457) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911071653.txt
+11/09/2018 08:18:14.289	Info	*** Generacion del fichero 196.51699996
+11/09/2018 08:18:14.289	Debg	---------------------------------------------
+11/09/2018 08:18:14.289	Debg	------------- Calculando seeing -------------
+11/09/2018 08:18:14.289	Debg	---------------------------------------------
+11/09/2018 08:18:15.133	Info	###### (OT_YD3W3W_180911081457) SEEING: 0.5474533475403198 (used imgs: 127)
+11/09/2018 08:18:15.133	Info	*** Calculo del seeing 0.843999862671
+11/09/2018 08:18:15.133	Info	*** Procesado de datos: 197.360999823 ***
+11/09/2018 08:18:15.133	Info	*** TIEMPO TOTAL ITERACION: 214.581999779 ***
+11/09/2018 08:18:15.148	Debg	---------------------------------------------
+11/09/2018 08:18:15.148	Debg	---------------- Star Selection -------------
+11/09/2018 08:18:15.148	Debg	---------------------------------------------
+11/09/2018 08:18:15.148	Info	Comprobando que la estella es observable...
+11/09/2018 08:18:15.648	Error (check star)	Estrella no observable(Mirfak)
+11/09/2018 08:18:15.648	Error (comprobando estrella)	Estrella no observable(Mirfak)
+11/09/2018 08:18:15.648	Info	*** Seleccion de estrella: 0.5 ***
+11/09/2018 08:18:18.649	Info	*** TIEMPO TOTAL ITERACION: 3.50099992752 ***
+11/09/2018 08:18:18.649	Debg	---------------------------------------------
+11/09/2018 08:18:18.649	Debg	---------------- Star Selection -------------
+11/09/2018 08:18:18.649	Debg	---------------------------------------------
+11/09/2018 08:18:18.649	Info	Seleccionando estella...
+11/09/2018 08:18:44.246	Info	Estella seleccionada --> Algol
+	airmass: 1.176489
+	ha hours: hms_tuple(h=2.0, m=23.0, s=10.199070807534198)
+	ra: 3.156518
+	dec: 41.023148
+11/09/2018 08:18:44.246	Info	*** Seleccion de estrella: 25.5970001221 ***
+11/09/2018 08:18:44.246	Debg	---------------------------------------------
+11/09/2018 08:18:44.246	Debg	-------------- Check spots ------------------
+11/09/2018 08:18:44.246	Debg	---------------------------------------------
+11/09/2018 08:18:44.246	Info	Centrando spots...
+11/09/2018 08:18:46.277	Info	Intento 0
+11/09/2018 08:18:51.590	Info	Los spots estan centrados
+11/09/2018 08:18:51.590	Info	*** Centrado de spots: 7.34399986267 ***
+11/09/2018 08:18:51.590	Debg	---------------------------------------------
+11/09/2018 08:18:51.590	Debg	--------------- Check focal -----------------
+11/09/2018 08:18:51.590	Debg	---------------------------------------------
+11/09/2018 08:18:51.590	Info	Comprobando el foco...
+11/09/2018 08:18:51.606	Info	Intento 0
+11/09/2018 08:18:51.825	Info	DX: 35.521139999999995 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:18:51.840	Info	Moviendo el foco...
+11/09/2018 08:18:52.215	Info	Intento 1
+11/09/2018 08:19:00.888	Info	DX: 35.571439999999996 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:19:00.888	Info	Moviendo el foco...
+11/09/2018 08:19:01.248	Info	Intento 2
+11/09/2018 08:19:08.905	Info	DX: 35.18924 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:19:08.905	Info	La imagen esta enfocada
+11/09/2018 08:19:08.905	Info	*** Enfocado: 17.3150000572 ***
+11/09/2018 08:19:08.905	Info	*** Seleccion de estrella: 50.256000042 ***
+11/09/2018 08:19:08.905	Debg	---------------------------------------------
+11/09/2018 08:19:08.905	Debg	-------- Generando fichero de datos ---------
+11/09/2018 08:19:08.905	Debg	---------------------------------------------
+11/09/2018 08:19:08.921	Info	##### PACK: OT_1VP4WO_180911081908
+11/09/2018 08:22:30.695	Info	##### (OT_1VP4WO_180911081908) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911072107.txt
+11/09/2018 08:22:30.695	Info	*** Generacion del fichero 201.789999962
+11/09/2018 08:22:30.695	Debg	---------------------------------------------
+11/09/2018 08:22:30.695	Debg	------------- Calculando seeing -------------
+11/09/2018 08:22:30.695	Debg	---------------------------------------------
+11/09/2018 08:22:31.508	Info	###### (OT_1VP4WO_180911081908) SEEING: 0.4954598564775217 (used imgs: 118)
+11/09/2018 08:22:31.523	Info	*** Calculo del seeing 0.828000068665
+11/09/2018 08:22:31.523	Info	*** Procesado de datos: 202.618000031 ***
+11/09/2018 08:22:31.523	Info	*** TIEMPO TOTAL ITERACION: 252.874000072 ***
+11/09/2018 08:22:31.523	Debg	---------------------------------------------
+11/09/2018 08:22:31.523	Debg	---------------- Star Selection -------------
+11/09/2018 08:22:31.523	Debg	---------------------------------------------
+11/09/2018 08:22:31.523	Info	Comprobando que la estella es observable...
+11/09/2018 08:22:32.227	info	La estrella sigue siendo observable(Algol)
+11/09/2018 08:22:32.227	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '2.38616640856', 'az': '303.115740', 'name': 'Algol', 'airmass': '1.176489', 'ha_hours': 'hms_tuple(h=2.0, m=23.0, s=10.199070807534198)', 'alt': '58.209991', 'dec': '41.023148', 'magnitude': '2.090000', 'ra': '3.156518'}
+11/09/2018 08:22:32.227	Info	*** Seleccion de estrella: 0.703999996185 ***
+11/09/2018 08:22:32.227	Debg	---------------------------------------------
+11/09/2018 08:22:32.227	Debg	-------------- Check spots ------------------
+11/09/2018 08:22:32.227	Debg	---------------------------------------------
+11/09/2018 08:22:32.227	Info	Centrando spots...
+11/09/2018 08:22:34.258	Info	Intento 0
+11/09/2018 08:22:39.477	Info	Los spots estan centrados
+11/09/2018 08:22:39.477	Info	*** Centrado de spots: 7.25 ***
+11/09/2018 08:22:39.477	Debg	---------------------------------------------
+11/09/2018 08:22:39.477	Debg	--------------- Check focal -----------------
+11/09/2018 08:22:39.477	Debg	---------------------------------------------
+11/09/2018 08:22:39.477	Info	Comprobando el foco...
+11/09/2018 08:22:39.477	Info	Intento 0
+11/09/2018 08:22:39.696	Info	DX: 35.41893 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:22:39.696	Info	La imagen esta enfocada
+11/09/2018 08:22:39.696	Info	*** Enfocado: 0.219000101089 ***
+11/09/2018 08:22:39.696	Info	*** Seleccion de estrella: 8.17300009727 ***
+11/09/2018 08:22:39.696	Debg	---------------------------------------------
+11/09/2018 08:22:39.696	Debg	-------- Generando fichero de datos ---------
+11/09/2018 08:22:39.696	Debg	---------------------------------------------
+11/09/2018 08:22:39.696	Info	##### PACK: OT_FUZ82F_180911082239
+11/09/2018 08:26:06.956	Info	##### (OT_FUZ82F_180911082239) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911072440.txt
+11/09/2018 08:26:06.956	Info	*** Generacion del fichero 207.25999999
+11/09/2018 08:26:06.956	Debg	---------------------------------------------
+11/09/2018 08:26:06.956	Debg	------------- Calculando seeing -------------
+11/09/2018 08:26:06.956	Debg	---------------------------------------------
+11/09/2018 08:26:07.956	Info	###### (OT_FUZ82F_180911082239) SEEING: 0.6146562314984744 (used imgs: 74)
+11/09/2018 08:26:07.956	Info	*** Calculo del seeing 1.0
+11/09/2018 08:26:07.972	Info	*** Procesado de datos: 208.275999784 ***
+11/09/2018 08:26:07.972	Info	*** TIEMPO TOTAL ITERACION: 216.448999882 ***
+11/09/2018 08:26:07.972	Debg	---------------------------------------------
+11/09/2018 08:26:07.972	Debg	---------------- Star Selection -------------
+11/09/2018 08:26:07.972	Debg	---------------------------------------------
+11/09/2018 08:26:07.972	Info	Comprobando que la estella es observable...
+11/09/2018 08:26:08.472	Error (check star)	Estrella no observable(Algol)
+11/09/2018 08:26:08.472	Error (comprobando estrella)	Estrella no observable(Algol)
+11/09/2018 08:26:08.472	Info	*** Seleccion de estrella: 0.5 ***
+11/09/2018 08:26:11.472	Info	*** TIEMPO TOTAL ITERACION: 3.5 ***
+11/09/2018 08:26:11.472	Debg	---------------------------------------------
+11/09/2018 08:26:11.472	Debg	---------------- Star Selection -------------
+11/09/2018 08:26:11.472	Debg	---------------------------------------------
+11/09/2018 08:26:11.472	Info	Seleccionando estella...
+11/09/2018 08:27:11.129	Info	Estella seleccionada --> Pollux
+	airmass: 1.136011
+	ha hours: hms_tuple(h=-2.0, m=-8.0, s=-51.852279198815125)
+	ra: 7.773983
+	dec: 27.979441
+11/09/2018 08:27:11.129	Info	*** Seleccion de estrella: 59.6570000648 ***
+11/09/2018 08:27:11.129	Debg	---------------------------------------------
+11/09/2018 08:27:11.129	Debg	-------------- Check spots ------------------
+11/09/2018 08:27:11.129	Debg	---------------------------------------------
+11/09/2018 08:27:11.129	Info	Centrando spots...
+11/09/2018 08:27:13.161	Info	Intento 0
+11/09/2018 08:27:18.552	Info	Los spots estan centrados
+11/09/2018 08:27:18.552	Info	*** Centrado de spots: 7.42300009727 ***
+11/09/2018 08:27:18.552	Debg	---------------------------------------------
+11/09/2018 08:27:18.552	Debg	--------------- Check focal -----------------
+11/09/2018 08:27:18.552	Debg	---------------------------------------------
+11/09/2018 08:27:18.552	Info	Comprobando el foco...
+11/09/2018 08:27:18.552	Info	Intento 0
+11/09/2018 08:27:18.771	Info	DX: 35.97242 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:27:18.771	Info	Moviendo el foco...
+11/09/2018 08:27:19.240	Info	Intento 1
+11/09/2018 08:27:27.975	Info	DX: 33.5809 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:27:27.975	Info	Moviendo el foco...
+11/09/2018 08:27:28.475	Info	Intento 2
+11/09/2018 08:27:36.164	Info	DX: 33.202839999999995 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:27:36.164	Info	Moviendo el foco...
+11/09/2018 08:27:36.554	Info	Intento 3
+11/09/2018 08:27:43.977	Info	DX: 33.792820000000006 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:27:43.977	Info	Moviendo el foco...
+11/09/2018 08:27:44.321	Info	Intento 4
+11/09/2018 08:27:53.619	Info	DX: 34.37386 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:27:53.619	Info	Moviendo el foco...
+11/09/2018 08:27:53.994	Info	Intento 5
+11/09/2018 08:28:01.557	Info	DX: 34.995979999999996 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:28:01.557	Info	La imagen esta enfocada
+11/09/2018 08:28:01.557	Info	*** Enfocado: 43.004999876 ***
+11/09/2018 08:28:01.557	Info	*** Seleccion de estrella: 110.085000038 ***
+11/09/2018 08:28:01.557	Debg	---------------------------------------------
+11/09/2018 08:28:01.573	Debg	-------- Generando fichero de datos ---------
+11/09/2018 08:28:01.573	Debg	---------------------------------------------
+11/09/2018 08:28:01.573	Info	##### PACK: OT_UEQIEH_180911082801
+11/09/2018 08:30:47.624	Info	##### (OT_UEQIEH_180911082801) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911072921.txt
+11/09/2018 08:30:47.624	Info	*** Generacion del fichero 166.067000151
+11/09/2018 08:30:47.624	Debg	---------------------------------------------
+11/09/2018 08:30:47.624	Debg	------------- Calculando seeing -------------
+11/09/2018 08:30:47.624	Debg	---------------------------------------------
+11/09/2018 08:30:48.484	Info	###### (OT_UEQIEH_180911082801) SEEING: 6.623253367773085 (used imgs: 36)
+11/09/2018 08:30:48.484	Info	*** Calculo del seeing 0.859999895096
+11/09/2018 08:30:48.484	Info	*** Procesado de datos: 166.927000046 ***
+11/09/2018 08:30:48.484	Info	*** TIEMPO TOTAL ITERACION: 277.012000084 ***
+11/09/2018 08:30:48.484	Debg	---------------------------------------------
+11/09/2018 08:30:48.484	Debg	---------------- Star Selection -------------
+11/09/2018 08:30:48.484	Debg	---------------------------------------------
+11/09/2018 08:30:48.484	Info	Comprobando que la estella es observable...
+11/09/2018 08:30:49.047	info	La estrella sigue siendo observable(Pollux)
+11/09/2018 08:30:49.047	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-2.14773674422', 'az': '82.870814', 'name': 'Pollux', 'airmass': '1.136011', 'ha_hours': 'hms_tuple(h=-2.0, m=-8.0, s=-51.852279198815125)', 'alt': '61.675190', 'dec': '27.979441', 'magnitude': '1.150000', 'ra': '7.773983'}
+11/09/2018 08:30:49.047	Info	*** Seleccion de estrella: 0.56299996376 ***
+11/09/2018 08:30:49.047	Debg	---------------------------------------------
+11/09/2018 08:30:49.047	Debg	-------------- Check spots ------------------
+11/09/2018 08:30:49.047	Debg	---------------------------------------------
+11/09/2018 08:30:49.047	Info	Centrando spots...
+11/09/2018 08:30:51.078	Info	Intento 0
+11/09/2018 08:30:56.407	Info	Los spots estan centrados
+11/09/2018 08:30:56.407	Info	*** Centrado de spots: 7.36000013351 ***
+11/09/2018 08:30:56.407	Debg	---------------------------------------------
+11/09/2018 08:30:56.407	Debg	--------------- Check focal -----------------
+11/09/2018 08:30:56.407	Debg	---------------------------------------------
+11/09/2018 08:30:56.407	Info	Comprobando el foco...
+11/09/2018 08:30:56.422	Info	Intento 0
+11/09/2018 08:30:56.641	Info	DX: 64.05593000000002 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:30:56.641	Error	Imagenes no aptas para calcular el foco
+11/09/2018 08:30:56.641	Info	Intento 1
+11/09/2018 08:32:02.806	Error (get_images)	timed out
+11/09/2018 08:32:02.821	Error (get dx dat)	year is out of range
+11/09/2018 08:32:02.821	Info	DX: 0.0 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:32:02.821	Error	Imagenes no aptas para calcular el foco
+11/09/2018 08:32:02.821	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+11/09/2018 08:32:02.821	Info	*** Seleccion de estrella: 74.3370001316 ***
+11/09/2018 08:32:05.822	Info	*** TIEMPO TOTAL ITERACION: 77.3380000591 ***
+11/09/2018 08:32:05.822	Debg	---------------------------------------------
+11/09/2018 08:32:05.822	Debg	---------------- Star Selection -------------
+11/09/2018 08:32:05.822	Debg	---------------------------------------------
+11/09/2018 08:32:05.822	Info	Seleccionando estella...
+11/09/2018 08:32:28.902	Info	Estella seleccionada --> Castor
+	airmass: 1.100430
+	ha hours: hms_tuple(h=-1.0, m=-53.0, s=-10.17196292088201)
+	ra: 7.595986
+	dec: 31.845436
+11/09/2018 08:32:28.902	Info	*** Seleccion de estrella: 23.0799999237 ***
+11/09/2018 08:32:28.902	Debg	---------------------------------------------
+11/09/2018 08:32:28.902	Debg	-------------- Check spots ------------------
+11/09/2018 08:32:28.902	Debg	---------------------------------------------
+11/09/2018 08:32:28.902	Info	Centrando spots...
+11/09/2018 08:32:30.934	Info	Intento 0
+11/09/2018 08:33:31.957	Error (get_images)	timed out
+11/09/2018 08:33:31.957	Error	No se ha podido conseguir imagen del servidor
+11/09/2018 08:33:34.176	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 08:33:34.176	Info	*** Seleccion de estrella: 88.3540000916 ***
+11/09/2018 08:33:34.176	Error (manage auto select error)	It's not posible to select a star. Next trying on 60 seconds.
+11/09/2018 08:33:34.176	Info	Llevando la montura al home...
+11/09/2018 08:34:50.935	Info	Montura en el home
+11/09/2018 08:35:50.943	Info	*** TIEMPO TOTAL ITERACION: 225.121000051 ***
+11/09/2018 08:35:50.943	Debg	---------------------------------------------
+11/09/2018 08:35:50.943	Debg	---------------- Star Selection -------------
+11/09/2018 08:35:50.943	Debg	---------------------------------------------
+11/09/2018 08:35:50.943	Info	Seleccionando estella...
+11/09/2018 08:36:51.341	Info	Estella seleccionada --> Pollux
+	airmass: 1.113862
+	ha hours: hms_tuple(h=-1.0, m=-58.0, s=-50.119524984775694)
+	ra: 7.773983
+	dec: 27.979441
+11/09/2018 08:36:51.341	Info	*** Seleccion de estrella: 60.3980000019 ***
+11/09/2018 08:36:51.341	Debg	---------------------------------------------
+11/09/2018 08:36:51.341	Debg	-------------- Check spots ------------------
+11/09/2018 08:36:51.341	Debg	---------------------------------------------
+11/09/2018 08:36:51.341	Info	Centrando spots...
+11/09/2018 08:36:53.388	Info	Intento 0
+11/09/2018 08:37:54.317	Error (get_images)	timed out
+11/09/2018 08:37:54.317	Error	No se ha podido conseguir imagen del servidor
+11/09/2018 08:37:56.536	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 08:37:56.536	Info	*** Seleccion de estrella: 125.592999935 ***
+11/09/2018 08:37:59.536	Info	*** TIEMPO TOTAL ITERACION: 128.592999935 ***
+11/09/2018 08:37:59.536	Debg	---------------------------------------------
+11/09/2018 08:37:59.536	Debg	---------------- Star Selection -------------
+11/09/2018 08:37:59.536	Debg	---------------------------------------------
+11/09/2018 08:37:59.536	Info	Seleccionando estella...
+11/09/2018 08:38:22.289	Info	Estella seleccionada --> Castor
+	airmass: 1.082707
+	ha hours: hms_tuple(h=-1.0, m=-43.0, s=-8.509376445543353)
+	ra: 7.595986
+	dec: 31.845436
+11/09/2018 08:38:22.289	Info	*** Seleccion de estrella: 22.753000021 ***
+11/09/2018 08:38:22.289	Debg	---------------------------------------------
+11/09/2018 08:38:22.289	Debg	-------------- Check spots ------------------
+11/09/2018 08:38:22.289	Debg	---------------------------------------------
+11/09/2018 08:38:22.289	Info	Centrando spots...
+11/09/2018 08:38:24.336	Info	Intento 0
+11/09/2018 08:39:25.359	Error (get_images)	timed out
+11/09/2018 08:39:25.359	Error	No se ha podido conseguir imagen del servidor
+11/09/2018 08:39:27.578	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 08:39:27.578	Info	*** Seleccion de estrella: 88.0420000553 ***
+11/09/2018 08:39:30.579	Info	*** TIEMPO TOTAL ITERACION: 91.0429999828 ***
+11/09/2018 08:39:30.579	Debg	---------------------------------------------
+11/09/2018 08:39:30.579	Debg	---------------- Star Selection -------------
+11/09/2018 08:39:30.594	Debg	---------------------------------------------
+11/09/2018 08:39:30.594	Info	Seleccionando estella...
+11/09/2018 08:39:53.582	Info	Estella seleccionada --> Pollux
+	airmass: 1.103697
+	ha hours: hms_tuple(h=-1.0, m=-53.0, s=-49.29823151368595)
+	ra: 7.773983
+	dec: 27.979441
+11/09/2018 08:39:53.597	Info	*** Seleccion de estrella: 22.9879999161 ***
+11/09/2018 08:39:53.597	Debg	---------------------------------------------
+11/09/2018 08:39:53.597	Debg	-------------- Check spots ------------------
+11/09/2018 08:39:53.597	Debg	---------------------------------------------
+11/09/2018 08:39:53.597	Info	Centrando spots...
+11/09/2018 08:39:55.629	Info	Intento 0
+11/09/2018 08:40:52.698	Info	Indicando fin del proceso...
+11/09/2018 08:40:56.636	Error (get_images)	timed out
+11/09/2018 08:40:56.636	Error	No se ha podido conseguir imagen del servidor
+11/09/2018 08:40:58.855	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 08:40:58.855	Info	*** Seleccion de estrella: 88.2760000229 ***
+11/09/2018 08:41:01.855	Info	*** TIEMPO TOTAL ITERACION: 91.2760000229 ***
+11/09/2018 08:41:01.871	Info	Parando la observacion...
+11/09/2018 08:41:01.871	Info	 --- OBSERVACION TERMINADA ---
+11/09/2018 08:41:31.984	Debg	---------------------------------------------
+11/09/2018 08:41:31.984	Debg	---------------- Star Selection -------------
+11/09/2018 08:41:31.984	Debg	---------------------------------------------
+11/09/2018 08:41:31.984	Info	Seleccionando estella...
+11/09/2018 08:41:53.627	Info	Estella seleccionada --> Pollux
+	airmass: 1.103697
+	ha hours: hms_tuple(h=-1.0, m=-53.0, s=-49.29823151368595)
+	ra: 7.773983
+	dec: 27.979441
+11/09/2018 08:41:53.643	Info	*** Seleccion de estrella: 21.6589999199 ***
+11/09/2018 08:41:53.643	Debg	---------------------------------------------
+11/09/2018 08:41:53.643	Debg	-------------- Check spots ------------------
+11/09/2018 08:41:53.643	Debg	---------------------------------------------
+11/09/2018 08:41:53.643	Info	Centrando spots...
+11/09/2018 08:41:55.706	Info	Intento 0
+11/09/2018 08:42:55.713	Error	No se ha podido conseguir imagen del servidor
+11/09/2018 08:42:57.932	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 08:42:57.932	Info	*** Seleccion de estrella: 85.9479999542 ***
+11/09/2018 08:43:00.932	Info	*** TIEMPO TOTAL ITERACION: 88.9479999542 ***
+11/09/2018 08:43:00.932	Debg	---------------------------------------------
+11/09/2018 08:43:00.932	Debg	---------------- Star Selection -------------
+11/09/2018 08:43:00.932	Debg	---------------------------------------------
+11/09/2018 08:43:00.932	Info	Seleccionando estella...
+11/09/2018 08:43:17.763	Info	Indicando fin del proceso...
+11/09/2018 08:43:23.904	Info	Estella seleccionada --> Castor
+	airmass: 1.074613
+	ha hours: hms_tuple(h=-1.0, m=-38.0, s=-7.668078051877529)
+	ra: 7.595986
+	dec: 31.845436
+11/09/2018 08:43:23.904	Info	*** Seleccion de estrella: 22.9720001221 ***
+11/09/2018 08:43:23.904	Debg	---------------------------------------------
+11/09/2018 08:43:23.904	Debg	-------------- Check spots ------------------
+11/09/2018 08:43:23.904	Debg	---------------------------------------------
+11/09/2018 08:43:23.904	Info	Centrando spots...
+11/09/2018 08:43:25.935	Info	Intento 0
+11/09/2018 08:43:30.061	Info	Los spots estan centrados
+11/09/2018 08:43:30.061	Info	*** Centrado de spots: 6.15700006485 ***
+11/09/2018 08:43:30.061	Debg	---------------------------------------------
+11/09/2018 08:43:30.061	Debg	--------------- Check focal -----------------
+11/09/2018 08:43:30.061	Debg	---------------------------------------------
+11/09/2018 08:43:30.061	Info	Comprobando el foco...
+11/09/2018 08:43:30.061	Info	Intento 0
+11/09/2018 08:43:38.578	Info	DX: 34.37834 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:43:38.578	Info	Moviendo el foco...
+11/09/2018 08:43:38.937	Info	Intento 1
+11/09/2018 08:43:46.594	Info	DX: 34.78542 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:43:46.594	Info	La imagen esta enfocada
+11/09/2018 08:43:46.594	Info	*** Enfocado: 16.5329999924 ***
+11/09/2018 08:43:46.594	Info	*** Seleccion de estrella: 45.6620001793 ***
+11/09/2018 08:43:46.594	Debg	---------------------------------------------
+11/09/2018 08:43:46.594	Debg	-------- Generando fichero de datos ---------
+11/09/2018 08:43:46.594	Debg	---------------------------------------------
+11/09/2018 08:43:46.594	Info	##### PACK: OT_LAU0QW_180911084346
+11/09/2018 08:47:15.910	Info	##### (OT_LAU0QW_180911084346) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911074554.txt
+11/09/2018 08:47:15.910	Info	*** Generacion del fichero 209.315999985
+11/09/2018 08:47:15.910	Debg	---------------------------------------------
+11/09/2018 08:47:15.910	Debg	------------- Calculando seeing -------------
+11/09/2018 08:47:15.910	Debg	---------------------------------------------
+11/09/2018 08:47:16.738	Info	###### (OT_LAU0QW_180911084346) SEEING: 1.3938623735959756 (used imgs: 185)
+11/09/2018 08:47:16.738	Info	*** Calculo del seeing 0.827999830246
+11/09/2018 08:47:16.738	Info	*** Procesado de datos: 210.143999815 ***
+11/09/2018 08:47:16.738	Info	*** TIEMPO TOTAL ITERACION: 255.805999994 ***
+11/09/2018 08:47:16.738	Info	Parando la observacion...
+11/09/2018 08:47:16.738	Info	 --- OBSERVACION TERMINADA ---
+11/09/2018 08:47:39.053	Debg	---------------------------------------------
+11/09/2018 08:47:39.053	Debg	---------------- Star Selection -------------
+11/09/2018 08:47:39.053	Debg	---------------------------------------------
+11/09/2018 08:47:39.053	Info	Seleccionando estella...
+11/09/2018 08:48:04.650	Info	Estella seleccionada --> Pollux
+	airmass: 1.085073
+	ha hours: hms_tuple(h=-1.0, m=-43.0, s=-47.61558362541962)
+	ra: 7.773983
+	dec: 27.979441
+11/09/2018 08:48:04.650	Info	*** Seleccion de estrella: 25.5970001221 ***
+11/09/2018 08:48:04.650	Debg	---------------------------------------------
+11/09/2018 08:48:04.650	Debg	-------------- Check spots ------------------
+11/09/2018 08:48:04.650	Debg	---------------------------------------------
+11/09/2018 08:48:04.650	Info	Centrando spots...
+11/09/2018 08:48:06.697	Info	Intento 0
+11/09/2018 08:48:07.713	Info	--1--
+11/09/2018 08:48:07.713	Info	--2--
+11/09/2018 08:48:07.713	Info	--3--
+11/09/2018 08:48:07.713	Info	--3--
+11/09/2018 08:48:07.713	Info	--2--
+11/09/2018 08:48:07.713	Info	--3--
+11/09/2018 08:48:07.713	Info	--3--
+11/09/2018 08:48:07.713	Info	--2--
+11/09/2018 08:48:07.713	Info	--3--
+11/09/2018 08:48:07.713	Info	--3--
+11/09/2018 08:48:07.713	Info	--2--
+11/09/2018 08:48:07.713	Info	--3--
+11/09/2018 08:48:07.713	Info	--3--
+11/09/2018 08:48:07.713	Info	--2--
+11/09/2018 08:48:07.713	Info	--3--
+11/09/2018 08:48:07.713	Info	--3--
+11/09/2018 08:48:07.713	Info	--2--
+11/09/2018 08:48:07.713	Info	--3--
+11/09/2018 08:48:07.713	Info	--3--
+11/09/2018 08:48:07.713	Info	--2--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--2--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--2--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--2--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--2--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--2--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--2--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--2--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.729	Info	--2--
+11/09/2018 08:48:07.729	Info	--3--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--2--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--2--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--2--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--2--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--2--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--2--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--2--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--2--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.744	Info	--3--
+11/09/2018 08:48:07.760	Info	--2--
+11/09/2018 08:48:07.760	Info	--3--
+11/09/2018 08:48:07.760	Info	--3--
+11/09/2018 08:48:07.760	Info	--2--
+11/09/2018 08:48:07.760	Info	--3--
+11/09/2018 08:48:07.760	Info	--3--
+11/09/2018 08:48:07.760	Info	--2--
+11/09/2018 08:48:07.760	Info	--3--
+11/09/2018 08:48:07.760	Info	--3--
+11/09/2018 08:48:07.760	Info	--2--
+11/09/2018 08:48:07.760	Info	--3--
+11/09/2018 08:48:07.760	Info	--3--
+11/09/2018 08:48:07.760	Info	--2--
+11/09/2018 08:48:07.760	Info	--3--
+11/09/2018 08:48:07.760	Info	--3--
+11/09/2018 08:48:07.760	Info	--2--
+11/09/2018 08:48:07.760	Info	--3--
+11/09/2018 08:48:07.760	Info	--3--
+11/09/2018 08:48:07.760	Info	--2--
+11/09/2018 08:48:07.775	Info	--3--
+11/09/2018 08:48:07.775	Info	--3--
+11/09/2018 08:48:07.775	Info	--2--
+11/09/2018 08:48:07.775	Info	--3--
+11/09/2018 08:48:07.775	Info	--3--
+11/09/2018 08:48:07.775	Info	--2--
+11/09/2018 08:48:07.775	Info	--3--
+11/09/2018 08:48:07.775	Info	--3--
+11/09/2018 08:48:07.775	Info	--2--
+11/09/2018 08:48:07.775	Info	--3--
+11/09/2018 08:48:07.775	Info	--3--
+11/09/2018 08:48:07.775	Info	--2--
+11/09/2018 08:48:07.775	Info	--3--
+11/09/2018 08:48:07.775	Info	--3--
+11/09/2018 08:48:07.775	Info	--2--
+11/09/2018 08:48:07.775	Info	--3--
+11/09/2018 08:48:07.775	Info	--3--
+11/09/2018 08:48:07.775	Info	--2--
+11/09/2018 08:48:07.791	Info	--3--
+11/09/2018 08:48:07.791	Info	--3--
+11/09/2018 08:48:12.338	Info	Los spots estan centrados
+11/09/2018 08:48:12.338	Info	*** Centrado de spots: 7.68799996376 ***
+11/09/2018 08:48:12.338	Debg	---------------------------------------------
+11/09/2018 08:48:12.338	Debg	--------------- Check focal -----------------
+11/09/2018 08:48:12.338	Debg	---------------------------------------------
+11/09/2018 08:48:12.338	Info	Comprobando el foco...
+11/09/2018 08:48:12.338	Info	Intento 0
+11/09/2018 08:48:15.386	Info	--1--
+11/09/2018 08:48:15.386	Info	--2--
+11/09/2018 08:48:15.386	Info	--3--
+11/09/2018 08:48:15.386	Info	--3--
+11/09/2018 08:48:15.386	Info	--2--
+11/09/2018 08:48:15.386	Info	--3--
+11/09/2018 08:48:15.386	Info	--3--
+11/09/2018 08:48:15.386	Info	--2--
+11/09/2018 08:48:16.933	Info	--3--
+11/09/2018 08:48:16.933	Info	--3--
+11/09/2018 08:48:16.933	Info	--2--
+11/09/2018 08:48:16.933	Info	--3--
+11/09/2018 08:48:16.933	Info	--3--
+11/09/2018 08:48:16.933	Info	--2--
+11/09/2018 08:48:16.933	Info	--3--
+11/09/2018 08:48:16.933	Info	--3--
+11/09/2018 08:48:16.933	Info	--2--
+11/09/2018 08:48:17.511	Info	--3--
+11/09/2018 08:48:17.511	Info	--3--
+11/09/2018 08:48:17.511	Info	--2--
+11/09/2018 08:48:17.511	Info	--3--
+11/09/2018 08:48:17.511	Info	--3--
+11/09/2018 08:48:17.511	Info	--2--
+11/09/2018 08:48:17.511	Info	--3--
+11/09/2018 08:48:17.511	Info	--3--
+11/09/2018 08:48:17.511	Info	--2--
+11/09/2018 08:48:17.511	Info	--3--
+11/09/2018 08:48:17.511	Info	--3--
+11/09/2018 08:48:17.511	Info	--2--
+11/09/2018 08:48:18.105	Info	--3--
+11/09/2018 08:48:18.105	Info	--3--
+11/09/2018 08:48:18.120	Info	--2--
+11/09/2018 08:48:18.120	Info	--3--
+11/09/2018 08:48:18.120	Info	--3--
+11/09/2018 08:48:18.120	Info	--2--
+11/09/2018 08:48:18.120	Info	--3--
+11/09/2018 08:48:18.120	Info	--3--
+11/09/2018 08:48:18.120	Info	--2--
+11/09/2018 08:48:18.120	Info	--3--
+11/09/2018 08:48:18.120	Info	--3--
+11/09/2018 08:48:18.120	Info	--2--
+11/09/2018 08:48:18.745	Info	--3--
+11/09/2018 08:48:18.745	Info	--3--
+11/09/2018 08:48:18.745	Info	--2--
+11/09/2018 08:48:18.745	Info	--3--
+11/09/2018 08:48:18.745	Info	--3--
+11/09/2018 08:48:18.745	Info	--2--
+11/09/2018 08:48:18.745	Info	--3--
+11/09/2018 08:48:18.745	Info	--3--
+11/09/2018 08:48:18.745	Info	--2--
+11/09/2018 08:49:18.753	Error (get_images)	timed out
+11/09/2018 08:49:18.768	Error (get dx dat)	year is out of range
+11/09/2018 08:49:18.768	Info	DX: 0.0 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 08:49:18.768	Error	Imagenes no aptas para calcular el foco
+11/09/2018 08:49:18.768	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+11/09/2018 08:49:18.768	Info	*** Seleccion de estrella: 99.7299997807 ***
+11/09/2018 08:49:21.769	Info	*** TIEMPO TOTAL ITERACION: 102.730999947 ***
+11/09/2018 08:49:21.784	Debg	---------------------------------------------
+11/09/2018 08:49:21.784	Debg	---------------- Star Selection -------------
+11/09/2018 08:49:21.784	Debg	---------------------------------------------
+11/09/2018 08:49:21.784	Info	Seleccionando estella...
+11/09/2018 08:49:43.271	Info	Estella seleccionada --> Castor
+	airmass: 1.067010
+	ha hours: hms_tuple(h=-1.0, m=-33.0, s=-6.826739337703174)
+	ra: 7.595986
+	dec: 31.845436
+11/09/2018 08:49:43.271	Info	*** Seleccion de estrella: 21.4869999886 ***
+11/09/2018 08:49:43.271	Debg	---------------------------------------------
+11/09/2018 08:49:43.271	Debg	-------------- Check spots ------------------
+11/09/2018 08:49:43.271	Debg	---------------------------------------------
+11/09/2018 08:49:43.271	Info	Centrando spots...
+11/09/2018 08:49:45.318	Info	Intento 0
+11/09/2018 08:49:46.319	Info	--1--
+11/09/2018 08:49:46.319	Info	--2--
+11/09/2018 08:50:46.326	Error (get_images)	timed out
+11/09/2018 08:50:46.326	Error	No se ha podido conseguir imagen del servidor
+11/09/2018 08:50:48.545	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 08:50:48.545	Info	*** Seleccion de estrella: 86.7610001564 ***
+11/09/2018 08:50:51.545	Info	*** TIEMPO TOTAL ITERACION: 89.7610001564 ***
+11/09/2018 08:50:51.561	Debg	---------------------------------------------
+11/09/2018 08:50:51.561	Debg	---------------- Star Selection -------------
+11/09/2018 08:50:51.561	Debg	---------------------------------------------
+11/09/2018 08:50:51.561	Info	Seleccionando estella...
+11/09/2018 08:51:12.939	Info	Estella seleccionada --> Pollux
+	airmass: 1.085073
+	ha hours: hms_tuple(h=-1.0, m=-43.0, s=-47.61558362541962)
+	ra: 7.773983
+	dec: 27.979441
+11/09/2018 08:51:12.939	Info	*** Seleccion de estrella: 21.3779997826 ***
+11/09/2018 08:51:12.939	Debg	---------------------------------------------
+11/09/2018 08:51:12.939	Debg	-------------- Check spots ------------------
+11/09/2018 08:51:12.939	Debg	---------------------------------------------
+11/09/2018 08:51:12.939	Info	Centrando spots...
+11/09/2018 08:51:14.970	Info	Intento 0
+11/09/2018 08:51:15.986	Info	--1--
+11/09/2018 08:51:15.986	Info	--2--
+11/09/2018 08:52:15.993	Error (get_images)	timed out
+11/09/2018 08:52:15.993	Error	No se ha podido conseguir imagen del servidor
+11/09/2018 08:52:18.212	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 08:52:18.212	Info	*** Seleccion de estrella: 86.6669998169 ***
+11/09/2018 08:52:21.212	Info	*** TIEMPO TOTAL ITERACION: 89.6669998169 ***
+11/09/2018 08:52:21.212	Debg	---------------------------------------------
+11/09/2018 08:52:21.212	Debg	---------------- Star Selection -------------
+11/09/2018 08:52:21.212	Debg	---------------------------------------------
+11/09/2018 08:52:21.212	Info	Seleccionando estella...
+11/09/2018 08:52:43.700	Info	Estella seleccionada --> Castor
+	airmass: 1.059882
+	ha hours: hms_tuple(h=-1.0, m=-28.0, s=-5.925248723341596)
+	ra: 7.595986
+	dec: 31.845436
+11/09/2018 08:52:43.700	Info	*** Seleccion de estrella: 22.4880001545 ***
+11/09/2018 08:52:43.700	Debg	---------------------------------------------
+11/09/2018 08:52:43.700	Debg	-------------- Check spots ------------------
+11/09/2018 08:52:43.700	Debg	---------------------------------------------
+11/09/2018 08:52:43.700	Info	Centrando spots...
+11/09/2018 08:52:45.731	Info	Intento 0
+11/09/2018 08:52:46.747	Info	--1--
+11/09/2018 08:52:46.747	Info	--2--
+11/09/2018 08:53:46.754	Error (get_images)	timed out
+11/09/2018 08:53:46.754	Error	No se ha podido conseguir imagen del servidor
+11/09/2018 08:53:48.973	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 08:53:48.973	Info	*** Seleccion de estrella: 87.7610001564 ***
+11/09/2018 08:53:48.973	Error (manage auto select error)	It's not posible to select a star. Next trying on 60 seconds.
+11/09/2018 08:53:48.973	Info	Llevando la montura al home...
+11/09/2018 08:55:08.076	Info	Montura en el home
+11/09/2018 08:56:08.084	Info	*** TIEMPO TOTAL ITERACION: 226.872000217 ***
+11/09/2018 08:56:08.084	Debg	---------------------------------------------
+11/09/2018 08:56:08.084	Debg	---------------- Star Selection -------------
+11/09/2018 08:56:08.084	Debg	---------------------------------------------
+11/09/2018 08:56:08.084	Info	Seleccionando estella...
+11/09/2018 08:57:07.987	Info	Estella seleccionada --> Pollux
+	airmass: 1.076572
+	ha hours: hms_tuple(h=-1.0, m=-38.0, s=-46.71408761979279)
+	ra: 7.773983
+	dec: 27.979441
+11/09/2018 08:57:07.987	Info	*** Seleccion de estrella: 59.9029998779 ***
+11/09/2018 08:57:07.987	Debg	---------------------------------------------
+11/09/2018 08:57:07.987	Debg	-------------- Check spots ------------------
+11/09/2018 08:57:07.987	Debg	---------------------------------------------
+11/09/2018 08:57:07.987	Info	Centrando spots...
+11/09/2018 08:57:10.019	Info	Intento 0
+11/09/2018 08:57:11.035	Info	--1--
+11/09/2018 08:57:11.035	Info	--2--
+11/09/2018 08:57:11.394	Info	Indicando fin del proceso...
+11/09/2018 08:58:11.042	Error (get_images)	timed out
+11/09/2018 08:58:11.042	Error	No se ha podido conseguir imagen del servidor
+11/09/2018 08:58:13.261	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 08:58:13.261	Info	*** Seleccion de estrella: 125.176999807 ***
+11/09/2018 08:58:16.261	Info	*** TIEMPO TOTAL ITERACION: 128.176999807 ***
+11/09/2018 08:58:16.261	Info	Parando la observacion...
+11/09/2018 08:58:16.261	Info	 --- OBSERVACION TERMINADA ---
+11/09/2018 08:58:49.140	Debg	---------------------------------------------
+11/09/2018 08:58:49.140	Debg	---------------- Star Selection -------------
+11/09/2018 08:58:49.140	Debg	---------------------------------------------
+11/09/2018 08:58:49.140	Info	Seleccionando estella...
+11/09/2018 08:59:10.533	Info	Estella seleccionada --> Pollux
+	airmass: 1.068591
+	ha hours: hms_tuple(h=-1.0, m=-33.0, s=-45.86273845954935)
+	ra: 7.773983
+	dec: 27.979441
+11/09/2018 08:59:10.533	Info	*** Seleccion de estrella: 21.3929998875 ***
+11/09/2018 08:59:10.533	Debg	---------------------------------------------
+11/09/2018 08:59:10.533	Debg	-------------- Check spots ------------------
+11/09/2018 08:59:10.533	Debg	---------------------------------------------
+11/09/2018 08:59:10.533	Info	Centrando spots...
+11/09/2018 08:59:12.565	Info	Intento 0
+11/09/2018 09:00:13.588	Error (get_images)	timed out
+11/09/2018 09:00:15.807	Error (center spots)	ImgClient instance has no attribute 'ini_coneccionn'
+11/09/2018 09:00:18.057	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 09:00:18.057	Info	*** Seleccion de estrella: 88.9169998169 ***
+11/09/2018 09:00:21.058	Info	*** TIEMPO TOTAL ITERACION: 91.9179999828 ***
+11/09/2018 09:00:21.058	Debg	---------------------------------------------
+11/09/2018 09:00:21.058	Debg	---------------- Star Selection -------------
+11/09/2018 09:00:21.058	Debg	---------------------------------------------
+11/09/2018 09:00:21.058	Info	Seleccionando estella...
+11/09/2018 09:00:42.998	Info	Estella seleccionada --> Castor
+	airmass: 1.053218
+	ha hours: hms_tuple(h=-1.0, m=-23.0, s=-5.0739049534521286)
+	ra: 7.595986
+	dec: 31.845436
+11/09/2018 09:00:42.998	Info	*** Seleccion de estrella: 21.9399998188 ***
+11/09/2018 09:00:42.998	Debg	---------------------------------------------
+11/09/2018 09:00:42.998	Debg	-------------- Check spots ------------------
+11/09/2018 09:00:42.998	Debg	---------------------------------------------
+11/09/2018 09:00:42.998	Info	Centrando spots...
+11/09/2018 09:00:45.029	Info	Intento 0
+11/09/2018 09:00:53.624	Info	Indicando fin del proceso...
+11/09/2018 09:01:46.052	Error (get_images)	timed out
+11/09/2018 09:01:48.271	Error (center spots)	ImgClient instance has no attribute 'ini_coneccionn'
+11/09/2018 09:01:50.475	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 09:01:50.475	Info	*** Seleccion de estrella: 89.4169998169 ***
+11/09/2018 09:01:53.475	Info	*** TIEMPO TOTAL ITERACION: 92.4169998169 ***
+11/09/2018 09:01:53.475	Info	Parando la observacion...
+11/09/2018 09:01:53.491	Info	 --- OBSERVACION TERMINADA ---
+11/09/2018 09:02:08.024	Debg	---------------------------------------------
+11/09/2018 09:02:08.024	Debg	---------------- Star Selection -------------
+11/09/2018 09:02:08.024	Debg	---------------------------------------------
+11/09/2018 09:02:08.024	Info	Seleccionando estella...
+11/09/2018 09:02:32.167	Info	Estella seleccionada --> Pollux
+	airmass: 1.068591
+	ha hours: hms_tuple(h=-1.0, m=-33.0, s=-45.86273845954935)
+	ra: 7.773983
+	dec: 27.979441
+11/09/2018 09:02:32.167	Info	*** Seleccion de estrella: 24.1430001259 ***
+11/09/2018 09:02:32.167	Debg	---------------------------------------------
+11/09/2018 09:02:32.167	Debg	-------------- Check spots ------------------
+11/09/2018 09:02:32.167	Debg	---------------------------------------------
+11/09/2018 09:02:32.167	Info	Centrando spots...
+11/09/2018 09:02:34.214	Info	Intento 0
+11/09/2018 09:03:35.222	Error (get_images)	timed out
+11/09/2018 09:03:37.441	Error (center spots)	ImgClient instance has no attribute 'ini_conneccion'
+11/09/2018 09:03:39.660	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 09:03:39.660	Info	*** Seleccion de estrella: 91.6360001564 ***
+11/09/2018 09:03:42.660	Info	*** TIEMPO TOTAL ITERACION: 94.6360001564 ***
+11/09/2018 09:03:42.660	Debg	---------------------------------------------
+11/09/2018 09:03:42.660	Debg	---------------- Star Selection -------------
+11/09/2018 09:03:42.660	Debg	---------------------------------------------
+11/09/2018 09:03:42.660	Info	Seleccionando estella...
+11/09/2018 09:03:44.582	Info	Indicando fin del proceso...
+11/09/2018 09:04:04.413	Info	Estella seleccionada --> Castor
+	airmass: 1.047004
+	ha hours: hms_tuple(h=-1.0, m=-18.0, s=-4.252657194452496)
+	ra: 7.595986
+	dec: 31.845436
+11/09/2018 09:04:04.413	Info	*** Seleccion de estrella: 21.753000021 ***
+11/09/2018 09:04:04.413	Debg	---------------------------------------------
+11/09/2018 09:04:04.413	Debg	-------------- Check spots ------------------
+11/09/2018 09:04:04.413	Debg	---------------------------------------------
+11/09/2018 09:04:04.413	Info	Centrando spots...
+11/09/2018 09:04:06.444	Info	Intento 0
+11/09/2018 09:05:07.452	Error (get_images)	timed out
+11/09/2018 09:05:09.671	Error (center spots)	ImgClient instance has no attribute 'ini_conneccion'
+11/09/2018 09:05:11.890	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 09:05:11.890	Info	*** Seleccion de estrella: 89.2300000191 ***
+11/09/2018 09:05:14.890	Info	*** TIEMPO TOTAL ITERACION: 92.2300000191 ***
+11/09/2018 09:05:14.890	Info	Parando la observacion...
+11/09/2018 09:05:14.890	Info	 --- OBSERVACION TERMINADA ---
+11/09/2018 09:05:29.001	Debg	---------------------------------------------
+11/09/2018 09:05:29.001	Debg	---------------- Star Selection -------------
+11/09/2018 09:05:29.001	Debg	---------------------------------------------
+11/09/2018 09:05:29.001	Info	Seleccionando estella...
+11/09/2018 09:05:53.114	Info	Estella seleccionada --> Pollux
+	airmass: 1.061112
+	ha hours: hms_tuple(h=-1.0, m=-28.0, s=-45.04148531076531)
+	ra: 7.773983
+	dec: 27.979441
+11/09/2018 09:05:53.114	Info	*** Seleccion de estrella: 24.1130001545 ***
+11/09/2018 09:05:53.114	Debg	---------------------------------------------
+11/09/2018 09:05:53.114	Debg	-------------- Check spots ------------------
+11/09/2018 09:05:53.114	Debg	---------------------------------------------
+11/09/2018 09:05:53.114	Info	Centrando spots...
+11/09/2018 09:05:55.161	Info	Intento 0
+11/09/2018 09:06:56.184	Error (get_images)	timed out
+11/09/2018 09:07:00.316	Error	No se ha podido conseguir imagen del servidor
+11/09/2018 09:07:02.535	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 09:07:02.535	Info	*** Seleccion de estrella: 93.5340001583 ***
+11/09/2018 09:07:05.535	Info	*** TIEMPO TOTAL ITERACION: 96.5340001583 ***
+11/09/2018 09:07:05.535	Debg	---------------------------------------------
+11/09/2018 09:07:05.535	Debg	---------------- Star Selection -------------
+11/09/2018 09:07:05.535	Debg	---------------------------------------------
+11/09/2018 09:07:05.535	Info	Seleccionando estella...
+11/09/2018 09:07:28.132	Info	Estella seleccionada --> Castor
+	airmass: 1.047004
+	ha hours: hms_tuple(h=-1.0, m=-18.0, s=-4.252657194452496)
+	ra: 7.595986
+	dec: 31.845436
+11/09/2018 09:07:28.132	Info	*** Seleccion de estrella: 22.5969998837 ***
+11/09/2018 09:07:28.132	Debg	---------------------------------------------
+11/09/2018 09:07:28.132	Debg	-------------- Check spots ------------------
+11/09/2018 09:07:28.148	Debg	---------------------------------------------
+11/09/2018 09:07:28.148	Info	Centrando spots...
+11/09/2018 09:07:30.179	Info	Intento 0
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.195	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.210	Info	--3--
+11/09/2018 09:07:31.226	Info	--3--
+11/09/2018 09:07:31.226	Info	--3--
+11/09/2018 09:07:31.226	Info	--3--
+11/09/2018 09:07:31.226	Info	--3--
+11/09/2018 09:07:34.680	Info	Los spots estan centrados
+11/09/2018 09:07:34.680	Info	*** Centrado de spots: 6.53200006485 ***
+11/09/2018 09:07:34.680	Debg	---------------------------------------------
+11/09/2018 09:07:34.680	Debg	--------------- Check focal -----------------
+11/09/2018 09:07:34.680	Debg	---------------------------------------------
+11/09/2018 09:07:34.680	Info	Comprobando el foco...
+11/09/2018 09:07:34.680	Info	Intento 0
+11/09/2018 09:07:37.711	Info	--3--
+11/09/2018 09:07:37.711	Info	--3--
+11/09/2018 09:07:39.040	Info	--3--
+11/09/2018 09:07:39.040	Info	--3--
+11/09/2018 09:07:39.040	Info	--3--
+11/09/2018 09:07:40.180	Info	--3--
+11/09/2018 09:07:40.180	Info	--3--
+11/09/2018 09:07:40.180	Info	--3--
+11/09/2018 09:07:40.821	Info	--3--
+11/09/2018 09:07:40.821	Info	--3--
+11/09/2018 09:07:41.415	Info	--3--
+11/09/2018 09:07:41.415	Info	--3--
+11/09/2018 09:07:41.415	Info	--3--
+11/09/2018 09:07:43.790	Info	DX: 36.18932 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 09:07:43.790	Info	Moviendo el foco...
+11/09/2018 09:07:44.290	Info	Intento 1
+11/09/2018 09:07:47.322	Info	--3--
+11/09/2018 09:07:47.322	Info	--3--
+11/09/2018 09:07:47.775	Info	--3--
+11/09/2018 09:07:47.775	Info	--3--
+11/09/2018 09:07:47.775	Info	--3--
+11/09/2018 09:07:48.369	Info	--3--
+11/09/2018 09:07:48.384	Info	--3--
+11/09/2018 09:07:48.384	Info	--3--
+11/09/2018 09:07:48.978	Info	--3--
+11/09/2018 09:07:48.978	Info	--3--
+11/09/2018 09:07:48.978	Info	--3--
+11/09/2018 09:07:49.556	Info	--3--
+11/09/2018 09:07:49.556	Info	--3--
+11/09/2018 09:07:49.556	Info	--3--
+11/09/2018 09:07:51.869	Info	DX: 36.320766666666664 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 09:07:51.869	Info	Moviendo el foco...
+11/09/2018 09:07:52.260	Info	Intento 2
+11/09/2018 09:07:55.292	Info	--3--
+11/09/2018 09:07:55.292	Info	--3--
+11/09/2018 09:07:55.823	Info	--3--
+11/09/2018 09:07:55.823	Info	--3--
+11/09/2018 09:07:55.823	Info	--3--
+11/09/2018 09:07:56.417	Info	--3--
+11/09/2018 09:07:56.417	Info	--3--
+11/09/2018 09:07:56.417	Info	--3--
+11/09/2018 09:07:57.073	Info	--3--
+11/09/2018 09:07:57.073	Info	--3--
+11/09/2018 09:07:57.073	Info	--3--
+11/09/2018 09:07:57.651	Info	--3--
+11/09/2018 09:07:57.651	Info	--3--
+11/09/2018 09:07:57.651	Info	--3--
+11/09/2018 09:07:59.995	Info	DX: 35.9906 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 09:07:59.995	Info	Moviendo el foco...
+11/09/2018 09:08:00.370	Info	Intento 3
+11/09/2018 09:08:03.386	Info	--3--
+11/09/2018 09:08:03.402	Info	--3--
+11/09/2018 09:08:03.902	Info	--3--
+11/09/2018 09:08:03.902	Info	--3--
+11/09/2018 09:08:03.902	Info	--3--
+11/09/2018 09:08:04.480	Info	--3--
+11/09/2018 09:08:04.480	Info	--3--
+11/09/2018 09:08:04.480	Info	--3--
+11/09/2018 09:08:05.058	Info	--3--
+11/09/2018 09:08:05.058	Info	--3--
+11/09/2018 09:08:05.058	Info	--3--
+11/09/2018 09:08:05.715	Info	--3--
+11/09/2018 09:08:05.715	Info	--3--
+11/09/2018 09:08:05.730	Info	--3--
+11/09/2018 09:08:08.074	Info	DX: 34.608360000000005 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 09:08:08.074	Info	La imagen esta enfocada
+11/09/2018 09:08:08.074	Info	*** Enfocado: 33.393999815 ***
+11/09/2018 09:08:08.074	Info	*** Seleccion de estrella: 62.5389997959 ***
+11/09/2018 09:08:08.074	Debg	---------------------------------------------
+11/09/2018 09:08:08.074	Debg	-------- Generando fichero de datos ---------
+11/09/2018 09:08:08.074	Debg	---------------------------------------------
+11/09/2018 09:08:08.074	Info	##### PACK: OT_19A51A_180911090808
+11/09/2018 09:08:11.106	Info	--3--
+11/09/2018 09:08:11.106	Info	--3--
+11/09/2018 09:08:11.575	Info	--3--
+11/09/2018 09:08:11.575	Info	--3--
+11/09/2018 09:08:11.590	Info	--3--
+11/09/2018 09:08:12.716	Info	--3--
+11/09/2018 09:08:12.716	Info	--3--
+11/09/2018 09:08:12.716	Info	--3--
+11/09/2018 09:08:13.856	Info	--3--
+11/09/2018 09:08:13.856	Info	--3--
+11/09/2018 09:08:13.856	Info	--3--
+11/09/2018 09:08:14.497	Info	--3--
+11/09/2018 09:08:14.497	Info	--3--
+11/09/2018 09:08:15.622	Info	--3--
+11/09/2018 09:08:15.622	Info	--3--
+11/09/2018 09:08:15.622	Info	--3--
+11/09/2018 09:08:16.763	Info	--3--
+11/09/2018 09:08:16.763	Info	--3--
+11/09/2018 09:08:16.763	Info	--3--
+11/09/2018 09:08:17.357	Info	--3--
+11/09/2018 09:08:17.357	Info	--3--
+11/09/2018 09:08:17.357	Info	--3--
+11/09/2018 09:08:18.497	Info	--3--
+11/09/2018 09:08:18.497	Info	--3--
+11/09/2018 09:08:18.497	Info	--3--
+11/09/2018 09:08:19.670	Info	--3--
+11/09/2018 09:08:19.670	Info	--3--
+11/09/2018 09:08:19.670	Info	--3--
+11/09/2018 09:08:20.263	Info	--3--
+11/09/2018 09:08:20.263	Info	--3--
+11/09/2018 09:08:20.263	Info	--3--
+11/09/2018 09:08:20.842	Info	--3--
+11/09/2018 09:08:20.842	Info	--3--
+11/09/2018 09:08:20.842	Info	--3--
+11/09/2018 09:08:21.404	Info	--3--
+11/09/2018 09:08:21.404	Info	--3--
+11/09/2018 09:08:21.404	Info	--3--
+11/09/2018 09:08:21.998	Info	--3--
+11/09/2018 09:08:21.998	Info	--3--
+11/09/2018 09:08:21.998	Info	--3--
+11/09/2018 09:08:22.576	Info	--3--
+11/09/2018 09:08:22.576	Info	--3--
+11/09/2018 09:08:22.592	Info	--3--
+11/09/2018 09:08:23.170	Info	--3--
+11/09/2018 09:08:23.170	Info	--3--
+11/09/2018 09:08:23.170	Info	--3--
+11/09/2018 09:08:24.326	Info	--3--
+11/09/2018 09:08:24.326	Info	--3--
+11/09/2018 09:08:24.326	Info	--3--
+11/09/2018 09:08:24.905	Info	--3--
+11/09/2018 09:08:24.905	Info	--3--
+11/09/2018 09:08:24.905	Info	--3--
+11/09/2018 09:08:25.983	Info	--3--
+11/09/2018 09:08:25.983	Info	--3--
+11/09/2018 09:08:25.983	Info	--3--
+11/09/2018 09:08:27.170	Info	--3--
+11/09/2018 09:08:27.170	Info	--3--
+11/09/2018 09:08:27.170	Info	--3--
+11/09/2018 09:08:28.264	Info	--3--
+11/09/2018 09:08:28.264	Info	--3--
+11/09/2018 09:08:28.264	Info	--3--
+11/09/2018 09:08:29.421	Info	--3--
+11/09/2018 09:08:29.421	Info	--3--
+11/09/2018 09:08:29.421	Info	--3--
+11/09/2018 09:08:30.577	Info	--3--
+11/09/2018 09:08:30.577	Info	--3--
+11/09/2018 09:08:30.577	Info	--3--
+11/09/2018 09:08:31.702	Info	--3--
+11/09/2018 09:08:31.702	Info	--3--
+11/09/2018 09:08:31.702	Info	--3--
+11/09/2018 09:08:32.921	Info	--3--
+11/09/2018 09:08:32.921	Info	--3--
+11/09/2018 09:08:32.921	Info	--3--
+11/09/2018 09:08:33.577	Info	--3--
+11/09/2018 09:08:33.577	Info	--3--
+11/09/2018 09:08:33.593	Info	--3--
+11/09/2018 09:08:34.265	Info	--3--
+11/09/2018 09:08:34.265	Info	--3--
+11/09/2018 09:08:34.265	Info	--3--
+11/09/2018 09:08:34.843	Info	--3--
+11/09/2018 09:08:34.843	Info	--3--
+11/09/2018 09:08:34.843	Info	--3--
+11/09/2018 09:08:35.984	Info	--3--
+11/09/2018 09:08:35.984	Info	--3--
+11/09/2018 09:08:35.984	Info	--3--
+11/09/2018 09:08:36.609	Info	--3--
+11/09/2018 09:08:36.609	Info	--3--
+11/09/2018 09:08:36.609	Info	--3--
+11/09/2018 09:08:37.187	Info	--3--
+11/09/2018 09:08:37.187	Info	--3--
+11/09/2018 09:08:37.187	Info	--3--
+11/09/2018 09:08:37.844	Info	--3--
+11/09/2018 09:08:37.844	Info	--3--
+11/09/2018 09:08:37.844	Info	--3--
+11/09/2018 09:08:38.937	Info	--3--
+11/09/2018 09:08:38.953	Info	--3--
+11/09/2018 09:08:38.953	Info	--3--
+11/09/2018 09:08:40.094	Info	--3--
+11/09/2018 09:08:40.094	Info	--3--
+11/09/2018 09:08:40.094	Info	--3--
+11/09/2018 09:08:40.703	Info	--3--
+11/09/2018 09:08:40.703	Info	--3--
+11/09/2018 09:08:40.703	Info	--3--
+11/09/2018 09:08:41.282	Info	--3--
+11/09/2018 09:08:41.282	Info	--3--
+11/09/2018 09:08:41.282	Info	--3--
+11/09/2018 09:08:41.860	Info	--3--
+11/09/2018 09:08:41.860	Info	--3--
+11/09/2018 09:08:41.860	Info	--3--
+11/09/2018 09:08:42.454	Info	--3--
+11/09/2018 09:08:42.454	Info	--3--
+11/09/2018 09:08:42.454	Info	--3--
+11/09/2018 09:08:43.032	Info	--3--
+11/09/2018 09:08:43.032	Info	--3--
+11/09/2018 09:08:43.032	Info	--3--
+11/09/2018 09:08:43.641	Info	--3--
+11/09/2018 09:08:43.641	Info	--3--
+11/09/2018 09:08:43.641	Info	--3--
+11/09/2018 09:08:44.204	Info	--3--
+11/09/2018 09:08:44.204	Info	--3--
+11/09/2018 09:08:44.860	Info	--3--
+11/09/2018 09:08:44.876	Info	--3--
+11/09/2018 09:08:44.876	Info	--3--
+11/09/2018 09:08:45.470	Info	--3--
+11/09/2018 09:08:45.470	Info	--3--
+11/09/2018 09:08:45.470	Info	--3--
+11/09/2018 09:08:46.673	Info	--3--
+11/09/2018 09:08:46.673	Info	--3--
+11/09/2018 09:08:46.673	Info	--3--
+11/09/2018 09:08:47.814	Info	--3--
+11/09/2018 09:08:47.814	Info	--3--
+11/09/2018 09:08:47.814	Info	--3--
+11/09/2018 09:08:48.470	Info	--3--
+11/09/2018 09:08:48.470	Info	--3--
+11/09/2018 09:08:48.470	Info	--3--
+11/09/2018 09:08:49.548	Info	--3--
+11/09/2018 09:08:49.548	Info	--3--
+11/09/2018 09:08:49.548	Info	--3--
+11/09/2018 09:08:50.705	Info	--3--
+11/09/2018 09:08:50.705	Info	--3--
+11/09/2018 09:08:50.705	Info	--3--
+11/09/2018 09:08:51.314	Info	--3--
+11/09/2018 09:08:51.314	Info	--3--
+11/09/2018 09:08:51.314	Info	--3--
+11/09/2018 09:08:51.892	Info	--3--
+11/09/2018 09:08:51.892	Info	--3--
+11/09/2018 09:08:52.502	Info	--3--
+11/09/2018 09:08:52.502	Info	--3--
+11/09/2018 09:08:52.517	Info	--3--
+11/09/2018 09:08:53.642	Info	--3--
+11/09/2018 09:08:53.642	Info	--3--
+11/09/2018 09:08:53.658	Info	--3--
+11/09/2018 09:08:54.221	Info	--3--
+11/09/2018 09:08:54.236	Info	--3--
+11/09/2018 09:08:54.236	Info	--3--
+11/09/2018 09:08:56.065	Info	--3--
+11/09/2018 09:08:56.065	Info	--3--
+11/09/2018 09:08:56.065	Info	--3--
+11/09/2018 09:08:57.237	Info	--3--
+11/09/2018 09:08:57.237	Info	--3--
+11/09/2018 09:08:57.237	Info	--3--
+11/09/2018 09:08:57.893	Info	--3--
+11/09/2018 09:08:57.893	Info	--3--
+11/09/2018 09:08:58.471	Info	--3--
+11/09/2018 09:08:58.471	Info	--3--
+11/09/2018 09:08:58.471	Info	--3--
+11/09/2018 09:08:59.049	Info	--3--
+11/09/2018 09:08:59.049	Info	--3--
+11/09/2018 09:08:59.049	Info	--3--
+11/09/2018 09:08:59.627	Info	--3--
+11/09/2018 09:08:59.627	Info	--3--
+11/09/2018 09:08:59.627	Info	--3--
+11/09/2018 09:09:00.206	Info	--3--
+11/09/2018 09:09:00.206	Info	--3--
+11/09/2018 09:09:00.206	Info	--3--
+11/09/2018 09:09:00.784	Info	--3--
+11/09/2018 09:09:00.784	Info	--3--
+11/09/2018 09:09:00.784	Info	--3--
+11/09/2018 09:09:01.362	Info	--3--
+11/09/2018 09:09:01.378	Info	--3--
+11/09/2018 09:09:01.378	Info	--3--
+11/09/2018 09:09:01.972	Info	--3--
+11/09/2018 09:09:01.972	Info	--3--
+11/09/2018 09:09:01.972	Info	--3--
+11/09/2018 09:09:02.612	Info	--3--
+11/09/2018 09:09:02.612	Info	--3--
+11/09/2018 09:09:03.190	Info	--3--
+11/09/2018 09:09:03.190	Info	--3--
+11/09/2018 09:09:03.190	Info	--3--
+11/09/2018 09:09:03.769	Info	--3--
+11/09/2018 09:09:03.769	Info	--3--
+11/09/2018 09:09:03.769	Info	--3--
+11/09/2018 09:09:04.362	Info	--3--
+11/09/2018 09:09:04.378	Info	--3--
+11/09/2018 09:09:04.378	Info	--3--
+11/09/2018 09:09:05.003	Info	--3--
+11/09/2018 09:09:05.003	Info	--3--
+11/09/2018 09:09:05.019	Info	--3--
+11/09/2018 09:09:05.613	Info	--3--
+11/09/2018 09:09:05.613	Info	--3--
+11/09/2018 09:09:05.613	Info	--3--
+11/09/2018 09:09:06.191	Info	--3--
+11/09/2018 09:09:06.191	Info	--3--
+11/09/2018 09:09:06.191	Info	--3--
+11/09/2018 09:09:06.800	Info	--3--
+11/09/2018 09:09:06.800	Info	--3--
+11/09/2018 09:09:06.800	Info	--3--
+11/09/2018 09:09:07.394	Info	--3--
+11/09/2018 09:09:07.394	Info	--3--
+11/09/2018 09:09:07.972	Info	--3--
+11/09/2018 09:09:07.972	Info	--3--
+11/09/2018 09:09:07.972	Info	--3--
+11/09/2018 09:09:09.113	Info	--3--
+11/09/2018 09:09:09.113	Info	--3--
+11/09/2018 09:09:09.113	Info	--3--
+11/09/2018 09:09:10.269	Info	--3--
+11/09/2018 09:09:10.269	Info	--3--
+11/09/2018 09:09:10.269	Info	--3--
+11/09/2018 09:09:10.894	Info	--3--
+11/09/2018 09:09:10.894	Info	--3--
+11/09/2018 09:09:10.894	Info	--3--
+11/09/2018 09:09:12.020	Info	--3--
+11/09/2018 09:09:12.020	Info	--3--
+11/09/2018 09:09:12.020	Info	--3--
+11/09/2018 09:09:13.176	Info	--3--
+11/09/2018 09:09:13.176	Info	--3--
+11/09/2018 09:09:13.176	Info	--3--
+11/09/2018 09:09:13.754	Info	--3--
+11/09/2018 09:09:13.754	Info	--3--
+11/09/2018 09:09:13.754	Info	--3--
+11/09/2018 09:09:14.332	Info	--3--
+11/09/2018 09:09:14.332	Info	--3--
+11/09/2018 09:09:14.332	Info	--3--
+11/09/2018 09:09:14.911	Info	--3--
+11/09/2018 09:09:14.911	Info	--3--
+11/09/2018 09:09:14.911	Info	--3--
+11/09/2018 09:09:15.551	Info	--3--
+11/09/2018 09:09:15.551	Info	--3--
+11/09/2018 09:09:15.551	Info	--3--
+11/09/2018 09:09:16.692	Info	--3--
+11/09/2018 09:09:16.692	Info	--3--
+11/09/2018 09:09:16.692	Info	--3--
+11/09/2018 09:09:17.958	Info	--3--
+11/09/2018 09:09:17.958	Info	--3--
+11/09/2018 09:09:17.958	Info	--3--
+11/09/2018 09:09:18.536	Info	--3--
+11/09/2018 09:09:18.536	Info	--3--
+11/09/2018 09:09:19.130	Info	--3--
+11/09/2018 09:09:19.130	Info	--3--
+11/09/2018 09:09:19.130	Info	--3--
+11/09/2018 09:09:19.739	Info	--3--
+11/09/2018 09:09:19.739	Info	--3--
+11/09/2018 09:09:19.739	Info	--3--
+11/09/2018 09:09:20.880	Info	--3--
+11/09/2018 09:09:20.880	Info	--3--
+11/09/2018 09:09:21.990	Info	--3--
+11/09/2018 09:09:21.990	Info	--3--
+11/09/2018 09:09:21.990	Info	--3--
+11/09/2018 09:09:22.615	Info	--3--
+11/09/2018 09:09:22.615	Info	--3--
+11/09/2018 09:09:22.615	Info	--3--
+11/09/2018 09:09:23.693	Info	--3--
+11/09/2018 09:09:23.693	Info	--3--
+11/09/2018 09:09:23.693	Info	--3--
+11/09/2018 09:09:24.834	Info	--3--
+11/09/2018 09:09:24.834	Info	--3--
+11/09/2018 09:09:24.834	Info	--3--
+11/09/2018 09:09:25.490	Info	--3--
+11/09/2018 09:09:25.490	Info	--3--
+11/09/2018 09:09:25.490	Info	--3--
+11/09/2018 09:09:26.146	Info	--3--
+11/09/2018 09:09:26.162	Info	--3--
+11/09/2018 09:09:26.162	Info	--3--
+11/09/2018 09:09:26.740	Info	--3--
+11/09/2018 09:09:26.740	Info	--3--
+11/09/2018 09:09:26.740	Info	--3--
+11/09/2018 09:09:27.365	Info	--3--
+11/09/2018 09:09:27.381	Info	--3--
+11/09/2018 09:09:27.381	Info	--3--
+11/09/2018 09:09:28.459	Info	--3--
+11/09/2018 09:09:28.475	Info	--3--
+11/09/2018 09:09:28.475	Info	--3--
+11/09/2018 09:09:29.053	Info	--3--
+11/09/2018 09:09:29.053	Info	--3--
+11/09/2018 09:09:29.053	Info	--3--
+11/09/2018 09:09:30.194	Info	--3--
+11/09/2018 09:09:30.194	Info	--3--
+11/09/2018 09:09:30.194	Info	--3--
+11/09/2018 09:09:30.975	Info	--3--
+11/09/2018 09:09:30.975	Info	--3--
+11/09/2018 09:09:30.975	Info	--3--
+11/09/2018 09:09:32.147	Info	--3--
+11/09/2018 09:09:32.147	Info	--3--
+11/09/2018 09:09:32.163	Info	--3--
+11/09/2018 09:09:33.272	Info	--3--
+11/09/2018 09:09:33.272	Info	--3--
+11/09/2018 09:09:33.272	Info	--3--
+11/09/2018 09:09:33.929	Info	--3--
+11/09/2018 09:09:33.929	Info	--3--
+11/09/2018 09:09:33.929	Info	--3--
+11/09/2018 09:09:34.491	Info	--3--
+11/09/2018 09:09:34.491	Info	--3--
+11/09/2018 09:09:34.491	Info	--3--
+11/09/2018 09:09:35.069	Info	--3--
+11/09/2018 09:09:35.069	Info	--3--
+11/09/2018 09:09:35.085	Info	--3--
+11/09/2018 09:09:36.241	Info	--3--
+11/09/2018 09:09:36.241	Info	--3--
+11/09/2018 09:09:36.241	Info	--3--
+11/09/2018 09:09:36.882	Info	--3--
+11/09/2018 09:09:36.882	Info	--3--
+11/09/2018 09:09:36.882	Info	--3--
+11/09/2018 09:09:37.976	Info	--3--
+11/09/2018 09:09:37.976	Info	--3--
+11/09/2018 09:09:37.976	Info	--3--
+11/09/2018 09:09:38.554	Info	--3--
+11/09/2018 09:09:38.554	Info	--3--
+11/09/2018 09:09:38.554	Info	--3--
+11/09/2018 09:09:38.554	Info	--3--
+11/09/2018 09:09:39.195	Info	--3--
+11/09/2018 09:09:39.195	Info	--3--
+11/09/2018 09:09:39.195	Info	--3--
+11/09/2018 09:09:39.773	Info	--3--
+11/09/2018 09:09:39.773	Info	--3--
+11/09/2018 09:09:39.773	Info	--3--
+11/09/2018 09:09:40.461	Info	--3--
+11/09/2018 09:09:40.461	Info	--3--
+11/09/2018 09:09:41.554	Info	--3--
+11/09/2018 09:09:41.554	Info	--3--
+11/09/2018 09:09:41.554	Info	--3--
+11/09/2018 09:09:42.180	Info	--3--
+11/09/2018 09:09:42.180	Info	--3--
+11/09/2018 09:09:42.180	Info	--3--
+11/09/2018 09:09:43.258	Info	--3--
+11/09/2018 09:09:43.258	Info	--3--
+11/09/2018 09:09:43.258	Info	--3--
+11/09/2018 09:09:43.836	Info	--3--
+11/09/2018 09:09:43.836	Info	--3--
+11/09/2018 09:09:43.836	Info	--3--
+11/09/2018 09:09:44.414	Info	--3--
+11/09/2018 09:09:44.414	Info	--3--
+11/09/2018 09:09:44.414	Info	--3--
+11/09/2018 09:09:44.992	Info	--3--
+11/09/2018 09:09:44.992	Info	--3--
+11/09/2018 09:09:44.992	Info	--3--
+11/09/2018 09:09:45.571	Info	--3--
+11/09/2018 09:09:45.586	Info	--3--
+11/09/2018 09:09:45.586	Info	--3--
+11/09/2018 09:09:46.180	Info	--3--
+11/09/2018 09:09:46.180	Info	--3--
+11/09/2018 09:09:46.180	Info	--3--
+11/09/2018 09:09:46.774	Info	--3--
+11/09/2018 09:09:46.774	Info	--3--
+11/09/2018 09:09:46.774	Info	--3--
+11/09/2018 09:09:47.430	Info	--3--
+11/09/2018 09:09:47.446	Info	--3--
+11/09/2018 09:09:47.446	Info	--3--
+11/09/2018 09:09:48.555	Info	--3--
+11/09/2018 09:09:48.555	Info	--3--
+11/09/2018 09:09:48.555	Info	--3--
+11/09/2018 09:09:49.680	Info	--3--
+11/09/2018 09:09:49.680	Info	--3--
+11/09/2018 09:09:49.680	Info	--3--
+11/09/2018 09:09:50.290	Info	--3--
+11/09/2018 09:09:50.290	Info	--3--
+11/09/2018 09:09:50.290	Info	--3--
+11/09/2018 09:09:51.415	Info	--3--
+11/09/2018 09:09:51.415	Info	--3--
+11/09/2018 09:09:51.415	Info	--3--
+11/09/2018 09:09:52.540	Info	--3--
+11/09/2018 09:09:52.540	Info	--3--
+11/09/2018 09:09:52.540	Info	--3--
+11/09/2018 09:09:53.118	Info	--3--
+11/09/2018 09:09:53.118	Info	--3--
+11/09/2018 09:09:53.118	Info	--3--
+11/09/2018 09:09:53.697	Info	--3--
+11/09/2018 09:09:53.697	Info	--3--
+11/09/2018 09:09:53.697	Info	--3--
+11/09/2018 09:09:54.275	Info	--3--
+11/09/2018 09:09:54.275	Info	--3--
+11/09/2018 09:09:55.369	Info	--3--
+11/09/2018 09:09:55.369	Info	--3--
+11/09/2018 09:09:55.369	Info	--3--
+11/09/2018 09:09:56.494	Info	--3--
+11/09/2018 09:09:56.494	Info	--3--
+11/09/2018 09:09:56.494	Info	--3--
+11/09/2018 09:09:57.072	Info	--3--
+11/09/2018 09:09:57.072	Info	--3--
+11/09/2018 09:09:57.072	Info	--3--
+11/09/2018 09:09:57.666	Info	--3--
+11/09/2018 09:09:57.666	Info	--3--
+11/09/2018 09:09:57.666	Info	--3--
+11/09/2018 09:09:57.666	Info	--3--
+11/09/2018 09:09:57.666	Info	--3--
+11/09/2018 09:09:57.666	Info	--3--
+11/09/2018 09:09:58.244	Info	--3--
+11/09/2018 09:09:58.244	Info	--3--
+11/09/2018 09:09:58.244	Info	--3--
+11/09/2018 09:09:58.822	Info	--3--
+11/09/2018 09:09:58.822	Info	--3--
+11/09/2018 09:09:58.822	Info	--3--
+11/09/2018 09:09:59.916	Info	--3--
+11/09/2018 09:09:59.916	Info	--3--
+11/09/2018 09:09:59.916	Info	--3--
+11/09/2018 09:10:01.057	Info	--3--
+11/09/2018 09:10:01.057	Info	--3--
+11/09/2018 09:10:01.057	Info	--3--
+11/09/2018 09:10:01.619	Info	--3--
+11/09/2018 09:10:01.619	Info	--3--
+11/09/2018 09:10:01.619	Info	--3--
+11/09/2018 09:10:02.213	Info	--3--
+11/09/2018 09:10:02.229	Info	--3--
+11/09/2018 09:10:02.229	Info	--3--
+11/09/2018 09:10:02.807	Info	--3--
+11/09/2018 09:10:02.807	Info	--3--
+11/09/2018 09:10:02.807	Info	--3--
+11/09/2018 09:10:03.385	Info	--3--
+11/09/2018 09:10:03.385	Info	--3--
+11/09/2018 09:10:04.479	Info	--3--
+11/09/2018 09:10:04.479	Info	--3--
+11/09/2018 09:10:04.479	Info	--3--
+11/09/2018 09:10:05.698	Info	--3--
+11/09/2018 09:10:05.698	Info	--3--
+11/09/2018 09:10:05.698	Info	--3--
+11/09/2018 09:10:06.808	Info	--3--
+11/09/2018 09:10:06.808	Info	--3--
+11/09/2018 09:10:06.808	Info	--3--
+11/09/2018 09:10:07.980	Info	--3--
+11/09/2018 09:10:07.980	Info	--3--
+11/09/2018 09:10:07.980	Info	--3--
+11/09/2018 09:10:08.558	Info	--3--
+11/09/2018 09:10:08.558	Info	--3--
+11/09/2018 09:10:08.558	Info	--3--
+11/09/2018 09:10:09.120	Info	--3--
+11/09/2018 09:10:09.120	Info	--3--
+11/09/2018 09:10:09.120	Info	--3--
+11/09/2018 09:10:09.714	Info	--3--
+11/09/2018 09:10:09.714	Info	--3--
+11/09/2018 09:10:09.730	Info	--3--
+11/09/2018 09:10:10.324	Info	--3--
+11/09/2018 09:10:10.324	Info	--3--
+11/09/2018 09:10:10.324	Info	--3--
+11/09/2018 09:10:10.886	Info	Indicando fin del proceso...
+11/09/2018 09:10:10.902	Info	--3--
+11/09/2018 09:10:10.902	Info	--3--
+11/09/2018 09:10:10.902	Info	--3--
+11/09/2018 09:10:12.058	Info	--3--
+11/09/2018 09:10:12.058	Info	--3--
+11/09/2018 09:10:12.058	Info	--3--
+11/09/2018 09:10:13.215	Info	--3--
+11/09/2018 09:10:13.215	Info	--3--
+11/09/2018 09:10:13.230	Info	--3--
+11/09/2018 09:10:14.387	Info	--3--
+11/09/2018 09:10:14.387	Info	--3--
+11/09/2018 09:10:14.387	Info	--3--
+11/09/2018 09:10:15.574	Info	--3--
+11/09/2018 09:10:15.590	Info	--3--
+11/09/2018 09:10:15.590	Info	--3--
+11/09/2018 09:10:16.246	Info	--3--
+11/09/2018 09:10:16.246	Info	--3--
+11/09/2018 09:10:16.824	Info	--3--
+11/09/2018 09:10:16.824	Info	--3--
+11/09/2018 09:10:16.824	Info	--3--
+11/09/2018 09:10:17.465	Info	--3--
+11/09/2018 09:10:17.465	Info	--3--
+11/09/2018 09:10:17.465	Info	--3--
+11/09/2018 09:10:18.043	Info	--3--
+11/09/2018 09:10:18.043	Info	--3--
+11/09/2018 09:10:18.043	Info	--3--
+11/09/2018 09:10:18.621	Info	--3--
+11/09/2018 09:10:18.621	Info	--3--
+11/09/2018 09:10:18.621	Info	--3--
+11/09/2018 09:10:19.700	Info	--3--
+11/09/2018 09:10:19.700	Info	--3--
+11/09/2018 09:10:19.700	Info	--3--
+11/09/2018 09:10:20.778	Info	--3--
+11/09/2018 09:10:20.778	Info	--3--
+11/09/2018 09:10:20.778	Info	--3--
+11/09/2018 09:10:21.419	Info	--3--
+11/09/2018 09:10:21.419	Info	--3--
+11/09/2018 09:10:21.419	Info	--3--
+11/09/2018 09:10:21.997	Info	--3--
+11/09/2018 09:10:21.997	Info	--3--
+11/09/2018 09:10:21.997	Info	--3--
+11/09/2018 09:10:22.575	Info	--3--
+11/09/2018 09:10:22.591	Info	--3--
+11/09/2018 09:10:22.591	Info	--3--
+11/09/2018 09:10:23.716	Info	--3--
+11/09/2018 09:10:23.716	Info	--3--
+11/09/2018 09:10:23.731	Info	--3--
+11/09/2018 09:10:24.888	Info	--3--
+11/09/2018 09:10:24.888	Info	--3--
+11/09/2018 09:10:24.888	Info	--3--
+11/09/2018 09:10:25.482	Info	--3--
+11/09/2018 09:10:25.482	Info	--3--
+11/09/2018 09:10:25.482	Info	--3--
+11/09/2018 09:10:26.060	Info	--3--
+11/09/2018 09:10:26.060	Info	--3--
+11/09/2018 09:10:26.060	Info	--3--
+11/09/2018 09:10:26.638	Info	--3--
+11/09/2018 09:10:26.638	Info	--3--
+11/09/2018 09:10:26.638	Info	--3--
+11/09/2018 09:10:27.732	Info	--3--
+11/09/2018 09:10:27.732	Info	--3--
+11/09/2018 09:10:27.732	Info	--3--
+11/09/2018 09:10:28.857	Info	--3--
+11/09/2018 09:10:28.873	Info	--3--
+11/09/2018 09:10:28.873	Info	--3--
+11/09/2018 09:10:29.467	Info	--3--
+11/09/2018 09:10:29.467	Info	--3--
+11/09/2018 09:10:29.467	Info	--3--
+11/09/2018 09:10:30.045	Info	--3--
+11/09/2018 09:10:30.045	Info	--3--
+11/09/2018 09:10:30.045	Info	--3--
+11/09/2018 09:10:30.623	Info	--3--
+11/09/2018 09:10:30.623	Info	--3--
+11/09/2018 09:10:30.623	Info	--3--
+11/09/2018 09:10:31.279	Info	--3--
+11/09/2018 09:10:31.279	Info	--3--
+11/09/2018 09:10:31.279	Info	--3--
+11/09/2018 09:10:32.358	Info	--3--
+11/09/2018 09:10:32.373	Info	--3--
+11/09/2018 09:10:32.373	Info	--3--
+11/09/2018 09:10:33.530	Info	--3--
+11/09/2018 09:10:33.530	Info	--3--
+11/09/2018 09:10:34.108	Info	--3--
+11/09/2018 09:10:34.108	Info	--3--
+11/09/2018 09:10:34.108	Info	--3--
+11/09/2018 09:10:34.764	Info	--3--
+11/09/2018 09:10:34.764	Info	--3--
+11/09/2018 09:10:34.764	Info	--3--
+11/09/2018 09:10:35.858	Info	--3--
+11/09/2018 09:10:35.874	Info	--3--
+11/09/2018 09:10:35.874	Info	--3--
+11/09/2018 09:10:36.952	Info	--3--
+11/09/2018 09:10:36.952	Info	--3--
+11/09/2018 09:10:36.952	Info	--3--
+11/09/2018 09:10:37.577	Info	--3--
+11/09/2018 09:10:37.593	Info	--3--
+11/09/2018 09:10:37.593	Info	--3--
+11/09/2018 09:10:38.249	Info	--3--
+11/09/2018 09:10:38.249	Info	--3--
+11/09/2018 09:10:38.249	Info	--3--
+11/09/2018 09:10:38.827	Info	--3--
+11/09/2018 09:10:38.827	Info	--3--
+11/09/2018 09:10:38.827	Info	--3--
+11/09/2018 09:10:39.983	Info	--3--
+11/09/2018 09:10:39.983	Info	--3--
+11/09/2018 09:10:40.640	Info	--3--
+11/09/2018 09:10:40.655	Info	--3--
+11/09/2018 09:10:41.749	Info	--3--
+11/09/2018 09:10:41.749	Info	--3--
+11/09/2018 09:10:41.749	Info	--3--
+11/09/2018 09:10:42.327	Info	--3--
+11/09/2018 09:10:42.327	Info	--3--
+11/09/2018 09:10:42.327	Info	--3--
+11/09/2018 09:10:42.906	Info	--3--
+11/09/2018 09:10:42.906	Info	--3--
+11/09/2018 09:10:42.906	Info	--3--
+11/09/2018 09:10:43.484	Info	--3--
+11/09/2018 09:10:43.484	Info	--3--
+11/09/2018 09:10:43.484	Info	--3--
+11/09/2018 09:10:44.109	Info	--3--
+11/09/2018 09:10:44.109	Info	--3--
+11/09/2018 09:10:44.109	Info	--3--
+11/09/2018 09:10:44.672	Info	--3--
+11/09/2018 09:10:44.672	Info	--3--
+11/09/2018 09:10:44.672	Info	--3--
+11/09/2018 09:10:45.250	Info	--3--
+11/09/2018 09:10:45.250	Info	--3--
+11/09/2018 09:10:45.250	Info	--3--
+11/09/2018 09:10:45.828	Info	--3--
+11/09/2018 09:10:45.828	Info	--3--
+11/09/2018 09:10:45.828	Info	--3--
+11/09/2018 09:10:46.406	Info	--3--
+11/09/2018 09:10:46.406	Info	--3--
+11/09/2018 09:10:46.406	Info	--3--
+11/09/2018 09:10:46.406	Info	--3--
+11/09/2018 09:10:46.406	Info	--3--
+11/09/2018 09:10:46.406	Info	--3--
+11/09/2018 09:10:46.984	Info	--3--
+11/09/2018 09:10:46.984	Info	--3--
+11/09/2018 09:10:46.984	Info	--3--
+11/09/2018 09:10:47.641	Info	--3--
+11/09/2018 09:10:47.641	Info	--3--
+11/09/2018 09:10:47.656	Info	--3--
+11/09/2018 09:10:48.250	Info	--3--
+11/09/2018 09:10:48.250	Info	--3--
+11/09/2018 09:10:48.250	Info	--3--
+11/09/2018 09:10:48.906	Info	--3--
+11/09/2018 09:10:48.906	Info	--3--
+11/09/2018 09:10:48.906	Info	--3--
+11/09/2018 09:11:44.929	Info	Indicando fin del proceso...
+11/09/2018 09:12:11.291	Info	##### (OT_19A51A_180911090808) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911081048.txt
+11/09/2018 09:12:11.291	Info	*** Generacion del fichero 243.217000008
+11/09/2018 09:12:11.291	Debg	---------------------------------------------
+11/09/2018 09:12:11.291	Debg	------------- Calculando seeing -------------
+11/09/2018 09:12:11.291	Debg	---------------------------------------------
+11/09/2018 09:12:12.135	Info	###### (OT_19A51A_180911090808) SEEING: 1.6509853807291557 (used imgs: 178)
+11/09/2018 09:12:12.135	Info	*** Calculo del seeing 0.844000101089
+11/09/2018 09:12:12.135	Info	*** Procesado de datos: 244.061000109 ***
+11/09/2018 09:12:12.135	Info	*** TIEMPO TOTAL ITERACION: 306.599999905 ***
+11/09/2018 09:12:12.135	Info	Parando la observacion...
+11/09/2018 09:12:12.135	Info	 --- OBSERVACION TERMINADA ---
+11/09/2018 09:12:30.309	Debg	---------------------------------------------
+11/09/2018 09:12:30.309	Debg	---------------- Star Selection -------------
+11/09/2018 09:12:30.309	Debg	---------------------------------------------
+11/09/2018 09:12:30.309	Info	Seleccionando estella...
+11/09/2018 09:12:55.062	Info	Estella seleccionada --> Pollux
+	airmass: 1.047599
+	ha hours: hms_tuple(h=-1.0, m=-18.0, s=-43.288640046925835)
+	ra: 7.773983
+	dec: 27.979441
+11/09/2018 09:12:55.062	Info	*** Seleccion de estrella: 24.753000021 ***
+11/09/2018 09:12:55.062	Debg	---------------------------------------------
+11/09/2018 09:12:55.062	Debg	-------------- Check spots ------------------
+11/09/2018 09:12:55.062	Debg	---------------------------------------------
+11/09/2018 09:12:55.062	Info	Centrando spots...
+11/09/2018 09:12:57.109	Info	Intento 0
+11/09/2018 09:13:02.595	Info	Los spots estan centrados
+11/09/2018 09:13:02.595	Info	*** Centrado de spots: 7.53299999237 ***
+11/09/2018 09:13:02.595	Debg	---------------------------------------------
+11/09/2018 09:13:02.595	Debg	--------------- Check focal -----------------
+11/09/2018 09:13:02.595	Debg	---------------------------------------------
+11/09/2018 09:13:02.595	Info	Comprobando el foco...
+11/09/2018 09:13:02.595	Info	Intento 0
+11/09/2018 09:14:09.040	Error (get_images)	timed out
+11/09/2018 09:14:13.275	Error (get dx dat)	year is out of range
+11/09/2018 09:14:13.275	Info	DX: 0.0 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 09:14:13.275	Error	Imagenes no aptas para calcular el foco
+11/09/2018 09:14:13.275	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+11/09/2018 09:14:13.275	Info	*** Seleccion de estrella: 102.981000185 ***
+11/09/2018 09:14:16.291	Info	*** TIEMPO TOTAL ITERACION: 105.996999979 ***
+11/09/2018 09:14:16.291	Debg	---------------------------------------------
+11/09/2018 09:14:16.291	Debg	---------------- Star Selection -------------
+11/09/2018 09:14:16.291	Debg	---------------------------------------------
+11/09/2018 09:14:16.291	Info	Seleccionando estella...
+11/09/2018 09:14:39.106	Info	Estella seleccionada --> Castor
+	airmass: 1.035879
+	ha hours: hms_tuple(h=-1.0, m=-8.0, s=-2.49982271214229)
+	ra: 7.595986
+	dec: 31.845435
+11/09/2018 09:14:39.106	Info	*** Seleccion de estrella: 22.8150000572 ***
+11/09/2018 09:14:39.106	Debg	---------------------------------------------
+11/09/2018 09:14:39.106	Debg	-------------- Check spots ------------------
+11/09/2018 09:14:39.106	Debg	---------------------------------------------
+11/09/2018 09:14:39.106	Info	Centrando spots...
+11/09/2018 09:14:41.138	Info	Intento 0
+11/09/2018 09:14:45.982	Info	Los spots estan centrados
+11/09/2018 09:14:45.982	Info	*** Centrado de spots: 6.87600016594 ***
+11/09/2018 09:14:45.982	Debg	---------------------------------------------
+11/09/2018 09:14:45.982	Debg	--------------- Check focal -----------------
+11/09/2018 09:14:45.982	Debg	---------------------------------------------
+11/09/2018 09:14:45.982	Info	Comprobando el foco...
+11/09/2018 09:14:45.982	Info	Intento 0
+11/09/2018 09:14:55.390	Info	DX: 34.1914 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 09:14:55.390	Info	Moviendo el foco...
+11/09/2018 09:14:55.905	Info	Intento 1
+11/09/2018 09:15:04.547	Info	DX: 34.38962 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 09:15:04.547	Info	Moviendo el foco...
+11/09/2018 09:15:04.906	Info	Intento 2
+11/09/2018 09:15:12.610	Info	DX: 34.78718 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 09:15:12.610	Info	La imagen esta enfocada
+11/09/2018 09:15:12.610	Info	*** Enfocado: 26.6279997826 ***
+11/09/2018 09:15:12.610	Info	*** Seleccion de estrella: 56.3190000057 ***
+11/09/2018 09:15:12.610	Debg	---------------------------------------------
+11/09/2018 09:15:12.626	Debg	-------- Generando fichero de datos ---------
+11/09/2018 09:15:12.626	Debg	---------------------------------------------
+11/09/2018 09:15:12.626	Info	##### PACK: OT_Y7X3NM_180911091512
+11/09/2018 09:19:11.749	Info	##### (OT_Y7X3NM_180911091512) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911081748.txt
+11/09/2018 09:19:11.749	Info	*** Generacion del fichero 239.139000177
+11/09/2018 09:19:11.749	Debg	---------------------------------------------
+11/09/2018 09:19:11.749	Debg	------------- Calculando seeing -------------
+11/09/2018 09:19:11.749	Debg	---------------------------------------------
+11/09/2018 09:19:12.593	Info	###### (OT_Y7X3NM_180911091512) SEEING: 1.9586738047922128 (used imgs: 187)
+11/09/2018 09:19:12.593	Info	*** Calculo del seeing 0.843999862671
+11/09/2018 09:19:12.593	Info	*** Procesado de datos: 239.98300004 ***
+11/09/2018 09:19:12.593	Info	*** TIEMPO TOTAL ITERACION: 296.302000046 ***
+11/09/2018 09:19:12.593	Debg	---------------------------------------------
+11/09/2018 09:19:12.593	Debg	---------------- Star Selection -------------
+11/09/2018 09:19:12.593	Debg	---------------------------------------------
+11/09/2018 09:19:12.593	Info	Comprobando que la estella es observable...
+11/09/2018 09:19:13.093	info	La estrella sigue siendo observable(Castor)
+11/09/2018 09:19:13.093	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.13402772853', 'az': '72.263781', 'name': 'Castor', 'airmass': '1.035879', 'ha_hours': 'hms_tuple(h=-1.0, m=-8.0, s=-2.49982271214229)', 'alt': '74.875830', 'dec': '31.845435', 'magnitude': '1.580000', 'ra': '7.595986'}
+11/09/2018 09:19:13.093	Info	*** Seleccion de estrella: 0.5 ***
+11/09/2018 09:19:13.109	Debg	---------------------------------------------
+11/09/2018 09:19:13.109	Debg	-------------- Check spots ------------------
+11/09/2018 09:19:13.109	Debg	---------------------------------------------
+11/09/2018 09:19:13.109	Info	Centrando spots...
+11/09/2018 09:19:15.125	Info	Intento 0
+11/09/2018 09:19:20.486	Info	Los spots estan centrados
+11/09/2018 09:19:20.486	Info	*** Centrado de spots: 7.37700009346 ***
+11/09/2018 09:19:20.486	Debg	---------------------------------------------
+11/09/2018 09:19:20.486	Debg	--------------- Check focal -----------------
+11/09/2018 09:19:20.486	Debg	---------------------------------------------
+11/09/2018 09:19:20.486	Info	Comprobando el foco...
+11/09/2018 09:19:20.486	Info	Intento 0
+11/09/2018 09:19:20.705	Info	DX: 33.242039999999996 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 09:19:20.705	Info	Moviendo el foco...
+11/09/2018 09:19:21.064	Info	Intento 1
+11/09/2018 09:19:29.973	Info	DX: 35.39976 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 09:19:29.973	Info	La imagen esta enfocada
+11/09/2018 09:19:29.973	Info	*** Enfocado: 9.48699998856 ***
+11/09/2018 09:19:29.973	Info	*** Seleccion de estrella: 17.3800001144 ***
+11/09/2018 09:19:29.973	Debg	---------------------------------------------
+11/09/2018 09:19:29.973	Debg	-------- Generando fichero de datos ---------
+11/09/2018 09:19:29.973	Debg	---------------------------------------------
+11/09/2018 09:19:29.973	Info	##### PACK: OT_BP1OBF_180911091929
+11/09/2018 09:19:31.911	Info	Indicando fin del proceso...
+11/09/2018 09:23:38.248	Info	##### (OT_BP1OBF_180911091929) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180911\OT180911082216.txt
+11/09/2018 09:23:38.248	Info	*** Generacion del fichero 248.274999857
+11/09/2018 09:23:38.248	Debg	---------------------------------------------
+11/09/2018 09:23:38.248	Debg	------------- Calculando seeing -------------
+11/09/2018 09:23:38.248	Debg	---------------------------------------------
+11/09/2018 09:23:39.060	Info	###### (OT_BP1OBF_180911091929) SEEING: 1.9361499675325287 (used imgs: 191)
+11/09/2018 09:23:39.060	Info	*** Calculo del seeing 0.81200003624
+11/09/2018 09:23:39.060	Info	*** Procesado de datos: 249.086999893 ***
+11/09/2018 09:23:39.060	Info	*** TIEMPO TOTAL ITERACION: 266.467000008 ***
+11/09/2018 09:23:39.060	Info	Parando la observacion...
+11/09/2018 09:23:39.060	Info	 --- OBSERVACION TERMINADA ---
+11/09/2018 09:24:24.600	Debg	---------------------------------------------
+11/09/2018 09:24:24.600	Debg	---------------- Star Selection -------------
+11/09/2018 09:24:24.600	Debg	---------------------------------------------
+11/09/2018 09:24:24.600	Info	Seleccionando estella...
+11/09/2018 09:24:29.866	Info	Estella seleccionada --> Pollux
+	airmass: 1.035923
+	ha hours: hms_tuple(h=-1.0, m=-8.0, s=-41.30515251445537)
+	ra: 7.773983
+	dec: 27.979440
+11/09/2018 09:24:29.866	Info	*** Seleccion de estrella: 5.26600003242 ***
+11/09/2018 09:24:29.882	Debg	---------------------------------------------
+11/09/2018 09:24:29.882	Debg	-------------- Check spots ------------------
+11/09/2018 09:24:29.882	Debg	---------------------------------------------
+11/09/2018 09:24:29.882	Info	Centrando spots...
+11/09/2018 09:24:31.914	Info	Intento 0
+11/09/2018 09:24:37.227	Info	Los spots estan centrados
+11/09/2018 09:24:37.227	Info	*** Centrado de spots: 7.34500002861 ***
+11/09/2018 09:24:37.227	Debg	---------------------------------------------
+11/09/2018 09:24:37.227	Debg	--------------- Check focal -----------------
+11/09/2018 09:24:37.227	Debg	---------------------------------------------
+11/09/2018 09:24:37.227	Info	Comprobando el foco...
+11/09/2018 09:24:37.227	Info	Intento 0
+11/09/2018 09:25:43.645	Error (get_images)	timed out
+11/09/2018 09:25:47.896	Error (get dx dat)	year is out of range
+11/09/2018 09:25:47.896	Info	DX: 0.0 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 09:25:47.896	Error	Imagenes no aptas para calcular el foco
+11/09/2018 09:25:47.896	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+11/09/2018 09:25:47.896	Info	*** Seleccion de estrella: 83.2960000038 ***
+11/09/2018 09:25:50.897	Info	*** TIEMPO TOTAL ITERACION: 86.2970001698 ***
+11/09/2018 09:25:50.897	Debg	---------------------------------------------
+11/09/2018 09:25:50.897	Debg	---------------- Star Selection -------------
+11/09/2018 09:25:50.897	Debg	---------------------------------------------
+11/09/2018 09:25:50.897	Info	Seleccionando estella...
+11/09/2018 09:25:53.381	Info	Estella seleccionada --> Pollux
+	airmass: 1.035923
+	ha hours: hms_tuple(h=-1.0, m=-8.0, s=-41.30515251445537)
+	ra: 7.773983
+	dec: 27.979440
+11/09/2018 09:25:53.381	Info	*** Seleccion de estrella: 2.48399996758 ***
+11/09/2018 09:25:53.381	Debg	---------------------------------------------
+11/09/2018 09:25:53.397	Debg	-------------- Check spots ------------------
+11/09/2018 09:25:53.397	Debg	---------------------------------------------
+11/09/2018 09:25:53.397	Info	Centrando spots...
+11/09/2018 09:25:55.413	Info	Intento 0
+11/09/2018 09:26:56.440	Error (get_images)	timed out
+11/09/2018 09:27:00.483	Error	No se ha podido conseguir imagen del servidor
+11/09/2018 09:27:02.796	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 09:27:02.796	Info	*** Seleccion de estrella: 71.8989999294 ***
+11/09/2018 09:27:05.797	Info	*** TIEMPO TOTAL ITERACION: 74.8999998569 ***
+11/09/2018 09:27:05.797	Debg	---------------------------------------------
+11/09/2018 09:27:05.797	Debg	---------------- Star Selection -------------
+11/09/2018 09:27:05.797	Debg	---------------------------------------------
+11/09/2018 09:27:05.797	Info	Seleccionando estella...
+11/09/2018 09:27:08.266	Info	Estella seleccionada --> Pollux
+	airmass: 1.035923
+	ha hours: hms_tuple(h=-1.0, m=-8.0, s=-41.30515251445537)
+	ra: 7.773983
+	dec: 27.979440
+11/09/2018 09:27:08.281	Info	*** Seleccion de estrella: 2.48399996758 ***
+11/09/2018 09:27:08.281	Debg	---------------------------------------------
+11/09/2018 09:27:08.281	Debg	-------------- Check spots ------------------
+11/09/2018 09:27:08.281	Debg	---------------------------------------------
+11/09/2018 09:27:08.281	Info	Centrando spots...
+11/09/2018 09:27:10.297	Info	Intento 0
+11/09/2018 09:28:10.308	Error	No se ha podido conseguir imagen del servidor
+11/09/2018 09:28:12.527	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 09:28:12.527	Info	*** Seleccion de estrella: 66.7300000191 ***
+11/09/2018 09:28:15.528	Info	*** TIEMPO TOTAL ITERACION: 69.731000185 ***
+11/09/2018 09:28:15.528	Debg	---------------------------------------------
+11/09/2018 09:28:15.528	Debg	---------------- Star Selection -------------
+11/09/2018 09:28:15.528	Debg	---------------------------------------------
+11/09/2018 09:28:15.528	Info	Seleccionando estella...
+11/09/2018 09:28:18.106	Info	Estella seleccionada --> Pollux
+	airmass: 1.030751
+	ha hours: hms_tuple(h=-1.0, m=-3.0, s=-40.473853790218044)
+	ra: 7.773983
+	dec: 27.979440
+11/09/2018 09:28:18.106	Info	*** Seleccion de estrella: 2.57799983025 ***
+11/09/2018 09:28:18.106	Debg	---------------------------------------------
+11/09/2018 09:28:18.106	Debg	-------------- Check spots ------------------
+11/09/2018 09:28:18.106	Debg	---------------------------------------------
+11/09/2018 09:28:18.106	Info	Centrando spots...
+11/09/2018 09:28:20.154	Info	Intento 0
+11/09/2018 09:28:24.998	Info	Los spots estan centrados
+11/09/2018 09:28:24.998	Info	*** Centrado de spots: 6.89199995995 ***
+11/09/2018 09:28:24.998	Debg	---------------------------------------------
+11/09/2018 09:28:24.998	Debg	--------------- Check focal -----------------
+11/09/2018 09:28:24.998	Debg	---------------------------------------------
+11/09/2018 09:28:24.998	Info	Comprobando el foco...
+11/09/2018 09:28:25.014	Info	Intento 0
+11/09/2018 09:29:31.383	Error (get_images)	timed out
+11/09/2018 09:29:35.634	Error (get dx dat)	year is out of range
+11/09/2018 09:29:35.634	Info	DX: 0.0 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 09:29:35.634	Error	Imagenes no aptas para calcular el foco
+11/09/2018 09:29:35.634	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+11/09/2018 09:29:35.634	Info	*** Seleccion de estrella: 80.1059999466 ***
+11/09/2018 09:29:35.634	Error (manage auto select error)	It's not posible to select a star. Next trying on 60 seconds.
+11/09/2018 09:29:35.634	Info	Llevando la montura al home...
+11/09/2018 09:30:57.989	Info	Montura en el home
+11/09/2018 09:31:46.168	Info	Indicando fin del proceso...
+11/09/2018 09:31:57.998	Info	*** TIEMPO TOTAL ITERACION: 222.46999979 ***
+11/09/2018 09:31:57.998	Info	Parando la observacion...
+11/09/2018 09:31:57.998	Info	 --- OBSERVACION TERMINADA ---
+11/09/2018 09:32:11.765	Debg	---------------------------------------------
+11/09/2018 09:32:11.765	Debg	---------------- Star Selection -------------
+11/09/2018 09:32:11.765	Debg	---------------------------------------------
+11/09/2018 09:32:11.765	Info	Seleccionando estella...
+11/09/2018 09:32:57.615	Info	Estella seleccionada --> Pollux
+	airmass: 1.026006
+	ha hours: hms_tuple(h=-0.0, m=-58.0, s=-39.60245399881941)
+	ra: 7.773983
+	dec: 27.979440
+11/09/2018 09:32:57.615	Info	*** Seleccion de estrella: 45.8499999046 ***
+11/09/2018 09:32:57.615	Debg	---------------------------------------------
+11/09/2018 09:32:57.615	Debg	-------------- Check spots ------------------
+11/09/2018 09:32:57.615	Debg	---------------------------------------------
+11/09/2018 09:32:57.615	Info	Centrando spots...
+11/09/2018 09:32:59.647	Info	Intento 0
+11/09/2018 09:36:45.364	Info	*** Generacion del fichero 187.759000063
+11/09/2018 09:36:45.364	Debg	---------------------------------------------
+11/09/2018 09:36:45.364	Debg	------------- Calculando seeing -------------
+11/09/2018 09:36:45.364	Debg	---------------------------------------------
+11/09/2018 09:36:46.176	Info	###### (OT_BCW6O3_180911093337) SEEING: 15.748561849882694 (used imgs: 109)
+11/09/2018 09:36:46.176	Info	*** Calculo del seeing 0.81200003624
+11/09/2018 09:36:46.176	Info	*** Procesado de datos: 188.571000099 ***
+11/09/2018 09:36:46.176	Info	*** TIEMPO TOTAL ITERACION: 274.411000013 ***
+11/09/2018 09:36:46.176	Info	Parando la observacion...
+11/09/2018 09:36:46.176	Info	 --- OBSERVACION TERMINADA ---
+11/09/2018 09:45:13.676	Debg	---------------------------------------------
+11/09/2018 09:45:13.676	Debg	---------------- Star Selection -------------
+11/09/2018 09:45:13.676	Debg	---------------------------------------------
+11/09/2018 09:45:13.676	Info	Seleccionando estella...
+11/09/2018 09:45:17.208	Info	Estella seleccionada --> Pollux
+	airmass: 1.017766
+	ha hours: hms_tuple(h=-0.0, m=-48.0, s=-37.8997554849866)
+	ra: 7.773983
+	dec: 27.979440
+11/09/2018 09:45:17.208	Info	*** Seleccion de estrella: 3.53199982643 ***
+11/09/2018 09:45:17.208	Debg	---------------------------------------------
+11/09/2018 09:45:17.208	Debg	-------------- Check spots ------------------
+11/09/2018 09:45:17.208	Debg	---------------------------------------------
+11/09/2018 09:45:17.208	Info	Centrando spots...
+11/09/2018 09:45:19.270	Info	Intento 0
+11/09/2018 09:45:20.270	Info	--0-- 614418 - 10224
+11/09/2018 09:45:20.270	Info	--0-- 604194 - 27744
+11/09/2018 09:45:20.270	Info	--0-- 586674 - 45264
+11/09/2018 09:45:20.270	Info	--0-- 569154 - 62784
+11/09/2018 09:45:20.286	Info	--0-- 551634 - 80304
+11/09/2018 09:45:20.286	Info	--0-- 534114 - 97824
+11/09/2018 09:45:20.286	Info	--0-- 516594 - 115344
+11/09/2018 09:45:20.286	Info	--0-- 499074 - 132864
+11/09/2018 09:45:20.286	Info	--0-- 481554 - 150384
+11/09/2018 09:45:20.286	Info	--0-- 464034 - 167904
+11/09/2018 09:45:20.286	Info	--0-- 446514 - 185424
+11/09/2018 09:45:20.286	Info	--0-- 428994 - 202944
+11/09/2018 09:45:20.286	Info	--0-- 411474 - 220464
+11/09/2018 09:45:20.286	Info	--0-- 393954 - 237984
+11/09/2018 09:45:20.286	Info	--0-- 376434 - 255504
+11/09/2018 09:45:20.286	Info	--0-- 358914 - 273024
+11/09/2018 09:45:20.286	Info	--0-- 341394 - 290544
+11/09/2018 09:45:20.286	Info	--0-- 323874 - 308064
+11/09/2018 09:45:20.286	Info	--0-- 306354 - 325584
+11/09/2018 09:45:20.286	Info	--0-- 288834 - 343104
+11/09/2018 09:45:20.286	Info	--0-- 271314 - 360624
+11/09/2018 09:45:20.286	Info	--0-- 253794 - 378144
+11/09/2018 09:45:20.286	Info	--0-- 236274 - 395664
+11/09/2018 09:45:20.286	Info	--0-- 218754 - 413184
+11/09/2018 09:45:20.286	Info	--0-- 201234 - 430704
+11/09/2018 09:45:20.286	Info	--0-- 183714 - 448224
+11/09/2018 09:45:20.302	Info	--0-- 166194 - 465744
+11/09/2018 09:45:20.302	Info	--0-- 148674 - 483264
+11/09/2018 09:45:20.302	Info	--0-- 131154 - 500784
+11/09/2018 09:45:20.302	Info	--0-- 113634 - 518304
+11/09/2018 09:45:20.302	Info	--0-- 96114 - 535824
+11/09/2018 09:45:20.302	Info	--0-- 78594 - 553344
+11/09/2018 09:45:20.302	Info	--0-- 61074 - 570864
+11/09/2018 09:45:20.302	Info	--0-- 43554 - 588384
+11/09/2018 09:45:20.302	Info	--0-- 26034 - 605904
+11/09/2018 09:45:20.302	Info	--0-- 8514 - 614418
+11/09/2018 09:45:24.708	Info	Los spots estan centrados
+11/09/2018 09:45:24.708	Info	*** Centrado de spots: 7.5 ***
+11/09/2018 09:45:24.708	Debg	---------------------------------------------
+11/09/2018 09:45:24.708	Debg	--------------- Check focal -----------------
+11/09/2018 09:45:24.708	Debg	---------------------------------------------
+11/09/2018 09:45:24.708	Info	Comprobando el foco...
+11/09/2018 09:45:24.708	Info	Intento 0
+11/09/2018 09:45:27.771	Info	--0-- 19218 - 9604
+11/09/2018 09:45:27.771	Info	--0-- 9614 - 16218
+11/09/2018 09:45:29.350	Info	--0-- 3000 - 16222
+11/09/2018 09:45:29.350	Info	--0-- 2996 - 19218
+11/09/2018 09:45:29.350	Info	--1-- 19218 - 1384
+11/09/2018 09:45:29.350	Info	--1-- 17834 - 5144
+11/09/2018 09:45:29.350	Info	--1-- 14074 - 13218
+11/09/2018 09:45:29.959	Info	--1-- 6000 - 13222
+11/09/2018 09:45:29.959	Info	--1-- 5996 - 17602
+11/09/2018 09:45:29.959	Info	--1-- 1616 - 19218
+11/09/2018 09:45:29.959	Info	--2-- 19218 - 10218
+11/09/2018 09:45:30.537	Info	--2-- 9000 - 10222
+11/09/2018 09:45:30.553	Info	--2-- 8996 - 19218
+11/09/2018 09:45:30.553	Info	--3-- 19218 - 7218
+11/09/2018 09:45:31.131	Info	--3-- 12000 - 7222
+11/09/2018 09:45:31.131	Info	--3-- 11996 - 15982
+11/09/2018 09:45:31.131	Info	--3-- 3236 - 19218
+11/09/2018 09:45:31.131	Info	--4-- 19218 - 4218
+11/09/2018 09:46:31.138	Error (get_images)	timed out
+11/09/2018 09:46:35.373	Error (get dx dat)	year is out of range
+11/09/2018 09:46:35.373	Info	DX: 0.0 (MIN: 34.5 - MAX: 35.5)
+11/09/2018 09:46:35.373	Error	Imagenes no aptas para calcular el foco
+11/09/2018 09:46:35.373	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+11/09/2018 09:46:35.373	Info	*** Seleccion de estrella: 81.6969997883 ***
+11/09/2018 09:46:38.374	Info	*** TIEMPO TOTAL ITERACION: 84.6979999542 ***
+11/09/2018 09:46:38.374	Debg	---------------------------------------------
+11/09/2018 09:46:38.374	Debg	---------------- Star Selection -------------
+11/09/2018 09:46:38.374	Debg	---------------------------------------------
+11/09/2018 09:46:38.374	Info	Seleccionando estella...
+11/09/2018 09:46:40.796	Info	Estella seleccionada --> Pollux
+	airmass: 1.017766
+	ha hours: hms_tuple(h=-0.0, m=-48.0, s=-37.8997554849866)
+	ra: 7.773983
+	dec: 27.979440
+11/09/2018 09:46:40.796	Info	*** Seleccion de estrella: 2.42199993134 ***
+11/09/2018 09:46:40.811	Debg	---------------------------------------------
+11/09/2018 09:46:40.811	Debg	-------------- Check spots ------------------
+11/09/2018 09:46:40.811	Debg	---------------------------------------------
+11/09/2018 09:46:40.811	Info	Centrando spots...
+11/09/2018 09:46:42.827	Info	Intento 0
+11/09/2018 09:46:43.843	Info	--0-- 614418 - 9604
+11/09/2018 09:46:43.843	Info	--0-- 604814 - 16218
+11/09/2018 09:46:51.531	Info	Indicando fin del proceso...
+11/09/2018 09:47:43.726	Error (get_images)	timed out
+11/09/2018 09:47:47.945	Error	No se ha podido conseguir imagen del servidor
+11/09/2018 09:47:50.164	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 09:47:50.164	Info	*** Seleccion de estrella: 71.7899999619 ***
+11/09/2018 09:47:53.165	Info	*** TIEMPO TOTAL ITERACION: 74.7909998894 ***
+11/09/2018 09:47:53.165	Info	Parando la observacion...
+11/09/2018 09:47:53.165	Info	 --- OBSERVACION TERMINADA ---
+11/09/2018 09:48:30.591	Debg	---------------------------------------------
+11/09/2018 09:48:30.591	Debg	---------------- Star Selection -------------
+11/09/2018 09:48:30.591	Debg	---------------------------------------------
+11/09/2018 09:48:30.591	Info	Seleccionando estella...
+11/09/2018 09:48:33.232	Info	Estella seleccionada --> Pollux
+	airmass: 1.014255
+	ha hours: hms_tuple(h=-0.0, m=-43.0, s=-37.038360851531706)
+	ra: 7.773983
+	dec: 27.979440
+11/09/2018 09:48:33.232	Info	*** Seleccion de estrella: 2.64100003242 ***
+11/09/2018 09:48:33.232	Debg	---------------------------------------------
+11/09/2018 09:48:33.232	Debg	-------------- Check spots ------------------
+11/09/2018 09:48:33.232	Debg	---------------------------------------------
+11/09/2018 09:48:33.232	Info	Centrando spots...
+11/09/2018 09:48:35.264	Info	Intento 0
+11/09/2018 09:48:36.264	Info	--0-- 614418 - 10224
+11/09/2018 09:48:36.264	Info	--0-- 604194 - 27744
+11/09/2018 09:48:36.264	Info	--0-- 586674 - 45264
+11/09/2018 09:48:36.264	Info	--0-- 569154 - 62784
+11/09/2018 09:48:36.264	Info	--0-- 551634 - 80304
+11/09/2018 09:48:36.279	Info	--0-- 534114 - 97824
+11/09/2018 09:48:36.279	Info	--0-- 516594 - 115344
+11/09/2018 09:48:36.279	Info	--0-- 499074 - 132864
+11/09/2018 09:48:36.279	Info	--0-- 481554 - 150384
+11/09/2018 09:48:36.279	Info	--0-- 464034 - 167904
+11/09/2018 09:48:36.279	Info	--0-- 446514 - 185424
+11/09/2018 09:48:36.279	Info	--0-- 428994 - 202944
+11/09/2018 09:48:36.279	Info	--0-- 411474 - 220464
+11/09/2018 09:48:36.279	Info	--0-- 393954 - 237984
+11/09/2018 09:48:36.279	Info	--0-- 376434 - 255504
+11/09/2018 09:48:36.279	Info	--0-- 358914 - 273024
+11/09/2018 09:48:36.279	Info	--0-- 341394 - 290544
+11/09/2018 09:48:36.279	Info	--0-- 323874 - 308064
+11/09/2018 09:48:36.279	Info	--0-- 306354 - 325584
+11/09/2018 09:48:36.279	Info	--0-- 288834 - 343104
+11/09/2018 09:48:36.279	Info	--0-- 271314 - 360624
+11/09/2018 09:48:36.279	Info	--0-- 253794 - 378144
+11/09/2018 09:48:36.279	Info	--0-- 236274 - 395664
+11/09/2018 09:48:36.279	Info	--0-- 218754 - 413184
+11/09/2018 09:48:36.279	Info	--0-- 201234 - 430704
+11/09/2018 09:48:36.279	Info	--0-- 183714 - 448224
+11/09/2018 09:48:36.279	Info	--0-- 166194 - 465744
+11/09/2018 09:48:36.295	Info	--0-- 148674 - 483264
+11/09/2018 09:48:36.295	Info	--0-- 131154 - 500784
+11/09/2018 09:48:36.295	Info	--0-- 113634 - 518304
+11/09/2018 09:48:36.295	Info	--0-- 96114 - 535824
+11/09/2018 09:48:36.295	Info	--0-- 78594 - 553344
+11/09/2018 09:48:36.295	Info	--0-- 61074 - 570864
+11/09/2018 09:48:36.295	Info	--0-- 43554 - 588384
+11/09/2018 09:48:36.295	Info	--0-- 26034 - 605904
+11/09/2018 09:48:36.295	Info	--0-- 8514 - 614418
+11/09/2018 09:48:37.795	Info	Moviendo telescopio...
+11/09/2018 09:48:41.093	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 09:48:41.093	Info	*** Seleccion de estrella: 10.5169999599 ***
+11/09/2018 09:48:44.093	Info	*** TIEMPO TOTAL ITERACION: 13.5169999599 ***
+11/09/2018 09:48:44.109	Debg	---------------------------------------------
+11/09/2018 09:48:44.109	Debg	---------------- Star Selection -------------
+11/09/2018 09:48:44.109	Debg	---------------------------------------------
+11/09/2018 09:48:44.109	Info	Seleccionando estella...
+11/09/2018 09:48:46.671	Info	Estella seleccionada --> Pollux
+	airmass: 1.014255
+	ha hours: hms_tuple(h=-0.0, m=-43.0, s=-37.038360851531706)
+	ra: 7.773983
+	dec: 27.979440
+11/09/2018 09:48:46.671	Info	*** Seleccion de estrella: 2.56200003624 ***
+11/09/2018 09:48:46.671	Debg	---------------------------------------------
+11/09/2018 09:48:46.671	Debg	-------------- Check spots ------------------
+11/09/2018 09:48:46.671	Debg	---------------------------------------------
+11/09/2018 09:48:46.671	Info	Centrando spots...
+11/09/2018 09:48:48.750	Info	Intento 0
+11/09/2018 09:48:49.797	Info	--0-- 614418 - 10224
+11/09/2018 09:48:49.797	Info	--0-- 604194 - 27744
+11/09/2018 09:48:49.797	Info	--0-- 586674 - 45264
+11/09/2018 09:48:49.797	Info	--0-- 569154 - 62784
+11/09/2018 09:48:49.797	Info	--0-- 551634 - 80304
+11/09/2018 09:48:49.797	Info	--0-- 534114 - 97824
+11/09/2018 09:48:49.797	Info	--0-- 516594 - 115344
+11/09/2018 09:48:49.797	Info	--0-- 499074 - 132864
+11/09/2018 09:48:49.812	Info	--0-- 481554 - 150384
+11/09/2018 09:48:49.812	Info	--0-- 464034 - 167904
+11/09/2018 09:48:49.812	Info	--0-- 446514 - 185424
+11/09/2018 09:48:49.812	Info	--0-- 428994 - 202944
+11/09/2018 09:48:49.812	Info	--0-- 411474 - 220464
+11/09/2018 09:48:49.812	Info	--0-- 393954 - 237984
+11/09/2018 09:48:49.828	Info	--0-- 376434 - 255504
+11/09/2018 09:48:49.828	Info	--0-- 358914 - 273024
+11/09/2018 09:48:49.828	Info	--0-- 341394 - 290544
+11/09/2018 09:48:49.828	Info	--0-- 323874 - 308064
+11/09/2018 09:48:49.828	Info	--0-- 306354 - 325584
+11/09/2018 09:48:49.828	Info	--0-- 288834 - 343104
+11/09/2018 09:48:49.828	Info	--0-- 271314 - 360624
+11/09/2018 09:48:49.828	Info	--0-- 253794 - 378144
+11/09/2018 09:48:49.828	Info	--0-- 236274 - 395664
+11/09/2018 09:48:49.828	Info	--0-- 218754 - 413184
+11/09/2018 09:48:49.828	Info	--0-- 201234 - 430704
+11/09/2018 09:48:49.828	Info	--0-- 183714 - 448224
+11/09/2018 09:48:49.828	Info	--0-- 166194 - 465744
+11/09/2018 09:48:49.828	Info	--0-- 148674 - 483264
+11/09/2018 09:48:49.844	Info	--0-- 131154 - 500784
+11/09/2018 09:48:49.844	Info	--0-- 113634 - 518304
+11/09/2018 09:48:49.844	Info	--0-- 96114 - 535824
+11/09/2018 09:48:49.844	Info	--0-- 78594 - 553344
+11/09/2018 09:48:49.844	Info	--0-- 61074 - 570864
+11/09/2018 09:48:49.844	Info	--0-- 43554 - 588384
+11/09/2018 09:48:49.844	Info	--0-- 26034 - 605904
+11/09/2018 09:48:49.844	Info	--0-- 8514 - 614418
+11/09/2018 09:48:50.969	Info	Moviendo telescopio...
+11/09/2018 09:48:54.250	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 09:48:54.250	Info	*** Seleccion de estrella: 10.1410000324 ***
+11/09/2018 09:48:57.251	Info	*** TIEMPO TOTAL ITERACION: 13.1419999599 ***
+11/09/2018 09:48:57.251	Debg	---------------------------------------------
+11/09/2018 09:48:57.251	Debg	---------------- Star Selection -------------
+11/09/2018 09:48:57.251	Debg	---------------------------------------------
+11/09/2018 09:48:57.251	Info	Seleccionando estella...
+11/09/2018 09:48:59.907	Info	Estella seleccionada --> Pollux
+	airmass: 1.014255
+	ha hours: hms_tuple(h=-0.0, m=-43.0, s=-37.038360851531706)
+	ra: 7.773983
+	dec: 27.979440
+11/09/2018 09:48:59.907	Info	*** Seleccion de estrella: 2.65600013733 ***
+11/09/2018 09:48:59.923	Debg	---------------------------------------------
+11/09/2018 09:48:59.923	Debg	-------------- Check spots ------------------
+11/09/2018 09:48:59.923	Debg	---------------------------------------------
+11/09/2018 09:48:59.923	Info	Centrando spots...
+11/09/2018 09:49:01.954	Info	Intento 0
+11/09/2018 09:49:02.970	Info	--0-- 614418 - 10224
+11/09/2018 09:49:02.970	Info	--0-- 604194 - 27744
+11/09/2018 09:49:02.970	Info	--0-- 586674 - 45264
+11/09/2018 09:49:02.970	Info	--0-- 569154 - 62784
+11/09/2018 09:49:02.970	Info	--0-- 551634 - 80304
+11/09/2018 09:49:02.970	Info	--0-- 534114 - 97824
+11/09/2018 09:49:02.970	Info	--0-- 516594 - 115344
+11/09/2018 09:49:02.970	Info	--0-- 499074 - 132864
+11/09/2018 09:49:02.970	Info	--0-- 481554 - 150384
+11/09/2018 09:49:02.970	Info	--0-- 464034 - 167904
+11/09/2018 09:49:02.970	Info	--0-- 446514 - 185424
+11/09/2018 09:49:02.986	Info	--0-- 428994 - 202944
+11/09/2018 09:49:02.986	Info	--0-- 411474 - 220464
+11/09/2018 09:49:02.986	Info	--0-- 393954 - 237984
+11/09/2018 09:49:02.986	Info	--0-- 376434 - 255504
+11/09/2018 09:49:02.986	Info	--0-- 358914 - 273024
+11/09/2018 09:49:02.986	Info	--0-- 341394 - 290544
+11/09/2018 09:49:02.986	Info	--0-- 323874 - 308064
+11/09/2018 09:49:02.986	Info	--0-- 306354 - 325584
+11/09/2018 09:49:02.986	Info	--0-- 288834 - 343104
+11/09/2018 09:49:02.986	Info	--0-- 271314 - 360624
+11/09/2018 09:49:02.986	Info	--0-- 253794 - 378144
+11/09/2018 09:49:02.986	Info	--0-- 236274 - 395664
+11/09/2018 09:49:02.986	Info	--0-- 218754 - 413184
+11/09/2018 09:49:02.986	Info	--0-- 201234 - 430704
+11/09/2018 09:49:02.986	Info	--0-- 183714 - 448224
+11/09/2018 09:49:02.986	Info	--0-- 166194 - 465744
+11/09/2018 09:49:02.986	Info	--0-- 148674 - 483264
+11/09/2018 09:49:02.986	Info	--0-- 131154 - 500784
+11/09/2018 09:49:02.986	Info	--0-- 113634 - 518304
+11/09/2018 09:49:03.001	Info	--0-- 96114 - 535824
+11/09/2018 09:49:03.001	Info	--0-- 78594 - 553344
+11/09/2018 09:49:03.001	Info	--0-- 61074 - 570864
+11/09/2018 09:49:03.001	Info	--0-- 43554 - 588384
+11/09/2018 09:49:03.001	Info	--0-- 26034 - 605904
+11/09/2018 09:49:03.001	Info	--0-- 8514 - 614418
+11/09/2018 09:49:04.017	Info	Moviendo telescopio...
+11/09/2018 09:49:07.127	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 09:49:07.127	Info	*** Seleccion de estrella: 9.87600016594 ***
+11/09/2018 09:49:10.127	Info	*** TIEMPO TOTAL ITERACION: 12.8760001659 ***
+11/09/2018 09:49:10.127	Debg	---------------------------------------------
+11/09/2018 09:49:10.127	Debg	---------------- Star Selection -------------
+11/09/2018 09:49:10.127	Debg	---------------------------------------------
+11/09/2018 09:49:10.127	Info	Seleccionando estella...
+11/09/2018 09:49:12.753	Info	Estella seleccionada --> Pollux
+	airmass: 1.014255
+	ha hours: hms_tuple(h=-0.0, m=-43.0, s=-37.038360851531706)
+	ra: 7.773983
+	dec: 27.979440
+11/09/2018 09:49:12.753	Info	*** Seleccion de estrella: 2.62599992752 ***
+11/09/2018 09:49:12.768	Debg	---------------------------------------------
+11/09/2018 09:49:12.768	Debg	-------------- Check spots ------------------
+11/09/2018 09:49:12.768	Debg	---------------------------------------------
+11/09/2018 09:49:12.768	Info	Centrando spots...
+11/09/2018 09:49:14.784	Info	Intento 0
+11/09/2018 09:49:15.800	Info	--0-- 614418 - 10224
+11/09/2018 09:49:15.800	Info	--0-- 604194 - 27744
+11/09/2018 09:49:15.800	Info	--0-- 586674 - 45264
+11/09/2018 09:49:15.800	Info	--0-- 569154 - 62784
+11/09/2018 09:49:15.800	Info	--0-- 551634 - 80304
+11/09/2018 09:49:15.800	Info	--0-- 534114 - 97824
+11/09/2018 09:49:15.800	Info	--0-- 516594 - 115344
+11/09/2018 09:49:15.800	Info	--0-- 499074 - 132864
+11/09/2018 09:49:15.800	Info	--0-- 481554 - 150384
+11/09/2018 09:49:15.815	Info	--0-- 464034 - 167904
+11/09/2018 09:49:15.815	Info	--0-- 446514 - 185424
+11/09/2018 09:49:15.815	Info	--0-- 428994 - 202944
+11/09/2018 09:49:15.815	Info	--0-- 411474 - 220464
+11/09/2018 09:49:15.815	Info	--0-- 393954 - 237984
+11/09/2018 09:49:15.815	Info	--0-- 376434 - 255504
+11/09/2018 09:49:15.831	Info	--0-- 358914 - 273024
+11/09/2018 09:49:15.831	Info	--0-- 341394 - 290544
+11/09/2018 09:49:15.831	Info	--0-- 323874 - 308064
+11/09/2018 09:49:15.831	Info	--0-- 306354 - 325584
+11/09/2018 09:49:15.831	Info	--0-- 288834 - 343104
+11/09/2018 09:49:15.831	Info	--0-- 271314 - 360624
+11/09/2018 09:49:15.831	Info	--0-- 253794 - 378144
+11/09/2018 09:49:15.831	Info	--0-- 236274 - 395664
+11/09/2018 09:49:15.831	Info	--0-- 218754 - 413184
+11/09/2018 09:49:15.831	Info	--0-- 201234 - 430704
+11/09/2018 09:49:15.831	Info	--0-- 183714 - 448224
+11/09/2018 09:49:15.831	Info	--0-- 166194 - 465744
+11/09/2018 09:49:15.831	Info	--0-- 148674 - 483264
+11/09/2018 09:49:15.831	Info	--0-- 131154 - 500784
+11/09/2018 09:49:15.847	Info	--0-- 113634 - 518304
+11/09/2018 09:49:15.847	Info	--0-- 96114 - 535824
+11/09/2018 09:49:15.847	Info	--0-- 78594 - 553344
+11/09/2018 09:49:15.847	Info	--0-- 61074 - 570864
+11/09/2018 09:49:15.847	Info	--0-- 43554 - 588384
+11/09/2018 09:49:15.847	Info	--0-- 26034 - 605904
+11/09/2018 09:49:15.847	Info	--0-- 8514 - 614418
+11/09/2018 09:49:16.816	Info	Moviendo telescopio...
+11/09/2018 09:49:20.097	Error (centrando los spots)	No se han podido centrar los spots
+11/09/2018 09:49:20.097	Info	*** Seleccion de estrella: 9.96999979019 ***
+11/09/2018 09:49:20.097	Error (manage auto select error)	It's not posible to select a star. Next trying on 60 seconds.
+11/09/2018 09:49:20.097	Info	Llevando la montura al home...
+11/09/2018 09:50:44.764	Info	Montura en el home
+11/09/2018 09:50:50.546	Info	Indicando fin del proceso...
+11/09/2018 09:51:44.771	Info	*** TIEMPO TOTAL ITERACION: 154.643999815 ***
+11/09/2018 09:51:44.771	Info	Parando la observacion...
+11/09/2018 09:51:44.771	Info	 --- OBSERVACION TERMINADA ---
+11/09/2018 09:52:40.293	Debg	---------------------------------------------
+11/09/2018 09:52:40.293	Debg	------------------ Switch Off ---------------
+11/09/2018 09:52:40.293	Debg	---------------------------------------------
+11/09/2018 09:52:40.293	Info	Llevando la montura al home...
+11/09/2018 09:52:54.233	Info	Montura en el home
+11/09/2018 09:52:54.248	Info	Apagando la montura...
+11/09/2018 09:52:54.280	Info	Montura apagada
+11/09/2018 09:53:04.281	Info	Apagando el foco...
+11/09/2018 09:53:04.296	Info	Foco apagado
+11/09/2018 09:53:04.296	Info	Cerrando cupula...
+11/09/2018 09:53:47.614	Info	Cupula cerrada

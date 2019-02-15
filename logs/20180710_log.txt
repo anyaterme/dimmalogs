@@ -1,0 +1,1785 @@
+
+date: 10/07/2018 22:26:20.006	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:26:20.006	code: Info	test: ------------------ Get Ready ----------------
+date: 10/07/2018 22:26:20.006	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:26:20.006	code: Info	test: Abriendo cúpula...
+date: 10/07/2018 22:35:05.625	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:35:05.625	code: Info	test: ------------------ Get Ready ----------------
+date: 10/07/2018 22:35:05.625	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:35:05.625	code: Info	test: Abriendo cúpula...
+date: 10/07/2018 22:35:55.949	code: Info	test: Cúpula abierta
+date: 10/07/2018 22:35:55.964	code: Info	test: Encendiendo la montura...
+date: 10/07/2018 22:35:55.964	code: Info	test: Montura encendida
+date: 10/07/2018 22:36:05.966	code: Info	test: Encendiendo el foco...
+date: 10/07/2018 22:36:05.982	code: Info	test: Foco encendida
+date: 10/07/2018 22:36:05.982	code: Info	test: Llevando la montura al home...
+date: 10/07/2018 22:36:36.223	code: Info	test: Montura en el home
+date: 10/07/2018 22:36:36.223	code: Info	test: *** Listo para empezar observacion ***
+date: 10/07/2018 22:38:15.213	code: Info	test: Inicio del proceso
+date: 10/07/2018 22:38:15.244	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:38:15.244	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:38:15.244	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:38:15.244	code: Info	test: Seleccionando estella...
+date: 10/07/2018 22:38:54.190	code: Info	test: Estella seleccionada --> Alkaid
+	airmass: 1.161488
+	ha hours: hms_tuple(h=1.0, m=56.0, s=47.39395713252762)
+	ra: 13.804351
+	dec: 49.228049
+date: 10/07/2018 22:38:54.190	code: Info	test: *** Seleccion de estrella: 38.9460000992 ***
+date: 10/07/2018 22:38:54.190	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:38:54.190	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 22:38:54.206	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:38:54.206	code: Info	test: Centrando spots...
+date: 10/07/2018 22:40:21.178	code: Info	test: Inicio del proceso
+date: 10/07/2018 22:40:21.194	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:40:21.194	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:40:21.194	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:40:21.194	code: Info	test: Seleccionando estella...
+date: 10/07/2018 22:40:41.776	code: Info	test: Estella seleccionada --> Alkaid
+	airmass: 1.161488
+	ha hours: hms_tuple(h=1.0, m=56.0, s=47.39395713252762)
+	ra: 13.804351
+	dec: 49.228049
+date: 10/07/2018 22:40:41.776	code: Info	test: *** Seleccion de estrella: 20.5820000172 ***
+date: 10/07/2018 22:40:41.776	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:40:41.776	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 22:40:41.776	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:40:41.776	code: Info	test: Centrando spots...
+date: 10/07/2018 22:40:43.902	code: Info	test: Intento 1
+date: 10/07/2018 22:40:50.231	code: Info	test: Los spots estÃ¡n centrados
+date: 10/07/2018 22:40:50.231	code: Info	test: *** Centrado de spots: 8.45499992371 ***
+date: 10/07/2018 22:40:50.231	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:40:50.231	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:40:50.231	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:40:50.231	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:40:50.231	code: Info	test: Intento 0
+date: 10/07/2018 22:41:02.500	code: Info	test: DX: 35.589544999999994
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:41:02.500	code: Info	test: Moviendo el foco...
+date: 10/07/2018 22:41:03.000	code: Info	test: Intento 1
+date: 10/07/2018 22:41:14.518	code: Info	test: DX: 35.48024
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:41:14.518	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:41:14.518	code: Info	test: *** Enfocado: 24.2869999409 ***
+date: 10/07/2018 22:41:14.518	code: Info	test: *** Selección de estrella: 53.3239998817 ***
+date: 10/07/2018 22:42:11.424	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710224208.txt
+date: 10/07/2018 22:42:15.128	code: Info	test: *** Procesado de datos: 60.6100001335 ***
+date: 10/07/2018 22:42:15.159	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 113.948999882 ***
+date: 10/07/2018 22:42:15.175	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:42:15.190	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:42:15.190	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:42:15.206	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:42:15.956	code: info	test: La estrella sigue siendo observable(Alkaid)
+date: 10/07/2018 22:42:15.987	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.94649832143', 'az': '321.223331', 'name': 'Alkaid', 'airmass': '1.161488', 'ha_hours': 'hms_tuple(h=1.0, m=56.0, s=47.39395713252762)', 'alt': '59.424838', 'dec': '49.228049', 'magnitude': '1.850000', 'ra': '13.804351'}
+date: 10/07/2018 22:42:16.019	code: Info	test: *** Seleccion de estrella: 0.796999931335 ***
+date: 10/07/2018 22:42:16.050	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:42:16.081	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:42:16.112	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:42:16.144	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:42:16.175	code: Info	test: Intento 0
+date: 10/07/2018 22:42:16.659	code: Info	test: DX: 35.352455000000006
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:42:16.675	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:42:16.691	code: Info	test: *** Enfocado: 0.56299996376 ***
+date: 10/07/2018 22:42:16.706	code: Info	test: *** Selección de estrella: 1.53200006485 ***
+date: 10/07/2018 22:43:15.750	code: Info	test: *** Procesado de datos: 58.9819998741 ***
+date: 10/07/2018 22:43:15.813	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 60.5910000801 ***
+date: 10/07/2018 22:43:15.860	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:43:15.922	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:43:15.922	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:43:15.922	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:43:15.938	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710224310.txt
+date: 10/07/2018 22:43:18.485	code: info	test: La estrella sigue siendo observable(Alkaid)
+date: 10/07/2018 22:43:18.501	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.94649832143', 'az': '321.223331', 'name': 'Alkaid', 'airmass': '1.161488', 'ha_hours': 'hms_tuple(h=1.0, m=56.0, s=47.39395713252762)', 'alt': '59.424838', 'dec': '49.228049', 'magnitude': '1.850000', 'ra': '13.804351'}
+date: 10/07/2018 22:43:18.501	code: Info	test: *** Seleccion de estrella: 2.57899999619 ***
+date: 10/07/2018 22:43:18.501	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:43:18.501	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:43:18.517	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:43:18.517	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:43:18.517	code: Info	test: Intento 0
+date: 10/07/2018 22:43:18.860	code: Info	test: DX: 35.381665000000005
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:43:18.860	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:43:18.876	code: Info	test: *** Enfocado: 0.34299993515 ***
+date: 10/07/2018 22:43:18.876	code: Info	test: *** Selección de estrella: 3.06299996376 ***
+date: 10/07/2018 22:44:16.670	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710224412.txt
+date: 10/07/2018 22:44:18.295	code: Info	test: *** Procesado de datos: 59.4040000439 ***
+date: 10/07/2018 22:44:18.295	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 62.4820001125 ***
+date: 10/07/2018 22:44:18.295	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:44:18.311	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:44:18.311	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:44:18.311	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:44:20.890	code: info	test: La estrella sigue siendo observable(Alkaid)
+date: 10/07/2018 22:44:20.890	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.94649832143', 'az': '321.223331', 'name': 'Alkaid', 'airmass': '1.161488', 'ha_hours': 'hms_tuple(h=1.0, m=56.0, s=47.39395713252762)', 'alt': '59.424838', 'dec': '49.228049', 'magnitude': '1.850000', 'ra': '13.804351'}
+date: 10/07/2018 22:44:20.905	code: Info	test: *** Seleccion de estrella: 2.57899999619 ***
+date: 10/07/2018 22:44:20.905	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:44:20.905	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:44:20.905	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:44:20.905	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:44:20.921	code: Info	test: Intento 0
+date: 10/07/2018 22:44:21.265	code: Info	test: DX: 35.507495
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:44:21.265	code: Info	test: Moviendo el foco...
+date: 10/07/2018 22:44:21.640	code: Info	test: Intento 1
+date: 10/07/2018 22:44:31.361	code: Info	test: DX: 34.978725
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:44:31.361	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:44:31.376	code: Info	test: *** Enfocado: 10.4560000896 ***
+date: 10/07/2018 22:44:31.376	code: Info	test: *** Selección de estrella: 13.0809998512 ***
+date: 10/07/2018 22:45:27.513	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710224524.txt
+date: 10/07/2018 22:45:30.280	code: Info	test: *** Procesado de datos: 58.8880000114 ***
+date: 10/07/2018 22:45:30.280	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 71.9849998951 ***
+date: 10/07/2018 22:45:30.311	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:45:30.311	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:45:30.327	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:45:30.342	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:45:31.327	code: info	test: La estrella sigue siendo observable(Alkaid)
+date: 10/07/2018 22:45:31.327	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.94649832143', 'az': '321.223331', 'name': 'Alkaid', 'airmass': '1.161488', 'ha_hours': 'hms_tuple(h=1.0, m=56.0, s=47.39395713252762)', 'alt': '59.424838', 'dec': '49.228049', 'magnitude': '1.850000', 'ra': '13.804351'}
+date: 10/07/2018 22:45:31.327	code: Info	test: *** Seleccion de estrella: 1.0 ***
+date: 10/07/2018 22:45:31.342	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:45:31.342	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:45:31.342	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:45:31.358	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:45:31.358	code: Info	test: Intento 0
+date: 10/07/2018 22:45:31.717	code: Info	test: DX: 34.959475000000005
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:45:31.733	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:45:31.733	code: Info	test: *** Enfocado: 0.391000032425 ***
+date: 10/07/2018 22:45:31.733	code: Info	test: *** Selección de estrella: 1.45300006866 ***
+date: 10/07/2018 22:46:29.746	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710224625.txt
+date: 10/07/2018 22:46:30.715	code: Info	test: *** Procesado de datos: 58.9500000477 ***
+date: 10/07/2018 22:46:30.746	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 60.4349999428 ***
+date: 10/07/2018 22:46:30.777	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:46:30.808	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:46:30.840	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:46:30.871	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:46:32.934	code: info	test: La estrella sigue siendo observable(Alkaid)
+date: 10/07/2018 22:46:32.934	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.94649832143', 'az': '321.223331', 'name': 'Alkaid', 'airmass': '1.161488', 'ha_hours': 'hms_tuple(h=1.0, m=56.0, s=47.39395713252762)', 'alt': '59.424838', 'dec': '49.228049', 'magnitude': '1.850000', 'ra': '13.804351'}
+date: 10/07/2018 22:46:32.934	code: Info	test: *** Seleccion de estrella: 2.09400010109 ***
+date: 10/07/2018 22:46:32.950	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:46:32.950	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 22:46:32.950	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:46:32.950	code: Info	test: Centrando spots...
+date: 10/07/2018 22:46:33.981	code: Info	test: Intento 1
+date: 10/07/2018 22:46:39.513	code: Info	test: Los spots estÃ¡n centrados
+date: 10/07/2018 22:46:39.513	code: Info	test: *** Centrado de spots: 6.56299996376 ***
+date: 10/07/2018 22:46:39.513	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:46:39.529	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:46:39.529	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:46:39.529	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:46:39.529	code: Info	test: Intento 0
+date: 10/07/2018 22:46:39.842	code: Info	test: DX: 34.814659999999996
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:46:39.842	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:46:39.842	code: Info	test: *** Enfocado: 0.31299996376 ***
+date: 10/07/2018 22:46:39.842	code: Info	test: *** Selección de estrella: 9.09599995613 ***
+date: 10/07/2018 22:47:36.885	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710224734.txt
+date: 10/07/2018 22:47:40.605	code: Info	test: *** Procesado de datos: 60.7630000114 ***
+date: 10/07/2018 22:47:40.620	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 69.8589999676 ***
+date: 10/07/2018 22:47:40.620	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:47:40.620	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:47:40.620	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:47:40.636	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:47:41.918	code: info	test: La estrella sigue siendo observable(Alkaid)
+date: 10/07/2018 22:47:41.949	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.94649832143', 'az': '321.223331', 'name': 'Alkaid', 'airmass': '1.161488', 'ha_hours': 'hms_tuple(h=1.0, m=56.0, s=47.39395713252762)', 'alt': '59.424838', 'dec': '49.228049', 'magnitude': '1.850000', 'ra': '13.804351'}
+date: 10/07/2018 22:47:41.996	code: Info	test: *** Seleccion de estrella: 1.32899999619 ***
+date: 10/07/2018 22:47:42.027	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:47:42.058	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:47:42.090	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:47:42.121	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:47:42.152	code: Info	test: Intento 0
+date: 10/07/2018 22:47:42.652	code: Info	test: DX: 35.120775
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:47:42.683	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:47:42.699	code: Info	test: *** Enfocado: 0.593000173569 ***
+date: 10/07/2018 22:47:42.715	code: Info	test: *** Selección de estrella: 2.07899999619 ***
+date: 10/07/2018 22:48:39.071	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710224836.txt
+date: 10/07/2018 22:48:42.884	code: Info	test: *** Procesado de datos: 60.1690001488 ***
+date: 10/07/2018 22:48:42.884	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 62.2640001774 ***
+date: 10/07/2018 22:48:42.931	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:48:42.962	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:48:42.993	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:48:43.025	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:48:43.900	code: info	test: La estrella sigue siendo observable(Alkaid)
+date: 10/07/2018 22:48:43.931	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.94649832143', 'az': '321.223331', 'name': 'Alkaid', 'airmass': '1.161488', 'ha_hours': 'hms_tuple(h=1.0, m=56.0, s=47.39395713252762)', 'alt': '59.424838', 'dec': '49.228049', 'magnitude': '1.850000', 'ra': '13.804351'}
+date: 10/07/2018 22:48:43.962	code: Info	test: *** Seleccion de estrella: 0.93799996376 ***
+date: 10/07/2018 22:48:43.994	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:48:44.025	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:48:44.056	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:48:44.087	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:48:44.119	code: Info	test: Intento 0
+date: 10/07/2018 22:48:44.713	code: Info	test: DX: 34.97676499999999
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:48:44.728	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:48:44.744	code: Info	test: *** Enfocado: 0.671999931335 ***
+date: 10/07/2018 22:48:44.759	code: Info	test: *** Selección de estrella: 1.84399986267 ***
+date: 10/07/2018 22:49:43.632	code: Info	test: *** Procesado de datos: 58.8099999428 ***
+date: 10/07/2018 22:49:43.694	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 60.7319998741 ***
+date: 10/07/2018 22:49:43.757	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:49:43.819	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:49:43.882	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:49:43.944	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:49:44.100	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710224938.txt
+date: 10/07/2018 22:49:46.429	code: info	test: La estrella sigue siendo observable(Alkaid)
+date: 10/07/2018 22:49:46.429	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.94649832143', 'az': '321.223331', 'name': 'Alkaid', 'airmass': '1.161488', 'ha_hours': 'hms_tuple(h=1.0, m=56.0, s=47.39395713252762)', 'alt': '59.424838', 'dec': '49.228049', 'magnitude': '1.850000', 'ra': '13.804351'}
+date: 10/07/2018 22:49:46.429	code: Info	test: *** Seleccion de estrella: 2.54699993134 ***
+date: 10/07/2018 22:49:46.445	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:49:46.445	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:49:46.445	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:49:46.445	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:49:46.445	code: Info	test: Intento 0
+date: 10/07/2018 22:49:46.789	code: Info	test: DX: 35.192115
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:49:46.789	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:49:46.789	code: Info	test: *** Enfocado: 0.344000101089 ***
+date: 10/07/2018 22:49:46.789	code: Info	test: *** Selección de estrella: 3.09500002861 ***
+date: 10/07/2018 22:50:43.020	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710225040.txt
+date: 10/07/2018 22:50:46.458	code: Info	test: *** Procesado de datos: 59.6529998779 ***
+date: 10/07/2018 22:50:46.489	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 62.763999939 ***
+date: 10/07/2018 22:50:46.520	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:50:46.552	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:50:46.583	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:50:46.614	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:50:47.427	code: info	test: La estrella sigue siendo observable(Alkaid)
+date: 10/07/2018 22:50:47.442	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.94649832143', 'az': '321.223331', 'name': 'Alkaid', 'airmass': '1.161488', 'ha_hours': 'hms_tuple(h=1.0, m=56.0, s=47.39395713252762)', 'alt': '59.424838', 'dec': '49.228049', 'magnitude': '1.850000', 'ra': '13.804351'}
+date: 10/07/2018 22:50:47.458	code: Info	test: *** Seleccion de estrella: 0.858999967575 ***
+date: 10/07/2018 22:50:47.474	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:50:47.489	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:50:47.505	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:50:47.521	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:50:47.536	code: Info	test: Intento 0
+date: 10/07/2018 22:50:48.036	code: Info	test: DX: 35.00023
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:50:48.036	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:50:48.068	code: Info	test: *** Enfocado: 0.530999898911 ***
+date: 10/07/2018 22:50:48.068	code: Info	test: *** Selección de estrella: 1.57899999619 ***
+date: 10/07/2018 22:51:46.580	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710225141.txt
+date: 10/07/2018 22:51:46.924	code: Info	test: *** Procesado de datos: 58.8249998093 ***
+date: 10/07/2018 22:51:46.955	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 60.4349999428 ***
+date: 10/07/2018 22:51:46.987	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:51:47.018	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:51:47.049	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:51:47.080	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:51:49.331	code: Error (check star)	test: Estrella no observable(Alkaid)
+date: 10/07/2018 22:51:49.346	code: Error (comprobando estrella)	test: Estrella no observable(Alkaid)
+date: 10/07/2018 22:51:49.346	code: Info	test: *** Selección de estrella: 2.39100003242 ***
+date: 10/07/2018 22:51:52.347	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 5.39199995995 ***
+date: 10/07/2018 22:51:52.347	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:51:52.347	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:51:52.347	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:51:52.363	code: Info	test: Seleccionando estella...
+date: 10/07/2018 22:52:21.385	code: Info	test: Estella seleccionada --> Arcturus
+	airmass: 1.106655
+	ha hours: hms_tuple(h=1.0, m=43.0, s=34.20997434889628)
+	ra: 14.275381
+	dec: 19.101516
+date: 10/07/2018 22:52:21.385	code: Info	test: *** Seleccion de estrella: 29.0380001068 ***
+date: 10/07/2018 22:52:21.385	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:52:21.385	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 22:52:21.385	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:52:21.385	code: Info	test: Centrando spots...
+date: 10/07/2018 22:52:22.417	code: Info	test: Intento 1
+date: 10/07/2018 22:52:28.887	code: Info	test: Los spots estÃ¡n centrados
+date: 10/07/2018 22:52:28.887	code: Info	test: *** Centrado de spots: 7.50200009346 ***
+date: 10/07/2018 22:52:28.887	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:52:28.887	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:52:28.887	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:52:28.903	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:52:28.903	code: Info	test: Intento 0
+date: 10/07/2018 22:52:29.215	code: Info	test: DX: 34.803665
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:52:29.215	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:52:29.215	code: Info	test: *** Enfocado: 0.327999830246 ***
+date: 10/07/2018 22:52:29.215	code: Info	test: *** Selección de estrella: 36.8680000305 ***
+date: 10/07/2018 22:53:18.945	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710225314.txt
+date: 10/07/2018 22:53:20.680	code: Info	test: *** Procesado de datos: 51.4650001526 ***
+date: 10/07/2018 22:53:20.695	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 88.3330001831 ***
+date: 10/07/2018 22:53:20.695	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:53:20.695	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:53:20.695	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:53:20.695	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:53:21.633	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 22:53:21.664	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 22:53:21.664	code: Info	test: *** Seleccion de estrella: 0.969000101089 ***
+date: 10/07/2018 22:53:21.664	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:53:21.695	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:53:21.711	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:53:21.711	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:53:21.727	code: Info	test: Intento 0
+date: 10/07/2018 22:53:22.164	code: Info	test: DX: 34.39828
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:53:22.196	code: Info	test: Moviendo el foco...
+date: 10/07/2018 22:53:22.868	code: Info	test: Intento 1
+date: 10/07/2018 22:53:31.588	code: Info	test: DX: 34.587975
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:53:31.588	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:53:31.588	code: Info	test: *** Enfocado: 9.87700009346 ***
+date: 10/07/2018 22:53:31.604	code: Info	test: *** Selección de estrella: 10.9090001583 ***
+date: 10/07/2018 22:54:19.130	code: Info	test: *** Procesado de datos: 47.5260000229 ***
+date: 10/07/2018 22:54:19.130	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 58.4350001812 ***
+date: 10/07/2018 22:54:19.192	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:54:19.192	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:54:19.192	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:54:19.192	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:54:21.755	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710225413.txt
+date: 10/07/2018 22:54:22.662	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 22:54:22.693	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 22:54:22.724	code: Info	test: *** Seleccion de estrella: 3.50100016594 ***
+date: 10/07/2018 22:54:22.756	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:54:22.787	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:54:22.818	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:54:22.849	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:54:22.881	code: Info	test: Intento 0
+date: 10/07/2018 22:54:23.318	code: Info	test: DX: 34.326035000000005
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:54:23.318	code: Info	test: Moviendo el foco...
+date: 10/07/2018 22:54:23.678	code: Info	test: Intento 1
+date: 10/07/2018 22:54:32.164	code: Info	test: DX: 35.082114999999995
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:54:32.164	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:54:32.164	code: Info	test: *** Enfocado: 9.34599995613 ***
+date: 10/07/2018 22:54:32.164	code: Info	test: *** Selección de estrella: 13.0339999199 ***
+date: 10/07/2018 22:55:16.720	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710225512.txt
+date: 10/07/2018 22:55:19.596	code: Info	test: *** Procesado de datos: 47.4319999218 ***
+date: 10/07/2018 22:55:19.596	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 60.4659998417 ***
+date: 10/07/2018 22:55:19.627	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:55:19.659	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:55:19.659	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:55:19.659	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:55:20.737	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 22:55:20.784	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 22:55:20.784	code: Info	test: *** Seleccion de estrella: 1.125 ***
+date: 10/07/2018 22:55:20.784	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:55:20.784	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:55:20.784	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:55:20.784	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:55:20.784	code: Info	test: Intento 0
+date: 10/07/2018 22:55:21.362	code: Info	test: DX: 34.628225
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:55:21.378	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:55:21.393	code: Info	test: *** Enfocado: 0.594000101089 ***
+date: 10/07/2018 22:55:21.409	code: Info	test: *** Selección de estrella: 1.78099989891 ***
+date: 10/07/2018 22:56:08.857	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710225602.txt
+date: 10/07/2018 22:56:11.170	code: Info	test: *** Procesado de datos: 49.7610001564 ***
+date: 10/07/2018 22:56:11.170	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 51.5580000877 ***
+date: 10/07/2018 22:56:11.201	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:56:11.201	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:56:11.232	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:56:11.264	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:56:14.045	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 22:56:14.061	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 22:56:14.092	code: Info	test: *** Seleccion de estrella: 2.82899999619 ***
+date: 10/07/2018 22:56:14.124	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:56:14.155	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:56:14.186	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:56:14.217	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:56:14.249	code: Info	test: Intento 0
+date: 10/07/2018 22:56:14.952	code: Info	test: DX: 34.491905
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:56:14.952	code: Info	test: Moviendo el foco...
+date: 10/07/2018 22:56:15.311	code: Info	test: Intento 1
+date: 10/07/2018 22:56:23.766	code: Info	test: DX: 35.09158
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:56:23.766	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:56:23.766	code: Info	test: *** Enfocado: 9.57999992371 ***
+date: 10/07/2018 22:56:23.766	code: Info	test: *** Selección de estrella: 12.5959999561 ***
+date: 10/07/2018 22:57:10.136	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710225704.txt
+date: 10/07/2018 22:57:11.730	code: Info	test: *** Procesado de datos: 47.9639999866 ***
+date: 10/07/2018 22:57:11.761	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 60.5599999428 ***
+date: 10/07/2018 22:57:11.761	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:57:11.761	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:57:11.792	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:57:11.792	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:57:12.824	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 22:57:12.824	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 22:57:12.840	code: Info	test: *** Seleccion de estrella: 1.03199982643 ***
+date: 10/07/2018 22:57:12.840	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:57:12.871	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 22:57:12.902	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:57:12.918	code: Info	test: Centrando spots...
+date: 10/07/2018 22:57:15.121	code: Info	test: Intento 1
+date: 10/07/2018 22:57:21.123	code: Info	test: Los spots estÃ¡n centrados
+date: 10/07/2018 22:57:21.123	code: Info	test: *** Centrado de spots: 8.22099995613 ***
+date: 10/07/2018 22:57:21.123	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:57:21.123	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:57:21.123	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:57:21.123	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:57:21.123	code: Info	test: Intento 0
+date: 10/07/2018 22:57:21.529	code: Info	test: DX: 35.16567499999999
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:57:21.529	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:57:21.529	code: Info	test: *** Enfocado: 0.406000137329 ***
+date: 10/07/2018 22:57:21.529	code: Info	test: *** Selección de estrella: 9.76800012589 ***
+date: 10/07/2018 22:58:07.758	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710225801.txt
+date: 10/07/2018 22:58:10.524	code: Info	test: *** Procesado de datos: 48.9639999866 ***
+date: 10/07/2018 22:58:10.524	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 58.7630000114 ***
+date: 10/07/2018 22:58:10.555	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:58:10.555	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:58:10.586	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:58:10.618	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:58:13.431	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 22:58:13.462	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 22:58:13.493	code: Info	test: *** Seleccion de estrella: 2.87599992752 ***
+date: 10/07/2018 22:58:13.525	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:58:13.556	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:58:13.587	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:58:13.618	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:58:13.650	code: Info	test: Intento 0
+date: 10/07/2018 22:58:14.228	code: Info	test: DX: 34.81085499999999
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:58:14.228	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:58:14.228	code: Info	test: *** Enfocado: 0.641000032425 ***
+date: 10/07/2018 22:58:14.228	code: Info	test: *** Selección de estrella: 3.70399999619 ***
+date: 10/07/2018 22:58:59.441	code: Info	test: *** Procesado de datos: 45.1510000229 ***
+date: 10/07/2018 22:58:59.503	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 48.9170000553 ***
+date: 10/07/2018 22:58:59.566	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:58:59.566	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:58:59.613	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:58:59.613	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:59:00.410	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710225854.txt
+date: 10/07/2018 22:59:02.879	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 22:59:02.879	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 22:59:02.879	code: Info	test: *** Seleccion de estrella: 3.26600003242 ***
+date: 10/07/2018 22:59:02.879	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:59:02.879	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:59:02.879	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:59:02.879	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:59:02.895	code: Info	test: Intento 0
+date: 10/07/2018 22:59:03.285	code: Info	test: DX: 35.3429
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:59:03.285	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:59:03.285	code: Info	test: *** Enfocado: 0.406000137329 ***
+date: 10/07/2018 22:59:03.285	code: Info	test: *** Selección de estrella: 3.78200006485 ***
+date: 10/07/2018 22:59:47.686	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710225943.txt
+date: 10/07/2018 22:59:50.890	code: Info	test: *** Procesado de datos: 47.6050000191 ***
+date: 10/07/2018 22:59:50.890	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 51.3870000839 ***
+date: 10/07/2018 22:59:50.890	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:59:50.890	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 22:59:50.890	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:59:50.890	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 22:59:51.749	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 22:59:51.765	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 22:59:51.780	code: Info	test: *** Seleccion de estrella: 0.875 ***
+date: 10/07/2018 22:59:51.796	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:59:51.812	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 22:59:51.827	code: Info	test: ---------------------------------------------
+date: 10/07/2018 22:59:51.843	code: Info	test: Comprobando el foco...
+date: 10/07/2018 22:59:51.858	code: Info	test: Intento 0
+date: 10/07/2018 22:59:52.484	code: Info	test: DX: 34.86432
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 22:59:52.515	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 22:59:52.546	code: Info	test: *** Enfocado: 0.688000202179 ***
+date: 10/07/2018 22:59:52.577	code: Info	test: *** Selección de estrella: 1.65599989891 ***
+date: 10/07/2018 23:00:38.744	code: Info	test: *** Procesado de datos: 46.1040000916 ***
+date: 10/07/2018 23:00:38.791	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 47.8539998531 ***
+date: 10/07/2018 23:00:38.837	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:00:38.900	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:00:38.962	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:00:39.009	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:00:40.510	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710230033.txt
+date: 10/07/2018 23:00:42.104	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:00:42.104	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:00:42.104	code: Info	test: *** Seleccion de estrella: 3.14200019836 ***
+date: 10/07/2018 23:00:42.104	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:00:42.104	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:00:42.104	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:00:42.104	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:00:42.104	code: Info	test: Intento 0
+date: 10/07/2018 23:00:42.448	code: Info	test: DX: 35.25252999999999
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:00:42.448	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:00:42.448	code: Info	test: *** Enfocado: 0.343999862671 ***
+date: 10/07/2018 23:00:42.448	code: Info	test: *** Selección de estrella: 3.65700006485 ***
+date: 10/07/2018 23:01:26.301	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710230122.txt
+date: 10/07/2018 23:01:29.598	code: Info	test: *** Procesado de datos: 47.1500000954 ***
+date: 10/07/2018 23:01:29.630	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 50.8070001602 ***
+date: 10/07/2018 23:01:29.645	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:01:29.661	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:01:29.677	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:01:29.692	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:01:30.677	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:01:30.708	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:01:30.739	code: Info	test: *** Seleccion de estrella: 1.03099989891 ***
+date: 10/07/2018 23:01:30.771	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:01:30.802	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 23:01:30.802	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:01:30.833	code: Info	test: Centrando spots...
+date: 10/07/2018 23:01:32.724	code: Info	test: Intento 1
+date: 10/07/2018 23:01:38.444	code: Info	test: Los spots estÃ¡n centrados
+date: 10/07/2018 23:01:38.444	code: Info	test: *** Centrado de spots: 7.64199995995 ***
+date: 10/07/2018 23:01:38.444	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:01:38.444	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:01:38.444	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:01:38.444	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:01:38.444	code: Info	test: Intento 0
+date: 10/07/2018 23:01:38.772	code: Info	test: DX: 35.15727
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:01:38.772	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:01:38.772	code: Info	test: *** Enfocado: 0.328000068665 ***
+date: 10/07/2018 23:01:38.772	code: Info	test: *** Selección de estrella: 9.14199995995 ***
+date: 10/07/2018 23:02:25.883	code: Info	test: *** Procesado de datos: 47.0490000248 ***
+date: 10/07/2018 23:02:25.946	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 56.2529997826 ***
+date: 10/07/2018 23:02:26.008	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:02:26.071	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:02:26.133	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:02:26.212	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:02:28.306	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710230220.txt
+date: 10/07/2018 23:02:29.056	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:02:29.056	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:02:29.056	code: Info	test: *** Seleccion de estrella: 2.92300009727 ***
+date: 10/07/2018 23:02:29.103	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:02:29.134	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:02:29.165	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:02:29.197	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:02:29.228	code: Info	test: Intento 0
+date: 10/07/2018 23:02:29.869	code: Info	test: DX: 35.58905
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:02:29.869	code: Info	test: Moviendo el foco...
+date: 10/07/2018 23:02:30.384	code: Info	test: Intento 1
+date: 10/07/2018 23:02:38.855	code: Info	test: DX: 35.42784
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:02:38.855	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:02:38.855	code: Info	test: *** Enfocado: 9.69000005722 ***
+date: 10/07/2018 23:02:38.855	code: Info	test: *** Selección de estrella: 12.9089999199 ***
+date: 10/07/2018 23:03:24.974	code: Info	test: *** Procesado de datos: 46.0569999218 ***
+date: 10/07/2018 23:03:25.037	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 59.0279998779 ***
+date: 10/07/2018 23:03:25.099	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:03:25.162	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:03:25.162	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:03:25.224	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:03:26.334	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710230319.txt
+date: 10/07/2018 23:03:28.100	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:03:28.100	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:03:28.100	code: Info	test: *** Seleccion de estrella: 2.93799996376 ***
+date: 10/07/2018 23:03:28.100	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:03:28.100	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:03:28.100	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:03:28.100	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:03:28.116	code: Info	test: Intento 0
+date: 10/07/2018 23:03:28.444	code: Info	test: DX: 35.03682
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:03:28.444	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:03:28.444	code: Info	test: *** Enfocado: 0.344000101089 ***
+date: 10/07/2018 23:03:28.444	code: Info	test: *** Selección de estrella: 3.40700006485 ***
+date: 10/07/2018 23:04:15.782	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710230412.txt
+date: 10/07/2018 23:04:19.002	code: Info	test: *** Procesado de datos: 50.5260000229 ***
+date: 10/07/2018 23:04:19.017	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 53.9650001526 ***
+date: 10/07/2018 23:04:19.033	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:04:19.049	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:04:19.064	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:04:19.080	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:04:19.939	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:04:19.971	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:04:20.002	code: Info	test: *** Seleccion de estrella: 0.90700006485 ***
+date: 10/07/2018 23:04:20.033	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:04:20.064	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:04:20.096	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:04:20.127	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:04:20.158	code: Info	test: Intento 0
+date: 10/07/2018 23:04:20.643	code: Info	test: DX: 34.85327
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:04:20.674	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:04:20.690	code: Info	test: *** Enfocado: 0.578000068665 ***
+date: 10/07/2018 23:04:20.705	code: Info	test: *** Selección de estrella: 1.67300009727 ***
+date: 10/07/2018 23:05:07.262	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710230501.txt
+date: 10/07/2018 23:05:10.028	code: Info	test: *** Procesado de datos: 49.2770001888 ***
+date: 10/07/2018 23:05:10.060	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 51.0110001564 ***
+date: 10/07/2018 23:05:10.060	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:05:10.091	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:05:10.122	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:05:10.154	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:05:12.341	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:05:12.357	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:05:12.388	code: Info	test: *** Seleccion de estrella: 2.23500013351 ***
+date: 10/07/2018 23:05:12.420	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:05:12.451	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:05:12.482	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:05:12.513	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:05:12.545	code: Info	test: Intento 0
+date: 10/07/2018 23:05:13.170	code: Info	test: DX: 35.413714999999996
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:05:13.201	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:05:13.232	code: Info	test: *** Enfocado: 0.718999862671 ***
+date: 10/07/2018 23:05:13.264	code: Info	test: *** Selección de estrella: 3.17200016975 ***
+date: 10/07/2018 23:05:59.195	code: Info	test: *** Procesado de datos: 45.8849999905 ***
+date: 10/07/2018 23:05:59.242	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 49.1349999905 ***
+date: 10/07/2018 23:05:59.289	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:05:59.352	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:05:59.414	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:05:59.477	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:06:00.477	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710230553.txt
+date: 10/07/2018 23:06:02.446	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:06:02.446	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:06:02.446	code: Info	test: *** Seleccion de estrella: 3.03200006485 ***
+date: 10/07/2018 23:06:02.446	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:06:02.462	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 23:06:02.462	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:06:02.462	code: Info	test: Centrando spots...
+date: 10/07/2018 23:06:04.134	code: Info	test: Intento 1
+date: 10/07/2018 23:06:09.917	code: Info	test: Los spots estÃ¡n centrados
+date: 10/07/2018 23:06:09.917	code: Info	test: *** Centrado de spots: 7.45500016212 ***
+date: 10/07/2018 23:06:09.917	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:06:09.917	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:06:09.917	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:06:09.917	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:06:09.932	code: Info	test: Intento 0
+date: 10/07/2018 23:06:10.213	code: Info	test: DX: 34.596230000000006
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:06:10.213	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:06:10.213	code: Info	test: *** Enfocado: 0.296000003815 ***
+date: 10/07/2018 23:06:10.213	code: Info	test: *** Selección de estrella: 10.9709999561 ***
+date: 10/07/2018 23:06:56.458	code: Info	test: *** Procesado de datos: 46.1819999218 ***
+date: 10/07/2018 23:06:56.458	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 57.2159998417 ***
+date: 10/07/2018 23:06:56.458	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:06:56.520	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:06:56.583	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:06:56.583	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:06:59.630	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710230651.txt
+date: 10/07/2018 23:07:00.490	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:07:00.490	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:07:00.490	code: Info	test: *** Seleccion de estrella: 3.90700006485 ***
+date: 10/07/2018 23:07:00.506	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:07:00.506	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:07:00.506	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:07:00.506	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:07:00.506	code: Info	test: Intento 0
+date: 10/07/2018 23:07:00.959	code: Info	test: DX: 35.00933
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:07:00.975	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:07:00.975	code: Info	test: *** Enfocado: 0.468999862671 ***
+date: 10/07/2018 23:07:00.975	code: Info	test: *** Selección de estrella: 4.51699995995 ***
+date: 10/07/2018 23:07:46.625	code: Info	test: *** Procesado de datos: 45.603000164 ***
+date: 10/07/2018 23:07:46.672	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 50.1670000553 ***
+date: 10/07/2018 23:07:46.688	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:07:46.766	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:07:46.828	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:07:46.906	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:07:49.704	code: Info	test: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710230741.txt
+date: 10/07/2018 23:07:50.813	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:07:50.845	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:07:50.845	code: Info	test: *** Seleccion de estrella: 4.00099992752 ***
+date: 10/07/2018 23:07:50.845	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:07:50.860	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:07:50.860	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:07:50.860	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:07:50.860	code: Info	test: Intento 0
+date: 10/07/2018 23:07:51.267	code: Info	test: DX: 36.12560499999999
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:07:51.282	code: Info	test: Moviendo el foco...
+date: 10/07/2018 23:07:51.626	code: Info	test: Intento 1
+date: 10/07/2018 23:08:00.878	code: Info	test: DX: 34.47670000000001
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:08:00.909	code: Info	test: Moviendo el foco...
+date: 10/07/2018 23:08:01.566	code: Info	test: Intento 2
+date: 10/07/2018 23:08:10.224	code: Info	test: DX: 35.264095
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:08:10.224	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:08:10.224	code: Info	test: *** Enfocado: 19.364000082 ***
+date: 10/07/2018 23:08:10.224	code: Info	test: *** Selección de estrella: 23.5360000134 ***
+date: 10/07/2018 23:08:55.843	code: Info	test: *** Procesado de datos: 45.5569999218 ***
+date: 10/07/2018 23:08:55.906	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 69.1549999714 ***
+date: 10/07/2018 23:08:55.968	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:08:56.031	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:08:56.093	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:08:56.156	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:08:58.797	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710230850.txt
+date: 10/07/2018 23:08:59.641	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:08:59.641	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:08:59.641	code: Info	test: *** Seleccion de estrella: 3.54800009727 ***
+date: 10/07/2018 23:08:59.657	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:08:59.657	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:08:59.657	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:08:59.657	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:08:59.657	code: Info	test: Intento 0
+date: 10/07/2018 23:09:00.047	code: Info	test: DX: 35.389210000000006
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:09:00.047	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:09:00.047	code: Info	test: *** Enfocado: 0.389999866486 ***
+date: 10/07/2018 23:09:00.047	code: Info	test: *** Selección de estrella: 4.14100003242 ***
+date: 10/07/2018 23:09:44.838	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710230940.txt
+date: 10/07/2018 23:09:47.698	code: Info	test: *** Procesado de datos: 47.620000124 ***
+date: 10/07/2018 23:09:47.714	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 51.7920000553 ***
+date: 10/07/2018 23:09:47.730	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:09:47.745	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:09:47.761	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:09:47.808	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:09:48.886	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:09:48.902	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:09:48.917	code: Info	test: *** Seleccion de estrella: 1.14100003242 ***
+date: 10/07/2018 23:09:48.933	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:09:48.949	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:09:48.964	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:09:48.964	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:09:48.980	code: Info	test: Intento 0
+date: 10/07/2018 23:09:49.652	code: Info	test: DX: 34.787405
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:09:49.683	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:09:49.714	code: Info	test: *** Enfocado: 0.719000101089 ***
+date: 10/07/2018 23:09:49.746	code: Info	test: *** Selección de estrella: 2.0 ***
+date: 10/07/2018 23:10:35.693	code: Info	test: *** Procesado de datos: 45.8849999905 ***
+date: 10/07/2018 23:10:35.756	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 47.9790000916 ***
+date: 10/07/2018 23:10:35.802	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:10:35.849	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:10:35.896	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:10:36.021	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:10:38.350	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710231030.txt
+date: 10/07/2018 23:10:39.272	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:10:39.303	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:10:39.335	code: Info	test: *** Seleccion de estrella: 3.40700006485 ***
+date: 10/07/2018 23:10:39.366	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:10:39.397	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 23:10:39.428	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:10:39.444	code: Info	test: Centrando spots...
+date: 10/07/2018 23:10:40.647	code: Info	test: Intento 1
+date: 10/07/2018 23:10:47.305	code: Info	test: Los spots estÃ¡n centrados
+date: 10/07/2018 23:10:47.305	code: Info	test: *** Centrado de spots: 7.87700009346 ***
+date: 10/07/2018 23:10:47.305	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:10:47.305	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:10:47.321	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:10:47.321	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:10:47.321	code: Info	test: Intento 0
+date: 10/07/2018 23:10:47.680	code: Info	test: DX: 34.98145
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:10:47.680	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:10:47.696	code: Info	test: *** Enfocado: 0.358999967575 ***
+date: 10/07/2018 23:10:47.696	code: Info	test: *** Selección de estrella: 11.9400000572 ***
+date: 10/07/2018 23:11:33.503	code: Info	test: *** Procesado de datos: 45.8069999218 ***
+date: 10/07/2018 23:11:33.503	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 57.746999979 ***
+date: 10/07/2018 23:11:33.503	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:11:33.503	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:11:33.503	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:11:33.503	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:11:36.066	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710231128.txt
+date: 10/07/2018 23:11:37.253	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:11:37.285	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:11:37.316	code: Info	test: *** Seleccion de estrella: 3.78200006485 ***
+date: 10/07/2018 23:11:37.347	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:11:37.347	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:11:37.363	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:11:37.363	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:11:37.378	code: Info	test: Intento 0
+date: 10/07/2018 23:11:37.769	code: Info	test: DX: 35.031980000000004
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:11:37.769	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:11:37.769	code: Info	test: *** Enfocado: 0.406000137329 ***
+date: 10/07/2018 23:11:37.769	code: Info	test: *** Selección de estrella: 4.26600003242 ***
+date: 10/07/2018 23:12:22.538	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710231218.txt
+date: 10/07/2018 23:12:25.429	code: Info	test: *** Procesado de datos: 47.6599998474 ***
+date: 10/07/2018 23:12:25.429	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 51.9259998798 ***
+date: 10/07/2018 23:12:25.476	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:12:25.507	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:12:25.539	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:12:25.570	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:12:26.476	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:12:26.508	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:12:26.539	code: Info	test: *** Seleccion de estrella: 0.968999862671 ***
+date: 10/07/2018 23:12:26.570	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:12:26.601	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:12:26.633	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:12:26.664	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:12:26.695	code: Info	test: Intento 0
+date: 10/07/2018 23:12:27.430	code: Info	test: DX: 34.619265000000006
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:12:27.430	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:12:27.430	code: Info	test: *** Enfocado: 0.797000169754 ***
+date: 10/07/2018 23:12:27.430	code: Info	test: *** Selección de estrella: 1.98500013351 ***
+date: 10/07/2018 23:13:14.455	code: Info	test: *** Procesado de datos: 46.9629998207 ***
+date: 10/07/2018 23:13:14.502	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 49.0099999905 ***
+date: 10/07/2018 23:13:14.549	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:13:14.612	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:13:14.674	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:13:14.737	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:13:17.065	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710231309.txt
+date: 10/07/2018 23:13:17.800	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:13:17.816	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:13:17.847	code: Info	test: *** Seleccion de estrella: 3.14199995995 ***
+date: 10/07/2018 23:13:17.878	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:13:17.909	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:13:17.909	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:13:17.909	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:13:17.909	code: Info	test: Intento 0
+date: 10/07/2018 23:13:18.472	code: Info	test: DX: 35.355155
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:13:18.472	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:13:18.472	code: Info	test: *** Enfocado: 0.56299996376 ***
+date: 10/07/2018 23:13:18.472	code: Info	test: *** Selección de estrella: 3.96999979019 ***
+date: 10/07/2018 23:14:04.123	code: Info	test: *** Procesado de datos: 45.6510000229 ***
+date: 10/07/2018 23:14:04.185	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 49.6209998131 ***
+date: 10/07/2018 23:14:04.248	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:14:04.294	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:14:04.341	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:14:04.404	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:14:06.514	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710231358.txt
+date: 10/07/2018 23:14:07.467	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:14:07.498	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:14:07.530	code: Info	test: *** Seleccion de estrella: 3.15699982643 ***
+date: 10/07/2018 23:14:07.561	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:14:07.592	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:14:07.592	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:14:07.623	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:14:07.655	code: Info	test: Intento 0
+date: 10/07/2018 23:14:08.186	code: Info	test: DX: 35.130865
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:14:08.186	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:14:08.186	code: Info	test: *** Enfocado: 0.594000101089 ***
+date: 10/07/2018 23:14:08.186	code: Info	test: *** Selección de estrella: 4.00100016594 ***
+date: 10/07/2018 23:14:52.633	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710231448.txt
+date: 10/07/2018 23:14:55.477	code: Info	test: *** Procesado de datos: 47.2599999905 ***
+date: 10/07/2018 23:14:55.493	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 51.2920000553 ***
+date: 10/07/2018 23:14:55.509	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:14:55.524	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:14:55.540	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:14:55.556	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:14:56.431	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:14:56.462	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:14:56.493	code: Info	test: *** Seleccion de estrella: 0.921999931335 ***
+date: 10/07/2018 23:14:56.525	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:14:56.556	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 23:14:56.556	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:14:56.587	code: Info	test: Centrando spots...
+date: 10/07/2018 23:14:58.087	code: Info	test: Intento 1
+date: 10/07/2018 23:15:04.729	code: Info	test: Los spots estÃ¡n centrados
+date: 10/07/2018 23:15:04.729	code: Info	test: *** Centrado de spots: 8.17300009727 ***
+date: 10/07/2018 23:15:04.729	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:15:04.729	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:15:04.729	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:15:04.729	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:15:04.729	code: Info	test: Intento 0
+date: 10/07/2018 23:15:05.167	code: Info	test: DX: 35.336185
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:15:05.183	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:15:05.183	code: Info	test: *** Enfocado: 0.453999996185 ***
+date: 10/07/2018 23:15:05.183	code: Info	test: *** Selección de estrella: 9.69000005722 ***
+date: 10/07/2018 23:15:50.552	code: Info	test: *** Procesado de datos: 45.2749998569 ***
+date: 10/07/2018 23:15:50.599	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 55.0590000153 ***
+date: 10/07/2018 23:15:50.646	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:15:50.693	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:15:50.739	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:15:50.786	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:15:52.927	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710231545.txt
+date: 10/07/2018 23:15:54.146	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:15:54.146	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:15:54.146	code: Info	test: *** Seleccion de estrella: 3.40699982643 ***
+date: 10/07/2018 23:15:54.146	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:15:54.162	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:15:54.162	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:15:54.162	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:15:54.162	code: Info	test: Intento 0
+date: 10/07/2018 23:15:54.506	code: Info	test: DX: 35.099395
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:15:54.506	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:15:54.506	code: Info	test: *** Enfocado: 0.344000101089 ***
+date: 10/07/2018 23:15:54.506	code: Info	test: *** Selección de estrella: 3.90700006485 ***
+date: 10/07/2018 23:16:38.687	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710231634.txt
+date: 10/07/2018 23:16:42.407	code: Info	test: *** Procesado de datos: 47.9010000229 ***
+date: 10/07/2018 23:16:42.407	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 51.8080000877 ***
+date: 10/07/2018 23:16:42.438	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:16:42.454	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:16:42.469	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:16:42.485	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:16:43.642	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:16:43.673	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:16:43.704	code: Info	test: *** Seleccion de estrella: 1.20399999619 ***
+date: 10/07/2018 23:16:43.720	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:16:43.735	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:16:43.751	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:16:43.767	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:16:43.782	code: Info	test: Intento 0
+date: 10/07/2018 23:16:44.392	code: Info	test: DX: 34.80206499999999
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:16:44.423	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:16:44.454	code: Info	test: *** Enfocado: 0.672000169754 ***
+date: 10/07/2018 23:16:44.486	code: Info	test: *** Selección de estrella: 2.04699993134 ***
+date: 10/07/2018 23:17:29.026	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710231724.txt
+date: 10/07/2018 23:17:31.902	code: Info	test: *** Procesado de datos: 47.3849999905 ***
+date: 10/07/2018 23:17:31.902	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 49.4949998856 ***
+date: 10/07/2018 23:17:31.933	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:17:31.933	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:17:31.933	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:17:31.933	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:17:32.855	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:17:32.887	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:17:32.918	code: Info	test: *** Seleccion de estrella: 0.953999996185 ***
+date: 10/07/2018 23:17:32.949	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:17:32.949	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:17:32.949	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:17:32.980	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:17:32.980	code: Info	test: Intento 0
+date: 10/07/2018 23:17:33.559	code: Info	test: DX: 34.5672
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:17:33.574	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:17:33.590	code: Info	test: *** Enfocado: 0.625 ***
+date: 10/07/2018 23:17:33.590	code: Info	test: *** Selección de estrella: 1.68799996376 ***
+date: 10/07/2018 23:18:18.865	code: Info	test: *** Procesado de datos: 45.2130000591 ***
+date: 10/07/2018 23:18:18.959	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 46.9630000591 ***
+date: 10/07/2018 23:18:19.022	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:18:19.084	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:18:19.131	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:18:19.178	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:18:21.022	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710231813.txt
+date: 10/07/2018 23:18:22.272	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:18:22.272	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:18:22.272	code: Info	test: *** Seleccion de estrella: 3.14100003242 ***
+date: 10/07/2018 23:18:22.272	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:18:22.272	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:18:22.272	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:18:22.288	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:18:22.288	code: Info	test: Intento 0
+date: 10/07/2018 23:18:22.632	code: Info	test: DX: 34.84775499999999
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:18:22.632	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:18:22.632	code: Info	test: *** Enfocado: 0.359999895096 ***
+date: 10/07/2018 23:18:22.632	code: Info	test: *** Selección de estrella: 3.67299985886 ***
+date: 10/07/2018 23:19:08.329	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710231903.txt
+date: 10/07/2018 23:19:10.299	code: Info	test: *** Procesado de datos: 47.6670000553 ***
+date: 10/07/2018 23:19:10.314	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 51.3399999142 ***
+date: 10/07/2018 23:19:10.345	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:19:10.361	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:19:10.392	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:19:10.392	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:19:11.424	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:19:11.455	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:19:11.486	code: Info	test: *** Seleccion de estrella: 1.06299996376 ***
+date: 10/07/2018 23:19:11.518	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:19:11.549	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 23:19:11.580	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:19:11.580	code: Info	test: Centrando spots...
+date: 10/07/2018 23:19:13.346	code: Info	test: Intento 1
+date: 10/07/2018 23:19:19.832	code: Info	test: Los spots estÃ¡n centrados
+date: 10/07/2018 23:19:19.832	code: Info	test: *** Centrado de spots: 8.25200009346 ***
+date: 10/07/2018 23:19:19.832	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:19:19.832	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:19:19.832	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:19:19.832	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:19:19.832	code: Info	test: Intento 0
+date: 10/07/2018 23:19:20.191	code: Info	test: DX: 34.60369
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:19:20.191	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:19:20.191	code: Info	test: *** Enfocado: 0.358999967575 ***
+date: 10/07/2018 23:19:20.191	code: Info	test: *** Selección de estrella: 9.87700009346 ***
+date: 10/07/2018 23:20:04.748	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710232000.txt
+date: 10/07/2018 23:20:07.577	code: Info	test: *** Procesado de datos: 47.370000124 ***
+date: 10/07/2018 23:20:07.608	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 57.2630000114 ***
+date: 10/07/2018 23:20:07.623	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:20:07.639	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:20:07.655	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:20:07.670	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:20:08.577	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:20:08.608	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:20:08.639	code: Info	test: *** Seleccion de estrella: 0.953000068665 ***
+date: 10/07/2018 23:20:08.671	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:20:08.702	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:20:08.749	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:20:08.780	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:20:08.811	code: Info	test: Intento 0
+date: 10/07/2018 23:20:09.311	code: Info	test: DX: 34.07081
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:20:09.327	code: Info	test: Moviendo el foco...
+date: 10/07/2018 23:20:09.890	code: Info	test: Intento 1
+date: 10/07/2018 23:20:18.391	code: Info	test: DX: 35.31148
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:20:18.391	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:20:18.391	code: Info	test: *** Enfocado: 9.64199995995 ***
+date: 10/07/2018 23:20:18.407	code: Info	test: *** Selección de estrella: 10.7990000248 ***
+date: 10/07/2018 23:21:04.214	code: Info	test: *** Procesado de datos: 45.7599999905 ***
+date: 10/07/2018 23:21:04.214	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 56.6059999466 ***
+date: 10/07/2018 23:21:04.261	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:21:04.308	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:21:04.370	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:21:04.433	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:21:05.542	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710232058.txt
+date: 10/07/2018 23:21:07.558	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:21:07.558	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:21:07.574	code: Info	test: *** Seleccion de estrella: 3.18800020218 ***
+date: 10/07/2018 23:21:07.574	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:21:07.574	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:21:07.574	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:21:07.574	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:21:07.590	code: Info	test: Intento 0
+date: 10/07/2018 23:21:07.887	code: Info	test: DX: 34.16458
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:21:07.887	code: Info	test: Moviendo el foco...
+date: 10/07/2018 23:21:08.262	code: Info	test: Intento 1
+date: 10/07/2018 23:21:16.764	code: Info	test: DX: 35.62805499999999
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:21:16.764	code: Info	test: Moviendo el foco...
+date: 10/07/2018 23:21:17.232	code: Info	test: Intento 2
+date: 10/07/2018 23:21:25.719	code: Info	test: DX: 35.940284999999996
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:21:25.719	code: Info	test: Moviendo el foco...
+date: 10/07/2018 23:21:26.094	code: Info	test: Intento 3
+date: 10/07/2018 23:21:34.424	code: Info	test: DX: 35.32014499999999
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:21:34.424	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:21:34.424	code: Info	test: *** Enfocado: 26.8500001431 ***
+date: 10/07/2018 23:21:34.424	code: Info	test: *** Selección de estrella: 30.2100000381 ***
+date: 10/07/2018 23:22:18.443	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710232214.txt
+date: 10/07/2018 23:22:21.506	code: Info	test: *** Procesado de datos: 47.0669999123 ***
+date: 10/07/2018 23:22:21.522	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 77.2920000553 ***
+date: 10/07/2018 23:22:21.538	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:22:21.553	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:22:21.569	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:22:21.584	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:22:22.413	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:22:22.428	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:22:22.428	code: Info	test: *** Seleccion de estrella: 0.858999967575 ***
+date: 10/07/2018 23:22:22.444	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:22:22.444	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:22:22.444	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:22:22.460	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:22:22.460	code: Info	test: Intento 0
+date: 10/07/2018 23:22:22.944	code: Info	test: DX: 35.354605
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:22:22.960	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:22:22.960	code: Info	test: *** Enfocado: 0.516000032425 ***
+date: 10/07/2018 23:22:22.960	code: Info	test: *** Selección de estrella: 1.43799996376 ***
+date: 10/07/2018 23:23:08.735	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710232303.txt
+date: 10/07/2018 23:23:11.658	code: Info	test: *** Procesado de datos: 48.6670000553 ***
+date: 10/07/2018 23:23:11.658	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 50.135999918 ***
+date: 10/07/2018 23:23:11.689	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:23:11.689	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:23:11.689	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:23:11.689	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:23:14.565	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:23:14.596	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:23:14.627	code: Info	test: *** Seleccion de estrella: 2.90700006485 ***
+date: 10/07/2018 23:23:14.643	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:23:14.658	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:23:14.658	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:23:14.658	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:23:14.658	code: Info	test: Intento 0
+date: 10/07/2018 23:23:14.955	code: Info	test: DX: 35.72364
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:23:14.955	code: Info	test: Moviendo el foco...
+date: 10/07/2018 23:23:15.299	code: Info	test: Intento 1
+date: 10/07/2018 23:23:23.629	code: Info	test: DX: 35.61097
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:23:23.629	code: Info	test: Moviendo el foco...
+date: 10/07/2018 23:23:23.973	code: Info	test: Intento 2
+date: 10/07/2018 23:23:32.444	code: Info	test: DX: 34.9535
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:23:32.444	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:23:32.444	code: Info	test: *** Enfocado: 17.7860000134 ***
+date: 10/07/2018 23:23:32.444	code: Info	test: *** Selección de estrella: 20.7860000134 ***
+date: 10/07/2018 23:24:19.141	code: Info	test: *** Procesado de datos: 46.6970000267 ***
+date: 10/07/2018 23:24:19.141	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 67.4830000401 ***
+date: 10/07/2018 23:24:19.141	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:24:19.204	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:24:19.204	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:24:19.204	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:24:20.423	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710232414.txt
+date: 10/07/2018 23:24:22.111	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:24:22.111	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:24:22.111	code: Info	test: *** Seleccion de estrella: 2.90700006485 ***
+date: 10/07/2018 23:24:22.111	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:24:22.111	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 23:24:22.111	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:24:22.111	code: Info	test: Centrando spots...
+date: 10/07/2018 23:24:23.158	code: Info	test: Intento 1
+date: 10/07/2018 23:24:29.206	code: Info	test: Los spots estÃ¡n centrados
+date: 10/07/2018 23:24:29.206	code: Info	test: *** Centrado de spots: 7.09500002861 ***
+date: 10/07/2018 23:24:29.206	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:24:29.206	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:24:29.206	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:24:29.206	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:24:29.222	code: Info	test: Intento 0
+date: 10/07/2018 23:24:29.503	code: Info	test: DX: 35.09999499999999
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:24:29.503	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:24:29.503	code: Info	test: *** Enfocado: 0.296999931335 ***
+date: 10/07/2018 23:24:29.503	code: Info	test: *** Selección de estrella: 10.3619999886 ***
+date: 10/07/2018 23:25:14.013	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710232510.txt
+date: 10/07/2018 23:25:17.373	code: Info	test: *** Procesado de datos: 47.8380000591 ***
+date: 10/07/2018 23:25:17.373	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 58.2319998741 ***
+date: 10/07/2018 23:25:17.373	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:25:17.373	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:25:17.373	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:25:17.373	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:25:18.217	code: info	test: La estrella sigue siendo observable(Arcturus)
+date: 10/07/2018 23:25:18.217	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '1.72616943732', 'az': '254.445167', 'name': 'Arcturus', 'airmass': '1.106655', 'ha_hours': 'hms_tuple(h=1.0, m=43.0, s=34.20997434889628)', 'alt': '64.638425', 'dec': '19.101516', 'magnitude': '-0.050000', 'ra': '14.275381'}
+date: 10/07/2018 23:25:18.248	code: Info	test: *** Seleccion de estrella: 0.844000101089 ***
+date: 10/07/2018 23:25:18.248	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:25:18.248	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:25:18.248	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:25:18.248	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:25:18.248	code: Info	test: Intento 0
+date: 10/07/2018 23:25:18.764	code: Info	test: DX: 34.867180000000005
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:25:18.779	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:25:18.795	code: Info	test: *** Enfocado: 0.531000137329 ***
+date: 10/07/2018 23:25:18.810	code: Info	test: *** Selección de estrella: 1.42200016975 ***
+date: 10/07/2018 23:26:03.023	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710232559.txt
+date: 10/07/2018 23:26:06.321	code: Info	test: *** Procesado de datos: 47.4800000191 ***
+date: 10/07/2018 23:26:06.336	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 48.9480001926 ***
+date: 10/07/2018 23:26:06.352	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:26:06.352	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:26:06.352	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:26:06.352	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:26:07.040	code: Error (check star)	test: Estrella no observable(Arcturus)
+date: 10/07/2018 23:26:07.040	code: Error (comprobando estrella)	test: Estrella no observable(Arcturus)
+date: 10/07/2018 23:26:07.055	code: Info	test: *** Selección de estrella: 0.703999996185 ***
+date: 10/07/2018 23:26:10.056	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 3.72000002861 ***
+date: 10/07/2018 23:26:10.056	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:26:10.056	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:26:10.056	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:26:10.056	code: Info	test: Seleccionando estella...
+date: 10/07/2018 23:27:04.130	code: Info	test: Estella seleccionada --> Vega
+	airmass: 1.126494
+	ha hours: hms_tuple(h=-2.0, m=-2.0, s=-23.12292952970438)
+	ra: 18.626354
+	dec: 38.802822
+date: 10/07/2018 23:27:04.146	code: Info	test: *** Seleccion de estrella: 54.0740001202 ***
+date: 10/07/2018 23:27:04.146	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:27:04.146	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 23:27:04.146	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:27:04.146	code: Info	test: Centrando spots...
+date: 10/07/2018 23:27:05.459	code: Info	test: Intento 1
+date: 10/07/2018 23:27:10.882	code: Info	test: Intento 2
+date: 10/07/2018 23:27:15.055	code: Info	test: Intento 3
+date: 10/07/2018 23:27:17.258	code: Info	test: Intento 4
+date: 10/07/2018 23:27:20.353	code: Info	test: Intento 5
+date: 10/07/2018 23:27:24.510	code: Info	test: Intento 6
+date: 10/07/2018 23:27:28.042	code: Info	test: Intento 7
+date: 10/07/2018 23:27:33.340	code: Error (centrando los spots)	test: No se han podido centrar los spots
+date: 10/07/2018 23:27:33.340	code: Info	test: *** Selección de estrella: 83.2839999199 ***
+date: 10/07/2018 23:27:36.340	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 86.2839999199 ***
+date: 10/07/2018 23:27:36.340	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:27:36.340	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:27:36.340	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:27:36.356	code: Info	test: Seleccionando estella...
+date: 10/07/2018 23:28:40.167	code: Info	test: Estella seleccionada --> Alphecca
+	airmass: 1.027725
+	ha hours: hms_tuple(h=0.0, m=59.0, s=43.46189279307623)
+	ra: 15.591192
+	dec: 26.658604
+date: 10/07/2018 23:28:40.167	code: Info	test: *** Seleccion de estrella: 63.8110001087 ***
+date: 10/07/2018 23:28:40.167	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:28:40.167	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 23:28:40.182	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:28:40.182	code: Info	test: Centrando spots...
+date: 10/07/2018 23:28:41.589	code: Info	test: Intento 1
+date: 10/07/2018 23:28:48.028	code: Info	test: Los spots estÃ¡n centrados
+date: 10/07/2018 23:28:48.028	code: Info	test: *** Centrado de spots: 7.84600019455 ***
+date: 10/07/2018 23:28:48.028	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:28:48.028	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:28:48.028	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:28:48.028	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:28:48.043	code: Info	test: Intento 0
+date: 10/07/2018 23:28:48.356	code: Info	test: DX: 34.652815000000004
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:28:48.356	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:28:48.356	code: Info	test: *** Enfocado: 0.327999830246 ***
+date: 10/07/2018 23:28:48.356	code: Info	test: *** Selección de estrella: 72.0160000324 ***
+date: 10/07/2018 23:29:45.212	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710232942.txt
+date: 10/07/2018 23:29:48.604	code: Info	test: *** Procesado de datos: 60.248000145 ***
+date: 10/07/2018 23:29:48.650	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 132.295000076 ***
+date: 10/07/2018 23:29:48.666	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:29:48.682	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:29:48.697	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:29:48.713	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:29:49.479	code: info	test: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:29:49.494	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '0.995406081331', 'az': '266.442986', 'name': 'Alphecca', 'airmass': '1.027725', 'ha_hours': 'hms_tuple(h=0.0, m=59.0, s=43.46189279307623)', 'alt': '76.661008', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:29:49.510	code: Info	test: *** Seleccion de estrella: 0.796999931335 ***
+date: 10/07/2018 23:29:49.526	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:29:49.541	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:29:49.557	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:29:49.572	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:29:49.588	code: Info	test: Intento 0
+date: 10/07/2018 23:29:50.291	code: Info	test: DX: 34.71011
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:29:50.307	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:29:50.323	code: Info	test: *** Enfocado: 0.75 ***
+date: 10/07/2018 23:29:50.338	code: Info	test: *** Selección de estrella: 1.67299985886 ***
+date: 10/07/2018 23:30:49.304	code: Info	test: *** Procesado de datos: 58.9040000439 ***
+date: 10/07/2018 23:30:49.367	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 60.6539998055 ***
+date: 10/07/2018 23:30:49.414	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:30:49.461	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:30:49.523	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:30:49.586	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:30:50.523	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710233044.txt
+date: 10/07/2018 23:30:52.852	code: info	test: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:30:52.883	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '0.995406081331', 'az': '266.442986', 'name': 'Alphecca', 'airmass': '1.027725', 'ha_hours': 'hms_tuple(h=0.0, m=59.0, s=43.46189279307623)', 'alt': '76.661008', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:30:52.914	code: Info	test: *** Seleccion de estrella: 3.3599998951 ***
+date: 10/07/2018 23:30:52.930	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:30:52.946	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:30:52.946	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:30:52.961	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:30:52.961	code: Info	test: Intento 0
+date: 10/07/2018 23:30:53.508	code: Info	test: DX: 34.39924
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:30:53.508	code: Info	test: Moviendo el foco...
+date: 10/07/2018 23:30:54.040	code: Info	test: Intento 1
+date: 10/07/2018 23:31:04.167	code: Info	test: DX: 35.344195000000006
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:31:04.167	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:31:04.167	code: Info	test: *** Enfocado: 11.2209999561 ***
+date: 10/07/2018 23:31:04.167	code: Info	test: *** Selección de estrella: 14.7999999523 ***
+date: 10/07/2018 23:32:03.430	code: Info	test: *** Procesado de datos: 59.2000000477 ***
+date: 10/07/2018 23:32:03.492	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 74.0779998302 ***
+date: 10/07/2018 23:32:03.555	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:32:03.570	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:32:03.617	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:32:03.680	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:32:04.399	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710233157.txt
+date: 10/07/2018 23:32:06.743	code: info	test: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:32:06.743	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '0.995406081331', 'az': '266.442986', 'name': 'Alphecca', 'airmass': '1.027725', 'ha_hours': 'hms_tuple(h=0.0, m=59.0, s=43.46189279307623)', 'alt': '76.661008', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:32:06.759	code: Info	test: *** Seleccion de estrella: 3.12599992752 ***
+date: 10/07/2018 23:32:06.759	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:32:06.759	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:32:06.821	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:32:06.821	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:32:06.821	code: Info	test: Intento 0
+date: 10/07/2018 23:32:07.321	code: Info	test: DX: 35.347965
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:32:07.321	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:32:07.321	code: Info	test: *** Enfocado: 0.5 ***
+date: 10/07/2018 23:32:07.337	code: Info	test: *** Selección de estrella: 3.82899999619 ***
+date: 10/07/2018 23:33:04.509	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710233300.txt
+date: 10/07/2018 23:33:07.697	code: Info	test: *** Procesado de datos: 60.3440001011 ***
+date: 10/07/2018 23:33:07.713	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 64.1890001297 ***
+date: 10/07/2018 23:33:07.728	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:33:07.744	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:33:07.760	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:33:07.775	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:33:08.697	code: info	test: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:33:08.713	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '0.995406081331', 'az': '266.442986', 'name': 'Alphecca', 'airmass': '1.027725', 'ha_hours': 'hms_tuple(h=0.0, m=59.0, s=43.46189279307623)', 'alt': '76.661008', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:33:08.729	code: Info	test: *** Seleccion de estrella: 0.953000068665 ***
+date: 10/07/2018 23:33:08.744	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:33:08.760	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:33:08.760	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:33:08.775	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:33:08.791	code: Info	test: Intento 0
+date: 10/07/2018 23:33:09.541	code: Info	test: DX: 35.349579999999996
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:33:09.573	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:33:09.604	code: Info	test: *** Enfocado: 0.81299996376 ***
+date: 10/07/2018 23:33:09.604	code: Info	test: *** Selección de estrella: 1.89100003242 ***
+date: 10/07/2018 23:34:09.351	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710233403.txt
+date: 10/07/2018 23:34:11.227	code: Info	test: *** Procesado de datos: 61.5909998417 ***
+date: 10/07/2018 23:34:11.258	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 63.513999939 ***
+date: 10/07/2018 23:34:11.289	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:34:11.320	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:34:11.352	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:34:11.383	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:34:12.383	code: info	test: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:34:12.383	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '0.995406081331', 'az': '266.442986', 'name': 'Alphecca', 'airmass': '1.027725', 'ha_hours': 'hms_tuple(h=0.0, m=59.0, s=43.46189279307623)', 'alt': '76.661008', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:34:12.383	code: Info	test: *** Seleccion de estrella: 1.03099989891 ***
+date: 10/07/2018 23:34:12.383	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:34:12.383	code: Info	test: -------------- Check spots ------------------
+date: 10/07/2018 23:34:12.383	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:34:12.383	code: Info	test: Centrando spots...
+date: 10/07/2018 23:34:13.680	code: Info	test: Intento 1
+date: 10/07/2018 23:34:15.462	code: Info	text: ### SEEING: 1.2992587411055703 ###
+date: 10/07/2018 23:34:19.916	code: Info	test: Los spots estÃ¡n centrados
+date: 10/07/2018 23:34:19.916	code: Info	test: *** Centrado de spots: 7.53299999237 ***
+date: 10/07/2018 23:34:19.916	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:34:19.916	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:34:19.916	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:34:19.916	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:34:19.916	code: Info	test: Intento 0
+date: 10/07/2018 23:34:20.338	code: Info	test: DX: 35.38836500000001
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:34:20.338	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:34:20.338	code: Info	test: *** Enfocado: 0.422000169754 ***
+date: 10/07/2018 23:34:20.338	code: Info	test: *** Selección de estrella: 9.08000016212 ***
+date: 10/07/2018 23:35:19.038	code: Info	test: *** Procesado de datos: 58.6849999428 ***
+date: 10/07/2018 23:35:19.116	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 67.7800002098 ***
+date: 10/07/2018 23:35:19.179	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:35:19.257	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:35:19.304	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:35:19.460	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:35:20.226	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710233513.txt
+date: 10/07/2018 23:35:21.664	code: Info	text: ### SEEING: 1.1420628038550238 ###
+date: 10/07/2018 23:35:22.133	code: info	test: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:35:22.133	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '0.995406081331', 'az': '266.442986', 'name': 'Alphecca', 'airmass': '1.027725', 'ha_hours': 'hms_tuple(h=0.0, m=59.0, s=43.46189279307623)', 'alt': '76.661008', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:35:22.133	code: Info	test: *** Seleccion de estrella: 2.82899999619 ***
+date: 10/07/2018 23:35:22.133	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:35:22.133	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:35:22.133	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:35:22.133	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:35:22.133	code: Info	test: Intento 0
+date: 10/07/2018 23:35:22.570	code: Info	test: DX: 35.484435
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:35:22.570	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:35:22.570	code: Info	test: *** Enfocado: 0.43700003624 ***
+date: 10/07/2018 23:35:22.570	code: Info	test: *** Selección de estrella: 3.45399999619 ***
+date: 10/07/2018 23:36:21.380	code: Info	test: *** Procesado de datos: 58.8100001812 ***
+date: 10/07/2018 23:36:21.458	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 62.2799999714 ***
+date: 10/07/2018 23:36:21.521	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:36:21.583	code: Info	test: ---------------- Star Selection -------------
+date: 10/07/2018 23:36:21.646	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:36:21.708	code: Info	test: Comprobando que la estella es observable...
+date: 10/07/2018 23:36:21.817	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710233616.txt
+date: 10/07/2018 23:36:24.084	code: Info	text: ### SEEING: 1.2946639987612767 ###
+date: 10/07/2018 23:36:24.334	code: info	test: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:36:24.334	code: Info	test: La estrella sigue siendo observable --> {'ha_hours_raw': '0.995406081331', 'az': '266.442986', 'name': 'Alphecca', 'airmass': '1.027725', 'ha_hours': 'hms_tuple(h=0.0, m=59.0, s=43.46189279307623)', 'alt': '76.661008', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:36:24.334	code: Info	test: *** Seleccion de estrella: 2.68800020218 ***
+date: 10/07/2018 23:36:24.349	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:36:24.349	code: Info	test: --------------- Check focal -----------------
+date: 10/07/2018 23:36:24.349	code: Info	test: ---------------------------------------------
+date: 10/07/2018 23:36:24.349	code: Info	test: Comprobando el foco...
+date: 10/07/2018 23:36:24.349	code: Info	test: Intento 0
+date: 10/07/2018 23:36:24.787	code: Info	test: DX: 35.65576
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:36:24.787	code: Info	test: Moviendo el foco...
+date: 10/07/2018 23:36:25.287	code: Info	test: Intento 1
+date: 10/07/2018 23:36:35.430	code: Info	test: DX: 35.51992
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:36:35.430	code: Info	test: Moviendo el foco...
+date: 10/07/2018 23:36:35.789	code: Info	test: Intento 2
+date: 10/07/2018 23:36:46.901	code: Info	test: DX: 35.065104999999996
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:36:46.901	code: Info	test: El foco estÃ¡ enfocado
+date: 10/07/2018 23:36:46.901	code: Info	test: *** Enfocado: 22.5520000458 ***
+date: 10/07/2018 23:36:46.901	code: Info	test: *** Selección de estrella: 25.4430000782 ***
+date: 10/07/2018 23:37:36.787	code: Info	test: Fin del proceso
+date: 10/07/2018 23:37:45.304	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710233740.txt
+date: 10/07/2018 23:37:45.851	code: Info	test: *** Procesado de datos: 58.9029998779 ***
+date: 10/07/2018 23:37:45.883	code: Info	test: *** TIEMPO TOTAL CALCULO SEEING: 84.3930001259 ***
+date: 10/07/2018 23:37:45.914	code: Info	test: Llevando la montura al home...
+date: 10/07/2018 23:37:47.789	code: Info	text: ### SEEING: 1.28621153730074 ###
+date: 10/07/2018 23:38:08.434	code: Info	test: Montura en el home
+date: 10/07/2018 23:39:06.447	code: Info	text: ---------------------------------------------
+date: 10/07/2018 23:39:06.447	code: Info	text: ---------------- Star Selection -------------
+date: 10/07/2018 23:39:06.447	code: Info	text: ---------------------------------------------
+date: 10/07/2018 23:39:06.447	code: Info	text: Seleccionando estella...
+date: 10/07/2018 23:40:08.429	code: Info	text: Estella seleccionada --> Vega
+	airmass: 1.108123
+	ha hours: hms_tuple(h=-1.0, m=-52.0, s=-21.22947015135594)
+	ra: 18.626354
+	dec: 38.802822
+date: 10/07/2018 23:40:08.429	code: Info	text: *** Seleccion de estrella: 61.9819998741 ***
+date: 10/07/2018 23:40:08.429	code: Info	text: ---------------------------------------------
+date: 10/07/2018 23:40:08.429	code: Info	text: -------------- Check spots ------------------
+date: 10/07/2018 23:40:08.429	code: Info	text: ---------------------------------------------
+date: 10/07/2018 23:40:08.429	code: Info	text: Centrando spots...
+date: 10/07/2018 23:40:09.476	code: Info	text: Intento 1
+date: 10/07/2018 23:40:12.852	code: Info	text: Moviendo telescopio...
+date: 10/07/2018 23:40:14.243	code: Info	text: Intento 2
+date: 10/07/2018 23:40:15.306	code: Info	text: Moviendo telescopio...
+date: 10/07/2018 23:40:16.837	code: Info	text: Intento 3
+date: 10/07/2018 23:40:17.916	code: Info	text: Moviendo telescopio...
+date: 10/07/2018 23:40:19.447	code: Info	text: Intento 4
+date: 10/07/2018 23:40:20.526	code: Info	text: Moviendo telescopio...
+date: 10/07/2018 23:40:22.057	code: Info	text: Intento 5
+date: 10/07/2018 23:40:23.151	code: Info	text: Moviendo telescopio...
+date: 10/07/2018 23:40:24.089	code: Info	text: Intento 6
+date: 10/07/2018 23:40:25.167	code: Info	text: Moviendo telescopio...
+date: 10/07/2018 23:40:26.730	code: Info	text: Intento 7
+date: 10/07/2018 23:40:33.716	code: Error (centrando los spots)	text: No se han podido centrar los spots
+date: 10/07/2018 23:40:33.716	code: Info	text: *** Seleccion de estrella: 87.2850000858 ***
+date: 10/07/2018 23:40:36.717	code: Info	text: *** TIEMPO TOTAL ITERACION: 90.2860000134 ***
+date: 10/07/2018 23:40:36.717	code: Info	text: ---------------------------------------------
+date: 10/07/2018 23:40:36.717	code: Info	text: ---------------- Star Selection -------------
+date: 10/07/2018 23:40:36.717	code: Info	text: ---------------------------------------------
+date: 10/07/2018 23:40:36.717	code: Info	text: Seleccionando estella...
+date: 10/07/2018 23:41:39.871	code: Info	text: Estella seleccionada --> Alphecca
+	airmass: 1.043749
+	ha hours: hms_tuple(h=1.0, m=14.0, s=46.196890473382126)
+	ra: 15.591192
+	dec: 26.658604
+date: 10/07/2018 23:41:39.871	code: Info	text: *** Seleccion de estrella: 63.1540000439 ***
+date: 10/07/2018 23:41:39.871	code: Info	text: ---------------------------------------------
+date: 10/07/2018 23:41:39.871	code: Info	text: -------------- Check spots ------------------
+date: 10/07/2018 23:41:39.871	code: Info	text: ---------------------------------------------
+date: 10/07/2018 23:41:39.871	code: Info	text: Centrando spots...
+date: 10/07/2018 23:41:41.387	code: Info	text: Intento 1
+date: 10/07/2018 23:41:47.857	code: Info	text: Los spots estan centrados
+date: 10/07/2018 23:41:47.857	code: Info	text: *** Centrado de spots: 7.98600006104 ***
+date: 10/07/2018 23:41:47.857	code: Info	text: ---------------------------------------------
+date: 10/07/2018 23:41:47.857	code: Info	text: --------------- Check focal -----------------
+date: 10/07/2018 23:41:47.857	code: Info	text: ---------------------------------------------
+date: 10/07/2018 23:41:47.857	code: Info	text: Comprobando el foco...
+date: 10/07/2018 23:41:47.857	code: Info	text: Intento 0
+date: 10/07/2018 23:41:59.313	code: Info	text: DX: 34.175275000000006 (MIN: 34.5 - MAX: 35.5)
+date: 10/07/2018 23:41:59.313	code: Info	text: Moviendo el foco...
+date: 10/07/2018 23:41:59.750	code: Info	text: Intento 1
+date: 10/07/2018 23:42:11.065	code: Info	text: DX: 34.78381 (MIN: 34.5 - MAX: 35.5)
+date: 10/07/2018 23:42:11.065	code: Info	text: El foco esta enfocado
+date: 10/07/2018 23:42:11.065	code: Info	text: *** Enfocado: 23.2079999447 ***
+date: 10/07/2018 23:42:11.065	code: Info	text: *** Seleccion de estrella: 94.3480000496 ***
+date: 10/07/2018 23:42:11.065	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:42:11.065	code: Debg	text: -------- Generando fichero de datos ---------
+date: 10/07/2018 23:42:11.065	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:43:05.086	code: Info	text: *** Generacion del fichero 53.9900000095
+date: 10/07/2018 23:43:05.117	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:43:08.196	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710234305.txt
+date: 10/07/2018 23:47:46.382	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:47:46.397	code: Debg	text: ---------------- Star Selection -------------
+date: 10/07/2018 23:47:46.397	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:47:46.397	code: Info	text: Seleccionando estella...
+date: 10/07/2018 23:48:51.833	code: Info	text: Estella seleccionada --> Vega
+	airmass: 1.091729
+	ha hours: hms_tuple(h=-1.0, m=-42.0, s=-19.556648395483762)
+	ra: 18.626354
+	dec: 38.802823
+date: 10/07/2018 23:48:51.833	code: Info	text: *** Seleccion de estrella: 65.4359998703 ***
+date: 10/07/2018 23:48:51.849	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:48:51.849	code: Debg	text: -------------- Check spots ------------------
+date: 10/07/2018 23:48:51.849	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:48:51.849	code: Info	text: Centrando spots...
+date: 10/07/2018 23:48:52.880	code: Info	text: Intento 1
+date: 10/07/2018 23:48:56.319	code: Info	text: Moviendo telescopio...
+date: 10/07/2018 23:48:57.256	code: Info	text: Intento 2
+date: 10/07/2018 23:49:00.476	code: Info	text: Moviendo telescopio...
+date: 10/07/2018 23:49:01.492	code: Info	text: Intento 3
+date: 10/07/2018 23:49:05.461	code: Info	text: Moviendo telescopio...
+date: 10/07/2018 23:49:06.633	code: Info	text: Intento 4
+date: 10/07/2018 23:49:07.727	code: Info	text: Moviendo telescopio...
+date: 10/07/2018 23:49:08.837	code: Info	text: Intento 5
+date: 10/07/2018 23:49:12.947	code: Info	text: Moviendo telescopio...
+date: 10/07/2018 23:49:14.104	code: Info	text: Intento 6
+date: 10/07/2018 23:49:15.182	code: Info	text: Moviendo telescopio...
+date: 10/07/2018 23:49:16.339	code: Info	text: Intento 7
+date: 10/07/2018 23:49:17.433	code: Info	text: Moviendo telescopio...
+date: 10/07/2018 23:49:21.387	code: Error (centrando los spots)	text: No se han podido centrar los spots
+date: 10/07/2018 23:49:21.387	code: Info	text: *** Seleccion de estrella: 95.0050001144 ***
+date: 10/07/2018 23:49:24.387	code: Info	text: *** TIEMPO TOTAL ITERACION: 98.0050001144 ***
+date: 10/07/2018 23:49:24.387	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:49:24.387	code: Debg	text: ---------------- Star Selection -------------
+date: 10/07/2018 23:49:24.387	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:49:24.387	code: Info	text: Seleccionando estella...
+date: 10/07/2018 23:50:27.995	code: Info	text: Estella seleccionada --> Alphecca
+	airmass: 1.049991
+	ha hours: hms_tuple(h=1.0, m=19.0, s=47.02834042410359)
+	ra: 15.591192
+	dec: 26.658604
+date: 10/07/2018 23:50:27.995	code: Info	text: *** Seleccion de estrella: 63.6079998016 ***
+date: 10/07/2018 23:50:27.995	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:50:27.995	code: Debg	text: -------------- Check spots ------------------
+date: 10/07/2018 23:50:27.995	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:50:27.995	code: Info	text: Centrando spots...
+date: 10/07/2018 23:50:29.230	code: Info	text: Intento 1
+date: 10/07/2018 23:50:35.872	code: Info	text: Los spots estan centrados
+date: 10/07/2018 23:50:35.872	code: Info	text: *** Centrado de spots: 7.87700009346 ***
+date: 10/07/2018 23:50:35.872	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:50:35.872	code: Debg	text: --------------- Check focal -----------------
+date: 10/07/2018 23:50:35.872	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:50:35.872	code: Info	text: Comprobando el foco...
+date: 10/07/2018 23:50:35.887	code: Info	text: Intento 0
+date: 10/07/2018 23:50:47.280	code: Info	text: DX: 34.711499999999994 (MIN: 34.5 - MAX: 35.5)
+date: 10/07/2018 23:50:47.280	code: Info	text: El foco esta enfocado
+date: 10/07/2018 23:50:47.280	code: Info	text: *** Enfocado: 11.4079999924 ***
+date: 10/07/2018 23:50:47.280	code: Info	text: *** Seleccion de estrella: 82.8929998875 ***
+date: 10/07/2018 23:50:47.280	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:50:47.280	code: Debg	text: -------- Generando fichero de datos ---------
+date: 10/07/2018 23:50:47.280	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:51:41.855	code: Info	text: *** Generacion del fichero 54.3559999466
+date: 10/07/2018 23:51:41.886	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:51:41.886	code: Debg	text: ------------- Calculando seeing -------------
+date: 10/07/2018 23:51:41.886	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:51:45.090	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710235141.txt
+date: 10/07/2018 23:51:48.669	code: Info	text: *** Calculo del seeing 6.81399989128
+date: 10/07/2018 23:51:48.684	code: Info	text: *** Procesado de datos: 61.4040000439 ***
+date: 10/07/2018 23:51:48.700	code: Info	text: *** TIEMPO TOTAL ITERACION: 144.296999931 ***
+date: 10/07/2018 23:51:48.716	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:51:48.731	code: Debg	text: ---------------- Star Selection -------------
+date: 10/07/2018 23:51:48.747	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:51:48.762	code: Info	text: Comprobando que la estella es observable...
+date: 10/07/2018 23:51:49.559	code: info	text: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:51:49.653	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.32973009456', 'az': '269.397797', 'name': 'Alphecca', 'airmass': '1.049991', 'ha_hours': 'hms_tuple(h=1.0, m=19.0, s=47.02834042410359)', 'alt': '72.248644', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:51:49.685	code: Info	text: *** Seleccion de estrella: 0.906000137329 ***
+date: 10/07/2018 23:51:49.716	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:51:49.747	code: Debg	text: --------------- Check focal -----------------
+date: 10/07/2018 23:51:49.778	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:51:49.810	code: Info	text: Comprobando el foco...
+date: 10/07/2018 23:51:49.841	code: Info	text: Intento 0
+date: 10/07/2018 23:51:50.435	code: Info	text: DX: 34.993665
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:51:50.466	code: Info	text: El foco esta enfocado
+date: 10/07/2018 23:51:50.497	code: Info	text: *** Enfocado: 0.68799996376 ***
+date: 10/07/2018 23:51:50.513	code: Info	text: *** Seleccion de estrella: 1.79699993134 ***
+date: 10/07/2018 23:51:50.528	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:51:50.544	code: Debg	text: -------- Generando fichero de datos ---------
+date: 10/07/2018 23:51:50.560	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:51:52.685	code: Info	text: ### SEEING: 1.0620832951412946 ###
+date: 10/07/2018 23:52:44.241	code: Info	text: *** Generacion del fichero 53.7279999256
+date: 10/07/2018 23:52:44.241	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:52:44.241	code: Debg	text: ------------- Calculando seeing -------------
+date: 10/07/2018 23:52:44.241	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:52:47.382	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710235244.txt
+date: 10/07/2018 23:52:50.664	code: Info	text: *** Calculo del seeing 6.42300009727
+date: 10/07/2018 23:52:50.711	code: Info	text: *** Procesado de datos: 60.1510000229 ***
+date: 10/07/2018 23:52:50.711	code: Info	text: *** TIEMPO TOTAL ITERACION: 62.010999918 ***
+date: 10/07/2018 23:52:50.711	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:52:50.711	code: Debg	text: ---------------- Star Selection -------------
+date: 10/07/2018 23:52:50.711	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:52:50.711	code: Info	text: Comprobando que la estella es observable...
+date: 10/07/2018 23:52:51.430	code: info	text: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:52:51.461	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.32973009456', 'az': '269.397797', 'name': 'Alphecca', 'airmass': '1.049991', 'ha_hours': 'hms_tuple(h=1.0, m=19.0, s=47.02834042410359)', 'alt': '72.248644', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:52:51.492	code: Info	text: *** Seleccion de estrella: 0.75 ***
+date: 10/07/2018 23:52:51.523	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:52:51.539	code: Debg	text: --------------- Check focal -----------------
+date: 10/07/2018 23:52:51.555	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:52:51.570	code: Info	text: Comprobando el foco...
+date: 10/07/2018 23:52:51.586	code: Info	text: Intento 0
+date: 10/07/2018 23:52:52.227	code: Info	text: DX: 34.75282000000001
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:52:52.242	code: Info	text: El foco esta enfocado
+date: 10/07/2018 23:52:52.258	code: Info	text: *** Enfocado: 0.68700003624 ***
+date: 10/07/2018 23:52:52.274	code: Info	text: *** Seleccion de estrella: 1.54699993134 ***
+date: 10/07/2018 23:52:52.289	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:52:52.305	code: Debg	text: -------- Generando fichero de datos ---------
+date: 10/07/2018 23:52:52.336	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:52:54.337	code: Info	text: ### SEEING: 1.0457862070619721 ###
+date: 10/07/2018 23:53:46.113	code: Info	text: *** Generacion del fichero 53.8080000877
+date: 10/07/2018 23:53:46.145	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:53:46.176	code: Debg	text: ------------- Calculando seeing -------------
+date: 10/07/2018 23:53:46.207	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:53:51.333	code: Info	text: *** Calculo del seeing 5.17300009727
+date: 10/07/2018 23:53:51.380	code: Info	text: *** Procesado de datos: 59.0590000153 ***
+date: 10/07/2018 23:53:51.427	code: Info	text: *** TIEMPO TOTAL ITERACION: 60.6690001488 ***
+date: 10/07/2018 23:53:51.474	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:53:51.521	code: Debg	text: ---------------- Star Selection -------------
+date: 10/07/2018 23:53:51.568	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:53:51.630	code: Info	text: Comprobando que la estella es observable...
+date: 10/07/2018 23:53:52.302	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710235346.txt
+date: 10/07/2018 23:53:54.381	code: Info	text: ### SEEING: 1.1409382479980483 ###
+date: 10/07/2018 23:53:54.490	code: info	text: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:53:54.490	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.32973009456', 'az': '269.397797', 'name': 'Alphecca', 'airmass': '1.049991', 'ha_hours': 'hms_tuple(h=1.0, m=19.0, s=47.02834042410359)', 'alt': '72.248644', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:53:54.490	code: Info	text: *** Seleccion de estrella: 2.92199993134 ***
+date: 10/07/2018 23:53:54.490	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:53:54.506	code: Debg	text: --------------- Check focal -----------------
+date: 10/07/2018 23:53:54.506	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:53:54.506	code: Info	text: Comprobando el foco...
+date: 10/07/2018 23:53:54.506	code: Info	text: Intento 0
+date: 10/07/2018 23:53:54.959	code: Info	text: DX: 35.023025
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:53:54.959	code: Info	text: El foco esta enfocado
+date: 10/07/2018 23:53:54.975	code: Info	text: *** Enfocado: 0.453000068665 ***
+date: 10/07/2018 23:53:54.975	code: Info	text: *** Seleccion de estrella: 3.54799985886 ***
+date: 10/07/2018 23:53:54.975	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:53:54.975	code: Debg	text: -------- Generando fichero de datos ---------
+date: 10/07/2018 23:53:54.975	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:54:48.283	code: Info	text: *** Generacion del fichero 53.2770001888
+date: 10/07/2018 23:54:48.283	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:54:48.283	code: Debg	text: ------------- Calculando seeing -------------
+date: 10/07/2018 23:54:48.314	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:54:51.487	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710235448.txt
+date: 10/07/2018 23:54:53.972	code: Info	text: *** Calculo del seeing 5.67300009727
+date: 10/07/2018 23:54:53.988	code: Info	text: *** Procesado de datos: 58.996999979 ***
+date: 10/07/2018 23:54:53.988	code: Info	text: *** TIEMPO TOTAL ITERACION: 62.5609998703 ***
+date: 10/07/2018 23:54:53.988	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:54:54.019	code: Debg	text: ---------------- Star Selection -------------
+date: 10/07/2018 23:54:54.019	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:54:54.019	code: Info	text: Comprobando que la estella es observable...
+date: 10/07/2018 23:54:54.691	code: info	text: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:54:54.722	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.32973009456', 'az': '269.397797', 'name': 'Alphecca', 'airmass': '1.049991', 'ha_hours': 'hms_tuple(h=1.0, m=19.0, s=47.02834042410359)', 'alt': '72.248644', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:54:54.722	code: Info	text: *** Seleccion de estrella: 0.702999830246 ***
+date: 10/07/2018 23:54:54.722	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:54:54.753	code: Debg	text: --------------- Check focal -----------------
+date: 10/07/2018 23:54:54.753	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:54:54.753	code: Info	text: Comprobando el foco...
+date: 10/07/2018 23:54:54.785	code: Info	text: Intento 0
+date: 10/07/2018 23:54:55.253	code: Info	text: DX: 34.974125
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:54:55.253	code: Info	text: El foco esta enfocado
+date: 10/07/2018 23:54:55.253	code: Info	text: *** Enfocado: 0.5 ***
+date: 10/07/2018 23:54:55.269	code: Info	text: *** Seleccion de estrella: 1.2650001049 ***
+date: 10/07/2018 23:54:55.269	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:54:55.269	code: Debg	text: -------- Generando fichero de datos ---------
+date: 10/07/2018 23:54:55.285	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:54:57.191	code: Info	text: ### SEEING: 1.1402385180133658 ###
+date: 10/07/2018 23:55:49.078	code: Info	text: *** Generacion del fichero 53.7929999828
+date: 10/07/2018 23:55:49.109	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:55:49.140	code: Debg	text: ------------- Calculando seeing -------------
+date: 10/07/2018 23:55:49.171	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:55:52.063	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710235549.txt
+date: 10/07/2018 23:55:55.720	code: Info	text: *** Calculo del seeing 6.64199995995
+date: 10/07/2018 23:55:55.735	code: Info	text: *** Procesado de datos: 60.4659998417 ***
+date: 10/07/2018 23:55:55.735	code: Info	text: *** TIEMPO TOTAL ITERACION: 61.746999979 ***
+date: 10/07/2018 23:55:55.735	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:55:55.767	code: Debg	text: ---------------- Star Selection -------------
+date: 10/07/2018 23:55:55.782	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:55:55.798	code: Info	text: Comprobando que la estella es observable...
+date: 10/07/2018 23:55:56.595	code: info	text: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:55:56.626	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.32973009456', 'az': '269.397797', 'name': 'Alphecca', 'airmass': '1.049991', 'ha_hours': 'hms_tuple(h=1.0, m=19.0, s=47.02834042410359)', 'alt': '72.248644', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:55:56.657	code: Info	text: *** Seleccion de estrella: 0.843999862671 ***
+date: 10/07/2018 23:55:56.689	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:55:56.704	code: Debg	text: -------------- Check spots ------------------
+date: 10/07/2018 23:55:56.720	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:55:56.751	code: Info	text: Centrando spots...
+date: 10/07/2018 23:55:58.080	code: Info	text: Intento 1
+date: 10/07/2018 23:55:59.502	code: Info	text: ### SEEING: 0.9829908569540738 ###
+date: 10/07/2018 23:56:03.753	code: Info	text: Los spots estan centrados
+date: 10/07/2018 23:56:03.753	code: Info	text: *** Centrado de spots: 7.03299999237 ***
+date: 10/07/2018 23:56:03.753	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:56:03.753	code: Debg	text: --------------- Check focal -----------------
+date: 10/07/2018 23:56:03.753	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:56:03.753	code: Info	text: Comprobando el foco...
+date: 10/07/2018 23:56:03.768	code: Info	text: Intento 0
+date: 10/07/2018 23:56:04.128	code: Info	text: DX: 34.76606
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:56:04.128	code: Info	text: El foco esta enfocado
+date: 10/07/2018 23:56:04.128	code: Info	text: *** Enfocado: 0.375 ***
+date: 10/07/2018 23:56:04.128	code: Info	text: *** Seleccion de estrella: 8.39300012589 ***
+date: 10/07/2018 23:56:04.143	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:56:04.143	code: Debg	text: -------- Generando fichero de datos ---------
+date: 10/07/2018 23:56:04.143	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:56:57.624	code: Info	text: *** Generacion del fichero 53.4650001526
+date: 10/07/2018 23:56:57.639	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:56:57.655	code: Debg	text: ------------- Calculando seeing -------------
+date: 10/07/2018 23:56:57.671	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:57:02.859	code: Info	text: *** Calculo del seeing 5.17299985886
+date: 10/07/2018 23:57:02.922	code: Info	text: *** Procesado de datos: 58.7309999466 ***
+date: 10/07/2018 23:57:02.922	code: Info	text: *** TIEMPO TOTAL ITERACION: 67.1870000362 ***
+date: 10/07/2018 23:57:03.000	code: Info	text: Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710235657.txt
+date: 10/07/2018 23:57:03.000	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:57:03.047	code: Debg	text: ---------------- Star Selection -------------
+date: 10/07/2018 23:57:03.078	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:57:03.109	code: Info	text: Comprobando que la estella es observable...
+date: 10/07/2018 23:57:05.344	code: Info	text: ### SEEING: 0.8753758570960407 ###
+date: 10/07/2018 23:57:05.501	code: info	text: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:57:05.516	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.32973009456', 'az': '269.397797', 'name': 'Alphecca', 'airmass': '1.049991', 'ha_hours': 'hms_tuple(h=1.0, m=19.0, s=47.02834042410359)', 'alt': '72.248644', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:57:05.516	code: Info	text: *** Seleccion de estrella: 2.43799996376 ***
+date: 10/07/2018 23:57:05.516	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:57:05.516	code: Debg	text: --------------- Check focal -----------------
+date: 10/07/2018 23:57:05.516	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:57:05.516	code: Info	text: Comprobando el foco...
+date: 10/07/2018 23:57:05.516	code: Info	text: Intento 0
+date: 10/07/2018 23:57:05.907	code: Info	text: DX: 34.967150000000004
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:57:05.907	code: Info	text: El foco esta enfocado
+date: 10/07/2018 23:57:05.907	code: Info	text: *** Enfocado: 0.391000032425 ***
+date: 10/07/2018 23:57:05.907	code: Info	text: *** Seleccion de estrella: 2.98500013351 ***
+date: 10/07/2018 23:57:05.907	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:57:05.907	code: Debg	text: -------- Generando fichero de datos ---------
+date: 10/07/2018 23:57:05.907	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:57:59.669	code: Info	text: *** Generacion del fichero 53.7460000515
+date: 10/07/2018 23:57:59.700	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:57:59.731	code: Debg	text: ------------- Calculando seeing -------------
+date: 10/07/2018 23:57:59.762	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:58:02.372	code: Info	text: ### (OT_5IHXFT_180710235705) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710235759.txt
+date: 10/07/2018 23:58:06.451	code: Info	text: *** Calculo del seeing 6.78200006485
+date: 10/07/2018 23:58:06.467	code: Info	text: *** Procesado de datos: 60.5439999104 ***
+date: 10/07/2018 23:58:06.498	code: Info	text: *** TIEMPO TOTAL ITERACION: 63.5450000763 ***
+date: 10/07/2018 23:58:06.529	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:58:06.561	code: Debg	text: ---------------- Star Selection -------------
+date: 10/07/2018 23:58:06.592	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:58:06.623	code: Info	text: Comprobando que la estella es observable...
+date: 10/07/2018 23:58:07.248	code: info	text: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:58:07.264	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.32973009456', 'az': '269.397797', 'name': 'Alphecca', 'airmass': '1.049991', 'ha_hours': 'hms_tuple(h=1.0, m=19.0, s=47.02834042410359)', 'alt': '72.248644', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:58:07.280	code: Info	text: *** Seleccion de estrella: 0.671999931335 ***
+date: 10/07/2018 23:58:07.295	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:58:07.311	code: Debg	text: --------------- Check focal -----------------
+date: 10/07/2018 23:58:07.326	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:58:07.342	code: Info	text: Comprobando el foco...
+date: 10/07/2018 23:58:07.358	code: Info	text: Intento 0
+date: 10/07/2018 23:58:07.983	code: Info	text: DX: 35.088379999999994
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:58:08.014	code: Info	text: El foco esta enfocado
+date: 10/07/2018 23:58:08.045	code: Info	text: *** Enfocado: 0.68799996376 ***
+date: 10/07/2018 23:58:08.077	code: Info	text: *** Seleccion de estrella: 1.54700016975 ***
+date: 10/07/2018 23:58:08.108	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:58:08.139	code: Debg	text: -------- Generando fichero de datos ---------
+date: 10/07/2018 23:58:08.170	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:58:09.546	code: Info	text: ###### (OT_5IHXFT_180710235705) SEEING: 1.0577007109803724
+date: 10/07/2018 23:59:01.916	code: Info	text: *** Generacion del fichero 53.8389999866
+date: 10/07/2018 23:59:01.916	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:59:01.948	code: Debg	text: ------------- Calculando seeing -------------
+date: 10/07/2018 23:59:01.948	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:59:05.511	code: Info	text: ##### (OT_R17RJ4_180710235808) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\20180710\OT20180710235901.txt
+date: 10/07/2018 23:59:07.636	code: Info	text: *** Calculo del seeing 5.72000002861
+date: 10/07/2018 23:59:07.636	code: Info	text: *** Procesado de datos: 59.5590000153 ***
+date: 10/07/2018 23:59:07.636	code: Info	text: *** TIEMPO TOTAL ITERACION: 61.1380000114 ***
+date: 10/07/2018 23:59:07.652	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:59:07.652	code: Debg	text: ---------------- Star Selection -------------
+date: 10/07/2018 23:59:07.683	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:59:07.683	code: Info	text: Comprobando que la estella es observable...
+date: 10/07/2018 23:59:08.371	code: info	text: La estrella sigue siendo observable(Alphecca)
+date: 10/07/2018 23:59:08.371	code: Info	text: La estrella sigue siendo observable --> {'ha_hours_raw': '1.32973009456', 'az': '269.397797', 'name': 'Alphecca', 'airmass': '1.049991', 'ha_hours': 'hms_tuple(h=1.0, m=19.0, s=47.02834042410359)', 'alt': '72.248644', 'dec': '26.658604', 'magnitude': '2.220000', 'ra': '15.591192'}
+date: 10/07/2018 23:59:08.371	code: Info	text: *** Seleccion de estrella: 0.68799996376 ***
+date: 10/07/2018 23:59:08.387	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:59:08.387	code: Debg	text: --------------- Check focal -----------------
+date: 10/07/2018 23:59:08.402	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:59:08.402	code: Info	text: Comprobando el foco...
+date: 10/07/2018 23:59:08.402	code: Info	text: Intento 0
+date: 10/07/2018 23:59:08.918	code: Info	text: DX: 34.96665
+	MIN: 34.5
+	MAX: 35.5
+date: 10/07/2018 23:59:08.934	code: Info	text: El foco esta enfocado
+date: 10/07/2018 23:59:08.934	code: Info	text: *** Enfocado: 0.53200006485 ***
+date: 10/07/2018 23:59:08.934	code: Info	text: *** Seleccion de estrella: 1.28200006485 ***
+date: 10/07/2018 23:59:08.965	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:59:08.965	code: Debg	text: -------- Generando fichero de datos ---------
+date: 10/07/2018 23:59:08.965	code: Debg	text: ---------------------------------------------
+date: 10/07/2018 23:59:10.387	code: Info	text: ###### (OT_R17RJ4_180710235808) SEEING: 0.8489594832091264

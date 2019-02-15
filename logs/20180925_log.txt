@@ -1,0 +1,1482 @@
+
+26/09/2018 07:41:21.410	Debg	---------------------------------------------
+26/09/2018 07:41:21.410	Debg	-------------------- Meteo ------------------
+26/09/2018 07:41:21.410	Debg	---------------------------------------------
+26/09/2018 07:41:23.238	Info	Wind speed: 11.0 km/h -- Humidity: 51.3 %
+26/09/2018 07:41:23.254	Debg	---------------------------------------------
+26/09/2018 07:41:23.254	Debg	------------------ Get Ready ----------------
+26/09/2018 07:41:23.254	Debg	---------------------------------------------
+26/09/2018 07:41:23.254	Info	Abriendo cupula...
+26/09/2018 07:42:26.683	Info	Cupula abierta
+26/09/2018 07:42:26.683	Info	Encendiendo la montura...
+26/09/2018 07:42:26.683	Info	Montura encendida
+26/09/2018 07:42:36.685	Info	Encendiendo el foco...
+26/09/2018 07:42:36.700	Info	Foco encendida
+26/09/2018 07:42:36.700	Info	Llevando la montura al home...
+26/09/2018 07:43:11.392	Info	Montura en el home
+26/09/2018 07:43:11.392	Info	*** Listo para empezar observacion ***
+26/09/2018 07:43:15.939	Info	--- INICIANDO LA OBSERVACION ---
+26/09/2018 07:43:25.378	Debg	---------------------------------------------
+26/09/2018 07:43:25.378	Debg	-------------------- Meteo ------------------
+26/09/2018 07:43:25.378	Debg	---------------------------------------------
+26/09/2018 07:43:27.066	Info	Wind speed: 11.0 km/h -- Humidity: 51.3 %
+26/09/2018 07:43:27.066	Debg	---------------------------------------------
+26/09/2018 07:43:27.066	Debg	---------------- Star Selection -------------
+26/09/2018 07:43:27.066	Debg	---------------------------------------------
+26/09/2018 07:43:27.066	Info	Seleccionando estella...
+26/09/2018 07:44:35.543	Info	Estella seleccionada --> Pollux
+	airmass: 1.097792
+	ha hours: hms_tuple(h=-1.0, m=-50.0, s=-46.11560893366459)
+	ra: 7.774100
+	dec: 27.979111
+26/09/2018 07:44:35.543	Info	*** Seleccion de estrella: 68.4769999981 ***
+26/09/2018 07:44:35.543	Debg	---------------------------------------------
+26/09/2018 07:44:35.543	Debg	-------------- Check spots ------------------
+26/09/2018 07:44:35.543	Debg	---------------------------------------------
+26/09/2018 07:44:35.543	Info	Centrando spots...
+26/09/2018 07:44:38.559	Info	Intento 0
+26/09/2018 07:44:41.090	Info	Ventana de spots fuera de rango (cx: 604 - cy: 359 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 07:44:41.090	Info	Moviendo telescopio...
+26/09/2018 07:44:42.184	Info	Intento 1
+26/09/2018 07:44:44.075	Info	DX fuera de rango (dx: 170.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:44:44.075	Info	Moviendo telescopio...
+26/09/2018 07:44:45.528	Info	Intento 2
+26/09/2018 07:44:47.372	Info	DX fuera de rango (dx: 183.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:44:47.372	Info	Moviendo telescopio...
+26/09/2018 07:44:48.466	Info	Intento 3
+26/09/2018 07:44:50.373	Info	DX fuera de rango (dx: 150.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:44:50.373	Info	Moviendo telescopio...
+26/09/2018 07:44:51.248	Info	Intento 4
+26/09/2018 07:44:53.139	Info	DX fuera de rango (dx: 175.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:44:53.139	Info	Moviendo telescopio...
+26/09/2018 07:44:54.592	Info	Intento 5
+26/09/2018 07:44:56.608	Info	Ventana de spots fuera de rango (cx: 563 - cy: 406 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 07:44:56.608	Info	Moviendo telescopio...
+26/09/2018 07:44:58.092	Info	Intento 6
+26/09/2018 07:44:59.982	Info	DX fuera de rango (dx: 170.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:44:59.998	Info	Moviendo telescopio...
+26/09/2018 07:45:01.076	Info	Intento 7
+26/09/2018 07:45:02.998	Info	DX fuera de rango (dx: 207.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:45:02.998	Info	Moviendo telescopio...
+26/09/2018 07:45:04.045	Info	Intento 8
+26/09/2018 07:45:05.920	Info	DX fuera de rango (dx: 142.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:45:05.920	Info	Moviendo telescopio...
+26/09/2018 07:45:06.998	Info	Intento 9
+26/09/2018 07:45:08.952	Info	DX fuera de rango (dx: 95.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:45:08.952	Info	Moviendo telescopio...
+26/09/2018 07:45:10.514	Info	Intento 10
+26/09/2018 07:45:12.452	Info	DX fuera de rango (dx: 274.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:45:12.452	Info	Moviendo telescopio...
+26/09/2018 07:45:14.124	Info	Intento 11
+26/09/2018 07:45:16.234	Info	Flujos fuera de rango (diff: 7.411479315282697e+290 - range: 3.0)
+26/09/2018 07:45:16.234	Info	Moviendo telescopio...
+26/09/2018 07:45:17.922	Info	Intento 12
+26/09/2018 07:45:19.797	Info	DX fuera de rango (dx: 141.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:45:19.797	Info	Moviendo telescopio...
+26/09/2018 07:45:20.828	Info	Intento 13
+26/09/2018 07:45:22.657	Info	DX fuera de rango (dx: 236.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:45:22.657	Info	Moviendo telescopio...
+26/09/2018 07:45:23.704	Info	Intento 14
+26/09/2018 07:45:25.548	Info	DX fuera de rango (dx: 72.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:45:25.548	Info	Moviendo telescopio...
+26/09/2018 07:45:26.610	Info	Intento 15
+26/09/2018 07:45:28.454	Info	DX fuera de rango (dx: 164.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:45:28.454	Info	Moviendo telescopio...
+26/09/2018 07:45:29.532	Info	Intento 16
+26/09/2018 07:45:31.330	Info	DX fuera de rango (dx: 321.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:45:31.330	Info	Moviendo telescopio...
+26/09/2018 07:45:33.017	Info	Intento 17
+26/09/2018 07:45:34.939	Info	DX fuera de rango (dx: 247.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:45:34.939	Info	Moviendo telescopio...
+26/09/2018 07:45:36.658	Info	Intento 18
+26/09/2018 07:45:40.940	Info	Los spots estan centrados
+26/09/2018 07:45:40.940	Info	*** Centrado de spots: 65.3970000744 ***
+26/09/2018 07:45:40.940	Debg	---------------------------------------------
+26/09/2018 07:45:40.940	Debg	--------------- Check focal -----------------
+26/09/2018 07:45:40.940	Debg	---------------------------------------------
+26/09/2018 07:45:40.940	Info	Comprobando el foco...
+26/09/2018 07:45:40.940	Info	Intento 0
+26/09/2018 07:45:48.191	Info	DX: 33.21966 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 07:45:48.191	Info	Moviendo el foco...
+26/09/2018 07:45:48.597	Info	Intento 1
+26/09/2018 07:45:55.926	Info	DX: 34.1265 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 07:45:55.926	Info	Moviendo el foco...
+26/09/2018 07:45:56.301	Info	Intento 2
+26/09/2018 07:46:03.474	Info	DX: 33.812059999999995 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 07:46:03.474	Info	Moviendo el foco...
+26/09/2018 07:46:03.849	Info	Intento 3
+26/09/2018 07:46:10.459	Info	DX: 34.84676 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 07:46:10.459	Info	La imagen esta enfocada
+26/09/2018 07:46:10.459	Info	*** Enfocado: 29.5190000534 ***
+26/09/2018 07:46:10.459	Info	*** Seleccion de estrella: 163.393000126 ***
+26/09/2018 07:46:10.459	Debg	---------------------------------------------
+26/09/2018 07:46:10.459	Debg	-------- Generando fichero de datos ---------
+26/09/2018 07:46:10.459	Debg	---------------------------------------------
+26/09/2018 07:46:10.459	Info	##### PACK: OT_Q7TVLU_180926074610
+26/09/2018 07:47:15.358	Info	##### (OT_Q7TVLU_180926074610) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926064707.txt
+26/09/2018 07:47:15.358	Info	*** Generacion del fichero 64.8989999294
+26/09/2018 07:47:15.358	Debg	---------------------------------------------
+26/09/2018 07:47:15.358	Debg	------------- Calculando seeing -------------
+26/09/2018 07:47:15.358	Debg	---------------------------------------------
+26/09/2018 07:47:17.796	Info	###### (OT_Q7TVLU_180926074610) SEEING: 1.1463679710871564 (used imgs: 199)
+26/09/2018 07:47:17.811	Info	*** Calculo del seeing 2.43799996376
+26/09/2018 07:47:17.811	Info	*** Procesado de datos: 67.3519999981 ***
+26/09/2018 07:47:17.811	Info	*** TIEMPO TOTAL ITERACION: 230.745000124 ***
+26/09/2018 07:47:17.811	Debg	---------------------------------------------
+26/09/2018 07:47:17.811	Debg	-------------------- Meteo ------------------
+26/09/2018 07:47:17.811	Debg	---------------------------------------------
+26/09/2018 07:47:19.546	Info	Wind speed: 11.8 km/h -- Humidity: 51.6 %
+26/09/2018 07:47:19.546	Debg	---------------------------------------------
+26/09/2018 07:47:19.546	Debg	---------------- Star Selection -------------
+26/09/2018 07:47:19.546	Debg	---------------------------------------------
+26/09/2018 07:47:19.546	Info	Comprobando que la estella es observable...
+26/09/2018 07:47:20.093	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 07:47:20.093	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.8461432247', 'az': '84.104482', 'name': 'Pollux', 'airmass': '1.097792', 'ha_hours': 'hms_tuple(h=-1.0, m=-50.0, s=-46.11560893366459)', 'alt': '65.632602', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 07:47:20.093	Info	*** Seleccion de estrella: 0.546999931335 ***
+26/09/2018 07:47:20.093	Debg	---------------------------------------------
+26/09/2018 07:47:20.093	Debg	-------------- Check spots ------------------
+26/09/2018 07:47:20.093	Debg	---------------------------------------------
+26/09/2018 07:47:20.093	Info	Centrando spots...
+26/09/2018 07:47:22.124	Info	Intento 0
+26/09/2018 07:47:27.703	Info	Los spots estan centrados
+26/09/2018 07:47:27.703	Info	*** Centrado de spots: 7.61000013351 ***
+26/09/2018 07:47:27.703	Debg	---------------------------------------------
+26/09/2018 07:47:27.703	Debg	--------------- Check focal -----------------
+26/09/2018 07:47:27.703	Debg	---------------------------------------------
+26/09/2018 07:47:27.703	Info	Comprobando el foco...
+26/09/2018 07:47:27.703	Info	Intento 0
+26/09/2018 07:47:27.969	Info	DX: 34.963570000000004 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 07:47:27.969	Info	La imagen esta enfocada
+26/09/2018 07:47:27.969	Info	*** Enfocado: 0.266000032425 ***
+26/09/2018 07:47:27.969	Info	*** Seleccion de estrella: 8.42300009727 ***
+26/09/2018 07:47:27.969	Debg	---------------------------------------------
+26/09/2018 07:47:27.969	Debg	-------- Generando fichero de datos ---------
+26/09/2018 07:47:27.969	Debg	---------------------------------------------
+26/09/2018 07:47:27.969	Info	##### PACK: OT_P7I3MP_180926074727
+26/09/2018 07:48:44.165	Info	##### (OT_P7I3MP_180926074727) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926064836.txt
+26/09/2018 07:48:44.165	Info	*** Generacion del fichero 76.1959998608
+26/09/2018 07:48:44.165	Debg	---------------------------------------------
+26/09/2018 07:48:44.165	Debg	------------- Calculando seeing -------------
+26/09/2018 07:48:44.165	Debg	---------------------------------------------
+26/09/2018 07:48:46.556	Info	###### (OT_P7I3MP_180926074727) SEEING: 1.0570655678039498 (used imgs: 198)
+26/09/2018 07:48:46.572	Info	*** Calculo del seeing 2.40700006485
+26/09/2018 07:48:46.572	Info	*** Procesado de datos: 78.6029999256 ***
+26/09/2018 07:48:46.572	Info	*** TIEMPO TOTAL ITERACION: 87.0260000229 ***
+26/09/2018 07:48:46.572	Debg	---------------------------------------------
+26/09/2018 07:48:46.572	Debg	-------------------- Meteo ------------------
+26/09/2018 07:48:46.572	Debg	---------------------------------------------
+26/09/2018 07:48:49.057	Info	Wind speed: 11.8 km/h -- Humidity: 51.6 %
+26/09/2018 07:48:49.072	Debg	---------------------------------------------
+26/09/2018 07:48:49.072	Debg	---------------- Star Selection -------------
+26/09/2018 07:48:49.072	Debg	---------------------------------------------
+26/09/2018 07:48:49.072	Info	Comprobando que la estella es observable...
+26/09/2018 07:48:49.619	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 07:48:49.619	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.8461432247', 'az': '84.104482', 'name': 'Pollux', 'airmass': '1.097792', 'ha_hours': 'hms_tuple(h=-1.0, m=-50.0, s=-46.11560893366459)', 'alt': '65.632602', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 07:48:49.619	Info	*** Seleccion de estrella: 0.546999931335 ***
+26/09/2018 07:48:49.619	Debg	---------------------------------------------
+26/09/2018 07:48:49.619	Debg	-------------- Check spots ------------------
+26/09/2018 07:48:49.619	Debg	---------------------------------------------
+26/09/2018 07:48:49.619	Info	Centrando spots...
+26/09/2018 07:48:51.651	Info	Intento 0
+26/09/2018 07:48:55.136	Info	Maximos fuera de rango (diff: 293.0 - nsigma: 170.61819500931105)
+26/09/2018 07:48:55.136	Info	Moviendo telescopio...
+26/09/2018 07:48:56.245	Info	Intento 1
+26/09/2018 07:48:58.027	Info	Ventana de spots fuera de rango (cx: 579 - cy: 446 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 07:48:58.027	Info	Moviendo telescopio...
+26/09/2018 07:48:59.433	Info	Intento 2
+26/09/2018 07:49:01.339	Info	DX fuera de rango (dx: 273.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:49:01.339	Info	Moviendo telescopio...
+26/09/2018 07:49:02.386	Info	Intento 3
+26/09/2018 07:49:04.246	Info	DX fuera de rango (dx: 237.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:49:04.246	Info	Moviendo telescopio...
+26/09/2018 07:49:05.293	Info	Intento 4
+26/09/2018 07:49:07.184	Info	DX fuera de rango (dx: 78.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:49:07.184	Info	Moviendo telescopio...
+26/09/2018 07:49:08.653	Info	Intento 5
+26/09/2018 07:49:10.669	Info	Ventana de spots fuera de rango (cx: 479 - cy: 466 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 07:49:10.669	Info	Moviendo telescopio...
+26/09/2018 07:49:12.184	Info	Intento 6
+26/09/2018 07:49:14.060	Info	DX fuera de rango (dx: 174.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:49:14.060	Info	Moviendo telescopio...
+26/09/2018 07:49:15.138	Info	Intento 7
+26/09/2018 07:49:17.013	Info	DX fuera de rango (dx: 52.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:49:17.013	Info	Moviendo telescopio...
+26/09/2018 07:49:18.060	Info	Intento 8
+26/09/2018 07:49:19.982	Info	DX fuera de rango (dx: 166.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:49:19.998	Info	Moviendo telescopio...
+26/09/2018 07:49:21.029	Info	Intento 9
+26/09/2018 07:49:22.998	Info	DX fuera de rango (dx: 67.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:49:22.998	Info	Moviendo telescopio...
+26/09/2018 07:49:24.670	Info	Intento 10
+26/09/2018 07:49:26.718	Info	DX fuera de rango (dx: 346.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:49:26.733	Info	Moviendo telescopio...
+26/09/2018 07:49:28.421	Info	Intento 11
+26/09/2018 07:49:30.624	Info	DX fuera de rango (dx: 73.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:49:30.624	Info	Moviendo telescopio...
+26/09/2018 07:49:32.109	Info	Intento 12
+26/09/2018 07:49:33.922	Info	DX fuera de rango (dx: 183.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:49:33.922	Info	Moviendo telescopio...
+26/09/2018 07:49:34.969	Info	Intento 13
+26/09/2018 07:49:36.781	Info	DX fuera de rango (dx: 270.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:49:36.781	Info	Moviendo telescopio...
+26/09/2018 07:49:37.844	Info	Intento 14
+26/09/2018 07:49:39.719	Info	DX fuera de rango (dx: 18.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:49:39.719	Info	Moviendo telescopio...
+26/09/2018 07:49:40.813	Info	Intento 15
+26/09/2018 07:49:42.719	Info	DX fuera de rango (dx: 52.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:49:42.719	Info	Moviendo telescopio...
+26/09/2018 07:49:43.782	Info	Intento 16
+26/09/2018 07:49:47.861	Info	Los spots estan centrados
+26/09/2018 07:49:47.861	Info	*** Centrado de spots: 58.242000103 ***
+26/09/2018 07:49:47.861	Debg	---------------------------------------------
+26/09/2018 07:49:47.861	Debg	--------------- Check focal -----------------
+26/09/2018 07:49:47.861	Debg	---------------------------------------------
+26/09/2018 07:49:47.861	Info	Comprobando el foco...
+26/09/2018 07:49:47.861	Info	Intento 0
+26/09/2018 07:49:48.126	Info	DX: 35.027645 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 07:49:48.126	Info	La imagen esta enfocada
+26/09/2018 07:49:48.126	Info	*** Enfocado: 0.264999866486 ***
+26/09/2018 07:49:48.126	Info	*** Seleccion de estrella: 59.0539999008 ***
+26/09/2018 07:49:48.126	Debg	---------------------------------------------
+26/09/2018 07:49:48.126	Debg	-------- Generando fichero de datos ---------
+26/09/2018 07:49:48.126	Debg	---------------------------------------------
+26/09/2018 07:49:48.126	Info	##### PACK: OT_OSXVM5_180926074948
+26/09/2018 07:50:53.369	Info	##### (OT_OSXVM5_180926074948) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926065045.txt
+26/09/2018 07:50:53.369	Info	*** Generacion del fichero 65.2430000305
+26/09/2018 07:50:53.384	Debg	---------------------------------------------
+26/09/2018 07:50:53.384	Debg	------------- Calculando seeing -------------
+26/09/2018 07:50:53.384	Debg	---------------------------------------------
+26/09/2018 07:50:55.228	Info	###### (OT_OSXVM5_180926074948) SEEING: 42.966352458257 (used imgs: 3)
+26/09/2018 07:50:55.228	Info	*** Calculo del seeing 1.85899996758
+26/09/2018 07:50:55.228	Info	*** Procesado de datos: 67.1019999981 ***
+26/09/2018 07:50:55.228	Info	*** TIEMPO TOTAL ITERACION: 126.155999899 ***
+26/09/2018 07:50:55.228	Debg	---------------------------------------------
+26/09/2018 07:50:55.228	Debg	-------------------- Meteo ------------------
+26/09/2018 07:50:55.228	Debg	---------------------------------------------
+26/09/2018 07:50:57.213	Info	Wind speed: 11.8 km/h -- Humidity: 51.6 %
+26/09/2018 07:50:57.213	Debg	---------------------------------------------
+26/09/2018 07:50:57.213	Debg	---------------- Star Selection -------------
+26/09/2018 07:50:57.213	Debg	---------------------------------------------
+26/09/2018 07:50:57.213	Info	Comprobando que la estella es observable...
+26/09/2018 07:50:57.916	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 07:50:57.916	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.8461432247', 'az': '84.104482', 'name': 'Pollux', 'airmass': '1.097792', 'ha_hours': 'hms_tuple(h=-1.0, m=-50.0, s=-46.11560893366459)', 'alt': '65.632602', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 07:50:57.916	Info	*** Seleccion de estrella: 0.702999830246 ***
+26/09/2018 07:50:57.916	Debg	---------------------------------------------
+26/09/2018 07:50:57.916	Debg	-------------- Check spots ------------------
+26/09/2018 07:50:57.916	Debg	---------------------------------------------
+26/09/2018 07:50:57.916	Info	Centrando spots...
+26/09/2018 07:50:59.948	Info	Intento 0
+26/09/2018 07:51:02.182	Info	Ventana de spots fuera de rango (cx: 67 - cy: 145 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 07:51:02.182	Info	Moviendo telescopio...
+26/09/2018 07:51:03.245	Info	Intento 1
+26/09/2018 07:51:05.058	Info	DX fuera de rango (dx: 175.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:05.058	Info	Moviendo telescopio...
+26/09/2018 07:51:06.730	Info	Intento 2
+26/09/2018 07:51:08.589	Info	DX fuera de rango (dx: 2.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:08.589	Info	Moviendo telescopio...
+26/09/2018 07:51:09.636	Info	Intento 3
+26/09/2018 07:51:11.590	Info	DX fuera de rango (dx: 100.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:11.590	Info	Moviendo telescopio...
+26/09/2018 07:51:12.449	Info	Intento 4
+26/09/2018 07:51:14.512	Info	DX fuera de rango (dx: 216.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:14.512	Info	Moviendo telescopio...
+26/09/2018 07:51:16.168	Info	Intento 5
+26/09/2018 07:51:17.981	Info	DX fuera de rango (dx: 179.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:17.981	Info	Moviendo telescopio...
+26/09/2018 07:51:19.684	Info	Intento 6
+26/09/2018 07:51:21.497	Info	DX fuera de rango (dx: 279.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:21.497	Info	Moviendo telescopio...
+26/09/2018 07:51:22.575	Info	Intento 7
+26/09/2018 07:51:24.404	Info	DY fuera de rango (dy: 116.0 - min: -5.0 - max: 5.0)
+26/09/2018 07:51:24.404	Info	Moviendo telescopio...
+26/09/2018 07:51:25.466	Info	Intento 8
+26/09/2018 07:51:27.310	Info	DX fuera de rango (dx: 13.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:27.310	Info	Moviendo telescopio...
+26/09/2018 07:51:28.404	Info	Intento 9
+26/09/2018 07:51:30.233	Info	DX fuera de rango (dx: 156.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:30.233	Info	Moviendo telescopio...
+26/09/2018 07:51:31.889	Info	Intento 10
+26/09/2018 07:51:33.795	Info	DX fuera de rango (dx: 477.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:33.795	Info	Moviendo telescopio...
+26/09/2018 07:51:35.264	Info	Intento 11
+26/09/2018 07:51:37.077	Info	DX fuera de rango (dx: 160.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:37.077	Info	Moviendo telescopio...
+26/09/2018 07:51:39.296	Info	Intento 12
+26/09/2018 07:51:41.156	Info	Ventana de spots fuera de rango (cx: 560 - cy: 76 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 07:51:41.156	Info	Moviendo telescopio...
+26/09/2018 07:51:42.218	Info	Intento 13
+26/09/2018 07:51:44.078	Info	DX fuera de rango (dx: 401.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:44.094	Info	Moviendo telescopio...
+26/09/2018 07:51:45.203	Info	Intento 14
+26/09/2018 07:51:47.172	Info	DX fuera de rango (dx: 362.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:47.172	Info	Moviendo telescopio...
+26/09/2018 07:51:48.203	Info	Intento 15
+26/09/2018 07:51:50.266	Info	DX fuera de rango (dx: 97.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:50.266	Info	Moviendo telescopio...
+26/09/2018 07:51:51.329	Info	Intento 16
+26/09/2018 07:51:53.157	Info	DX fuera de rango (dx: 212.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:53.157	Info	Moviendo telescopio...
+26/09/2018 07:51:54.595	Info	Intento 17
+26/09/2018 07:51:56.470	Info	DX fuera de rango (dx: 175.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:56.470	Info	Moviendo telescopio...
+26/09/2018 07:51:57.923	Info	Intento 18
+26/09/2018 07:51:59.736	Info	DX fuera de rango (dx: 73.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:51:59.736	Info	Moviendo telescopio...
+26/09/2018 07:52:01.189	Info	Intento 19
+26/09/2018 07:52:03.018	Info	DX fuera de rango (dx: 207.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:52:03.018	Info	Moviendo telescopio...
+26/09/2018 07:52:04.502	Info	Intento 20
+26/09/2018 07:52:06.378	Info	DX fuera de rango (dx: 152.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:52:06.378	Info	Moviendo telescopio...
+26/09/2018 07:52:07.440	Info	Intento 21
+26/09/2018 07:52:09.315	Info	DX fuera de rango (dx: 21.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:52:09.315	Info	Moviendo telescopio...
+26/09/2018 07:52:10.222	Info	Intento 22
+26/09/2018 07:52:12.097	Info	DX fuera de rango (dx: 236.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:52:12.097	Info	Moviendo telescopio...
+26/09/2018 07:52:13.160	Info	Intento 23
+26/09/2018 07:52:14.988	Info	DX fuera de rango (dx: 111.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:52:14.988	Info	Moviendo telescopio...
+26/09/2018 07:52:16.004	Info	Intento 24
+26/09/2018 07:52:17.832	Info	DX fuera de rango (dx: 261.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:52:17.832	Info	Moviendo telescopio...
+26/09/2018 07:52:18.863	Info	Intento 25
+26/09/2018 07:52:20.848	Info	DX fuera de rango (dx: 373.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:52:20.848	Info	Moviendo telescopio...
+26/09/2018 07:52:22.489	Info	Intento 26
+26/09/2018 07:52:24.599	Info	DX fuera de rango (dx: 358.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:52:24.599	Info	Moviendo telescopio...
+26/09/2018 07:52:26.067	Info	Intento 27
+26/09/2018 07:52:27.911	Info	DY fuera de rango (dy: 170.0 - min: -5.0 - max: 5.0)
+26/09/2018 07:52:27.911	Info	Moviendo telescopio...
+26/09/2018 07:52:29.630	Info	Intento 28
+26/09/2018 07:52:31.474	Info	Ventana de spots fuera de rango (cx: 406 - cy: 30 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 07:52:31.474	Info	Moviendo telescopio...
+26/09/2018 07:52:32.928	Info	Intento 29
+26/09/2018 07:52:34.772	Info	DX fuera de rango (dx: 185.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:52:34.772	Info	Moviendo telescopio...
+26/09/2018 07:52:38.631	Error (centrando los spots)	No se han podido centrar los spots
+26/09/2018 07:52:38.631	Info	*** Seleccion de estrella: 101.417999983 ***
+26/09/2018 07:52:41.632	Info	*** TIEMPO TOTAL ITERACION: 104.41899991 ***
+26/09/2018 07:52:41.632	Debg	---------------------------------------------
+26/09/2018 07:52:41.632	Debg	-------------------- Meteo ------------------
+26/09/2018 07:52:41.632	Debg	---------------------------------------------
+26/09/2018 07:52:43.538	Info	Wind speed: 11.0 km/h -- Humidity: 50.9 %
+26/09/2018 07:52:43.538	Debg	---------------------------------------------
+26/09/2018 07:52:43.538	Debg	---------------- Star Selection -------------
+26/09/2018 07:52:43.538	Debg	---------------------------------------------
+26/09/2018 07:52:43.538	Info	Seleccionando estella...
+26/09/2018 07:53:50.156	Info	Estella seleccionada --> Aldebaran
+	airmass: 1.091009
+	ha hours: hms_tuple(h=1.0, m=28.0, s=43.07750051814459)
+	ra: 4.616483
+	dec: 16.545596
+26/09/2018 07:53:50.171	Info	*** Seleccion de estrella: 66.6179997921 ***
+26/09/2018 07:53:50.171	Debg	---------------------------------------------
+26/09/2018 07:53:50.171	Debg	-------------- Check spots ------------------
+26/09/2018 07:53:50.171	Debg	---------------------------------------------
+26/09/2018 07:53:50.171	Info	Centrando spots...
+26/09/2018 07:53:52.203	Info	Intento 0
+26/09/2018 07:53:54.188	Info	Maximos fuera de rango (diff: 359.0 - nsigma: 155.02195348190668)
+26/09/2018 07:53:54.188	Info	Moviendo telescopio...
+26/09/2018 07:53:55.344	Info	Intento 1
+26/09/2018 07:53:59.329	Info	Los spots estan centrados
+26/09/2018 07:53:59.329	Info	*** Centrado de spots: 9.15799999237 ***
+26/09/2018 07:53:59.329	Debg	---------------------------------------------
+26/09/2018 07:53:59.329	Debg	--------------- Check focal -----------------
+26/09/2018 07:53:59.329	Debg	---------------------------------------------
+26/09/2018 07:53:59.329	Info	Comprobando el foco...
+26/09/2018 07:53:59.344	Info	Intento 0
+26/09/2018 07:54:06.189	Info	DX: 37.7971 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 07:54:06.189	Info	Moviendo el foco...
+26/09/2018 07:54:06.689	Info	Intento 1
+26/09/2018 07:54:13.174	Info	DX: nan (MIN: 34.5 - MAX: 35.5)
+26/09/2018 07:54:13.174	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+26/09/2018 07:54:13.174	Info	*** Seleccion de estrella: 89.635999918 ***
+26/09/2018 07:54:16.175	Info	*** TIEMPO TOTAL ITERACION: 92.6369998455 ***
+26/09/2018 07:54:16.175	Debg	---------------------------------------------
+26/09/2018 07:54:16.175	Debg	-------------------- Meteo ------------------
+26/09/2018 07:54:16.175	Debg	---------------------------------------------
+26/09/2018 07:54:18.144	Info	Wind speed: 11.0 km/h -- Humidity: 50.9 %
+26/09/2018 07:54:18.144	Debg	---------------------------------------------
+26/09/2018 07:54:18.144	Debg	---------------- Star Selection -------------
+26/09/2018 07:54:18.144	Debg	---------------------------------------------
+26/09/2018 07:54:18.144	Info	Seleccionando estella...
+26/09/2018 07:54:49.632	Info	Estella seleccionada --> Capella
+	airmass: 1.064493
+	ha hours: hms_tuple(h=0.0, m=47.0, s=38.780107857015764)
+	ra: 5.301011
+	dec: 46.013742
+26/09/2018 07:54:49.632	Info	*** Seleccion de estrella: 31.4879999161 ***
+26/09/2018 07:54:49.647	Debg	---------------------------------------------
+26/09/2018 07:54:49.647	Debg	-------------- Check spots ------------------
+26/09/2018 07:54:49.647	Debg	---------------------------------------------
+26/09/2018 07:54:49.647	Info	Centrando spots...
+26/09/2018 07:54:51.695	Info	Intento 0
+26/09/2018 07:54:57.180	Info	Los spots estan centrados
+26/09/2018 07:54:57.180	Info	*** Centrado de spots: 7.53299999237 ***
+26/09/2018 07:54:57.180	Debg	---------------------------------------------
+26/09/2018 07:54:57.180	Debg	--------------- Check focal -----------------
+26/09/2018 07:54:57.180	Debg	---------------------------------------------
+26/09/2018 07:54:57.180	Info	Comprobando el foco...
+26/09/2018 07:54:57.180	Info	Intento 0
+26/09/2018 07:55:03.904	Info	DX: nan (MIN: 34.5 - MAX: 35.5)
+26/09/2018 07:55:03.904	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+26/09/2018 07:55:03.904	Info	*** Seleccion de estrella: 45.7599999905 ***
+26/09/2018 07:55:06.904	Info	*** TIEMPO TOTAL ITERACION: 48.7599999905 ***
+26/09/2018 07:55:06.904	Debg	---------------------------------------------
+26/09/2018 07:55:06.904	Debg	-------------------- Meteo ------------------
+26/09/2018 07:55:06.904	Debg	---------------------------------------------
+26/09/2018 07:55:08.295	Info	Wind speed: 11.0 km/h -- Humidity: 50.9 %
+26/09/2018 07:55:08.295	Debg	---------------------------------------------
+26/09/2018 07:55:08.295	Debg	---------------- Star Selection -------------
+26/09/2018 07:55:08.295	Debg	---------------------------------------------
+26/09/2018 07:55:08.295	Info	Seleccionando estella...
+26/09/2018 07:56:16.741	Info	Estella seleccionada --> Pollux
+	airmass: 1.079833
+	ha hours: hms_tuple(h=-1.0, m=-40.0, s=-44.34273494287936)
+	ra: 7.774100
+	dec: 27.979111
+26/09/2018 07:56:16.741	Info	*** Seleccion de estrella: 68.4459998608 ***
+26/09/2018 07:56:16.741	Debg	---------------------------------------------
+26/09/2018 07:56:16.741	Debg	-------------- Check spots ------------------
+26/09/2018 07:56:16.757	Debg	---------------------------------------------
+26/09/2018 07:56:16.757	Info	Centrando spots...
+26/09/2018 07:56:18.772	Info	Intento 0
+26/09/2018 07:56:21.992	Info	Ventana de spots fuera de rango (cx: 609 - cy: 377 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 07:56:21.992	Info	Moviendo telescopio...
+26/09/2018 07:56:23.132	Info	Intento 1
+26/09/2018 07:56:25.086	Info	Flujos fuera de rango (diff: 1.551949635721777e+248 - range: 3.0)
+26/09/2018 07:56:25.086	Info	Moviendo telescopio...
+26/09/2018 07:56:26.586	Info	Intento 2
+26/09/2018 07:56:28.445	Info	DX fuera de rango (dx: 331.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:56:28.445	Info	Moviendo telescopio...
+26/09/2018 07:56:29.508	Info	Intento 3
+26/09/2018 07:56:31.336	Info	DX fuera de rango (dx: 243.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:56:31.336	Info	Moviendo telescopio...
+26/09/2018 07:56:32.430	Info	Intento 4
+26/09/2018 07:56:34.274	Info	DX fuera de rango (dx: 135.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:56:34.290	Info	Moviendo telescopio...
+26/09/2018 07:56:35.774	Info	Intento 5
+26/09/2018 07:56:40.603	Info	Los spots estan centrados
+26/09/2018 07:56:40.603	Info	*** Centrado de spots: 23.8459999561 ***
+26/09/2018 07:56:40.603	Debg	---------------------------------------------
+26/09/2018 07:56:40.603	Debg	--------------- Check focal -----------------
+26/09/2018 07:56:40.603	Debg	---------------------------------------------
+26/09/2018 07:56:40.603	Info	Comprobando el foco...
+26/09/2018 07:56:40.603	Info	Intento 0
+26/09/2018 07:56:47.667	Info	DX: 34.218199999999996 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 07:56:47.667	Info	Moviendo el foco...
+26/09/2018 07:56:48.245	Info	Intento 1
+26/09/2018 07:56:54.886	Info	DX: 35.10426 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 07:56:54.902	Info	La imagen esta enfocada
+26/09/2018 07:56:54.902	Info	*** Enfocado: 14.2990000248 ***
+26/09/2018 07:56:54.902	Info	*** Seleccion de estrella: 106.606999874 ***
+26/09/2018 07:56:54.902	Debg	---------------------------------------------
+26/09/2018 07:56:54.902	Debg	-------- Generando fichero de datos ---------
+26/09/2018 07:56:54.902	Debg	---------------------------------------------
+26/09/2018 07:56:54.902	Info	##### PACK: OT_ZU8TA3_180926075654
+26/09/2018 07:58:17.865	Info	##### (OT_ZU8TA3_180926075654) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926065810.txt
+26/09/2018 07:58:17.865	Info	*** Generacion del fichero 82.9630000591
+26/09/2018 07:58:17.865	Debg	---------------------------------------------
+26/09/2018 07:58:17.865	Debg	------------- Calculando seeing -------------
+26/09/2018 07:58:17.865	Debg	---------------------------------------------
+26/09/2018 07:58:20.428	Info	###### (OT_ZU8TA3_180926075654) SEEING: 0.7033121618470577 (used imgs: 195)
+26/09/2018 07:58:20.428	Info	*** Calculo del seeing 2.56299996376
+26/09/2018 07:58:20.428	Info	*** Procesado de datos: 85.5260000229 ***
+26/09/2018 07:58:20.428	Info	*** TIEMPO TOTAL ITERACION: 192.132999897 ***
+26/09/2018 07:58:20.428	Debg	---------------------------------------------
+26/09/2018 07:58:20.428	Debg	-------------------- Meteo ------------------
+26/09/2018 07:58:20.428	Debg	---------------------------------------------
+26/09/2018 07:58:22.319	Info	Wind speed: 10.5 km/h -- Humidity: 50.8 %
+26/09/2018 07:58:22.319	Debg	---------------------------------------------
+26/09/2018 07:58:22.319	Debg	---------------- Star Selection -------------
+26/09/2018 07:58:22.319	Debg	---------------------------------------------
+26/09/2018 07:58:22.319	Info	Comprobando que la estella es observable...
+26/09/2018 07:58:22.866	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 07:58:22.866	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.67898409304', 'az': '84.796766', 'name': 'Pollux', 'airmass': '1.079833', 'ha_hours': 'hms_tuple(h=-1.0, m=-40.0, s=-44.34273494287936)', 'alt': '67.829966', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 07:58:22.866	Info	*** Seleccion de estrella: 0.546999931335 ***
+26/09/2018 07:58:22.866	Debg	---------------------------------------------
+26/09/2018 07:58:22.866	Debg	-------------- Check spots ------------------
+26/09/2018 07:58:22.866	Debg	---------------------------------------------
+26/09/2018 07:58:22.866	Info	Centrando spots...
+26/09/2018 07:58:24.897	Info	Intento 0
+26/09/2018 07:58:28.179	Info	Ventana de spots fuera de rango (cx: 561 - cy: 412 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 07:58:28.179	Info	Moviendo telescopio...
+26/09/2018 07:58:29.241	Info	Intento 1
+26/09/2018 07:58:31.070	Info	Maximos fuera de rango (diff: 412.0 - nsigma: 100.06268246633476)
+26/09/2018 07:58:31.070	Info	Moviendo telescopio...
+26/09/2018 07:58:32.539	Info	Intento 2
+26/09/2018 07:58:34.461	Info	Maximos fuera de rango (diff: 3272.3306249999996 - nsigma: 143.79566047397674)
+26/09/2018 07:58:34.461	Info	Moviendo telescopio...
+26/09/2018 07:58:35.492	Info	Intento 3
+26/09/2018 07:58:37.367	Info	DX fuera de rango (dx: 62.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:58:37.367	Info	Moviendo telescopio...
+26/09/2018 07:58:38.446	Info	Intento 4
+26/09/2018 07:58:40.290	Info	DX fuera de rango (dx: 91.0 - min: 25.0 - max: 45.0)
+26/09/2018 07:58:40.290	Info	Moviendo telescopio...
+26/09/2018 07:58:41.759	Info	Intento 5
+26/09/2018 07:58:45.962	Info	Los spots estan centrados
+26/09/2018 07:58:45.978	Info	*** Centrado de spots: 23.0959999561 ***
+26/09/2018 07:58:45.978	Debg	---------------------------------------------
+26/09/2018 07:58:45.978	Debg	--------------- Check focal -----------------
+26/09/2018 07:58:45.978	Debg	---------------------------------------------
+26/09/2018 07:58:45.978	Info	Comprobando el foco...
+26/09/2018 07:58:45.978	Info	Intento 0
+26/09/2018 07:58:46.259	Info	DX: 34.76025 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 07:58:46.259	Info	La imagen esta enfocada
+26/09/2018 07:58:46.259	Info	*** Enfocado: 0.281000137329 ***
+26/09/2018 07:58:46.259	Info	*** Seleccion de estrella: 23.9400000572 ***
+26/09/2018 07:58:46.259	Debg	---------------------------------------------
+26/09/2018 07:58:46.259	Debg	-------- Generando fichero de datos ---------
+26/09/2018 07:58:46.259	Debg	---------------------------------------------
+26/09/2018 07:58:46.259	Info	##### PACK: OT_Y6SHCK_180926075846
+26/09/2018 08:00:21.396	Info	##### (OT_Y6SHCK_180926075846) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926070013.txt
+26/09/2018 08:00:21.396	Info	*** Generacion del fichero 95.1369998455
+26/09/2018 08:00:21.396	Debg	---------------------------------------------
+26/09/2018 08:00:21.396	Debg	------------- Calculando seeing -------------
+26/09/2018 08:00:21.396	Debg	---------------------------------------------
+26/09/2018 08:00:24.037	Info	###### (OT_Y6SHCK_180926075846) SEEING: 0.6579245730905587 (used imgs: 189)
+26/09/2018 08:00:24.037	Info	*** Calculo del seeing 2.64100003242
+26/09/2018 08:00:24.037	Info	*** Procesado de datos: 97.7779998779 ***
+26/09/2018 08:00:24.037	Info	*** TIEMPO TOTAL ITERACION: 121.717999935 ***
+26/09/2018 08:00:24.037	Debg	---------------------------------------------
+26/09/2018 08:00:24.037	Debg	-------------------- Meteo ------------------
+26/09/2018 08:00:24.037	Debg	---------------------------------------------
+26/09/2018 08:00:25.584	Info	Wind speed: 10.5 km/h -- Humidity: 50.8 %
+26/09/2018 08:00:25.584	Debg	---------------------------------------------
+26/09/2018 08:00:25.584	Debg	---------------- Star Selection -------------
+26/09/2018 08:00:25.584	Debg	---------------------------------------------
+26/09/2018 08:00:25.584	Info	Comprobando que la estella es observable...
+26/09/2018 08:00:26.178	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 08:00:26.178	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.67898409304', 'az': '84.796766', 'name': 'Pollux', 'airmass': '1.079833', 'ha_hours': 'hms_tuple(h=-1.0, m=-40.0, s=-44.34273494287936)', 'alt': '67.829966', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 08:00:26.178	Info	*** Seleccion de estrella: 0.593999862671 ***
+26/09/2018 08:00:26.178	Debg	---------------------------------------------
+26/09/2018 08:00:26.178	Debg	-------------- Check spots ------------------
+26/09/2018 08:00:26.178	Debg	---------------------------------------------
+26/09/2018 08:00:26.178	Info	Centrando spots...
+26/09/2018 08:00:28.209	Info	Intento 0
+26/09/2018 08:00:33.475	Info	Los spots estan centrados
+26/09/2018 08:00:33.475	Info	*** Centrado de spots: 7.29699993134 ***
+26/09/2018 08:00:33.475	Debg	---------------------------------------------
+26/09/2018 08:00:33.475	Debg	--------------- Check focal -----------------
+26/09/2018 08:00:33.475	Debg	---------------------------------------------
+26/09/2018 08:00:33.475	Info	Comprobando el foco...
+26/09/2018 08:00:33.491	Info	Intento 0
+26/09/2018 08:00:33.757	Info	DX: 35.29148 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:00:33.772	Info	La imagen esta enfocada
+26/09/2018 08:00:33.772	Info	*** Enfocado: 0.297000169754 ***
+26/09/2018 08:00:33.772	Info	*** Seleccion de estrella: 8.18799996376 ***
+26/09/2018 08:00:33.772	Debg	---------------------------------------------
+26/09/2018 08:00:33.772	Debg	-------- Generando fichero de datos ---------
+26/09/2018 08:00:33.772	Debg	---------------------------------------------
+26/09/2018 08:00:33.772	Info	##### PACK: OT_RVZ7JO_180926080033
+26/09/2018 08:02:15.378	Info	##### (OT_RVZ7JO_180926080033) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926070207.txt
+26/09/2018 08:02:15.378	Info	*** Generacion del fichero 101.605999947
+26/09/2018 08:02:15.378	Debg	---------------------------------------------
+26/09/2018 08:02:15.378	Debg	------------- Calculando seeing -------------
+26/09/2018 08:02:15.378	Debg	---------------------------------------------
+26/09/2018 08:02:18.004	Info	###### (OT_RVZ7JO_180926080033) SEEING: 0.6076542652375115 (used imgs: 198)
+26/09/2018 08:02:18.004	Info	*** Calculo del seeing 2.62599992752
+26/09/2018 08:02:18.004	Info	*** Procesado de datos: 104.231999874 ***
+26/09/2018 08:02:18.004	Info	*** TIEMPO TOTAL ITERACION: 112.419999838 ***
+26/09/2018 08:02:18.004	Debg	---------------------------------------------
+26/09/2018 08:02:18.004	Debg	-------------------- Meteo ------------------
+26/09/2018 08:02:18.004	Debg	---------------------------------------------
+26/09/2018 08:02:19.644	Info	Wind speed: 13.5 km/h -- Humidity: 49.5 %
+26/09/2018 08:02:19.644	Debg	---------------------------------------------
+26/09/2018 08:02:19.644	Debg	---------------- Star Selection -------------
+26/09/2018 08:02:19.644	Debg	---------------------------------------------
+26/09/2018 08:02:19.644	Info	Comprobando que la estella es observable...
+26/09/2018 08:02:20.223	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 08:02:20.223	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.67898409304', 'az': '84.796766', 'name': 'Pollux', 'airmass': '1.079833', 'ha_hours': 'hms_tuple(h=-1.0, m=-40.0, s=-44.34273494287936)', 'alt': '67.829966', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 08:02:20.223	Info	*** Seleccion de estrella: 0.578999996185 ***
+26/09/2018 08:02:20.223	Debg	---------------------------------------------
+26/09/2018 08:02:20.223	Debg	-------------- Check spots ------------------
+26/09/2018 08:02:20.223	Debg	---------------------------------------------
+26/09/2018 08:02:20.223	Info	Centrando spots...
+26/09/2018 08:02:22.254	Info	Intento 0
+26/09/2018 08:02:27.755	Info	Los spots estan centrados
+26/09/2018 08:02:27.755	Info	*** Centrado de spots: 7.53200006485 ***
+26/09/2018 08:02:27.755	Debg	---------------------------------------------
+26/09/2018 08:02:27.755	Debg	--------------- Check focal -----------------
+26/09/2018 08:02:27.755	Debg	---------------------------------------------
+26/09/2018 08:02:27.755	Info	Comprobando el foco...
+26/09/2018 08:02:27.755	Info	Intento 0
+26/09/2018 08:02:28.052	Info	DX: 35.01827 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:02:28.052	Info	La imagen esta enfocada
+26/09/2018 08:02:28.052	Info	*** Enfocado: 0.296999931335 ***
+26/09/2018 08:02:28.052	Info	*** Seleccion de estrella: 8.40799999237 ***
+26/09/2018 08:02:28.052	Debg	---------------------------------------------
+26/09/2018 08:02:28.052	Debg	-------- Generando fichero de datos ---------
+26/09/2018 08:02:28.052	Debg	---------------------------------------------
+26/09/2018 08:02:28.052	Info	##### PACK: OT_PZMDPL_180926080228
+26/09/2018 08:04:23.785	Info	##### (OT_PZMDPL_180926080228) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926070415.txt
+26/09/2018 08:04:23.785	Info	*** Generacion del fichero 115.73300004
+26/09/2018 08:04:23.785	Debg	---------------------------------------------
+26/09/2018 08:04:23.785	Debg	------------- Calculando seeing -------------
+26/09/2018 08:04:23.785	Debg	---------------------------------------------
+26/09/2018 08:04:26.488	Info	###### (OT_PZMDPL_180926080228) SEEING: 0.6957249573777546 (used imgs: 199)
+26/09/2018 08:04:26.488	Info	*** Calculo del seeing 2.70299983025
+26/09/2018 08:04:26.488	Info	*** Procesado de datos: 118.43599987 ***
+26/09/2018 08:04:26.488	Info	*** TIEMPO TOTAL ITERACION: 126.843999863 ***
+26/09/2018 08:04:26.488	Debg	---------------------------------------------
+26/09/2018 08:04:26.488	Debg	-------------------- Meteo ------------------
+26/09/2018 08:04:26.488	Debg	---------------------------------------------
+26/09/2018 08:04:28.410	Info	Wind speed: 13.5 km/h -- Humidity: 49.5 %
+26/09/2018 08:04:28.410	Debg	---------------------------------------------
+26/09/2018 08:04:28.410	Debg	---------------- Star Selection -------------
+26/09/2018 08:04:28.410	Debg	---------------------------------------------
+26/09/2018 08:04:28.410	Info	Comprobando que la estella es observable...
+26/09/2018 08:04:28.910	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 08:04:28.910	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.67898409304', 'az': '84.796766', 'name': 'Pollux', 'airmass': '1.079833', 'ha_hours': 'hms_tuple(h=-1.0, m=-40.0, s=-44.34273494287936)', 'alt': '67.829966', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 08:04:28.910	Info	*** Seleccion de estrella: 0.5 ***
+26/09/2018 08:04:28.910	Debg	---------------------------------------------
+26/09/2018 08:04:28.910	Debg	-------------- Check spots ------------------
+26/09/2018 08:04:28.910	Debg	---------------------------------------------
+26/09/2018 08:04:28.910	Info	Centrando spots...
+26/09/2018 08:04:30.942	Info	Intento 0
+26/09/2018 08:04:36.458	Info	Los spots estan centrados
+26/09/2018 08:04:36.458	Info	*** Centrado de spots: 7.54799985886 ***
+26/09/2018 08:04:36.458	Debg	---------------------------------------------
+26/09/2018 08:04:36.458	Debg	--------------- Check focal -----------------
+26/09/2018 08:04:36.458	Debg	---------------------------------------------
+26/09/2018 08:04:36.458	Info	Comprobando el foco...
+26/09/2018 08:04:36.458	Info	Intento 0
+26/09/2018 08:04:36.724	Info	DX: 35.132565 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:04:36.724	Info	La imagen esta enfocada
+26/09/2018 08:04:36.724	Info	*** Enfocado: 0.266000032425 ***
+26/09/2018 08:04:36.724	Info	*** Seleccion de estrella: 8.31399989128 ***
+26/09/2018 08:04:36.724	Debg	---------------------------------------------
+26/09/2018 08:04:36.724	Debg	-------- Generando fichero de datos ---------
+26/09/2018 08:04:36.724	Debg	---------------------------------------------
+26/09/2018 08:04:36.724	Info	##### PACK: OT_D0V24O_180926080436
+26/09/2018 08:06:31.554	Info	##### (OT_D0V24O_180926080436) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926070623.txt
+26/09/2018 08:06:31.554	Info	*** Generacion del fichero 114.829999924
+26/09/2018 08:06:31.554	Debg	---------------------------------------------
+26/09/2018 08:06:31.554	Debg	------------- Calculando seeing -------------
+26/09/2018 08:06:31.554	Debg	---------------------------------------------
+26/09/2018 08:06:34.226	Info	###### (OT_D0V24O_180926080436) SEEING: 0.7635335369226776 (used imgs: 195)
+26/09/2018 08:06:34.226	Info	*** Calculo del seeing 2.67200016975
+26/09/2018 08:06:34.226	Info	*** Procesado de datos: 117.502000093 ***
+26/09/2018 08:06:34.226	Info	*** TIEMPO TOTAL ITERACION: 125.815999985 ***
+26/09/2018 08:06:34.226	Debg	---------------------------------------------
+26/09/2018 08:06:34.226	Debg	-------------------- Meteo ------------------
+26/09/2018 08:06:34.226	Debg	---------------------------------------------
+26/09/2018 08:06:35.992	Info	Wind speed: 14.0 km/h -- Humidity: 49.2 %
+26/09/2018 08:06:36.007	Debg	---------------------------------------------
+26/09/2018 08:06:36.007	Debg	---------------- Star Selection -------------
+26/09/2018 08:06:36.007	Debg	---------------------------------------------
+26/09/2018 08:06:36.007	Info	Comprobando que la estella es observable...
+26/09/2018 08:06:36.538	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 08:06:36.538	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.67898409304', 'az': '84.796766', 'name': 'Pollux', 'airmass': '1.079833', 'ha_hours': 'hms_tuple(h=-1.0, m=-40.0, s=-44.34273494287936)', 'alt': '67.829966', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 08:06:36.538	Info	*** Seleccion de estrella: 0.531000137329 ***
+26/09/2018 08:06:36.538	Debg	---------------------------------------------
+26/09/2018 08:06:36.538	Debg	-------------- Check spots ------------------
+26/09/2018 08:06:36.538	Debg	---------------------------------------------
+26/09/2018 08:06:36.538	Info	Centrando spots...
+26/09/2018 08:06:38.554	Info	Intento 0
+26/09/2018 08:06:44.149	Info	Los spots estan centrados
+26/09/2018 08:06:44.149	Info	*** Centrado de spots: 7.61099982262 ***
+26/09/2018 08:06:44.149	Debg	---------------------------------------------
+26/09/2018 08:06:44.149	Debg	--------------- Check focal -----------------
+26/09/2018 08:06:44.149	Debg	---------------------------------------------
+26/09/2018 08:06:44.149	Info	Comprobando el foco...
+26/09/2018 08:06:44.164	Info	Intento 0
+26/09/2018 08:06:44.477	Info	DX: 35.15992000000001 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:06:44.477	Info	La imagen esta enfocada
+26/09/2018 08:06:44.477	Info	*** Enfocado: 0.328000068665 ***
+26/09/2018 08:06:44.477	Info	*** Seleccion de estrella: 8.4849998951 ***
+26/09/2018 08:06:44.477	Debg	---------------------------------------------
+26/09/2018 08:06:44.477	Debg	-------- Generando fichero de datos ---------
+26/09/2018 08:06:44.477	Debg	---------------------------------------------
+26/09/2018 08:06:44.477	Info	##### PACK: OT_UJVI8W_180926080644
+26/09/2018 08:08:47.273	Info	##### (OT_UJVI8W_180926080644) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926070839.txt
+26/09/2018 08:08:47.273	Info	*** Generacion del fichero 122.796000004
+26/09/2018 08:08:47.273	Debg	---------------------------------------------
+26/09/2018 08:08:47.273	Debg	------------- Calculando seeing -------------
+26/09/2018 08:08:47.273	Debg	---------------------------------------------
+26/09/2018 08:08:49.805	Info	###### (OT_UJVI8W_180926080644) SEEING: 0.8302810721380603 (used imgs: 187)
+26/09/2018 08:08:49.805	Info	*** Calculo del seeing 2.53200006485
+26/09/2018 08:08:49.805	Info	*** Procesado de datos: 125.328000069 ***
+26/09/2018 08:08:49.805	Info	*** TIEMPO TOTAL ITERACION: 133.812999964 ***
+26/09/2018 08:08:49.805	Debg	---------------------------------------------
+26/09/2018 08:08:49.805	Debg	-------------------- Meteo ------------------
+26/09/2018 08:08:49.805	Debg	---------------------------------------------
+26/09/2018 08:08:51.789	Info	Wind speed: 14.0 km/h -- Humidity: 49.2 %
+26/09/2018 08:08:51.789	Debg	---------------------------------------------
+26/09/2018 08:08:51.789	Debg	---------------- Star Selection -------------
+26/09/2018 08:08:51.805	Debg	---------------------------------------------
+26/09/2018 08:08:51.805	Info	Comprobando que la estella es observable...
+26/09/2018 08:08:52.321	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 08:08:52.321	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.67898409304', 'az': '84.796766', 'name': 'Pollux', 'airmass': '1.079833', 'ha_hours': 'hms_tuple(h=-1.0, m=-40.0, s=-44.34273494287936)', 'alt': '67.829966', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 08:08:52.321	Info	*** Seleccion de estrella: 0.516000032425 ***
+26/09/2018 08:08:52.336	Debg	---------------------------------------------
+26/09/2018 08:08:52.336	Debg	-------------- Check spots ------------------
+26/09/2018 08:08:52.336	Debg	---------------------------------------------
+26/09/2018 08:08:52.336	Info	Centrando spots...
+26/09/2018 08:08:54.352	Info	Intento 0
+26/09/2018 08:08:59.790	Info	Los spots estan centrados
+26/09/2018 08:08:59.790	Info	*** Centrado de spots: 7.45399999619 ***
+26/09/2018 08:08:59.790	Debg	---------------------------------------------
+26/09/2018 08:08:59.790	Debg	--------------- Check focal -----------------
+26/09/2018 08:08:59.790	Debg	---------------------------------------------
+26/09/2018 08:08:59.790	Info	Comprobando el foco...
+26/09/2018 08:08:59.790	Info	Intento 0
+26/09/2018 08:09:00.056	Info	DX: 35.573415 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:09:00.056	Info	Moviendo el foco...
+26/09/2018 08:09:00.540	Info	Intento 1
+26/09/2018 08:09:09.010	Info	DX: 35.57156 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:09:09.010	Info	Moviendo el foco...
+26/09/2018 08:09:09.401	Info	Intento 2
+26/09/2018 08:09:16.808	Info	DX: 35.40138 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:09:16.808	Info	La imagen esta enfocada
+26/09/2018 08:09:16.808	Info	*** Enfocado: 17.0180001259 ***
+26/09/2018 08:09:16.808	Info	*** Seleccion de estrella: 25.0190000534 ***
+26/09/2018 08:09:16.808	Debg	---------------------------------------------
+26/09/2018 08:09:16.808	Debg	-------- Generando fichero de datos ---------
+26/09/2018 08:09:16.808	Debg	---------------------------------------------
+26/09/2018 08:09:16.824	Info	##### PACK: OT_1NMWM9_180926080916
+26/09/2018 08:11:20.682	Info	##### (OT_1NMWM9_180926080916) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926071112.txt
+26/09/2018 08:11:20.682	Info	*** Generacion del fichero 123.873999834
+26/09/2018 08:11:20.682	Debg	---------------------------------------------
+26/09/2018 08:11:20.682	Debg	------------- Calculando seeing -------------
+26/09/2018 08:11:20.682	Debg	---------------------------------------------
+26/09/2018 08:11:23.386	Info	###### (OT_1NMWM9_180926080916) SEEING: 0.7736264100350788 (used imgs: 187)
+26/09/2018 08:11:23.386	Info	*** Calculo del seeing 2.70399999619
+26/09/2018 08:11:23.386	Info	*** Procesado de datos: 126.57799983 ***
+26/09/2018 08:11:23.386	Info	*** TIEMPO TOTAL ITERACION: 151.596999884 ***
+26/09/2018 08:11:23.401	Debg	---------------------------------------------
+26/09/2018 08:11:23.401	Debg	-------------------- Meteo ------------------
+26/09/2018 08:11:23.401	Debg	---------------------------------------------
+26/09/2018 08:11:25.417	Info	Wind speed: 16.9 km/h -- Humidity: 47.1 %
+26/09/2018 08:11:25.433	Debg	---------------------------------------------
+26/09/2018 08:11:25.433	Debg	---------------- Star Selection -------------
+26/09/2018 08:11:25.433	Debg	---------------------------------------------
+26/09/2018 08:11:25.433	Info	Comprobando que la estella es observable...
+26/09/2018 08:11:25.964	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 08:11:25.964	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.67898409304', 'az': '84.796766', 'name': 'Pollux', 'airmass': '1.079833', 'ha_hours': 'hms_tuple(h=-1.0, m=-40.0, s=-44.34273494287936)', 'alt': '67.829966', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 08:11:25.964	Info	*** Seleccion de estrella: 0.530999898911 ***
+26/09/2018 08:11:25.964	Debg	---------------------------------------------
+26/09/2018 08:11:25.964	Debg	-------------- Check spots ------------------
+26/09/2018 08:11:25.964	Debg	---------------------------------------------
+26/09/2018 08:11:25.964	Info	Centrando spots...
+26/09/2018 08:11:27.996	Info	Intento 0
+26/09/2018 08:11:33.543	Info	Los spots estan centrados
+26/09/2018 08:11:33.543	Info	*** Centrado de spots: 7.57899999619 ***
+26/09/2018 08:11:33.543	Debg	---------------------------------------------
+26/09/2018 08:11:33.543	Debg	--------------- Check focal -----------------
+26/09/2018 08:11:33.543	Debg	---------------------------------------------
+26/09/2018 08:11:33.543	Info	Comprobando el foco...
+26/09/2018 08:11:33.543	Info	Intento 0
+26/09/2018 08:11:33.825	Info	DX: 35.617835 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:11:33.840	Info	Moviendo el foco...
+26/09/2018 08:11:34.200	Info	Intento 1
+26/09/2018 08:11:43.529	Info	DX: 35.31902 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:11:43.529	Info	La imagen esta enfocada
+26/09/2018 08:11:43.529	Info	*** Enfocado: 9.98600006104 ***
+26/09/2018 08:11:43.545	Info	*** Seleccion de estrella: 18.0959999561 ***
+26/09/2018 08:11:43.545	Debg	---------------------------------------------
+26/09/2018 08:11:43.545	Debg	-------- Generando fichero de datos ---------
+26/09/2018 08:11:43.545	Debg	---------------------------------------------
+26/09/2018 08:11:43.545	Info	##### PACK: OT_AE2M49_180926081143
+26/09/2018 08:13:47.622	Info	##### (OT_AE2M49_180926081143) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926071339.txt
+26/09/2018 08:13:47.622	Info	*** Generacion del fichero 124.076999903
+26/09/2018 08:13:47.622	Debg	---------------------------------------------
+26/09/2018 08:13:47.622	Debg	------------- Calculando seeing -------------
+26/09/2018 08:13:47.622	Debg	---------------------------------------------
+26/09/2018 08:13:50.232	Info	###### (OT_AE2M49_180926081143) SEEING: 0.7640998526985548 (used imgs: 193)
+26/09/2018 08:13:50.232	Info	*** Calculo del seeing 2.61000013351
+26/09/2018 08:13:50.232	Info	*** Procesado de datos: 126.687000036 ***
+26/09/2018 08:13:50.232	Info	*** TIEMPO TOTAL ITERACION: 144.799000025 ***
+26/09/2018 08:13:50.232	Debg	---------------------------------------------
+26/09/2018 08:13:50.232	Debg	-------------------- Meteo ------------------
+26/09/2018 08:13:50.232	Debg	---------------------------------------------
+26/09/2018 08:13:52.201	Info	Wind speed: 16.9 km/h -- Humidity: 47.1 %
+26/09/2018 08:13:52.201	Debg	---------------------------------------------
+26/09/2018 08:13:52.201	Debg	---------------- Star Selection -------------
+26/09/2018 08:13:52.201	Debg	---------------------------------------------
+26/09/2018 08:13:52.201	Info	Comprobando que la estella es observable...
+26/09/2018 08:13:52.748	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 08:13:52.748	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.67898409304', 'az': '84.796766', 'name': 'Pollux', 'airmass': '1.079833', 'ha_hours': 'hms_tuple(h=-1.0, m=-40.0, s=-44.34273494287936)', 'alt': '67.829966', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 08:13:52.748	Info	*** Seleccion de estrella: 0.546999931335 ***
+26/09/2018 08:13:52.748	Debg	---------------------------------------------
+26/09/2018 08:13:52.748	Debg	-------------- Check spots ------------------
+26/09/2018 08:13:52.748	Debg	---------------------------------------------
+26/09/2018 08:13:52.748	Info	Centrando spots...
+26/09/2018 08:13:54.779	Info	Intento 0
+26/09/2018 08:14:00.311	Info	Los spots estan centrados
+26/09/2018 08:14:00.311	Info	*** Centrado de spots: 7.56300020218 ***
+26/09/2018 08:14:00.311	Debg	---------------------------------------------
+26/09/2018 08:14:00.311	Debg	--------------- Check focal -----------------
+26/09/2018 08:14:00.327	Debg	---------------------------------------------
+26/09/2018 08:14:00.327	Info	Comprobando el foco...
+26/09/2018 08:14:00.327	Info	Intento 0
+26/09/2018 08:14:00.592	Info	DX: 35.26377000000001 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:14:00.592	Info	La imagen esta enfocada
+26/09/2018 08:14:00.592	Info	*** Enfocado: 0.265000104904 ***
+26/09/2018 08:14:00.592	Info	*** Seleccion de estrella: 8.39100003242 ***
+26/09/2018 08:14:00.592	Debg	---------------------------------------------
+26/09/2018 08:14:00.592	Debg	-------- Generando fichero de datos ---------
+26/09/2018 08:14:00.592	Debg	---------------------------------------------
+26/09/2018 08:14:00.592	Info	##### PACK: OT_VLLTNM_180926081400
+26/09/2018 08:16:07.971	Info	##### (OT_VLLTNM_180926081400) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926071600.txt
+26/09/2018 08:16:07.971	Info	*** Generacion del fichero 127.378999949
+26/09/2018 08:16:07.971	Debg	---------------------------------------------
+26/09/2018 08:16:07.971	Debg	------------- Calculando seeing -------------
+26/09/2018 08:16:07.971	Debg	---------------------------------------------
+26/09/2018 08:16:10.394	Info	###### (OT_VLLTNM_180926081400) SEEING: 0.7809616676874487 (used imgs: 199)
+26/09/2018 08:16:10.394	Info	*** Calculo del seeing 2.42300009727
+26/09/2018 08:16:10.394	Info	*** Procesado de datos: 129.802000046 ***
+26/09/2018 08:16:10.394	Info	*** TIEMPO TOTAL ITERACION: 138.193000078 ***
+26/09/2018 08:16:10.394	Debg	---------------------------------------------
+26/09/2018 08:16:10.394	Debg	-------------------- Meteo ------------------
+26/09/2018 08:16:10.394	Debg	---------------------------------------------
+26/09/2018 08:16:12.144	Info	Wind speed: 17.9 km/h -- Humidity: 46.1 %
+26/09/2018 08:16:12.144	Debg	---------------------------------------------
+26/09/2018 08:16:12.159	Debg	---------------- Star Selection -------------
+26/09/2018 08:16:12.159	Debg	---------------------------------------------
+26/09/2018 08:16:12.159	Info	Comprobando que la estella es observable...
+26/09/2018 08:16:12.659	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 08:16:12.659	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.67898409304', 'az': '84.796766', 'name': 'Pollux', 'airmass': '1.079833', 'ha_hours': 'hms_tuple(h=-1.0, m=-40.0, s=-44.34273494287936)', 'alt': '67.829966', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 08:16:12.659	Info	*** Seleccion de estrella: 0.5 ***
+26/09/2018 08:16:12.659	Debg	---------------------------------------------
+26/09/2018 08:16:12.675	Debg	-------------- Check spots ------------------
+26/09/2018 08:16:12.675	Debg	---------------------------------------------
+26/09/2018 08:16:12.675	Info	Centrando spots...
+26/09/2018 08:16:14.691	Info	Intento 0
+26/09/2018 08:16:20.301	Info	Los spots estan centrados
+26/09/2018 08:16:20.301	Info	*** Centrado de spots: 7.62600016594 ***
+26/09/2018 08:16:20.301	Debg	---------------------------------------------
+26/09/2018 08:16:20.301	Debg	--------------- Check focal -----------------
+26/09/2018 08:16:20.301	Debg	---------------------------------------------
+26/09/2018 08:16:20.301	Info	Comprobando el foco...
+26/09/2018 08:16:20.301	Info	Intento 0
+26/09/2018 08:16:20.582	Info	DX: 35.419455 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:16:20.582	Info	La imagen esta enfocada
+26/09/2018 08:16:20.582	Info	*** Enfocado: 0.280999898911 ***
+26/09/2018 08:16:20.582	Info	*** Seleccion de estrella: 8.43799996376 ***
+26/09/2018 08:16:20.582	Debg	---------------------------------------------
+26/09/2018 08:16:20.582	Debg	-------- Generando fichero de datos ---------
+26/09/2018 08:16:20.582	Debg	---------------------------------------------
+26/09/2018 08:16:20.582	Info	##### PACK: OT_2I2BFR_180926081620
+26/09/2018 08:18:25.848	Info	##### (OT_2I2BFR_180926081620) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926071818.txt
+26/09/2018 08:18:25.848	Info	*** Generacion del fichero 125.266000032
+26/09/2018 08:18:25.848	Debg	---------------------------------------------
+26/09/2018 08:18:25.848	Debg	------------- Calculando seeing -------------
+26/09/2018 08:18:25.848	Debg	---------------------------------------------
+26/09/2018 08:18:28.348	Info	###### (OT_2I2BFR_180926081620) SEEING: 0.8488561971936427 (used imgs: 174)
+26/09/2018 08:18:28.348	Info	*** Calculo del seeing 2.5
+26/09/2018 08:18:28.363	Info	*** Procesado de datos: 127.780999899 ***
+26/09/2018 08:18:28.363	Info	*** TIEMPO TOTAL ITERACION: 136.218999863 ***
+26/09/2018 08:18:28.363	Debg	---------------------------------------------
+26/09/2018 08:18:28.363	Debg	-------------------- Meteo ------------------
+26/09/2018 08:18:28.363	Debg	---------------------------------------------
+26/09/2018 08:18:30.192	Info	Wind speed: 17.9 km/h -- Humidity: 46.1 %
+26/09/2018 08:18:30.239	Debg	---------------------------------------------
+26/09/2018 08:18:30.239	Debg	---------------- Star Selection -------------
+26/09/2018 08:18:30.239	Debg	---------------------------------------------
+26/09/2018 08:18:30.239	Info	Comprobando que la estella es observable...
+26/09/2018 08:18:30.786	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 08:18:30.786	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.67898409304', 'az': '84.796766', 'name': 'Pollux', 'airmass': '1.079833', 'ha_hours': 'hms_tuple(h=-1.0, m=-40.0, s=-44.34273494287936)', 'alt': '67.829966', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 08:18:30.786	Info	*** Seleccion de estrella: 0.546999931335 ***
+26/09/2018 08:18:30.786	Debg	---------------------------------------------
+26/09/2018 08:18:30.786	Debg	-------------- Check spots ------------------
+26/09/2018 08:18:30.801	Debg	---------------------------------------------
+26/09/2018 08:18:30.801	Info	Centrando spots...
+26/09/2018 08:18:32.817	Info	Intento 0
+26/09/2018 08:18:38.177	Info	Los spots estan centrados
+26/09/2018 08:18:38.177	Info	*** Centrado de spots: 7.37599992752 ***
+26/09/2018 08:18:38.177	Debg	---------------------------------------------
+26/09/2018 08:18:38.177	Debg	--------------- Check focal -----------------
+26/09/2018 08:18:38.177	Debg	---------------------------------------------
+26/09/2018 08:18:38.177	Info	Comprobando el foco...
+26/09/2018 08:18:38.193	Info	Intento 0
+26/09/2018 08:18:38.458	Info	DX: 34.53464 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:18:38.458	Info	La imagen esta enfocada
+26/09/2018 08:18:38.458	Info	*** Enfocado: 0.280999898911 ***
+26/09/2018 08:18:38.458	Info	*** Seleccion de estrella: 8.21899986267 ***
+26/09/2018 08:18:38.474	Debg	---------------------------------------------
+26/09/2018 08:18:38.474	Debg	-------- Generando fichero de datos ---------
+26/09/2018 08:18:38.474	Debg	---------------------------------------------
+26/09/2018 08:18:38.474	Info	##### PACK: OT_PWCMZ0_180926081838
+26/09/2018 08:20:44.505	Info	##### (OT_PWCMZ0_180926081838) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926072036.txt
+26/09/2018 08:20:44.505	Info	*** Generacion del fichero 126.031000137
+26/09/2018 08:20:44.505	Debg	---------------------------------------------
+26/09/2018 08:20:44.521	Debg	------------- Calculando seeing -------------
+26/09/2018 08:20:44.521	Debg	---------------------------------------------
+26/09/2018 08:20:47.068	Info	###### (OT_PWCMZ0_180926081838) SEEING: 0.7706441834647954 (used imgs: 182)
+26/09/2018 08:20:47.068	Info	*** Calculo del seeing 2.56299996376
+26/09/2018 08:20:47.068	Info	*** Procesado de datos: 128.594000101 ***
+26/09/2018 08:20:47.068	Info	*** TIEMPO TOTAL ITERACION: 136.828999996 ***
+26/09/2018 08:20:47.068	Debg	---------------------------------------------
+26/09/2018 08:20:47.068	Debg	-------------------- Meteo ------------------
+26/09/2018 08:20:47.068	Debg	---------------------------------------------
+26/09/2018 08:20:48.818	Info	Wind speed: 17.9 km/h -- Humidity: 46.1 %
+26/09/2018 08:20:48.818	Debg	---------------------------------------------
+26/09/2018 08:20:48.818	Debg	---------------- Star Selection -------------
+26/09/2018 08:20:48.834	Debg	---------------------------------------------
+26/09/2018 08:20:48.834	Info	Comprobando que la estella es observable...
+26/09/2018 08:20:49.349	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 08:20:49.349	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.67898409304', 'az': '84.796766', 'name': 'Pollux', 'airmass': '1.079833', 'ha_hours': 'hms_tuple(h=-1.0, m=-40.0, s=-44.34273494287936)', 'alt': '67.829966', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 08:20:49.349	Info	*** Seleccion de estrella: 0.514999866486 ***
+26/09/2018 08:20:49.349	Debg	---------------------------------------------
+26/09/2018 08:20:49.349	Debg	-------------- Check spots ------------------
+26/09/2018 08:20:49.349	Debg	---------------------------------------------
+26/09/2018 08:20:49.349	Info	Centrando spots...
+26/09/2018 08:20:51.381	Info	Intento 0
+26/09/2018 08:20:56.882	Info	Los spots estan centrados
+26/09/2018 08:20:56.882	Info	*** Centrado de spots: 7.53299999237 ***
+26/09/2018 08:20:56.882	Debg	---------------------------------------------
+26/09/2018 08:20:56.882	Debg	--------------- Check focal -----------------
+26/09/2018 08:20:56.882	Debg	---------------------------------------------
+26/09/2018 08:20:56.882	Info	Comprobando el foco...
+26/09/2018 08:20:56.882	Info	Intento 0
+26/09/2018 08:20:57.147	Info	DX: 37.203585000000004 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:20:57.147	Info	Moviendo el foco...
+26/09/2018 08:20:57.507	Info	Intento 1
+26/09/2018 08:21:06.101	Info	DX: 35.40822 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:21:06.101	Info	La imagen esta enfocada
+26/09/2018 08:21:06.101	Info	*** Enfocado: 9.21900010109 ***
+26/09/2018 08:21:06.101	Info	*** Seleccion de estrella: 17.2829999924 ***
+26/09/2018 08:21:06.101	Debg	---------------------------------------------
+26/09/2018 08:21:06.101	Debg	-------- Generando fichero de datos ---------
+26/09/2018 08:21:06.101	Debg	---------------------------------------------
+26/09/2018 08:21:06.101	Info	##### PACK: OT_RCRVWA_180926082106
+26/09/2018 08:23:15.805	Info	##### (OT_RCRVWA_180926082106) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926072307.txt
+26/09/2018 08:23:15.805	Info	*** Generacion del fichero 129.703999996
+26/09/2018 08:23:15.805	Debg	---------------------------------------------
+26/09/2018 08:23:15.805	Debg	------------- Calculando seeing -------------
+26/09/2018 08:23:15.805	Debg	---------------------------------------------
+26/09/2018 08:23:18.336	Info	###### (OT_RCRVWA_180926082106) SEEING: 0.8559937259434226 (used imgs: 186)
+26/09/2018 08:23:18.336	Info	*** Calculo del seeing 2.53099989891
+26/09/2018 08:23:18.352	Info	*** Procesado de datos: 132.250999928 ***
+26/09/2018 08:23:18.352	Info	*** TIEMPO TOTAL ITERACION: 149.53399992 ***
+26/09/2018 08:23:18.352	Debg	---------------------------------------------
+26/09/2018 08:23:18.352	Debg	-------------------- Meteo ------------------
+26/09/2018 08:23:18.352	Debg	---------------------------------------------
+26/09/2018 08:23:20.071	Info	Wind speed: 19.5 km/h -- Humidity: 45.0 %
+26/09/2018 08:23:20.086	Debg	---------------------------------------------
+26/09/2018 08:23:20.086	Debg	---------------- Star Selection -------------
+26/09/2018 08:23:20.086	Debg	---------------------------------------------
+26/09/2018 08:23:20.086	Info	Comprobando que la estella es observable...
+26/09/2018 08:23:20.602	info	La estrella sigue siendo observable(Pollux)
+26/09/2018 08:23:20.602	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.67898409304', 'az': '84.796766', 'name': 'Pollux', 'airmass': '1.079833', 'ha_hours': 'hms_tuple(h=-1.0, m=-40.0, s=-44.34273494287936)', 'alt': '67.829966', 'dec': '27.979111', 'magnitude': '1.150000', 'ra': '7.774100'}
+26/09/2018 08:23:20.602	Info	*** Seleccion de estrella: 0.516000032425 ***
+26/09/2018 08:23:20.602	Debg	---------------------------------------------
+26/09/2018 08:23:20.602	Debg	-------------- Check spots ------------------
+26/09/2018 08:23:20.602	Debg	---------------------------------------------
+26/09/2018 08:23:20.602	Info	Centrando spots...
+26/09/2018 08:23:22.634	Info	Intento 0
+26/09/2018 08:23:26.087	Info	Ventana de spots fuera de rango (cx: 560 - cy: 449 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 08:23:26.087	Info	Moviendo telescopio...
+26/09/2018 08:23:27.181	Info	Intento 1
+26/09/2018 08:23:29.025	Info	Ventana de spots fuera de rango (cx: 607 - cy: 436 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 08:23:29.025	Info	Moviendo telescopio...
+26/09/2018 08:23:30.681	Info	Intento 2
+26/09/2018 08:23:32.588	Info	DX fuera de rango (dx: 74.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:23:32.588	Info	Moviendo telescopio...
+26/09/2018 08:23:33.651	Info	Intento 3
+26/09/2018 08:23:35.557	Info	DX fuera de rango (dx: 157.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:23:35.557	Info	Moviendo telescopio...
+26/09/2018 08:23:36.448	Info	Intento 4
+26/09/2018 08:23:38.307	Info	DX fuera de rango (dx: 63.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:23:38.307	Info	Moviendo telescopio...
+26/09/2018 08:23:39.995	Info	Intento 5
+26/09/2018 08:23:41.777	Info	Ventana de spots fuera de rango (cx: 516 - cy: 476 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 08:23:41.777	Info	Moviendo telescopio...
+26/09/2018 08:23:43.449	Info	Intento 6
+26/09/2018 08:23:45.261	Info	DX fuera de rango (dx: 88.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:23:45.261	Info	Moviendo telescopio...
+26/09/2018 08:23:46.433	Info	Intento 7
+26/09/2018 08:23:48.277	Info	DX fuera de rango (dx: 58.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:23:48.277	Info	Moviendo telescopio...
+26/09/2018 08:23:49.356	Info	Intento 8
+26/09/2018 08:23:51.340	Info	DX fuera de rango (dx: 281.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:23:51.340	Info	Moviendo telescopio...
+26/09/2018 08:23:52.231	Info	Intento 9
+26/09/2018 08:23:54.231	Info	DX fuera de rango (dx: 22.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:23:54.231	Info	Moviendo telescopio...
+26/09/2018 08:23:55.919	Info	Intento 10
+26/09/2018 08:23:57.888	Info	Ventana de spots fuera de rango (cx: 595 - cy: 383 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 08:23:57.888	Info	Moviendo telescopio...
+26/09/2018 08:23:59.404	Info	Intento 11
+26/09/2018 08:24:01.466	Info	DX fuera de rango (dx: 120.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:01.466	Info	Moviendo telescopio...
+26/09/2018 08:24:03.123	Info	Intento 12
+26/09/2018 08:24:04.983	Info	DY fuera de rango (dy: 51.0 - min: -5.0 - max: 5.0)
+26/09/2018 08:24:04.983	Info	Moviendo telescopio...
+26/09/2018 08:24:06.123	Info	Intento 13
+26/09/2018 08:24:07.936	Info	DX fuera de rango (dx: 61.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:07.936	Info	Moviendo telescopio...
+26/09/2018 08:24:08.858	Info	Intento 14
+26/09/2018 08:24:10.686	Info	DX fuera de rango (dx: 60.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:10.686	Info	Moviendo telescopio...
+26/09/2018 08:24:11.780	Info	Intento 15
+26/09/2018 08:24:13.671	Info	DX fuera de rango (dx: 50.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:13.671	Info	Moviendo telescopio...
+26/09/2018 08:24:14.749	Info	Intento 16
+26/09/2018 08:24:16.609	Info	DY fuera de rango (dy: 35.0 - min: -5.0 - max: 5.0)
+26/09/2018 08:24:16.609	Info	Moviendo telescopio...
+26/09/2018 08:24:18.062	Info	Intento 17
+26/09/2018 08:24:19.937	Info	DY fuera de rango (dy: 5.0 - min: -5.0 - max: 5.0)
+26/09/2018 08:24:19.953	Info	Moviendo telescopio...
+26/09/2018 08:24:21.391	Info	Intento 18
+26/09/2018 08:24:23.250	Info	DX fuera de rango (dx: 179.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:23.266	Info	Moviendo telescopio...
+26/09/2018 08:24:24.719	Info	Intento 19
+26/09/2018 08:24:26.657	Info	DX fuera de rango (dx: 17.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:26.657	Info	Moviendo telescopio...
+26/09/2018 08:24:28.157	Info	Intento 20
+26/09/2018 08:24:30.064	Info	DX fuera de rango (dx: 131.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:30.064	Info	Moviendo telescopio...
+26/09/2018 08:24:31.126	Info	Intento 21
+26/09/2018 08:24:33.142	Info	DX fuera de rango (dx: 16.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:33.142	Info	Moviendo telescopio...
+26/09/2018 08:24:34.158	Info	Intento 22
+26/09/2018 08:24:36.268	Info	DX fuera de rango (dx: 204.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:36.268	Info	Moviendo telescopio...
+26/09/2018 08:24:37.315	Info	Intento 23
+26/09/2018 08:24:39.174	Info	DX fuera de rango (dx: 74.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:39.174	Info	Moviendo telescopio...
+26/09/2018 08:24:40.237	Info	Intento 24
+26/09/2018 08:24:42.143	Info	DX fuera de rango (dx: 312.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:42.143	Info	Moviendo telescopio...
+26/09/2018 08:24:43.222	Info	Intento 25
+26/09/2018 08:24:45.112	Info	DX fuera de rango (dx: 192.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:45.112	Info	Moviendo telescopio...
+26/09/2018 08:24:46.597	Info	Intento 26
+26/09/2018 08:24:48.472	Info	DX fuera de rango (dx: 143.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:48.472	Info	Moviendo telescopio...
+26/09/2018 08:24:49.972	Info	Intento 27
+26/09/2018 08:24:51.863	Info	DX fuera de rango (dx: 62.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:51.863	Info	Moviendo telescopio...
+26/09/2018 08:24:53.379	Info	Intento 28
+26/09/2018 08:24:55.411	Info	DX fuera de rango (dx: 67.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:24:55.411	Info	Moviendo telescopio...
+26/09/2018 08:24:56.958	Info	Intento 29
+26/09/2018 08:24:58.802	Info	DY fuera de rango (dy: 9.0 - min: -5.0 - max: 5.0)
+26/09/2018 08:24:58.802	Info	Moviendo telescopio...
+26/09/2018 08:25:02.402	Error (centrando los spots)	No se han podido centrar los spots
+26/09/2018 08:25:02.402	Info	*** Seleccion de estrella: 102.315999985 ***
+26/09/2018 08:25:02.418	Error (manage auto select error)	It's not posible to select a star. Next trying on 60 seconds.
+26/09/2018 08:25:02.418	Info	Llevando la montura al home...
+26/09/2018 08:26:22.553	Info	Montura en el home
+26/09/2018 08:27:22.560	Info	*** TIEMPO TOTAL ITERACION: 242.473999977 ***
+26/09/2018 08:27:22.560	Debg	---------------------------------------------
+26/09/2018 08:27:22.560	Debg	-------------------- Meteo ------------------
+26/09/2018 08:27:22.575	Debg	---------------------------------------------
+26/09/2018 08:27:24.419	Info	Wind speed: 17.3 km/h -- Humidity: 45.8 %
+26/09/2018 08:27:24.419	Debg	---------------------------------------------
+26/09/2018 08:27:24.419	Debg	---------------- Star Selection -------------
+26/09/2018 08:27:24.419	Debg	---------------------------------------------
+26/09/2018 08:27:24.419	Info	Seleccionando estella...
+26/09/2018 08:27:53.204	Info	Estella seleccionada --> Aldebaran
+	airmass: 1.164448
+	ha hours: hms_tuple(h=2.0, m=3.0, s=50.701472320691536)
+	ra: 4.616484
+	dec: 16.545597
+26/09/2018 08:27:53.204	Info	*** Seleccion de estrella: 28.7850000858 ***
+26/09/2018 08:27:53.204	Debg	---------------------------------------------
+26/09/2018 08:27:53.204	Debg	-------------- Check spots ------------------
+26/09/2018 08:27:53.204	Debg	---------------------------------------------
+26/09/2018 08:27:53.204	Info	Centrando spots...
+26/09/2018 08:27:55.236	Info	Intento 0
+26/09/2018 08:27:59.971	Info	Los spots estan centrados
+26/09/2018 08:27:59.971	Info	*** Centrado de spots: 6.76699995995 ***
+26/09/2018 08:27:59.971	Debg	---------------------------------------------
+26/09/2018 08:27:59.971	Debg	--------------- Check focal -----------------
+26/09/2018 08:27:59.971	Debg	---------------------------------------------
+26/09/2018 08:27:59.971	Info	Comprobando el foco...
+26/09/2018 08:27:59.971	Info	Intento 0
+26/09/2018 08:28:08.659	Info	DX: 34.952780000000004 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:28:08.659	Info	La imagen esta enfocada
+26/09/2018 08:28:08.659	Info	*** Enfocado: 8.68799996376 ***
+26/09/2018 08:28:08.659	Info	*** Seleccion de estrella: 44.2400000095 ***
+26/09/2018 08:28:08.659	Debg	---------------------------------------------
+26/09/2018 08:28:08.659	Debg	-------- Generando fichero de datos ---------
+26/09/2018 08:28:08.659	Debg	---------------------------------------------
+26/09/2018 08:28:08.675	Info	##### PACK: OT_JXT6TS_180926082808
+26/09/2018 08:30:29.036	Info	##### (OT_JXT6TS_180926082808) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926073021.txt
+26/09/2018 08:30:29.036	Info	*** Generacion del fichero 140.377000093
+26/09/2018 08:30:29.036	Debg	---------------------------------------------
+26/09/2018 08:30:29.051	Debg	------------- Calculando seeing -------------
+26/09/2018 08:30:29.051	Debg	---------------------------------------------
+26/09/2018 08:30:31.005	Info	###### (OT_JXT6TS_180926082808) SEEING: 0.8934497677015478 (used imgs: 93)
+26/09/2018 08:30:31.005	Info	*** Calculo del seeing 1.96900010109
+26/09/2018 08:30:31.005	Info	*** Procesado de datos: 142.346000195 ***
+26/09/2018 08:30:31.005	Info	*** TIEMPO TOTAL ITERACION: 186.586000204 ***
+26/09/2018 08:30:31.005	Debg	---------------------------------------------
+26/09/2018 08:30:31.005	Debg	-------------------- Meteo ------------------
+26/09/2018 08:30:31.005	Debg	---------------------------------------------
+26/09/2018 08:30:32.380	Info	Wind speed: 17.3 km/h -- Humidity: 45.8 %
+26/09/2018 08:30:32.380	Debg	---------------------------------------------
+26/09/2018 08:30:32.380	Debg	---------------- Star Selection -------------
+26/09/2018 08:30:32.380	Debg	---------------------------------------------
+26/09/2018 08:30:32.380	Info	Comprobando que la estella es observable...
+26/09/2018 08:30:32.927	info	La estrella sigue siendo observable(Aldebaran)
+26/09/2018 08:30:32.927	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '2.06408374231', 'az': '254.265311', 'name': 'Aldebaran', 'airmass': '1.164448', 'ha_hours': 'hms_tuple(h=2.0, m=3.0, s=50.701472320691536)', 'alt': '59.179169', 'dec': '16.545597', 'magnitude': '0.870000', 'ra': '4.616484'}
+26/09/2018 08:30:32.927	Info	*** Seleccion de estrella: 0.546999931335 ***
+26/09/2018 08:30:32.927	Debg	---------------------------------------------
+26/09/2018 08:30:32.927	Debg	-------------- Check spots ------------------
+26/09/2018 08:30:32.942	Debg	---------------------------------------------
+26/09/2018 08:30:32.942	Info	Centrando spots...
+26/09/2018 08:30:34.958	Info	Intento 0
+26/09/2018 08:30:40.568	Info	Los spots estan centrados
+26/09/2018 08:30:40.568	Info	*** Centrado de spots: 7.62600016594 ***
+26/09/2018 08:30:40.568	Debg	---------------------------------------------
+26/09/2018 08:30:40.568	Debg	--------------- Check focal -----------------
+26/09/2018 08:30:40.568	Debg	---------------------------------------------
+26/09/2018 08:30:40.568	Info	Comprobando el foco...
+26/09/2018 08:30:40.568	Info	Intento 0
+26/09/2018 08:30:40.818	Info	DX: 40.75384 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:30:40.818	Info	Moviendo el foco...
+26/09/2018 08:30:41.209	Info	Intento 1
+26/09/2018 08:30:50.288	Info	DX: 35.385400000000004 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:30:50.288	Info	La imagen esta enfocada
+26/09/2018 08:30:50.288	Info	*** Enfocado: 9.72000002861 ***
+26/09/2018 08:30:50.288	Info	*** Seleccion de estrella: 17.9079999924 ***
+26/09/2018 08:30:50.288	Debg	---------------------------------------------
+26/09/2018 08:30:50.288	Debg	-------- Generando fichero de datos ---------
+26/09/2018 08:30:50.288	Debg	---------------------------------------------
+26/09/2018 08:30:50.288	Info	##### PACK: OT_MWWYI5_180926083050
+26/09/2018 08:33:17.962	Info	##### (OT_MWWYI5_180926083050) Se ha generado el fichero: C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\datas\180926\OT180926073310.txt
+26/09/2018 08:33:17.962	Info	*** Generacion del fichero 147.673999786
+26/09/2018 08:33:17.962	Debg	---------------------------------------------
+26/09/2018 08:33:17.962	Debg	------------- Calculando seeing -------------
+26/09/2018 08:33:17.978	Debg	---------------------------------------------
+26/09/2018 08:33:20.135	Info	###### (OT_MWWYI5_180926083050) SEEING: 0.8818178935199349 (used imgs: 158)
+26/09/2018 08:33:20.135	Info	*** Calculo del seeing 2.17300009727
+26/09/2018 08:33:20.150	Info	*** Procesado de datos: 149.846999884 ***
+26/09/2018 08:33:20.150	Info	*** TIEMPO TOTAL ITERACION: 167.769999981 ***
+26/09/2018 08:33:20.150	Debg	---------------------------------------------
+26/09/2018 08:33:20.150	Debg	-------------------- Meteo ------------------
+26/09/2018 08:33:20.150	Debg	---------------------------------------------
+26/09/2018 08:33:21.635	Info	Wind speed: 19.4 km/h -- Humidity: 45.7 %
+26/09/2018 08:33:21.635	Debg	---------------------------------------------
+26/09/2018 08:33:21.635	Debg	---------------- Star Selection -------------
+26/09/2018 08:33:21.635	Debg	---------------------------------------------
+26/09/2018 08:33:21.635	Info	Comprobando que la estella es observable...
+26/09/2018 08:33:22.182	info	La estrella sigue siendo observable(Aldebaran)
+26/09/2018 08:33:22.182	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '2.06408374231', 'az': '254.265311', 'name': 'Aldebaran', 'airmass': '1.164448', 'ha_hours': 'hms_tuple(h=2.0, m=3.0, s=50.701472320691536)', 'alt': '59.179169', 'dec': '16.545597', 'magnitude': '0.870000', 'ra': '4.616484'}
+26/09/2018 08:33:22.182	Info	*** Seleccion de estrella: 0.546999931335 ***
+26/09/2018 08:33:22.197	Debg	---------------------------------------------
+26/09/2018 08:33:22.197	Debg	-------------- Check spots ------------------
+26/09/2018 08:33:22.197	Debg	---------------------------------------------
+26/09/2018 08:33:22.197	Info	Centrando spots...
+26/09/2018 08:33:24.229	Info	Intento 0
+26/09/2018 08:33:29.776	Info	Los spots estan centrados
+26/09/2018 08:33:29.776	Info	*** Centrado de spots: 7.57899999619 ***
+26/09/2018 08:33:29.792	Debg	---------------------------------------------
+26/09/2018 08:33:29.792	Debg	--------------- Check focal -----------------
+26/09/2018 08:33:29.792	Debg	---------------------------------------------
+26/09/2018 08:33:29.792	Info	Comprobando el foco...
+26/09/2018 08:33:29.792	Info	Intento 0
+26/09/2018 08:33:30.105	Info	DX: 37.144555 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:33:30.105	Info	Moviendo el foco...
+26/09/2018 08:33:30.480	Info	Intento 1
+26/09/2018 08:33:39.074	Info	DX: 41.41196 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:33:39.074	Info	Moviendo el foco...
+26/09/2018 08:33:39.465	Info	Intento 2
+26/09/2018 08:33:48.044	Info	DX: 39.01096 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:33:48.044	Info	Moviendo el foco...
+26/09/2018 08:33:48.419	Info	Intento 3
+26/09/2018 08:33:57.686	Info	DX: 45.65462 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:33:57.686	Error	Imagenes no aptas para calcular el foco
+26/09/2018 08:33:57.686	Info	Intento 4
+26/09/2018 08:34:05.124	Info	DX: 30.77412 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:34:05.124	Info	Moviendo el foco...
+26/09/2018 08:34:05.671	Info	Intento 5
+26/09/2018 08:34:13.641	Info	DX: 34.41916 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:34:13.641	Info	Moviendo el foco...
+26/09/2018 08:34:14.016	Info	Intento 6
+26/09/2018 08:34:22.470	Info	DX: 40.473220000000005 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:34:22.470	Info	Moviendo el foco...
+26/09/2018 08:34:22.939	Info	Intento 7
+26/09/2018 08:34:30.346	Info	DX: 35.746359999999996 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:34:30.346	Info	Moviendo el foco...
+26/09/2018 08:34:30.721	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+26/09/2018 08:34:30.721	Info	*** Seleccion de estrella: 69.0859999657 ***
+26/09/2018 08:34:33.722	Info	*** TIEMPO TOTAL ITERACION: 72.0869998932 ***
+26/09/2018 08:34:33.722	Debg	---------------------------------------------
+26/09/2018 08:34:33.722	Debg	-------------------- Meteo ------------------
+26/09/2018 08:34:33.722	Debg	---------------------------------------------
+26/09/2018 08:34:35.566	Info	Wind speed: 19.4 km/h -- Humidity: 45.7 %
+26/09/2018 08:34:35.566	Debg	---------------------------------------------
+26/09/2018 08:34:35.566	Debg	---------------- Star Selection -------------
+26/09/2018 08:34:35.566	Debg	---------------------------------------------
+26/09/2018 08:34:35.566	Info	Seleccionando estella...
+26/09/2018 08:35:06.744	Info	Estella seleccionada --> Capella
+	airmass: 1.101006
+	ha hours: hms_tuple(h=1.0, m=27.0, s=47.706374766149935)
+	ra: 5.301011
+	dec: 46.013742
+26/09/2018 08:35:06.744	Info	*** Seleccion de estrella: 31.1779999733 ***
+26/09/2018 08:35:06.744	Debg	---------------------------------------------
+26/09/2018 08:35:06.744	Debg	-------------- Check spots ------------------
+26/09/2018 08:35:06.744	Debg	---------------------------------------------
+26/09/2018 08:35:06.744	Info	Centrando spots...
+26/09/2018 08:35:08.776	Info	Intento 0
+26/09/2018 08:35:13.886	Info	Los spots estan centrados
+26/09/2018 08:35:13.886	Info	*** Centrado de spots: 7.14199995995 ***
+26/09/2018 08:35:13.886	Debg	---------------------------------------------
+26/09/2018 08:35:13.886	Debg	--------------- Check focal -----------------
+26/09/2018 08:35:13.886	Debg	---------------------------------------------
+26/09/2018 08:35:13.886	Info	Comprobando el foco...
+26/09/2018 08:35:13.886	Info	Intento 0
+26/09/2018 08:35:22.230	Info	DX: 33.78812 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:35:22.230	Info	Moviendo el foco...
+26/09/2018 08:35:22.730	Info	Intento 1
+26/09/2018 08:35:30.278	Info	DX: nan (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:35:30.278	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+26/09/2018 08:35:30.278	Info	*** Seleccion de estrella: 54.7120001316 ***
+26/09/2018 08:35:33.279	Info	*** TIEMPO TOTAL ITERACION: 57.7130000591 ***
+26/09/2018 08:35:33.279	Debg	---------------------------------------------
+26/09/2018 08:35:33.279	Debg	-------------------- Meteo ------------------
+26/09/2018 08:35:33.279	Debg	---------------------------------------------
+26/09/2018 08:35:35.185	Info	Wind speed: 19.4 km/h -- Humidity: 45.7 %
+26/09/2018 08:35:35.185	Debg	---------------------------------------------
+26/09/2018 08:35:35.185	Debg	---------------- Star Selection -------------
+26/09/2018 08:35:35.185	Debg	---------------------------------------------
+26/09/2018 08:35:35.185	Info	Seleccionando estella...
+26/09/2018 08:36:43.975	Info	Estella seleccionada --> Pollux
+	airmass: 1.023296
+	ha hours: hms_tuple(h=-0.0, m=-55.0, s=-34.544795517019224)
+	ra: 7.774100
+	dec: 27.979110
+26/09/2018 08:36:43.975	Info	*** Seleccion de estrella: 68.7899999619 ***
+26/09/2018 08:36:43.975	Debg	---------------------------------------------
+26/09/2018 08:36:43.975	Debg	-------------- Check spots ------------------
+26/09/2018 08:36:43.975	Debg	---------------------------------------------
+26/09/2018 08:36:43.975	Info	Centrando spots...
+26/09/2018 08:36:46.006	Info	Intento 0
+26/09/2018 08:36:49.350	Info	Ventana de spots fuera de rango (cx: 608 - cy: 432 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 08:36:49.350	Info	Moviendo telescopio...
+26/09/2018 08:36:50.397	Info	Intento 1
+26/09/2018 08:36:52.288	Info	DX fuera de rango (dx: 320.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:36:52.288	Info	Moviendo telescopio...
+26/09/2018 08:36:53.757	Info	Intento 2
+26/09/2018 08:36:55.617	Info	DX fuera de rango (dx: 177.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:36:55.632	Info	Moviendo telescopio...
+26/09/2018 08:36:56.664	Info	Intento 3
+26/09/2018 08:36:58.539	Info	DX fuera de rango (dx: 61.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:36:58.539	Info	Moviendo telescopio...
+26/09/2018 08:36:59.570	Info	Intento 4
+26/09/2018 08:37:01.414	Info	DX fuera de rango (dx: 102.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:01.414	Info	Moviendo telescopio...
+26/09/2018 08:37:02.946	Info	Intento 5
+26/09/2018 08:37:04.837	Info	Ventana de spots fuera de rango (cx: 549 - cy: 479 - left: 80 - right: 560 - down: 30 - up: 450)
+26/09/2018 08:37:04.837	Info	Moviendo telescopio...
+26/09/2018 08:37:06.321	Info	Intento 6
+26/09/2018 08:37:08.165	Info	DX fuera de rango (dx: 139.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:08.181	Info	Moviendo telescopio...
+26/09/2018 08:37:09.212	Info	Intento 7
+26/09/2018 08:37:11.072	Info	DX fuera de rango (dx: 131.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:11.072	Info	Moviendo telescopio...
+26/09/2018 08:37:12.119	Info	Intento 8
+26/09/2018 08:37:13.978	Info	DX fuera de rango (dx: 50.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:13.978	Info	Moviendo telescopio...
+26/09/2018 08:37:15.088	Info	Intento 9
+26/09/2018 08:37:16.963	Info	DX fuera de rango (dx: 94.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:16.963	Info	Moviendo telescopio...
+26/09/2018 08:37:18.463	Info	Intento 10
+26/09/2018 08:37:20.276	Info	DX fuera de rango (dx: 85.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:20.276	Info	Moviendo telescopio...
+26/09/2018 08:37:21.760	Info	Intento 11
+26/09/2018 08:37:23.636	Info	DX fuera de rango (dx: 178.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:23.636	Info	Moviendo telescopio...
+26/09/2018 08:37:25.089	Info	Intento 12
+26/09/2018 08:37:26.964	Info	DX fuera de rango (dx: 120.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:26.964	Info	Moviendo telescopio...
+26/09/2018 08:37:28.058	Info	Intento 13
+26/09/2018 08:37:29.918	Info	DX fuera de rango (dx: 140.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:29.918	Info	Moviendo telescopio...
+26/09/2018 08:37:30.996	Info	Intento 14
+26/09/2018 08:37:32.887	Info	DY fuera de rango (dy: 55.0 - min: -5.0 - max: 5.0)
+26/09/2018 08:37:32.887	Info	Moviendo telescopio...
+26/09/2018 08:37:33.965	Info	Intento 15
+26/09/2018 08:37:35.997	Info	DX fuera de rango (dx: 126.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:35.997	Info	Moviendo telescopio...
+26/09/2018 08:37:37.106	Info	Intento 16
+26/09/2018 08:37:39.216	Info	DX fuera de rango (dx: 60.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:39.216	Info	Moviendo telescopio...
+26/09/2018 08:37:40.653	Info	Intento 17
+26/09/2018 08:37:42.497	Info	DX fuera de rango (dx: 142.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:42.497	Info	Moviendo telescopio...
+26/09/2018 08:37:43.966	Info	Intento 18
+26/09/2018 08:37:45.857	Info	DX fuera de rango (dx: 193.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:45.857	Info	Moviendo telescopio...
+26/09/2018 08:37:47.310	Info	Intento 19
+26/09/2018 08:37:49.186	Info	DY fuera de rango (dy: 75.0 - min: -5.0 - max: 5.0)
+26/09/2018 08:37:49.186	Info	Moviendo telescopio...
+26/09/2018 08:37:50.717	Info	Intento 20
+26/09/2018 08:37:52.655	Info	DX fuera de rango (dx: 270.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:52.655	Info	Moviendo telescopio...
+26/09/2018 08:37:53.733	Info	Intento 21
+26/09/2018 08:37:55.655	Info	DX fuera de rango (dx: 123.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:55.655	Info	Moviendo telescopio...
+26/09/2018 08:37:56.702	Info	Intento 22
+26/09/2018 08:37:58.593	Info	DX fuera de rango (dx: 11.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:37:58.593	Info	Moviendo telescopio...
+26/09/2018 08:37:59.640	Info	Intento 23
+26/09/2018 08:38:01.484	Info	DX fuera de rango (dx: 93.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:38:01.484	Info	Moviendo telescopio...
+26/09/2018 08:38:02.578	Info	Intento 24
+26/09/2018 08:38:04.438	Info	DY fuera de rango (dy: 67.0 - min: -5.0 - max: 5.0)
+26/09/2018 08:38:04.438	Info	Moviendo telescopio...
+26/09/2018 08:38:05.469	Info	Intento 25
+26/09/2018 08:38:07.360	Info	DX fuera de rango (dx: 304.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:38:07.360	Info	Moviendo telescopio...
+26/09/2018 08:38:08.860	Info	Intento 26
+26/09/2018 08:38:10.813	Info	DX fuera de rango (dx: 133.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:38:10.813	Info	Moviendo telescopio...
+26/09/2018 08:38:12.345	Info	Intento 27
+26/09/2018 08:38:14.423	Info	DX fuera de rango (dx: 49.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:38:14.423	Info	Moviendo telescopio...
+26/09/2018 08:38:15.861	Info	Intento 28
+26/09/2018 08:38:17.736	Info	DX fuera de rango (dx: 67.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:38:17.736	Info	Moviendo telescopio...
+26/09/2018 08:38:19.205	Info	Intento 29
+26/09/2018 08:38:21.065	Info	DX fuera de rango (dx: 115.0 - min: 25.0 - max: 45.0)
+26/09/2018 08:38:21.065	Info	Moviendo telescopio...
+26/09/2018 08:38:24.753	Error (centrando los spots)	No se han podido centrar los spots
+26/09/2018 08:38:24.753	Info	*** Seleccion de estrella: 169.568000078 ***
+26/09/2018 08:38:27.753	Info	*** TIEMPO TOTAL ITERACION: 172.568000078 ***
+26/09/2018 08:38:27.753	Debg	---------------------------------------------
+26/09/2018 08:38:27.753	Debg	-------------------- Meteo ------------------
+26/09/2018 08:38:27.753	Debg	---------------------------------------------
+26/09/2018 08:38:29.675	Info	Wind speed: 17.8 km/h -- Humidity: 45.3 %
+26/09/2018 08:38:29.675	Debg	---------------------------------------------
+26/09/2018 08:38:29.675	Debg	---------------- Star Selection -------------
+26/09/2018 08:38:29.675	Debg	---------------------------------------------
+26/09/2018 08:38:29.675	Info	Seleccionando estella...
+26/09/2018 08:39:38.418	Info	Estella seleccionada --> Capella
+	airmass: 1.107267
+	ha hours: hms_tuple(h=1.0, m=32.0, s=48.57777371678111)
+	ra: 5.301011
+	dec: 46.013742
+26/09/2018 08:39:38.418	Info	*** Seleccion de estrella: 68.7430000305 ***
+26/09/2018 08:39:38.433	Debg	---------------------------------------------
+26/09/2018 08:39:38.433	Debg	-------------- Check spots ------------------
+26/09/2018 08:39:38.433	Debg	---------------------------------------------
+26/09/2018 08:39:38.433	Info	Centrando spots...
+26/09/2018 08:39:40.449	Info	Intento 0
+26/09/2018 08:39:45.184	Info	Los spots estan centrados
+26/09/2018 08:39:45.184	Info	*** Centrado de spots: 6.75099992752 ***
+26/09/2018 08:39:45.184	Debg	---------------------------------------------
+26/09/2018 08:39:45.184	Debg	--------------- Check focal -----------------
+26/09/2018 08:39:45.184	Debg	---------------------------------------------
+26/09/2018 08:39:45.184	Info	Comprobando el foco...
+26/09/2018 08:39:45.200	Info	Intento 0
+26/09/2018 08:39:53.545	Info	DX: 39.30514 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:39:53.545	Info	Moviendo el foco...
+26/09/2018 08:39:54.092	Info	Intento 1
+26/09/2018 08:40:02.983	Info	DX: 33.31788 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:40:02.983	Info	Moviendo el foco...
+26/09/2018 08:40:03.530	Info	Intento 2
+26/09/2018 08:40:11.515	Info	DX: 33.229940000000006 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:40:11.515	Info	Moviendo el foco...
+26/09/2018 08:40:11.891	Info	Intento 3
+26/09/2018 08:40:19.923	Info	DX: 37.012719999999995 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:40:19.923	Info	Moviendo el foco...
+26/09/2018 08:40:20.392	Info	Intento 4
+26/09/2018 08:40:28.799	Info	DX: 30.94966 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:40:28.799	Info	Moviendo el foco...
+26/09/2018 08:40:29.361	Info	Intento 5
+26/09/2018 08:40:37.128	Info	DX: 38.80292 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:40:37.128	Info	Moviendo el foco...
+26/09/2018 08:40:37.675	Info	Intento 6
+26/09/2018 08:40:43.863	Info	DX: nan (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:40:43.863	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+26/09/2018 08:40:43.863	Info	*** Seleccion de estrella: 134.187999964 ***
+26/09/2018 08:40:43.863	Error (manage auto select error)	It's not posible to select a star. Next trying on 60 seconds.
+26/09/2018 08:40:43.863	Info	Llevando la montura al home...
+26/09/2018 08:41:16.586	Info	Montura en el home
+26/09/2018 08:42:16.593	Info	*** TIEMPO TOTAL ITERACION: 226.917999983 ***
+26/09/2018 08:42:16.593	Debg	---------------------------------------------
+26/09/2018 08:42:16.593	Debg	-------------------- Meteo ------------------
+26/09/2018 08:42:16.609	Debg	---------------------------------------------
+26/09/2018 08:42:18.203	Info	Wind speed: 18.9 km/h -- Humidity: 45.1 %
+26/09/2018 08:42:18.203	Debg	---------------------------------------------
+26/09/2018 08:42:18.203	Debg	---------------- Star Selection -------------
+26/09/2018 08:42:18.203	Debg	---------------------------------------------
+26/09/2018 08:42:18.203	Info	Seleccionando estella...
+26/09/2018 08:42:54.129	Info	Estella seleccionada --> Menkalinan
+	airmass: 1.063561
+	ha hours: hms_tuple(h=0.0, m=54.0, s=59.9209908950084)
+	ra: 6.014757
+	dec: 44.944073
+26/09/2018 08:42:54.129	Info	*** Seleccion de estrella: 35.9259998798 ***
+26/09/2018 08:42:54.129	Debg	---------------------------------------------
+26/09/2018 08:42:54.129	Debg	-------------- Check spots ------------------
+26/09/2018 08:42:54.129	Debg	---------------------------------------------
+26/09/2018 08:42:54.129	Info	Centrando spots...
+26/09/2018 08:42:56.161	Info	Intento 0
+26/09/2018 08:43:01.708	Info	Los spots estan centrados
+26/09/2018 08:43:01.708	Info	*** Centrado de spots: 7.57899999619 ***
+26/09/2018 08:43:01.708	Debg	---------------------------------------------
+26/09/2018 08:43:01.708	Debg	--------------- Check focal -----------------
+26/09/2018 08:43:01.708	Debg	---------------------------------------------
+26/09/2018 08:43:01.724	Info	Comprobando el foco...
+26/09/2018 08:43:01.724	Info	Intento 0
+26/09/2018 08:43:10.444	Info	DX: 47.33614 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:43:10.444	Error	Imagenes no aptas para calcular el foco
+26/09/2018 08:43:10.459	Info	Intento 1
+26/09/2018 08:43:16.929	Info	DX: 36.24534 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:43:16.929	Info	Moviendo el foco...
+26/09/2018 08:43:17.319	Info	Intento 2
+26/09/2018 08:43:23.726	Info	DX: 59.22318 (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:43:23.726	Error	Imagenes no aptas para calcular el foco
+26/09/2018 08:43:23.742	Info	Intento 3
+26/09/2018 08:43:30.243	Info	DX: nan (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:43:30.243	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+26/09/2018 08:43:30.243	Info	*** Seleccion de estrella: 72.0399999619 ***
+26/09/2018 08:43:33.243	Info	*** TIEMPO TOTAL ITERACION: 75.0399999619 ***
+26/09/2018 08:43:33.243	Debg	---------------------------------------------
+26/09/2018 08:43:33.243	Debg	-------------------- Meteo ------------------
+26/09/2018 08:43:33.243	Debg	---------------------------------------------
+26/09/2018 08:43:34.900	Info	Wind speed: 18.9 km/h -- Humidity: 45.1 %
+26/09/2018 08:43:34.900	Debg	---------------------------------------------
+26/09/2018 08:43:34.900	Debg	---------------- Star Selection -------------
+26/09/2018 08:43:34.900	Debg	---------------------------------------------
+26/09/2018 08:43:34.900	Info	Seleccionando estella...
+26/09/2018 08:43:47.573	Info	Indicando fin del proceso...
+26/09/2018 08:44:03.294	Info	Estella seleccionada --> Capella
+	airmass: 1.113933
+	ha hours: hms_tuple(h=1.0, m=37.0, s=49.40903107743068)
+	ra: 5.301011
+	dec: 46.013742
+26/09/2018 08:44:03.294	Info	*** Seleccion de estrella: 28.393999815 ***
+26/09/2018 08:44:03.294	Debg	---------------------------------------------
+26/09/2018 08:44:03.294	Debg	-------------- Check spots ------------------
+26/09/2018 08:44:03.294	Debg	---------------------------------------------
+26/09/2018 08:44:03.294	Info	Centrando spots...
+26/09/2018 08:44:05.325	Info	Intento 0
+26/09/2018 08:44:10.779	Info	Los spots estan centrados
+26/09/2018 08:44:10.779	Info	*** Centrado de spots: 7.48500013351 ***
+26/09/2018 08:44:10.779	Debg	---------------------------------------------
+26/09/2018 08:44:10.779	Debg	--------------- Check focal -----------------
+26/09/2018 08:44:10.779	Debg	---------------------------------------------
+26/09/2018 08:44:10.779	Info	Comprobando el foco...
+26/09/2018 08:44:10.779	Info	Intento 0
+26/09/2018 08:44:17.780	Info	DX: nan (MIN: 34.5 - MAX: 35.5)
+26/09/2018 08:44:17.780	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+26/09/2018 08:44:17.780	Info	*** Seleccion de estrella: 42.879999876 ***
+26/09/2018 08:44:20.780	Info	*** TIEMPO TOTAL ITERACION: 45.879999876 ***
+26/09/2018 08:44:20.780	Debg	---------------------------------------------
+26/09/2018 08:44:20.780	Debg	-------------------- Meteo ------------------
+26/09/2018 08:44:20.780	Debg	---------------------------------------------
+26/09/2018 08:44:22.655	Info	Wind speed: 18.9 km/h -- Humidity: 45.1 %
+26/09/2018 08:44:22.671	Info	Parando la observacion...
+26/09/2018 08:44:22.671	Info	 --- OBSERVACION TERMINADA ---
+26/09/2018 08:44:48.096	Debg	---------------------------------------------
+26/09/2018 08:44:48.096	Debg	------------------ Switch Off ---------------
+26/09/2018 08:44:48.096	Debg	---------------------------------------------
+26/09/2018 08:44:48.096	Info	Llevando la montura al home...
+26/09/2018 08:45:19.847	Info	Montura en el home
+26/09/2018 08:45:19.847	Info	Apagando la montura...
+26/09/2018 08:45:20.550	Info	Montura apagada
+26/09/2018 08:45:30.552	Info	Apagando el foco...
+26/09/2018 08:45:30.598	Info	Foco apagado
+26/09/2018 08:45:30.598	Info	Cerrando cupula...
+26/09/2018 08:46:13.932	Info	Cupula cerrada

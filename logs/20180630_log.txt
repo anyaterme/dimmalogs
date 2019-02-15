@@ -1,0 +1,190 @@
+
+date: 30/06/2018 01:44:27.323	code: Info	test: Inicio del proceso
+date: 30/06/2018 01:44:27.323	code: Info	test: Encendiendo el foco...
+date: 30/06/2018 01:44:27.386	code: Info	test: Foco encendida
+date: 30/06/2018 01:44:27.401	code: Info	test: Seleccionando estella  ...
+date: 30/06/2018 01:44:46.325	code: Error (seleccionando estrella)	test: No se ha encontrado la estrella
+date: 30/06/2018 01:48:42.174	code: Info	test: Inicio del proceso
+date: 30/06/2018 01:48:42.190	code: Info	test: Encendiendo el foco...
+date: 30/06/2018 01:48:42.237	code: Info	test: Foco encendida
+date: 30/06/2018 01:48:42.237	code: Info	test: Centrando spots...
+date: 30/06/2018 01:48:44.268	code: Info	test: Intento 1
+date: 30/06/2018 01:48:54.175	code: Info	test: Setting position to az:-0.026767, alt:-0.017202 from star
+date: 30/06/2018 01:48:56.144	code: Info	test: Intento 2
+date: 30/06/2018 01:49:19.428	code: Info	test: Setting position to az:-0.022281, alt:-0.048789 from star
+date: 30/06/2018 01:49:20.990	code: Info	test: Intento 3
+date: 30/06/2018 01:49:34.413	code: Info	test: Setting position to az:0.010738, alt:-0.074687 from star
+date: 30/06/2018 01:49:36.742	code: Info	test: Intento 4
+date: 30/06/2018 01:49:46.664	code: Info	test: Setting position to az:0.063700, alt:-0.073514 from star
+date: 30/06/2018 01:49:49.008	code: Info	test: Intento 5
+date: 30/06/2018 01:50:03.228	code: Info	test: Setting position to az:0.114267, alt:-0.033552 from star
+date: 30/06/2018 01:50:05.963	code: Info	test: Intento 6
+date: 30/06/2018 01:50:17.589	code: Info	test: Setting position to az:0.135201, alt:0.039699 from star
+date: 30/06/2018 01:50:19.589	code: Info	test: Intento 7
+date: 30/06/2018 01:50:30.918	code: Info	test: Setting position to az:0.106564, alt:0.122981 from star
+date: 30/06/2018 01:50:33.075	code: Info	test: Intento 8
+date: 30/06/2018 01:50:48.982	code: Info	test: Setting position to az:0.026264, alt:0.182667 from star
+date: 30/06/2018 01:50:51.764	code: Info	test: Intento 9
+date: 30/06/2018 01:51:06.984	code: Info	test: Setting position to az:-0.085727, alt:0.187715 from star
+date: 30/06/2018 01:51:10.312	code: Info	test: Intento 10
+date: 30/06/2018 01:51:22.310	code: Info	test: Setting position to az:-0.191959, alt:0.123364 from star
+date: 30/06/2018 01:51:44.702	code: Info	test: Inicio del proceso
+date: 30/06/2018 01:51:44.702	code: Info	test: Encendiendo el foco...
+date: 30/06/2018 01:51:44.765	code: Info	test: Foco encendida
+date: 30/06/2018 01:51:44.765	code: Info	test: Centrando spots...
+date: 30/06/2018 01:51:46.796	code: Info	test: Intento 1
+date: 30/06/2018 01:54:45.719	code: Info	test: Inicio del proceso
+date: 30/06/2018 01:54:45.734	code: Info	test: Encendiendo el foco...
+date: 30/06/2018 01:54:45.781	code: Info	test: Foco encendida
+date: 30/06/2018 01:54:45.797	code: Info	test: Centrando spots...
+date: 30/06/2018 01:54:47.813	code: Info	test: Intento 1
+date: 30/06/2018 01:54:56.048	code: Info	test: Setting position to az:-0.026767, alt:-0.017202 from star
+date: 30/06/2018 01:54:57.032	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 01:54:57.032	code: Info	test: Intento 2
+date: 30/06/2018 01:55:05.970	code: Info	test: Setting position to az:-0.022281, alt:-0.048789 from star
+date: 30/06/2018 01:55:15.549	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 01:55:15.549	code: Info	test: Intento 3
+date: 30/06/2018 01:55:24.972	code: Info	test: Setting position to az:0.010738, alt:-0.074687 from star
+date: 30/06/2018 01:55:26.097	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 01:55:26.097	code: Info	test: Intento 4
+date: 30/06/2018 01:55:33.926	code: Info	test: Setting position to az:0.063700, alt:-0.073514 from star
+date: 30/06/2018 01:55:34.848	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 01:55:34.848	code: Info	test: Intento 5
+date: 30/06/2018 01:55:42.692	code: Info	test: Setting position to az:0.114267, alt:-0.033552 from star
+date: 30/06/2018 01:55:43.708	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 01:55:43.708	code: Info	test: Intento 6
+date: 30/06/2018 01:55:54.084	code: Info	test: Setting position to az:0.135201, alt:0.039699 from star
+date: 30/06/2018 01:55:55.069	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 01:55:55.069	code: Info	test: Intento 7
+date: 30/06/2018 01:56:05.273	code: Info	test: Setting position to az:0.106564, alt:0.122981 from star
+date: 30/06/2018 01:56:06.241	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 01:56:06.241	code: Info	test: Intento 8
+date: 30/06/2018 01:56:14.992	code: Info	test: Setting position to az:0.026264, alt:0.182667 from star
+date: 30/06/2018 01:56:15.992	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 01:56:15.992	code: Info	test: Intento 9
+date: 30/06/2018 01:56:24.040	code: Info	test: Setting position to az:-0.085727, alt:0.187715 from star
+date: 30/06/2018 01:56:25.040	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 01:56:25.040	code: Info	test: Intento 10
+date: 30/06/2018 01:56:33.103	code: Info	test: Setting position to az:-0.191959, alt:0.123364 from star
+date: 30/06/2018 01:56:34.103	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 01:56:34.103	code: Info	test: Intento 11
+date: 30/06/2018 01:56:47.011	code: Info	test: Setting position to az:-0.250000, alt:0.000000 from star
+date: 30/06/2018 01:56:49.855	code: Info	test: Intento 12
+date: 30/06/2018 01:56:58.809	code: Info	test: Setting position to az:-0.010000, alt:-0.000000 from star
+date: 30/06/2018 01:57:02.590	code: Info	test: Los spots estÃƒÂ¡n centrados
+date: 30/06/2018 02:14:08.635	code: Info	test: Inicio del proceso
+date: 30/06/2018 02:14:08.650	code: Info	test: Encendiendo el foco...
+date: 30/06/2018 02:14:08.729	code: Info	test: Foco encendida
+date: 30/06/2018 02:14:08.729	code: Info	test: Centrando spots...
+date: 30/06/2018 02:14:10.792	code: Info	test: Intento 1
+date: 30/06/2018 02:14:12.933	code: Error (center spots)	test: global name 'client' is not defined
+date: 30/06/2018 02:14:12.933	code: Info	test: Intento 2
+date: 30/06/2018 02:14:15.058	code: Error (center spots)	test: global name 'client' is not defined
+date: 30/06/2018 02:14:15.058	code: Info	test: Intento 3
+date: 30/06/2018 02:14:17.152	code: Error (center spots)	test: global name 'client' is not defined
+date: 30/06/2018 02:14:17.152	code: Info	test: Intento 4
+date: 30/06/2018 02:14:19.246	code: Error (center spots)	test: global name 'client' is not defined
+date: 30/06/2018 02:14:19.246	code: Info	test: Intento 5
+date: 30/06/2018 02:14:21.340	code: Error (center spots)	test: global name 'client' is not defined
+date: 30/06/2018 02:14:21.340	code: Info	test: Intento 6
+date: 30/06/2018 02:14:23.434	code: Error (center spots)	test: global name 'client' is not defined
+date: 30/06/2018 02:14:23.434	code: Info	test: Intento 7
+date: 30/06/2018 02:14:25.528	code: Error (center spots)	test: global name 'client' is not defined
+date: 30/06/2018 02:14:25.544	code: Info	test: Intento 8
+date: 30/06/2018 02:14:27.622	code: Error (center spots)	test: global name 'client' is not defined
+date: 30/06/2018 02:14:27.622	code: Info	test: Intento 9
+date: 30/06/2018 02:14:29.732	code: Error (center spots)	test: global name 'client' is not defined
+date: 30/06/2018 02:14:29.732	code: Info	test: Intento 10
+date: 30/06/2018 02:14:31.826	code: Error (center spots)	test: global name 'client' is not defined
+date: 30/06/2018 02:14:31.826	code: Info	test: Intento 11
+date: 30/06/2018 02:14:33.936	code: Error (center spots)	test: global name 'client' is not defined
+date: 30/06/2018 02:14:33.936	code: Info	test: Intento 12
+date: 30/06/2018 02:14:36.045	code: Error (center spots)	test: global name 'client' is not defined
+date: 30/06/2018 02:14:38.264	code: Info	test: Los spots estÃƒÂ¡n centrados
+date: 30/06/2018 02:18:14.043	code: Info	test: Inicio del proceso
+date: 30/06/2018 02:18:14.043	code: Info	test: Encendiendo el foco...
+date: 30/06/2018 02:18:14.121	code: Info	test: Foco encendida
+date: 30/06/2018 02:18:14.121	code: Info	test: Centrando spots...
+date: 30/06/2018 02:18:16.153	code: Info	test: Intento 1
+date: 30/06/2018 02:18:27.092	code: Error (center spots)	test: global name 'limit_lift' is not defined
+date: 30/06/2018 02:18:27.092	code: Info	test: Intento 2
+date: 30/06/2018 02:18:30.827	code: Error (center spots)	test: global name 'limit_lift' is not defined
+date: 30/06/2018 02:18:30.827	code: Info	test: Intento 3
+date: 30/06/2018 02:18:35.343	code: Error (center spots)	test: global name 'limit_lift' is not defined
+date: 30/06/2018 02:18:35.359	code: Info	test: Intento 4
+date: 30/06/2018 02:19:09.988	code: Info	test: Inicio del proceso
+date: 30/06/2018 02:19:10.520	code: Info	test: Encendiendo el foco...
+date: 30/06/2018 02:19:10.582	code: Info	test: Foco encendida
+date: 30/06/2018 02:19:10.598	code: Info	test: Centrando spots...
+date: 30/06/2018 02:19:12.614	code: Info	test: Intento 1
+date: 30/06/2018 02:19:18.786	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 30/06/2018 02:19:20.896	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 30/06/2018 02:19:20.896	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 30/06/2018 02:19:20.896	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 30/06/2018 02:19:20.896	code: Error (get window)	test: could not broadcast input array from shape (0) into shape (20)
+date: 30/06/2018 02:19:20.911	code: Info	test: Setting position to az:-0.026767, alt:-0.017202 from star
+date: 30/06/2018 02:19:22.709	code: Info	test: Intento 2
+date: 30/06/2018 02:19:37.960	code: Info	test: Setting position to az:-0.022281, alt:-0.048789 from star
+date: 30/06/2018 02:19:39.335	code: Info	test: Intento 3
+date: 30/06/2018 02:19:44.539	code: Info	test: Setting position to az:0.010738, alt:-0.074687 from star
+date: 30/06/2018 02:19:46.508	code: Info	test: Intento 4
+date: 30/06/2018 02:19:54.962	code: Info	test: Setting position to az:0.063700, alt:-0.073514 from star
+date: 30/06/2018 02:19:57.134	code: Info	test: Intento 5
+date: 30/06/2018 02:20:05.416	code: Info	test: Setting position to az:0.114267, alt:-0.033552 from star
+date: 30/06/2018 02:20:07.557	code: Info	test: Intento 6
+date: 30/06/2018 02:20:11.839	code: Info	test: Setting position to az:0.135201, alt:0.039699 from star
+date: 30/06/2018 02:20:40.905	code: Info	test: Inicio del proceso
+date: 30/06/2018 02:20:40.905	code: Info	test: Encendiendo el foco...
+date: 30/06/2018 02:20:40.998	code: Info	test: Foco encendida
+date: 30/06/2018 02:20:41.014	code: Info	test: Centrando spots...
+date: 30/06/2018 02:20:43.077	code: Info	test: Intento 1
+date: 30/06/2018 02:20:49.749	code: Info	test: Setting position to az:-0.026767, alt:-0.017202 from star
+date: 30/06/2018 02:20:50.687	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 02:20:50.687	code: Info	test: Intento 2
+date: 30/06/2018 02:20:56.672	code: Info	test: Setting position to az:-0.022281, alt:-0.048789 from star
+date: 30/06/2018 02:20:57.734	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 02:20:57.734	code: Info	test: Intento 3
+date: 30/06/2018 02:21:07.236	code: Info	test: Setting position to az:0.010738, alt:-0.074687 from star
+date: 30/06/2018 02:21:08.189	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 02:21:08.189	code: Info	test: Intento 4
+date: 30/06/2018 02:21:11.986	code: Info	test: Setting position to az:0.063700, alt:-0.073514 from star
+date: 30/06/2018 02:21:12.924	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 02:21:12.924	code: Info	test: Intento 5
+date: 30/06/2018 02:21:17.002	code: Info	test: Setting position to az:0.114267, alt:-0.033552 from star
+date: 30/06/2018 02:21:18.043	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 02:21:18.043	code: Info	test: Intento 6
+date: 30/06/2018 02:21:20.778	code: Info	test: Setting position to az:0.135201, alt:0.039699 from star
+date: 30/06/2018 02:21:21.763	code: Error (send command)	test: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+date: 30/06/2018 02:21:21.763	code: Info	test: Intento 7
+date: 30/06/2018 02:26:51.828	code: Info	test: Inicio del proceso
+date: 30/06/2018 02:26:51.828	code: Info	test: Encendiendo el foco...
+date: 30/06/2018 02:26:51.890	code: Info	test: Foco encendida
+date: 30/06/2018 02:26:51.906	code: Info	test: Centrando spots...
+date: 30/06/2018 02:26:53.969	code: Info	test: Intento 1
+date: 30/06/2018 02:27:03.032	code: Info	test: Setting position to az:-0.026767, alt:-0.017202 from star
+date: 30/06/2018 02:27:04.970	code: Info	test: Intento 2
+date: 30/06/2018 02:27:12.783	code: Info	test: Setting position to az:-0.022281, alt:-0.048789 from star
+date: 30/06/2018 02:27:14.127	code: Info	test: Intento 3
+date: 30/06/2018 02:27:40.317	code: Info	test: Setting position to az:0.010738, alt:-0.074687 from star
+date: 30/06/2018 02:27:42.380	code: Info	test: Intento 4
+date: 30/06/2018 02:28:18.383	code: Error (center spots)	test: list index out of range
+date: 30/06/2018 02:28:18.383	code: Info	test: Intento 5
+date: 30/06/2018 02:29:53.345	code: Info	test: Inicio del proceso
+date: 30/06/2018 02:29:53.345	code: Info	test: Encendiendo el foco...
+date: 30/06/2018 02:29:53.392	code: Info	test: Foco encendida
+date: 30/06/2018 02:29:53.407	code: Info	test: Centrando spots...
+date: 30/06/2018 02:29:55.455	code: Info	test: Intento 1
+date: 30/06/2018 02:30:05.143	code: Info	test: Setting position to az:-0.026767, alt:-0.017202 from star
+date: 30/06/2018 02:30:07.018	code: Info	test: Intento 2
+date: 30/06/2018 02:30:17.238	code: Info	test: Setting position to az:-0.022281, alt:-0.048789 from star
+date: 30/06/2018 02:30:18.566	code: Info	test: Intento 3
+date: 30/06/2018 02:30:26.629	code: Info	test: Setting position to az:0.010738, alt:-0.074687 from star
+date: 30/06/2018 02:30:28.598	code: Info	test: Intento 4
+date: 30/06/2018 02:30:32.364	code: Info	test: Setting position to az:0.063700, alt:-0.073514 from star
+date: 30/06/2018 02:30:34.708	code: Info	test: Intento 5
+date: 30/06/2018 02:31:08.461	code: Info	test: Inicio del proceso
+date: 30/06/2018 02:31:08.477	code: Info	test: Encendiendo el foco...
+date: 30/06/2018 02:31:08.586	code: Info	test: Foco encendida
+date: 30/06/2018 02:31:08.586	code: Info	test: Centrando spots...
+date: 30/06/2018 02:31:10.633	code: Info	test: Intento 1
+date: 30/06/2018 02:31:20.693	code: Info	test: Los spots estÃƒÂ¡n centrados
