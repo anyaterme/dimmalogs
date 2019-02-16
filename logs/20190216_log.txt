@@ -277,3 +277,18 @@ CODE:OT:VIVALDI	Date:2019-02-16 20:09:48.403000	Hum:60.6000	WS:11.4000	DewPoint:
 16/02/2019 20:13:44.530	Debg	---------------- Star Selection -------------
 16/02/2019 20:13:44.546	Debg	---------------------------------------------
 16/02/2019 20:13:44.546	Info	Seleccionando estella...
+16/02/2019 20:16:57.594	Info	Estella seleccionada --> Menkalinan
+	airmass: 1.074715
+	ha hours: hms_tuple(h=-1.0, m=-8.0, s=-27.648574467577873)
+	ra: 6.015516
+	dec: 44.948077
+16/02/2019 20:16:57.594	Info	*** Tiempo seleccion de estrella: 193.05 ***
+16/02/2019 20:16:57.594	Debg	---------------------------------------------
+16/02/2019 20:16:57.594	Debg	-------------- Check spots ------------------
+16/02/2019 20:16:57.594	Debg	---------------------------------------------
+16/02/2019 20:16:57.594	Info	Centrando spots...
+16/02/2019 20:17:02.395	ERROR	Error in open_tcp:  [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+16/02/2019 20:17:04.592	ERROR	Error in open_tcp:  [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+16/02/2019 20:17:05.808	Info	Intento 0
+16/02/2019 20:17:08.162	Info	DX fuera de rango (dx: 101.0 - min: 30.0 - max: 52.0)
+16/02/2019 20:17:08.162	Info	Moviendo telescopio...
