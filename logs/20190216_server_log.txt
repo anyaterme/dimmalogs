@@ -2889,3 +2889,6 @@ get_move_matrix @ cell 34, ra: 0.0, dec: -0.008634
 2019-02-17 18:53:59.391039
 [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
 2019-02-17 18:53:59.406972
+16/02/2019 20:08:31.754	Info	Agent Server started in port 3310....
+16/02/2019 20:08:38.160	Info	Connected by ('127.0.0.1', 4633) --> command: ping
+16/02/2019 20:08:39.204	Info	Connected by ('127.0.0.1', 4634) --> command: start_obs
