@@ -605,3 +605,21 @@ CODE:OT:VIVALDI	Date:2019-02-16 20:26:59.304000	Hum:54.6000	WS:11.7000	DewPoint:
 16/02/2019 20:27:25.769	Debg	---------------- Star Selection -------------
 16/02/2019 20:27:25.832	Debg	---------------------------------------------
 16/02/2019 20:27:25.832	Info	Seleccionando estella...
+16/02/2019 20:30:51.188	Info	Estella seleccionada --> Menkalinan
+	airmass: 1.062444
+	ha hours: hms_tuple(h=-0.0, m=-53.0, s=-25.033883170863476)
+	ra: 6.015516
+	dec: 44.948077
+16/02/2019 20:30:51.188	Info	*** Tiempo seleccion de estrella: 205.36 ***
+16/02/2019 20:30:51.188	Debg	---------------------------------------------
+16/02/2019 20:30:51.188	Debg	-------------- Check spots ------------------
+16/02/2019 20:30:51.188	Debg	---------------------------------------------
+16/02/2019 20:30:51.188	Info	Centrando spots...
+16/02/2019 20:30:55.084	Info	Intento 0
+16/02/2019 20:30:59.339	Info	DX fuera de rango (dx: 302.0 - min: 30.0 - max: 52.0)
+16/02/2019 20:30:59.339	Info	Moviendo telescopio...
+16/02/2019 20:31:03.080	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+16/02/2019 20:31:03.080	Info	Intento 1
+16/02/2019 20:31:05.667	Info	Moviendo telescopio...
+16/02/2019 20:31:09.408	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+16/02/2019 20:31:09.408	Info	Intento 2
