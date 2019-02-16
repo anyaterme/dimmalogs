@@ -3138,3 +3138,23 @@ get_move_matrix @ cell 31, ra: 0.0, dec: -0.008634
 get_move_matrix @ cell 32, ra: 0.0, dec: -0.008634
 get_move_matrix @ cell 33, ra: 0.0, dec: -0.008634
 get_move_matrix @ cell 34, ra: 0.0, dec: -0.008634
+--END--
+Received:  
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Closing server....
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Closing server....
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Server is closing...
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Server is closing...
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+16/02/2019 20:41:24.238	Info	Connected by ('127.0.0.1', 4222) --> command: ping
+16/02/2019 20:41:24.238	Info	Connected by ('127.0.0.1', 4242) --> command: status
+16/02/2019 20:41:24.238	Info	Connected by ('127.0.0.1', 4670) --> command: ping
+16/02/2019 20:41:24.238	Info	Connected by ('127.0.0.1', 4680) --> command: status
+16/02/2019 20:41:24.238	Info	Connected by ('127.0.0.1', 4904) --> command: ping
+16/02/2019 20:41:26.529	Info	Connected by ('127.0.0.1', 1973) --> command: status
+16/02/2019 20:41:26.529	Info	Connected by ('127.0.0.1', 1974) --> command: shutdown
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
