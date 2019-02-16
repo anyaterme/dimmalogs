@@ -407,3 +407,39 @@ CODE:OT:VIVALDI	Date:2019-02-16 20:09:48.403000	Hum:60.6000	WS:11.4000	DewPoint:
 16/02/2019 20:20:08.676	Info	Intento 29
 16/02/2019 20:20:11.278	Info	DX fuera de rango (dx: 232.0 - min: 30.0 - max: 52.0)
 16/02/2019 20:20:11.278	Info	Moviendo telescopio...
+16/02/2019 20:20:14.224	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+16/02/2019 20:20:14.224	Info	Intento 30
+16/02/2019 20:20:16.344	Info	DX fuera de rango (dx: 2.0 - min: 30.0 - max: 52.0)
+16/02/2019 20:20:16.344	Info	Moviendo telescopio...
+16/02/2019 20:20:19.742	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+16/02/2019 20:20:19.742	Info	Intento 31
+16/02/2019 20:20:22.080	Info	DX fuera de rango (dx: 159.0 - min: 30.0 - max: 52.0)
+16/02/2019 20:20:22.126	Info	Moviendo telescopio...
+16/02/2019 20:20:25.244	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+16/02/2019 20:20:25.244	Info	Intento 32
+16/02/2019 20:20:27.566	Info	DX fuera de rango (dx: 210.0 - min: 30.0 - max: 52.0)
+16/02/2019 20:20:27.566	Info	Moviendo telescopio...
+16/02/2019 20:20:30.808	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+16/02/2019 20:20:30.808	Info	Intento 33
+16/02/2019 20:20:33.816	Info	DX fuera de rango (dx: 228.0 - min: 30.0 - max: 52.0)
+16/02/2019 20:20:33.816	Info	Moviendo telescopio...
+16/02/2019 20:20:37.291	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+16/02/2019 20:20:37.291	Info	Intento 34
+16/02/2019 20:20:39.879	Info	DX fuera de rango (dx: 24.0 - min: 30.0 - max: 52.0)
+16/02/2019 20:20:39.879	Info	Moviendo telescopio...
+16/02/2019 20:20:43.089	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+16/02/2019 20:20:48.046	Error (centrando los spots)	No se han podido centrar los spots
+16/02/2019 20:20:48.046	Info	*** Tiempo seleccion de estrella: 423.52 ***
+16/02/2019 20:20:51.070	Info	*** TIEMPO TOTAL ITERACION: 426.54 ***
+16/02/2019 20:20:51.070	Debg	---------------------------------------------
+16/02/2019 20:20:51.070	Debg	-------------------- Meteo ------------------
+16/02/2019 20:20:51.070	Debg	---------------------------------------------
+16/02/2019 20:20:52.862	Info	
+CODE:OT:IAC	Date:2019-02-16 20:20:31.852000	Hum:68.0000	WS:9.0000	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-16 20:20:31.213000	Hum:0.0000	WS:15.4440	DewPoint:0.0000	Dust:0.0009
+CODE:OT:VIVALDI	Date:2019-02-16 20:20:32.694000	Hum:54.6000	WS:9.9000	DewPoint:0.0000	Dust:23.5000
+
+16/02/2019 20:20:52.862	Debg	---------------------------------------------
+16/02/2019 20:20:52.862	Debg	---------------- Star Selection -------------
+16/02/2019 20:20:52.877	Debg	---------------------------------------------
+16/02/2019 20:20:52.877	Info	Seleccionando estella...
