@@ -2874,3 +2874,11 @@ get_move_matrix @ cell 31, ra: 0.0, dec: -0.008634
 get_move_matrix @ cell 32, ra: 0.0, dec: -0.008634
 get_move_matrix @ cell 33, ra: 0.0, dec: -0.008634
 get_move_matrix @ cell 34, ra: 0.0, dec: -0.008634
+--END--
+16/02/2019 20:03:36.259	Info	Connected by ('127.0.0.1', 1637) --> command: ping
+16/02/2019 20:03:36.259	Info	Connected by ('127.0.0.1', 1831) --> command: status
+16/02/2019 20:03:36.259	Info	Connected by ('127.0.0.1', 2092) --> command: ping
+16/02/2019 20:03:36.259	Info	Connected by ('127.0.0.1', 2099) --> command: status
+16/02/2019 20:03:36.259	Info	Connected by ('127.0.0.1', 2524) --> command: ping
+16/02/2019 20:03:41.886	Info	Connected by ('127.0.0.1', 2537) --> command: status
+16/02/2019 20:03:41.901	Info	Connected by ('127.0.0.1', 2538) --> command: shutdown
