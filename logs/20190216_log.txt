@@ -743,3 +743,29 @@ CODE:OT:VIVALDI	Date:2019-02-16 20:26:59.304000	Hum:54.6000	WS:11.7000	DewPoint:
 16/02/2019 20:34:05.670	Info	Moviendo telescopio...
 16/02/2019 20:34:08.787	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
 16/02/2019 20:34:08.787	Info	Intento 32
+16/02/2019 20:34:11.390	Info	Ventana de spots fuera de rango (cx: 564 - cy: 76 - left: 80 - right: 560 - down: 30 - up: 450)
+16/02/2019 20:34:11.421	Info	Moviendo telescopio...
+16/02/2019 20:34:14.585	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+16/02/2019 20:34:14.585	Info	Intento 33
+16/02/2019 20:34:17.157	Info	DX fuera de rango (dx: 61.0 - min: 30.0 - max: 52.0)
+16/02/2019 20:34:17.157	Info	Moviendo telescopio...
+16/02/2019 20:34:20.320	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+16/02/2019 20:34:20.320	Info	Intento 34
+16/02/2019 20:34:22.954	Info	DX fuera de rango (dx: 246.0 - min: 30.0 - max: 52.0)
+16/02/2019 20:34:22.954	Info	Moviendo telescopio...
+16/02/2019 20:34:26.586	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+16/02/2019 20:34:30.857	Error (centrando los spots)	No se han podido centrar los spots
+16/02/2019 20:34:30.857	Info	*** Tiempo seleccion de estrella: 425.09 ***
+16/02/2019 20:34:33.849	Info	*** TIEMPO TOTAL ITERACION: 428.08 ***
+16/02/2019 20:34:33.865	Debg	---------------------------------------------
+16/02/2019 20:34:33.865	Debg	-------------------- Meteo ------------------
+16/02/2019 20:34:33.865	Debg	---------------------------------------------
+16/02/2019 20:34:36.577	Info	
+CODE:OT:IAC	Date:2019-02-16 20:34:30.171000	Hum:66.7000	WS:7.5600	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-16 20:34:29.797000	Hum:0.0000	WS:12.3120	DewPoint:0.0000	Dust:0.0008
+CODE:OT:VIVALDI	Date:2019-02-16 20:34:33.319000	Hum:49.1000	WS:11.3000	DewPoint:0.0000	Dust:23.5000
+
+16/02/2019 20:34:36.577	Debg	---------------------------------------------
+16/02/2019 20:34:36.577	Debg	---------------- Star Selection -------------
+16/02/2019 20:34:36.592	Debg	---------------------------------------------
+16/02/2019 20:34:36.592	Info	Seleccionando estella...
