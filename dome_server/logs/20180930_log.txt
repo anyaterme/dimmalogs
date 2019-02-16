@@ -1,0 +1,675 @@
+
+date: 01/10/2018 07:39:33.525	code: Error(get config): 	text: 'interval'
+date: 01/10/2018 07:39:33.838	code: Info	text: Dome Server started at port 3350....
+date: 01/10/2018 07:39:34.416	code: Info	text: Starting keepalive... (localhost:3330)
+date: 01/10/2018 07:39:36.447	code: Info	text: Connected by ('127.0.0.1', 1968) --> command: ping
+date: 01/10/2018 07:39:53.653	code: Info	text: Connected by ('127.0.0.1', 1974) --> command: ping
+date: 01/10/2018 07:40:10.280	code: Info	text: Connected by ('127.0.0.1', 1979) --> command: ping
+date: 01/10/2018 07:40:26.344	code: Info	text: Connected by ('127.0.0.1', 1986) --> command: ping
+date: 01/10/2018 07:40:35.970	code: Info	text: Connected by ('127.0.0.1', 1995) --> command: side_A_is_open
+date: 01/10/2018 07:40:38.002	code: Info	text: 	COM4 connected.
+date: 01/10/2018 07:40:38.002	code: Info	text: 	Status: 0CCNA
+date: 01/10/2018 07:40:38.002	code: Info	text: 	TimeOut: False
+date: 01/10/2018 07:40:38.002	code: Info	text: 	Safe mode: False
+date: 01/10/2018 07:40:38.002	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 07:40:38.002	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 07:40:38.002	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 07:40:38.002	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 07:40:41.002	code: Info	text: Connected by ('127.0.0.1', 1996) --> command: open_side_A
+date: 01/10/2018 07:40:43.034	code: Info	text: 	COM4 connected.
+date: 01/10/2018 07:40:43.034	code: Info	text: 	Status: 0CCNA
+date: 01/10/2018 07:40:43.034	code: Info	text: 	TimeOut: False
+date: 01/10/2018 07:40:43.034	code: Info	text: 	Safe mode: False
+date: 01/10/2018 07:40:43.034	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 07:40:43.034	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 07:40:43.034	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 07:40:43.034	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 07:40:43.049	code: Info	text: Connected by ('127.0.0.1', 1997) --> command: ping
+date: 01/10/2018 07:40:46.050	code: Info	text: Connected by ('127.0.0.1', 2002) --> command: side_A_is_open
+date: 01/10/2018 07:40:48.081	code: Info	text: 	COM4 connected.
+date: 01/10/2018 07:40:48.081	code: Info	text: 	Status: 0HCOA
+date: 01/10/2018 07:40:48.081	code: Info	text: 	TimeOut: False
+date: 01/10/2018 07:40:48.081	code: Info	text: 	Safe mode: False
+date: 01/10/2018 07:40:48.081	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 07:40:48.081	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 07:40:48.081	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 07:40:48.081	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 07:40:55.983	code: Info	text: Connected by ('127.0.0.1', 2004) --> command: side_A_is_open
+date: 01/10/2018 07:40:58.030	code: Info	text: 	COM4 connected.
+date: 01/10/2018 07:40:58.030	code: Info	text: 	Status: 0OCNA
+date: 01/10/2018 07:40:58.030	code: Info	text: 	TimeOut: False
+date: 01/10/2018 07:40:58.030	code: Info	text: 	Safe mode: False
+date: 01/10/2018 07:40:58.030	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 07:40:58.030	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 07:40:58.030	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 07:40:58.030	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 07:41:01.046	code: Info	text: Connected by ('127.0.0.1', 2005) --> command: side_A_is_open
+date: 01/10/2018 07:41:03.062	code: Info	text: 	COM4 connected.
+date: 01/10/2018 07:41:03.062	code: Info	text: 	Status: 0OCNA
+date: 01/10/2018 07:41:03.062	code: Info	text: 	TimeOut: False
+date: 01/10/2018 07:41:03.062	code: Info	text: 	Safe mode: False
+date: 01/10/2018 07:41:03.062	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 07:41:03.062	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 07:41:03.062	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 07:41:03.062	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 07:41:09.078	code: Info	text: Connected by ('127.0.0.1', 2006) --> command: side_B_is_open
+date: 01/10/2018 07:41:11.110	code: Info	text: 	COM4 connected.
+date: 01/10/2018 07:41:11.110	code: Info	text: 	Status: 0OCNA
+date: 01/10/2018 07:41:11.110	code: Info	text: 	TimeOut: False
+date: 01/10/2018 07:41:11.110	code: Info	text: 	Safe mode: False
+date: 01/10/2018 07:41:11.110	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 07:41:11.110	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 07:41:11.110	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 07:41:11.110	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 07:41:14.126	code: Info	text: Connected by ('127.0.0.1', 2007) --> command: open_side_B
+date: 01/10/2018 07:41:16.157	code: Info	text: 	COM4 connected.
+date: 01/10/2018 07:41:16.157	code: Info	text: 	Status: 0OCNA
+date: 01/10/2018 07:41:16.157	code: Info	text: 	TimeOut: False
+date: 01/10/2018 07:41:16.157	code: Info	text: 	Safe mode: False
+date: 01/10/2018 07:41:16.157	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 07:41:16.157	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 07:41:16.157	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 07:41:16.157	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 07:41:19.158	code: Info	text: Connected by ('127.0.0.1', 2008) --> command: side_B_is_open
+date: 01/10/2018 07:41:21.189	code: Info	text: 	COM4 connected.
+date: 01/10/2018 07:41:21.189	code: Info	text: 	Status: 0OHOA
+date: 01/10/2018 07:41:21.189	code: Info	text: 	TimeOut: False
+date: 01/10/2018 07:41:21.189	code: Info	text: 	Safe mode: False
+date: 01/10/2018 07:41:21.189	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 07:41:21.189	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 07:41:21.189	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 07:41:21.189	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 07:41:27.971	code: Info	text: Connected by ('127.0.0.1', 2009) --> command: ping
+date: 01/10/2018 07:41:29.206	code: Info	text: Connected by ('127.0.0.1', 2014) --> command: side_B_is_open
+date: 01/10/2018 07:41:31.237	code: Info	text: 	COM4 connected.
+date: 01/10/2018 07:41:31.237	code: Info	text: 	Status: 0OONA
+date: 01/10/2018 07:41:31.237	code: Info	text: 	TimeOut: False
+date: 01/10/2018 07:41:31.237	code: Info	text: 	Safe mode: False
+date: 01/10/2018 07:41:31.237	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 07:41:31.237	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 07:41:31.237	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 07:41:31.237	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 07:41:34.253	code: Info	text: Connected by ('127.0.0.1', 2015) --> command: side_B_is_open
+date: 01/10/2018 07:41:36.285	code: Info	text: 	COM4 connected.
+date: 01/10/2018 07:41:36.285	code: Info	text: 	Status: 0OONA
+date: 01/10/2018 07:41:36.285	code: Info	text: 	TimeOut: False
+date: 01/10/2018 07:41:36.285	code: Info	text: 	Safe mode: False
+date: 01/10/2018 07:41:36.285	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 07:41:36.285	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 07:41:36.285	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 07:41:36.285	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 07:42:13.024	code: Info	text: Connected by ('127.0.0.1', 2021) --> command: ping
+date: 01/10/2018 07:42:37.245	code: Info	text: Connected by ('127.0.0.1', 2027) --> command: ping
+date: 01/10/2018 07:42:52.607	code: Info	text: Connected by ('127.0.0.1', 2033) --> command: ping
+date: 01/10/2018 07:43:09.171	code: Info	text: Connected by ('127.0.0.1', 2041) --> command: ping
+date: 01/10/2018 07:43:54.208	code: Info	text: Connected by ('127.0.0.1', 2047) --> command: ping
+date: 01/10/2018 07:44:22.492	code: Info	text: Connected by ('127.0.0.1', 2062) --> command: ping
+date: 01/10/2018 07:44:37.604	code: Info	text: Connected by ('127.0.0.1', 2079) --> command: ping
+date: 01/10/2018 07:44:52.637	code: Info	text: Connected by ('127.0.0.1', 2094) --> command: ping
+date: 01/10/2018 07:45:07.685	code: Info	text: Connected by ('127.0.0.1', 2109) --> command: ping
+date: 01/10/2018 07:45:22.969	code: Info	text: Connected by ('127.0.0.1', 2124) --> command: ping
+date: 01/10/2018 07:45:38.314	code: Info	text: Connected by ('127.0.0.1', 2140) --> command: ping
+date: 01/10/2018 07:45:53.535	code: Info	text: Connected by ('127.0.0.1', 2151) --> command: ping
+date: 01/10/2018 07:46:38.587	code: Info	text: Connected by ('127.0.0.1', 2157) --> command: ping
+date: 01/10/2018 07:47:08.544	code: Info	text: Connected by ('127.0.0.1', 2173) --> command: ping
+date: 01/10/2018 07:47:23.577	code: Info	text: Connected by ('127.0.0.1', 2188) --> command: ping
+date: 01/10/2018 07:47:38.673	code: Info	text: Connected by ('127.0.0.1', 2203) --> command: ping
+date: 01/10/2018 07:47:54.518	code: Info	text: Connected by ('127.0.0.1', 2218) --> command: ping
+date: 01/10/2018 07:48:10.333	code: Info	text: Connected by ('127.0.0.1', 2233) --> command: ping
+date: 01/10/2018 07:48:25.631	code: Info	text: Connected by ('127.0.0.1', 2247) --> command: ping
+date: 01/10/2018 07:48:42.149	code: Info	text: Connected by ('127.0.0.1', 2261) --> command: ping
+date: 01/10/2018 07:49:24.639	code: Info	text: Connected by ('127.0.0.1', 2277) --> command: ping
+date: 01/10/2018 07:49:40.547	code: Info	text: Connected by ('127.0.0.1', 2294) --> command: ping
+date: 01/10/2018 07:49:56.283	code: Info	text: Connected by ('127.0.0.1', 2309) --> command: ping
+date: 01/10/2018 07:50:12.019	code: Info	text: Connected by ('127.0.0.1', 2324) --> command: ping
+date: 01/10/2018 07:50:27.224	code: Info	text: Connected by ('127.0.0.1', 2339) --> command: ping
+date: 01/10/2018 07:50:42.867	code: Info	text: Connected by ('127.0.0.1', 2356) --> command: ping
+date: 01/10/2018 07:50:57.811	code: Info	text: Connected by ('127.0.0.1', 2367) --> command: ping
+date: 01/10/2018 07:51:12.844	code: Info	text: Connected by ('127.0.0.1', 2372) --> command: ping
+date: 01/10/2018 07:51:27.877	code: Info	text: Connected by ('127.0.0.1', 2380) --> command: ping
+date: 01/10/2018 07:51:43.879	code: Info	text: Connected by ('127.0.0.1', 2386) --> command: ping
+date: 01/10/2018 07:51:58.912	code: Info	text: Connected by ('127.0.0.1', 2392) --> command: ping
+date: 01/10/2018 07:52:13.945	code: Info	text: Connected by ('127.0.0.1', 2397) --> command: ping
+date: 01/10/2018 07:52:29.119	code: Info	text: Connected by ('127.0.0.1', 2405) --> command: ping
+date: 01/10/2018 07:53:14.171	code: Info	text: Connected by ('127.0.0.1', 2412) --> command: ping
+date: 01/10/2018 07:53:55.082	code: Info	text: Connected by ('127.0.0.1', 2429) --> command: ping
+date: 01/10/2018 07:54:10.115	code: Info	text: Connected by ('127.0.0.1', 2444) --> command: ping
+date: 01/10/2018 07:54:25.383	code: Info	text: Connected by ('127.0.0.1', 2457) --> command: ping
+date: 01/10/2018 07:54:40.775	code: Info	text: Connected by ('127.0.0.1', 2473) --> command: ping
+date: 01/10/2018 07:54:56.137	code: Info	text: Connected by ('127.0.0.1', 2488) --> command: ping
+date: 01/10/2018 07:55:11.170	code: Info	text: Connected by ('127.0.0.1', 2510) --> command: ping
+date: 01/10/2018 07:55:26.296	code: Info	text: Connected by ('127.0.0.1', 2526) --> command: ping
+date: 01/10/2018 07:56:11.333	code: Info	text: Connected by ('127.0.0.1', 2532) --> command: ping
+date: 01/10/2018 07:56:46.837	code: Info	text: Connected by ('127.0.0.1', 2549) --> command: ping
+date: 01/10/2018 07:57:01.871	code: Info	text: Connected by ('127.0.0.1', 2564) --> command: ping
+date: 01/10/2018 07:57:16.919	code: Info	text: Connected by ('127.0.0.1', 2578) --> command: ping
+date: 01/10/2018 07:57:32.906	code: Info	text: Connected by ('127.0.0.1', 2593) --> command: ping
+date: 01/10/2018 07:57:48.736	code: Info	text: Connected by ('127.0.0.1', 2610) --> command: ping
+date: 01/10/2018 07:58:03.769	code: Info	text: Connected by ('127.0.0.1', 2624) --> command: ping
+date: 01/10/2018 07:58:20.114	code: Info	text: Connected by ('127.0.0.1', 2636) --> command: ping
+date: 01/10/2018 07:59:02.245	code: Info	text: Connected by ('127.0.0.1', 2653) --> command: ping
+date: 01/10/2018 07:59:17.278	code: Info	text: Connected by ('127.0.0.1', 2668) --> command: ping
+date: 01/10/2018 07:59:32.483	code: Info	text: Connected by ('127.0.0.1', 2681) --> command: ping
+date: 01/10/2018 07:59:47.766	code: Info	text: Connected by ('127.0.0.1', 2697) --> command: ping
+date: 01/10/2018 08:00:03.377	code: Info	text: Connected by ('127.0.0.1', 2712) --> command: ping
+date: 01/10/2018 08:00:18.879	code: Info	text: Connected by ('127.0.0.1', 2727) --> command: ping
+date: 01/10/2018 08:00:34.021	code: Info	text: Connected by ('127.0.0.1', 2740) --> command: ping
+date: 01/10/2018 08:01:18.981	code: Info	text: Connected by ('127.0.0.1', 2747) --> command: ping
+date: 01/10/2018 08:01:57.251	code: Info	text: Connected by ('127.0.0.1', 2764) --> command: ping
+date: 01/10/2018 08:02:12.284	code: Info	text: Connected by ('127.0.0.1', 2779) --> command: ping
+date: 01/10/2018 08:02:27.317	code: Info	text: Connected by ('127.0.0.1', 2793) --> command: ping
+date: 01/10/2018 08:02:43.038	code: Info	text: Connected by ('127.0.0.1', 2809) --> command: ping
+date: 01/10/2018 08:02:59.524	code: Info	text: Connected by ('127.0.0.1', 2824) --> command: ping
+date: 01/10/2018 08:03:14.948	code: Info	text: Connected by ('127.0.0.1', 2838) --> command: ping
+date: 01/10/2018 08:03:31.481	code: Info	text: Connected by ('127.0.0.1', 2849) --> command: ping
+date: 01/10/2018 08:04:16.518	code: Info	text: Connected by ('127.0.0.1', 2856) --> command: ping
+date: 01/10/2018 08:04:55.351	code: Info	text: Connected by ('127.0.0.1', 2862) --> command: ping
+date: 01/10/2018 08:05:10.384	code: Info	text: Connected by ('127.0.0.1', 2868) --> command: ping
+date: 01/10/2018 08:05:25.417	code: Info	text: Connected by ('127.0.0.1', 2873) --> command: ping
+date: 01/10/2018 08:05:40.450	code: Info	text: Connected by ('127.0.0.1', 2880) --> command: ping
+date: 01/10/2018 08:05:55.561	code: Info	text: Connected by ('127.0.0.1', 2887) --> command: ping
+date: 01/10/2018 08:06:25.330	code: Info	text: Connected by ('127.0.0.1', 2903) --> command: ping
+date: 01/10/2018 08:06:40.942	code: Info	text: Connected by ('127.0.0.1', 2919) --> command: ping
+date: 01/10/2018 08:06:55.975	code: Info	text: Connected by ('127.0.0.1', 2933) --> command: ping
+date: 01/10/2018 08:07:11.305	code: Info	text: Connected by ('127.0.0.1', 2948) --> command: ping
+date: 01/10/2018 08:07:27.541	code: Info	text: Connected by ('127.0.0.1', 2963) --> command: ping
+date: 01/10/2018 08:07:43.090	code: Info	text: Connected by ('127.0.0.1', 2978) --> command: ping
+date: 01/10/2018 08:07:59.639	code: Info	text: Connected by ('127.0.0.1', 2991) --> command: ping
+date: 01/10/2018 08:08:44.926	code: Info	text: Connected by ('127.0.0.1', 3009) --> command: ping
+date: 01/10/2018 08:09:00.021	code: Info	text: Connected by ('127.0.0.1', 3023) --> command: ping
+date: 01/10/2018 08:09:15.820	code: Info	text: Connected by ('127.0.0.1', 3038) --> command: ping
+date: 01/10/2018 08:09:31.431	code: Info	text: Connected by ('127.0.0.1', 3053) --> command: ping
+date: 01/10/2018 08:09:46.464	code: Info	text: Connected by ('127.0.0.1', 3068) --> command: ping
+date: 01/10/2018 08:10:02.122	code: Info	text: Connected by ('127.0.0.1', 3082) --> command: ping
+date: 01/10/2018 08:10:18.718	code: Info	text: Connected by ('127.0.0.1', 3096) --> command: ping
+date: 01/10/2018 08:10:33.751	code: Info	text: Connected by ('127.0.0.1', 3103) --> command: ping
+date: 01/10/2018 08:10:48.784	code: Info	text: Connected by ('127.0.0.1', 3109) --> command: ping
+date: 01/10/2018 08:11:03.726	code: Info	text: Connected by ('127.0.0.1', 3115) --> command: ping
+date: 01/10/2018 08:11:18.759	code: Info	text: Connected by ('127.0.0.1', 3120) --> command: ping
+date: 01/10/2018 08:11:33.792	code: Info	text: Connected by ('127.0.0.1', 3125) --> command: ping
+date: 01/10/2018 08:11:48.840	code: Info	text: Connected by ('127.0.0.1', 3131) --> command: ping
+date: 01/10/2018 08:12:03.874	code: Info	text: Connected by ('127.0.0.1', 3136) --> command: ping
+date: 01/10/2018 08:12:18.907	code: Info	text: Connected by ('127.0.0.1', 3141) --> command: ping
+date: 01/10/2018 08:12:33.940	code: Info	text: Connected by ('127.0.0.1', 3146) --> command: ping
+date: 01/10/2018 08:12:48.973	code: Info	text: Connected by ('127.0.0.1', 3152) --> command: ping
+date: 01/10/2018 08:13:04.006	code: Info	text: Connected by ('127.0.0.1', 3157) --> command: ping
+date: 01/10/2018 08:13:19.039	code: Info	text: Connected by ('127.0.0.1', 3162) --> command: ping
+date: 01/10/2018 08:13:34.072	code: Info	text: Connected by ('127.0.0.1', 3167) --> command: ping
+date: 01/10/2018 08:13:49.105	code: Info	text: Connected by ('127.0.0.1', 3173) --> command: ping
+date: 01/10/2018 08:14:04.154	code: Info	text: Connected by ('127.0.0.1', 3178) --> command: ping
+date: 01/10/2018 08:14:19.218	code: Info	text: Connected by ('127.0.0.1', 3183) --> command: ping
+date: 01/10/2018 08:14:34.251	code: Info	text: Connected by ('127.0.0.1', 3188) --> command: ping
+date: 01/10/2018 08:14:49.300	code: Info	text: Connected by ('127.0.0.1', 3194) --> command: ping
+date: 01/10/2018 08:15:04.333	code: Info	text: Connected by ('127.0.0.1', 3202) --> command: ping
+date: 01/10/2018 08:15:37.603	code: Info	text: Connected by ('127.0.0.1', 3216) --> command: side_A_is_open
+date: 01/10/2018 08:15:39.634	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:15:39.634	code: Info	text: 	Status: 0OONA
+date: 01/10/2018 08:15:39.634	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:15:39.634	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:15:39.634	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:15:39.634	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:15:39.634	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:15:39.634	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:15:42.634	code: Info	text: Connected by ('127.0.0.1', 3217) --> command: close_side_A
+date: 01/10/2018 08:15:44.666	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:15:44.666	code: Info	text: 	Status: 0OONA
+date: 01/10/2018 08:15:44.666	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:15:44.666	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:15:44.666	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:15:44.666	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:15:44.682	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:15:44.682	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:15:47.713	code: Info	text: Connected by ('127.0.0.1', 3218) --> command: side_A_is_open
+date: 01/10/2018 08:15:49.745	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:15:49.745	code: Info	text: 	Status: 0HOCA
+date: 01/10/2018 08:15:49.745	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:15:49.745	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:15:49.745	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:15:49.745	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:15:49.745	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:15:49.745	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:15:52.761	code: Info	text: Connected by ('127.0.0.1', 3219) --> command: side_A_is_open
+date: 01/10/2018 08:15:54.777	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:15:54.777	code: Info	text: 	Status: 0HOCA
+date: 01/10/2018 08:15:54.777	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:15:54.777	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:15:54.792	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:15:54.792	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:15:54.792	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:15:54.792	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:16:00.793	code: Info	text: Connected by ('127.0.0.1', 3221) --> command: side_B_is_open
+date: 01/10/2018 08:16:02.824	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:16:02.824	code: Info	text: 	Status: 0CONA
+date: 01/10/2018 08:16:02.824	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:16:02.824	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:16:02.840	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:16:02.840	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:16:02.840	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:16:02.840	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:16:05.840	code: Info	text: Connected by ('127.0.0.1', 3222) --> command: close_side_B
+date: 01/10/2018 08:16:07.872	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:16:07.872	code: Info	text: 	Status: 0CONA
+date: 01/10/2018 08:16:07.872	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:16:07.872	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:16:07.872	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:16:07.872	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:16:07.872	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:16:07.872	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:16:09.607	code: Info	text: Connected by ('127.0.0.1', 3223) --> command: ping
+date: 01/10/2018 08:16:10.888	code: Info	text: Connected by ('127.0.0.1', 3228) --> command: side_B_is_open
+date: 01/10/2018 08:16:12.904	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:16:12.904	code: Info	text: 	Status: 0CHCA
+date: 01/10/2018 08:16:12.904	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:16:12.904	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:16:12.919	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:16:12.919	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:16:12.919	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:16:12.919	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:16:15.920	code: Info	text: Connected by ('127.0.0.1', 3229) --> command: side_B_is_open
+date: 01/10/2018 08:16:17.951	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:16:17.951	code: Info	text: 	Status: 0CHCA
+date: 01/10/2018 08:16:17.951	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:16:17.951	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:16:17.951	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:16:17.951	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:16:17.951	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:16:17.951	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:16:26.780	code: Info	text: Connected by ('127.0.0.1', 3234) --> command: shutdown
+date: 01/10/2018 08:18:51.814	code: Error(get config): 	text: 'interval'
+date: 01/10/2018 08:18:52.486	code: Info	text: Dome Server started at port 3350....
+date: 01/10/2018 08:18:52.939	code: Info	text: Starting keepalive... (localhost:3330)
+date: 01/10/2018 08:19:05.956	code: Info	text: Connected by ('127.0.0.1', 3274) --> command: ping
+date: 01/10/2018 08:19:15.426	code: Info	text: Connected by ('127.0.0.1', 3282) --> command: side_A_is_open
+date: 01/10/2018 08:19:17.457	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:19:17.457	code: Info	text: 	Status: 0CCNA
+date: 01/10/2018 08:19:17.457	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:19:17.457	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:19:17.457	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:19:17.457	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:19:17.457	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:19:17.457	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:19:20.473	code: Info	text: Connected by ('127.0.0.1', 3283) --> command: open_side_A
+date: 01/10/2018 08:19:22.489	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:19:22.489	code: Info	text: 	Status: 0CCNA
+date: 01/10/2018 08:19:22.505	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:19:22.505	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:19:22.505	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:19:22.505	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:19:22.505	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:19:22.505	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:19:22.505	code: Info	text: Connected by ('127.0.0.1', 3284) --> command: ping
+date: 01/10/2018 08:19:25.505	code: Info	text: Connected by ('127.0.0.1', 3289) --> command: side_A_is_open
+date: 01/10/2018 08:19:27.537	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:19:27.537	code: Info	text: 	Status: 0HCOA
+date: 01/10/2018 08:19:27.537	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:19:27.537	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:19:27.537	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:19:27.537	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:19:27.537	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:19:27.537	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:19:35.553	code: Info	text: Connected by ('127.0.0.1', 3290) --> command: side_A_is_open
+date: 01/10/2018 08:19:37.585	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:19:37.585	code: Info	text: 	Status: 0OCNA
+date: 01/10/2018 08:19:37.585	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:19:37.585	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:19:37.585	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:19:37.585	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:19:37.585	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:19:37.585	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:19:40.601	code: Info	text: Connected by ('127.0.0.1', 3291) --> command: side_A_is_open
+date: 01/10/2018 08:19:42.617	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:19:42.617	code: Info	text: 	Status: 0OCNA
+date: 01/10/2018 08:19:42.632	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:19:42.632	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:19:42.632	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:19:42.632	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:19:42.632	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:19:42.632	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:19:48.633	code: Info	text: Connected by ('127.0.0.1', 3302) --> command: side_B_is_open
+date: 01/10/2018 08:19:50.665	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:19:50.665	code: Info	text: 	Status: 0OCNA
+date: 01/10/2018 08:19:50.680	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:19:50.680	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:19:50.680	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:19:50.680	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:19:50.680	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:19:50.680	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:19:53.681	code: Info	text: Connected by ('127.0.0.1', 3304) --> command: open_side_B
+date: 01/10/2018 08:19:55.712	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:19:55.712	code: Info	text: 	Status: 0OCNA
+date: 01/10/2018 08:19:55.712	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:19:55.712	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:19:55.712	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:19:55.712	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:19:55.712	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:19:55.712	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:19:58.744	code: Info	text: Connected by ('127.0.0.1', 3305) --> command: side_B_is_open
+date: 01/10/2018 08:20:00.760	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:20:00.775	code: Info	text: 	Status: 0OHOA
+date: 01/10/2018 08:20:00.775	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:20:00.775	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:20:00.775	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:20:00.775	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:20:00.775	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:20:00.775	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:20:07.542	code: Info	text: Connected by ('127.0.0.1', 3306) --> command: ping
+date: 01/10/2018 08:20:08.807	code: Info	text: Connected by ('127.0.0.1', 3312) --> command: side_B_is_open
+date: 01/10/2018 08:20:10.823	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:20:10.839	code: Info	text: 	Status: 0OONA
+date: 01/10/2018 08:20:10.839	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:20:10.839	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:20:10.839	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:20:10.839	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:20:10.839	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:20:10.839	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:20:13.839	code: Info	text: Connected by ('127.0.0.1', 3313) --> command: side_B_is_open
+date: 01/10/2018 08:20:15.871	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:20:15.871	code: Info	text: 	Status: 0OONA
+date: 01/10/2018 08:20:15.871	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:20:15.871	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:20:15.871	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:20:15.871	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:20:15.871	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:20:15.871	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:20:52.578	code: Info	text: Connected by ('127.0.0.1', 3317) --> command: ping
+date: 01/10/2018 08:21:07.516	code: Info	text: Connected by ('127.0.0.1', 3325) --> command: ping
+date: 01/10/2018 08:21:22.549	code: Info	text: Connected by ('127.0.0.1', 3331) --> command: ping
+date: 01/10/2018 08:21:37.582	code: Info	text: Connected by ('127.0.0.1', 3336) --> command: ping
+date: 01/10/2018 08:21:52.615	code: Info	text: Connected by ('127.0.0.1', 3345) --> command: ping
+date: 01/10/2018 08:22:06.523	code: Info	text: Connected by ('127.0.0.1', 3355) --> command: side_A_is_open
+date: 01/10/2018 08:22:08.539	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:22:08.539	code: Info	text: 	Status: 0OONA
+date: 01/10/2018 08:22:08.539	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:22:08.539	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:22:08.539	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:22:08.539	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:22:08.539	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:22:08.539	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:22:11.555	code: Info	text: Connected by ('127.0.0.1', 3356) --> command: close_side_A
+date: 01/10/2018 08:22:13.586	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:22:13.586	code: Info	text: 	Status: 0OONA
+date: 01/10/2018 08:22:13.586	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:22:13.586	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:22:13.586	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:22:13.586	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:22:13.586	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:22:13.586	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:22:16.587	code: Info	text: Connected by ('127.0.0.1', 3357) --> command: side_A_is_open
+date: 01/10/2018 08:22:18.618	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:22:18.618	code: Info	text: 	Status: 0HOCA
+date: 01/10/2018 08:22:18.618	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:22:18.618	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:22:18.618	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:22:18.618	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:22:18.618	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:22:18.618	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:22:21.634	code: Info	text: Connected by ('127.0.0.1', 3359) --> command: side_A_is_open
+date: 01/10/2018 08:22:23.666	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:22:23.666	code: Info	text: 	Status: 0HOCA
+date: 01/10/2018 08:22:23.666	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:22:23.666	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:22:23.666	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:22:23.666	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:22:23.666	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:22:23.666	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:22:29.666	code: Info	text: Connected by ('127.0.0.1', 3360) --> command: side_B_is_open
+date: 01/10/2018 08:22:31.698	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:22:31.698	code: Info	text: 	Status: 0CONA
+date: 01/10/2018 08:22:31.698	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:22:31.698	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:22:31.698	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:22:31.698	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:22:31.698	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:22:31.698	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:22:34.698	code: Info	text: Connected by ('127.0.0.1', 3361) --> command: close_side_B
+date: 01/10/2018 08:22:36.730	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:22:36.730	code: Info	text: 	Status: 0CONA
+date: 01/10/2018 08:22:36.730	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:22:36.730	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:22:36.730	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:22:36.730	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:22:36.730	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:22:36.730	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:22:38.511	code: Info	text: Connected by ('127.0.0.1', 3362) --> command: ping
+date: 01/10/2018 08:22:39.746	code: Info	text: Connected by ('127.0.0.1', 3367) --> command: side_B_is_open
+date: 01/10/2018 08:22:41.777	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:22:41.777	code: Info	text: 	Status: 0CHCA
+date: 01/10/2018 08:22:41.777	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:22:41.777	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:22:41.777	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:22:41.777	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:22:41.777	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:22:41.777	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:22:44.778	code: Info	text: Connected by ('127.0.0.1', 3368) --> command: side_B_is_open
+date: 01/10/2018 08:22:46.809	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:22:46.809	code: Info	text: 	Status: 0CHCA
+date: 01/10/2018 08:22:46.809	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:22:46.809	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:22:46.809	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:22:46.809	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:22:46.809	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:22:46.809	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:22:47.122	code: Info	text: Connected by ('127.0.0.1', 3373) --> command: shutdown
+date: 01/10/2018 08:25:06.138	code: Error(get config): 	text: 'interval'
+date: 01/10/2018 08:25:07.295	code: Info	text: Starting keepalive... (localhost:3330)
+date: 01/10/2018 08:25:07.373	code: Info	text: Dome Server started at port 3350....
+date: 01/10/2018 08:25:20.390	code: Info	text: Connected by ('127.0.0.1', 3409) --> command: ping
+date: 01/10/2018 08:25:28.579	code: Info	text: Connected by ('127.0.0.1', 3419) --> command: side_A_is_open
+date: 01/10/2018 08:25:30.610	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:25:30.610	code: Info	text: 	Status: 0CCNA
+date: 01/10/2018 08:25:30.610	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:25:30.626	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:25:30.626	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:25:30.626	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:25:30.626	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:25:30.626	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:25:33.626	code: Info	text: Connected by ('127.0.0.1', 3420) --> command: open_side_A
+date: 01/10/2018 08:25:35.658	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:25:35.658	code: Info	text: 	Status: 0CCNA
+date: 01/10/2018 08:25:35.658	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:25:35.658	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:25:35.658	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:25:35.658	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:25:35.658	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:25:35.658	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:25:35.658	code: Info	text: Connected by ('127.0.0.1', 3421) --> command: ping
+date: 01/10/2018 08:25:38.674	code: Info	text: Connected by ('127.0.0.1', 3426) --> command: side_A_is_open
+date: 01/10/2018 08:25:40.690	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:25:40.690	code: Info	text: 	Status: 0HCOA
+date: 01/10/2018 08:25:40.690	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:25:40.690	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:25:40.705	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:25:40.705	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:25:40.705	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:25:40.705	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:25:48.706	code: Info	text: Connected by ('127.0.0.1', 3427) --> command: side_A_is_open
+date: 01/10/2018 08:25:50.738	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:25:50.738	code: Info	text: 	Status: 0OCNA
+date: 01/10/2018 08:25:50.738	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:25:50.738	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:25:50.738	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:25:50.753	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:25:50.753	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:25:50.753	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:25:53.754	code: Info	text: Connected by ('127.0.0.1', 3428) --> command: side_A_is_open
+date: 01/10/2018 08:25:55.785	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:25:55.785	code: Info	text: 	Status: 0OCNA
+date: 01/10/2018 08:25:55.785	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:25:55.785	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:25:55.785	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:25:55.785	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:25:55.785	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:25:55.785	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:26:01.802	code: Info	text: Connected by ('127.0.0.1', 3429) --> command: side_B_is_open
+date: 01/10/2018 08:26:03.833	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:26:03.833	code: Info	text: 	Status: 0OCNA
+date: 01/10/2018 08:26:03.833	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:26:03.833	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:26:03.833	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:26:03.833	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:26:03.833	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:26:03.833	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:26:06.849	code: Info	text: Connected by ('127.0.0.1', 3430) --> command: open_side_B
+date: 01/10/2018 08:26:08.865	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:26:08.865	code: Info	text: 	Status: 0OCNA
+date: 01/10/2018 08:26:08.865	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:26:08.865	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:26:08.880	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:26:08.880	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:26:08.880	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:26:08.880	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:26:11.881	code: Info	text: Connected by ('127.0.0.1', 3432) --> command: side_B_is_open
+date: 01/10/2018 08:26:13.912	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:26:13.912	code: Info	text: 	Status: 0OHOA
+date: 01/10/2018 08:26:13.912	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:26:13.912	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:26:13.912	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:26:13.912	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:26:13.912	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:26:13.912	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:26:20.694	code: Info	text: Connected by ('127.0.0.1', 3433) --> command: ping
+date: 01/10/2018 08:26:21.929	code: Info	text: Connected by ('127.0.0.1', 3438) --> command: side_B_is_open
+date: 01/10/2018 08:26:23.960	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:26:23.960	code: Info	text: 	Status: 0OONA
+date: 01/10/2018 08:26:23.960	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:26:23.960	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:26:23.960	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:26:23.960	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:26:23.960	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:26:23.960	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:26:26.976	code: Info	text: Connected by ('127.0.0.1', 3439) --> command: side_B_is_open
+date: 01/10/2018 08:26:28.992	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:26:28.992	code: Info	text: 	Status: 0OONA
+date: 01/10/2018 08:26:28.992	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:26:28.992	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:26:29.008	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:26:29.008	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:26:29.008	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:26:29.008	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:27:05.731	code: Info	text: Connected by ('127.0.0.1', 3443) --> command: ping
+date: 01/10/2018 08:27:20.780	code: Info	text: Connected by ('127.0.0.1', 3449) --> command: ping
+date: 01/10/2018 08:27:35.813	code: Info	text: Connected by ('127.0.0.1', 3454) --> command: ping
+date: 01/10/2018 08:27:50.846	code: Info	text: Connected by ('127.0.0.1', 3459) --> command: ping
+date: 01/10/2018 08:28:05.879	code: Info	text: Connected by ('127.0.0.1', 3465) --> command: ping
+date: 01/10/2018 08:28:20.912	code: Info	text: Connected by ('127.0.0.1', 3471) --> command: ping
+date: 01/10/2018 08:28:35.945	code: Info	text: Connected by ('127.0.0.1', 3476) --> command: ping
+date: 01/10/2018 08:28:50.978	code: Info	text: Connected by ('127.0.0.1', 3481) --> command: ping
+date: 01/10/2018 08:29:06.011	code: Info	text: Connected by ('127.0.0.1', 3486) --> command: ping
+date: 01/10/2018 08:29:21.044	code: Info	text: Connected by ('127.0.0.1', 3492) --> command: ping
+date: 01/10/2018 08:29:36.078	code: Info	text: Connected by ('127.0.0.1', 3497) --> command: ping
+date: 01/10/2018 08:29:51.111	code: Info	text: Connected by ('127.0.0.1', 3502) --> command: ping
+date: 01/10/2018 08:30:06.206	code: Info	text: Connected by ('127.0.0.1', 3511) --> command: ping
+date: 01/10/2018 08:30:51.259	code: Info	text: Connected by ('127.0.0.1', 3517) --> command: ping
+date: 01/10/2018 08:31:23.899	code: Info	text: Connected by ('127.0.0.1', 3534) --> command: ping
+date: 01/10/2018 08:31:39.369	code: Info	text: Connected by ('127.0.0.1', 3549) --> command: ping
+date: 01/10/2018 08:31:55.356	code: Info	text: Connected by ('127.0.0.1', 3563) --> command: ping
+date: 01/10/2018 08:32:10.748	code: Info	text: Connected by ('127.0.0.1', 3579) --> command: ping
+date: 01/10/2018 08:32:26.344	code: Info	text: Connected by ('127.0.0.1', 3596) --> command: ping
+date: 01/10/2018 08:32:41.377	code: Info	text: Connected by ('127.0.0.1', 3610) --> command: ping
+date: 01/10/2018 08:32:57.473	code: Info	text: Connected by ('127.0.0.1', 3624) --> command: ping
+date: 01/10/2018 08:33:42.509	code: Info	text: Connected by ('127.0.0.1', 3630) --> command: ping
+date: 01/10/2018 08:34:17.311	code: Info	text: Connected by ('127.0.0.1', 3647) --> command: ping
+date: 01/10/2018 08:34:32.344	code: Info	text: Connected by ('127.0.0.1', 3662) --> command: ping
+date: 01/10/2018 08:34:48.064	code: Info	text: Connected by ('127.0.0.1', 3676) --> command: ping
+date: 01/10/2018 08:35:04.129	code: Info	text: Connected by ('127.0.0.1', 3691) --> command: ping
+date: 01/10/2018 08:35:19.631	code: Info	text: Connected by ('127.0.0.1', 3707) --> command: ping
+date: 01/10/2018 08:35:34.664	code: Info	text: Connected by ('127.0.0.1', 3721) --> command: ping
+date: 01/10/2018 08:35:50.400	code: Info	text: Connected by ('127.0.0.1', 3734) --> command: ping
+date: 01/10/2018 08:36:05.433	code: Info	text: Connected by ('127.0.0.1', 3739) --> command: ping
+date: 01/10/2018 08:36:20.466	code: Info	text: Connected by ('127.0.0.1', 3745) --> command: ping
+date: 01/10/2018 08:36:35.499	code: Info	text: Connected by ('127.0.0.1', 3750) --> command: ping
+date: 01/10/2018 08:36:50.532	code: Info	text: Connected by ('127.0.0.1', 3755) --> command: ping
+date: 01/10/2018 08:37:05.581	code: Info	text: Connected by ('127.0.0.1', 3760) --> command: ping
+date: 01/10/2018 08:37:20.630	code: Info	text: Connected by ('127.0.0.1', 3766) --> command: ping
+date: 01/10/2018 08:37:35.663	code: Info	text: Connected by ('127.0.0.1', 3771) --> command: ping
+date: 01/10/2018 08:37:50.696	code: Info	text: Connected by ('127.0.0.1', 3776) --> command: ping
+date: 01/10/2018 08:38:05.745	code: Info	text: Connected by ('127.0.0.1', 3781) --> command: ping
+date: 01/10/2018 08:38:20.809	code: Info	text: Connected by ('127.0.0.1', 3789) --> command: ping
+date: 01/10/2018 08:38:44.671	code: Info	text: Connected by ('127.0.0.1', 3798) --> command: side_A_is_open
+date: 01/10/2018 08:38:46.703	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:38:46.703	code: Info	text: 	Status: 0OONA
+date: 01/10/2018 08:38:46.703	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:38:46.703	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:38:46.703	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:38:46.703	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:38:46.703	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:38:46.703	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:38:49.719	code: Info	text: Connected by ('127.0.0.1', 3799) --> command: close_side_A
+date: 01/10/2018 08:38:51.750	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:38:51.750	code: Info	text: 	Status: 0OONA
+date: 01/10/2018 08:38:51.750	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:38:51.750	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:38:51.750	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:38:51.750	code: Info	text: 	Dome Side A is open: True
+date: 01/10/2018 08:38:51.750	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:38:51.750	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:38:54.782	code: Info	text: Connected by ('127.0.0.1', 3800) --> command: side_A_is_open
+date: 01/10/2018 08:38:56.798	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:38:56.798	code: Info	text: 	Status: 0HOCA
+date: 01/10/2018 08:38:56.798	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:38:56.798	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:38:56.798	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:38:56.798	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:38:56.798	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:38:56.798	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:38:59.814	code: Info	text: Connected by ('127.0.0.1', 3801) --> command: side_A_is_open
+date: 01/10/2018 08:39:01.845	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:39:01.845	code: Info	text: 	Status: 0HOCA
+date: 01/10/2018 08:39:01.845	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:39:01.845	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:39:01.845	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:39:01.845	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:39:01.845	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:39:01.845	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:39:07.846	code: Info	text: Connected by ('127.0.0.1', 3802) --> command: side_B_is_open
+date: 01/10/2018 08:39:09.893	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:39:09.893	code: Info	text: 	Status: 0CONA
+date: 01/10/2018 08:39:09.893	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:39:09.893	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:39:09.893	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:39:09.893	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:39:09.893	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:39:09.893	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:39:12.893	code: Info	text: Connected by ('127.0.0.1', 3804) --> command: close_side_B
+date: 01/10/2018 08:39:14.925	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:39:14.925	code: Info	text: 	Status: 0CONA
+date: 01/10/2018 08:39:14.925	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:39:14.925	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:39:14.925	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:39:14.925	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:39:14.925	code: Info	text: 	Dome Side B is open: True
+date: 01/10/2018 08:39:14.925	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:39:16.675	code: Info	text: Connected by ('127.0.0.1', 3805) --> command: ping
+date: 01/10/2018 08:39:17.941	code: Info	text: Connected by ('127.0.0.1', 3810) --> command: side_B_is_open
+date: 01/10/2018 08:39:19.972	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:39:19.972	code: Info	text: 	Status: 0CHCA
+date: 01/10/2018 08:39:19.972	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:39:19.972	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:39:19.972	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:39:19.972	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:39:19.972	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:39:19.972	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:39:22.973	code: Info	text: Connected by ('127.0.0.1', 3811) --> command: side_B_is_open
+date: 01/10/2018 08:39:25.004	code: Info	text: 	COM4 connected.
+date: 01/10/2018 08:39:25.004	code: Info	text: 	Status: 0CHCA
+date: 01/10/2018 08:39:25.004	code: Info	text: 	TimeOut: False
+date: 01/10/2018 08:39:25.004	code: Info	text: 	Safe mode: False
+date: 01/10/2018 08:39:25.004	code: Info	text: 	Automatic mode: True
+date: 01/10/2018 08:39:25.004	code: Info	text: 	Dome Side A is open: False
+date: 01/10/2018 08:39:25.004	code: Info	text: 	Dome Side B is open: False
+date: 01/10/2018 08:39:25.004	code: Info	text: 	Keepalive interval: 60.00
+date: 01/10/2018 08:39:40.022	code: Info	text: Connected by ('127.0.0.1', 3812) --> command: ping
+date: 01/10/2018 08:39:55.055	code: Info	text: Connected by ('127.0.0.1', 3818) --> command: ping
+date: 01/10/2018 08:40:10.088	code: Info	text: Connected by ('127.0.0.1', 3824) --> command: ping
+date: 01/10/2018 08:40:25.121	code: Info	text: Connected by ('127.0.0.1', 3831) --> command: ping
+date: 01/10/2018 08:40:40.170	code: Info	text: Connected by ('127.0.0.1', 3836) --> command: ping
+date: 01/10/2018 08:40:55.106	code: Info	text: Connected by ('127.0.0.1', 3842) --> command: ping
+date: 01/10/2018 08:41:10.139	code: Info	text: Connected by ('127.0.0.1', 3848) --> command: ping
+date: 01/10/2018 08:41:25.172	code: Info	text: Connected by ('127.0.0.1', 3853) --> command: ping
+date: 01/10/2018 08:41:40.237	code: Info	text: Connected by ('127.0.0.1', 3858) --> command: ping
+date: 01/10/2018 08:41:55.285	code: Info	text: Connected by ('127.0.0.1', 3863) --> command: ping
+date: 01/10/2018 08:42:10.318	code: Info	text: Connected by ('127.0.0.1', 3869) --> command: ping
+date: 01/10/2018 08:42:25.352	code: Info	text: Connected by ('127.0.0.1', 3874) --> command: ping
+date: 01/10/2018 08:42:40.385	code: Info	text: Connected by ('127.0.0.1', 3879) --> command: ping
+date: 01/10/2018 08:42:55.418	code: Info	text: Connected by ('127.0.0.1', 3884) --> command: ping
+date: 01/10/2018 08:42:57.027	code: Info	text: Connected by ('127.0.0.1', 3893) --> command: shutdown

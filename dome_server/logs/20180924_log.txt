@@ -1,0 +1,664 @@
+
+date: 25/09/2018 07:31:45.224	code: Error(get config): 	text: 'interval'
+date: 25/09/2018 07:31:46.599	code: Info	text: Dome Server started at port 3350....
+date: 25/09/2018 07:31:47.037	code: Info	text: Starting keepalive... (localhost:3330)
+date: 25/09/2018 07:31:58.444	code: Info	text: Connected by ('127.0.0.1', 2971) --> command: ping
+date: 25/09/2018 07:32:15.118	code: Info	text: Connected by ('127.0.0.1', 2976) --> command: ping
+date: 25/09/2018 07:32:30.151	code: Info	text: Connected by ('127.0.0.1', 2984) --> command: ping
+date: 25/09/2018 07:32:33.573	code: Info	text: Connected by ('127.0.0.1', 2989) --> command: side_A_is_open
+date: 25/09/2018 07:32:35.589	code: Info	text: 	COM4 connected.
+date: 25/09/2018 07:32:35.605	code: Info	text: 	Status: 0CCNA
+date: 25/09/2018 07:32:35.605	code: Info	text: 	TimeOut: False
+date: 25/09/2018 07:32:35.605	code: Info	text: 	Safe mode: False
+date: 25/09/2018 07:32:35.605	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 07:32:35.605	code: Info	text: 	Dome Side A is open: False
+date: 25/09/2018 07:32:35.605	code: Info	text: 	Dome Side B is open: False
+date: 25/09/2018 07:32:35.605	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 07:32:38.605	code: Info	text: Connected by ('127.0.0.1', 2990) --> command: open_side_A
+date: 25/09/2018 07:32:40.637	code: Info	text: 	COM4 connected.
+date: 25/09/2018 07:32:40.637	code: Info	text: 	Status: 0CCNA
+date: 25/09/2018 07:32:40.637	code: Info	text: 	TimeOut: False
+date: 25/09/2018 07:32:40.637	code: Info	text: 	Safe mode: False
+date: 25/09/2018 07:32:40.637	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 07:32:40.637	code: Info	text: 	Dome Side A is open: False
+date: 25/09/2018 07:32:40.637	code: Info	text: 	Dome Side B is open: False
+date: 25/09/2018 07:32:40.637	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 07:32:43.653	code: Info	text: Connected by ('127.0.0.1', 2991) --> command: side_A_is_open
+date: 25/09/2018 07:32:45.669	code: Info	text: 	COM4 connected.
+date: 25/09/2018 07:32:45.684	code: Info	text: 	Status: 0HCOA
+date: 25/09/2018 07:32:45.684	code: Info	text: 	TimeOut: False
+date: 25/09/2018 07:32:45.684	code: Info	text: 	Safe mode: False
+date: 25/09/2018 07:32:45.684	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 07:32:45.684	code: Info	text: 	Dome Side A is open: False
+date: 25/09/2018 07:32:45.684	code: Info	text: 	Dome Side B is open: False
+date: 25/09/2018 07:32:45.684	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 07:32:53.685	code: Info	text: Connected by ('127.0.0.1', 2993) --> command: side_A_is_open
+date: 25/09/2018 07:32:55.717	code: Info	text: 	COM4 connected.
+date: 25/09/2018 07:32:55.717	code: Info	text: 	Status: 0OCNA
+date: 25/09/2018 07:32:55.732	code: Info	text: 	TimeOut: False
+date: 25/09/2018 07:32:55.732	code: Info	text: 	Safe mode: False
+date: 25/09/2018 07:32:55.732	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 07:32:55.732	code: Info	text: 	Dome Side A is open: True
+date: 25/09/2018 07:32:55.732	code: Info	text: 	Dome Side B is open: False
+date: 25/09/2018 07:32:55.732	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 07:32:58.733	code: Info	text: Connected by ('127.0.0.1', 2994) --> command: side_A_is_open
+date: 25/09/2018 07:33:00.764	code: Info	text: 	COM4 connected.
+date: 25/09/2018 07:33:00.764	code: Info	text: 	Status: 0OCNA
+date: 25/09/2018 07:33:00.764	code: Info	text: 	TimeOut: False
+date: 25/09/2018 07:33:00.764	code: Info	text: 	Safe mode: False
+date: 25/09/2018 07:33:00.764	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 07:33:00.764	code: Info	text: 	Dome Side A is open: True
+date: 25/09/2018 07:33:00.764	code: Info	text: 	Dome Side B is open: False
+date: 25/09/2018 07:33:00.764	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 07:33:06.781	code: Info	text: Connected by ('127.0.0.1', 2995) --> command: side_B_is_open
+date: 25/09/2018 07:33:08.812	code: Info	text: 	COM4 connected.
+date: 25/09/2018 07:33:08.812	code: Info	text: 	Status: 0OCNA
+date: 25/09/2018 07:33:08.812	code: Info	text: 	TimeOut: False
+date: 25/09/2018 07:33:08.812	code: Info	text: 	Safe mode: False
+date: 25/09/2018 07:33:08.812	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 07:33:08.812	code: Info	text: 	Dome Side A is open: True
+date: 25/09/2018 07:33:08.812	code: Info	text: 	Dome Side B is open: False
+date: 25/09/2018 07:33:08.812	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 07:33:11.828	code: Info	text: Connected by ('127.0.0.1', 2996) --> command: open_side_B
+date: 25/09/2018 07:33:13.844	code: Info	text: 	COM4 connected.
+date: 25/09/2018 07:33:13.860	code: Info	text: 	Status: 0OCNA
+date: 25/09/2018 07:33:13.860	code: Info	text: 	TimeOut: False
+date: 25/09/2018 07:33:13.860	code: Info	text: 	Safe mode: False
+date: 25/09/2018 07:33:13.860	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 07:33:13.860	code: Info	text: 	Dome Side A is open: True
+date: 25/09/2018 07:33:13.860	code: Info	text: 	Dome Side B is open: False
+date: 25/09/2018 07:33:13.860	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 07:33:15.188	code: Info	text: Connected by ('127.0.0.1', 2997) --> command: ping
+date: 25/09/2018 07:33:16.860	code: Info	text: Connected by ('127.0.0.1', 3002) --> command: side_B_is_open
+date: 25/09/2018 07:33:18.891	code: Info	text: 	COM4 connected.
+date: 25/09/2018 07:33:18.891	code: Info	text: 	Status: 0OHOA
+date: 25/09/2018 07:33:18.891	code: Info	text: 	TimeOut: False
+date: 25/09/2018 07:33:18.891	code: Info	text: 	Safe mode: False
+date: 25/09/2018 07:33:18.891	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 07:33:18.891	code: Info	text: 	Dome Side A is open: True
+date: 25/09/2018 07:33:18.891	code: Info	text: 	Dome Side B is open: False
+date: 25/09/2018 07:33:18.891	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 07:33:26.908	code: Info	text: Connected by ('127.0.0.1', 3003) --> command: side_B_is_open
+date: 25/09/2018 07:33:28.940	code: Info	text: 	COM4 connected.
+date: 25/09/2018 07:33:28.940	code: Info	text: 	Status: 0OONA
+date: 25/09/2018 07:33:28.940	code: Info	text: 	TimeOut: False
+date: 25/09/2018 07:33:28.940	code: Info	text: 	Safe mode: False
+date: 25/09/2018 07:33:28.940	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 07:33:28.940	code: Info	text: 	Dome Side A is open: True
+date: 25/09/2018 07:33:28.940	code: Info	text: 	Dome Side B is open: True
+date: 25/09/2018 07:33:28.940	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 07:33:31.956	code: Info	text: Connected by ('127.0.0.1', 3004) --> command: side_B_is_open
+date: 25/09/2018 07:33:33.971	code: Info	text: 	COM4 connected.
+date: 25/09/2018 07:33:33.987	code: Info	text: 	Status: 0OONA
+date: 25/09/2018 07:33:33.987	code: Info	text: 	TimeOut: False
+date: 25/09/2018 07:33:33.987	code: Info	text: 	Safe mode: False
+date: 25/09/2018 07:33:33.987	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 07:33:33.987	code: Info	text: 	Dome Side A is open: True
+date: 25/09/2018 07:33:33.987	code: Info	text: 	Dome Side B is open: True
+date: 25/09/2018 07:33:33.987	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 07:34:00.116	code: Info	text: Connected by ('127.0.0.1', 3010) --> command: ping
+date: 25/09/2018 07:34:34.839	code: Info	text: Connected by ('127.0.0.1', 3016) --> command: ping
+date: 25/09/2018 07:34:50.950	code: Info	text: Connected by ('127.0.0.1', 3025) --> command: ping
+date: 25/09/2018 07:35:36.081	code: Info	text: Connected by ('127.0.0.1', 3030) --> command: ping
+date: 25/09/2018 07:35:59.553	code: Info	text: Connected by ('127.0.0.1', 3039) --> command: ping
+date: 25/09/2018 07:36:14.586	code: Info	text: Connected by ('127.0.0.1', 3044) --> command: ping
+date: 25/09/2018 07:36:29.775	code: Info	text: Connected by ('127.0.0.1', 3058) --> command: ping
+date: 25/09/2018 07:36:45.339	code: Info	text: Connected by ('127.0.0.1', 3073) --> command: ping
+date: 25/09/2018 07:37:01.123	code: Info	text: Connected by ('127.0.0.1', 3089) --> command: ping
+date: 25/09/2018 07:37:16.718	code: Info	text: Connected by ('127.0.0.1', 3104) --> command: ping
+date: 25/09/2018 07:37:32.048	code: Info	text: Connected by ('127.0.0.1', 3121) --> command: ping
+date: 25/09/2018 07:37:47.097	code: Info	text: Connected by ('127.0.0.1', 3143) --> command: ping
+date: 25/09/2018 07:38:02.130	code: Info	text: Connected by ('127.0.0.1', 3164) --> command: ping
+date: 25/09/2018 07:38:17.491	code: Info	text: Connected by ('127.0.0.1', 3186) --> command: ping
+date: 25/09/2018 07:38:32.587	code: Info	text: Connected by ('127.0.0.1', 3198) --> command: ping
+date: 25/09/2018 07:38:47.620	code: Info	text: Connected by ('127.0.0.1', 3207) --> command: ping
+date: 25/09/2018 07:39:02.653	code: Info	text: Connected by ('127.0.0.1', 3212) --> command: ping
+date: 25/09/2018 07:39:18.264	code: Info	text: Connected by ('127.0.0.1', 3223) --> command: ping
+date: 25/09/2018 07:39:33.954	code: Info	text: Connected by ('127.0.0.1', 3240) --> command: ping
+date: 25/09/2018 07:39:49.018	code: Info	text: Connected by ('127.0.0.1', 3253) --> command: ping
+date: 25/09/2018 07:40:04.051	code: Info	text: Connected by ('127.0.0.1', 3259) --> command: ping
+date: 25/09/2018 07:40:19.084	code: Info	text: Connected by ('127.0.0.1', 3264) --> command: ping
+date: 25/09/2018 07:40:34.273	code: Info	text: Connected by ('127.0.0.1', 3271) --> command: ping
+date: 25/09/2018 07:40:50.291	code: Info	text: Connected by ('127.0.0.1', 3288) --> command: ping
+date: 25/09/2018 07:41:05.621	code: Info	text: Connected by ('127.0.0.1', 3295) --> command: ping
+date: 25/09/2018 07:41:20.654	code: Info	text: Connected by ('127.0.0.1', 3300) --> command: ping
+date: 25/09/2018 07:41:35.703	code: Info	text: Connected by ('127.0.0.1', 3306) --> command: ping
+date: 25/09/2018 07:41:51.002	code: Info	text: Connected by ('127.0.0.1', 3321) --> command: ping
+date: 25/09/2018 07:42:06.097	code: Info	text: Connected by ('127.0.0.1', 3336) --> command: ping
+date: 25/09/2018 07:42:21.880	code: Info	text: Connected by ('127.0.0.1', 3352) --> command: ping
+date: 25/09/2018 07:42:37.226	code: Info	text: Connected by ('127.0.0.1', 3367) --> command: ping
+date: 25/09/2018 07:42:52.275	code: Info	text: Connected by ('127.0.0.1', 3382) --> command: ping
+date: 25/09/2018 07:43:09.746	code: Info	text: Connected by ('127.0.0.1', 3397) --> command: ping
+date: 25/09/2018 07:43:25.544	code: Info	text: Connected by ('127.0.0.1', 3403) --> command: ping
+date: 25/09/2018 07:44:10.518	code: Info	text: Connected by ('127.0.0.1', 3410) --> command: ping
+date: 25/09/2018 07:44:29.521	code: Info	text: Connected by ('127.0.0.1', 3423) --> command: ping
+date: 25/09/2018 07:44:44.569	code: Info	text: Connected by ('127.0.0.1', 3428) --> command: ping
+date: 25/09/2018 07:44:59.602	code: Info	text: Connected by ('127.0.0.1', 3434) --> command: ping
+date: 25/09/2018 07:45:14.667	code: Info	text: Connected by ('127.0.0.1', 3439) --> command: ping
+date: 25/09/2018 07:45:29.700	code: Info	text: Connected by ('127.0.0.1', 3448) --> command: ping
+date: 25/09/2018 07:45:44.748	code: Info	text: Connected by ('127.0.0.1', 3464) --> command: ping
+date: 25/09/2018 07:45:59.782	code: Info	text: Connected by ('127.0.0.1', 3473) --> command: ping
+date: 25/09/2018 07:46:14.815	code: Info	text: Connected by ('127.0.0.1', 3478) --> command: ping
+date: 25/09/2018 07:46:29.848	code: Info	text: Connected by ('127.0.0.1', 3483) --> command: ping
+date: 25/09/2018 07:46:44.881	code: Info	text: Connected by ('127.0.0.1', 3492) --> command: ping
+date: 25/09/2018 07:46:59.914	code: Info	text: Connected by ('127.0.0.1', 3507) --> command: ping
+date: 25/09/2018 07:47:14.963	code: Info	text: Connected by ('127.0.0.1', 3512) --> command: ping
+date: 25/09/2018 07:47:29.996	code: Info	text: Connected by ('127.0.0.1', 3517) --> command: ping
+date: 25/09/2018 07:47:45.029	code: Info	text: Connected by ('127.0.0.1', 3523) --> command: ping
+date: 25/09/2018 07:48:00.062	code: Info	text: Connected by ('127.0.0.1', 3536) --> command: ping
+date: 25/09/2018 07:48:15.110	code: Info	text: Connected by ('127.0.0.1', 3546) --> command: ping
+date: 25/09/2018 07:48:30.144	code: Info	text: Connected by ('127.0.0.1', 3551) --> command: ping
+date: 25/09/2018 07:48:45.239	code: Info	text: Connected by ('127.0.0.1', 3556) --> command: ping
+date: 25/09/2018 07:49:00.616	code: Info	text: Connected by ('127.0.0.1', 3564) --> command: ping
+date: 25/09/2018 07:49:16.899	code: Info	text: Connected by ('127.0.0.1', 3581) --> command: ping
+date: 25/09/2018 07:49:31.932	code: Info	text: Connected by ('127.0.0.1', 3587) --> command: ping
+date: 25/09/2018 07:49:46.965	code: Info	text: Connected by ('127.0.0.1', 3592) --> command: ping
+date: 25/09/2018 07:50:01.998	code: Info	text: Connected by ('127.0.0.1', 3598) --> command: ping
+date: 25/09/2018 07:50:17.297	code: Info	text: Connected by ('127.0.0.1', 3605) --> command: ping
+date: 25/09/2018 07:50:32.971	code: Info	text: Connected by ('127.0.0.1', 3623) --> command: ping
+date: 25/09/2018 07:50:48.004	code: Info	text: Connected by ('127.0.0.1', 3634) --> command: ping
+date: 25/09/2018 07:51:03.053	code: Info	text: Connected by ('127.0.0.1', 3639) --> command: ping
+date: 25/09/2018 07:51:18.086	code: Info	text: Connected by ('127.0.0.1', 3644) --> command: ping
+date: 25/09/2018 07:51:33.119	code: Info	text: Connected by ('127.0.0.1', 3649) --> command: ping
+date: 25/09/2018 07:51:48.152	code: Info	text: Connected by ('127.0.0.1', 3659) --> command: ping
+date: 25/09/2018 07:52:03.201	code: Info	text: Connected by ('127.0.0.1', 3674) --> command: ping
+date: 25/09/2018 07:52:18.249	code: Info	text: Connected by ('127.0.0.1', 3679) --> command: ping
+date: 25/09/2018 07:52:33.282	code: Info	text: Connected by ('127.0.0.1', 3684) --> command: ping
+date: 25/09/2018 07:52:48.331	code: Info	text: Connected by ('127.0.0.1', 3690) --> command: ping
+date: 25/09/2018 07:53:03.599	code: Info	text: Connected by ('127.0.0.1', 3697) --> command: ping
+date: 25/09/2018 07:53:20.273	code: Info	text: Connected by ('127.0.0.1', 3713) --> command: ping
+date: 25/09/2018 07:53:35.524	code: Info	text: Connected by ('127.0.0.1', 3720) --> command: ping
+date: 25/09/2018 07:53:50.490	code: Info	text: Connected by ('127.0.0.1', 3727) --> command: ping
+date: 25/09/2018 07:54:05.523	code: Info	text: Connected by ('127.0.0.1', 3732) --> command: ping
+date: 25/09/2018 07:54:20.556	code: Info	text: Connected by ('127.0.0.1', 3739) --> command: ping
+date: 25/09/2018 07:54:35.589	code: Info	text: Connected by ('127.0.0.1', 3752) --> command: ping
+date: 25/09/2018 07:54:50.622	code: Info	text: Connected by ('127.0.0.1', 3765) --> command: ping
+date: 25/09/2018 07:55:05.671	code: Info	text: Connected by ('127.0.0.1', 3778) --> command: ping
+date: 25/09/2018 07:55:20.751	code: Info	text: Connected by ('127.0.0.1', 3783) --> command: ping
+date: 25/09/2018 07:55:35.799	code: Info	text: Connected by ('127.0.0.1', 3788) --> command: ping
+date: 25/09/2018 07:55:50.832	code: Info	text: Connected by ('127.0.0.1', 3796) --> command: ping
+date: 25/09/2018 07:56:06.162	code: Info	text: Connected by ('127.0.0.1', 3816) --> command: ping
+date: 25/09/2018 07:56:21.445	code: Info	text: Connected by ('127.0.0.1', 3828) --> command: ping
+date: 25/09/2018 07:56:36.478	code: Info	text: Connected by ('127.0.0.1', 3833) --> command: ping
+date: 25/09/2018 07:56:51.527	code: Info	text: Connected by ('127.0.0.1', 3839) --> command: ping
+date: 25/09/2018 07:57:06.560	code: Info	text: Connected by ('127.0.0.1', 3844) --> command: ping
+date: 25/09/2018 07:57:21.593	code: Info	text: Connected by ('127.0.0.1', 3849) --> command: ping
+date: 25/09/2018 07:57:36.939	code: Info	text: Connected by ('127.0.0.1', 3860) --> command: ping
+date: 25/09/2018 07:57:52.410	code: Info	text: Connected by ('127.0.0.1', 3875) --> command: ping
+date: 25/09/2018 07:58:07.443	code: Info	text: Connected by ('127.0.0.1', 3880) --> command: ping
+date: 25/09/2018 07:58:22.491	code: Info	text: Connected by ('127.0.0.1', 3885) --> command: ping
+date: 25/09/2018 07:58:37.524	code: Info	text: Connected by ('127.0.0.1', 3890) --> command: ping
+date: 25/09/2018 07:58:52.542	code: Info	text: Connected by ('127.0.0.1', 3896) --> command: ping
+date: 25/09/2018 07:59:07.763	code: Info	text: Connected by ('127.0.0.1', 3903) --> command: ping
+date: 25/09/2018 07:59:23.530	code: Info	text: Connected by ('127.0.0.1', 3918) --> command: ping
+date: 25/09/2018 07:59:39.657	code: Info	text: Connected by ('127.0.0.1', 3934) --> command: ping
+date: 25/09/2018 07:59:55.596	code: Info	text: Connected by ('127.0.0.1', 3950) --> command: ping
+date: 25/09/2018 08:00:10.630	code: Info	text: Connected by ('127.0.0.1', 3955) --> command: ping
+date: 25/09/2018 08:00:25.678	code: Info	text: Connected by ('127.0.0.1', 3960) --> command: ping
+date: 25/09/2018 08:00:40.727	code: Info	text: Connected by ('127.0.0.1', 3965) --> command: ping
+date: 25/09/2018 08:00:55.760	code: Info	text: Connected by ('127.0.0.1', 3971) --> command: ping
+date: 25/09/2018 08:01:10.793	code: Info	text: Connected by ('127.0.0.1', 3977) --> command: ping
+date: 25/09/2018 08:01:25.920	code: Info	text: Connected by ('127.0.0.1', 3989) --> command: ping
+date: 25/09/2018 08:01:40.969	code: Info	text: Connected by ('127.0.0.1', 3999) --> command: ping
+date: 25/09/2018 08:01:56.033	code: Info	text: Connected by ('127.0.0.1', 4005) --> command: ping
+date: 25/09/2018 08:02:11.066	code: Info	text: Connected by ('127.0.0.1', 4010) --> command: ping
+date: 25/09/2018 08:02:26.099	code: Info	text: Connected by ('127.0.0.1', 4015) --> command: ping
+date: 25/09/2018 08:02:41.148	code: Info	text: Connected by ('127.0.0.1', 4020) --> command: ping
+date: 25/09/2018 08:02:56.197	code: Info	text: Connected by ('127.0.0.1', 4029) --> command: ping
+date: 25/09/2018 08:03:11.230	code: Info	text: Connected by ('127.0.0.1', 4044) --> command: ping
+date: 25/09/2018 08:03:26.263	code: Info	text: Connected by ('127.0.0.1', 4049) --> command: ping
+date: 25/09/2018 08:03:41.296	code: Info	text: Connected by ('127.0.0.1', 4054) --> command: ping
+date: 25/09/2018 08:03:56.210	code: Info	text: Connected by ('127.0.0.1', 4062) --> command: ping
+date: 25/09/2018 08:04:11.243	code: Info	text: Connected by ('127.0.0.1', 4067) --> command: ping
+date: 25/09/2018 08:04:26.276	code: Info	text: Connected by ('127.0.0.1', 4072) --> command: ping
+date: 25/09/2018 08:04:41.637	code: Info	text: Connected by ('127.0.0.1', 4079) --> command: ping
+date: 25/09/2018 08:04:57.123	code: Info	text: Connected by ('127.0.0.1', 4097) --> command: ping
+date: 25/09/2018 08:05:12.157	code: Info	text: Connected by ('127.0.0.1', 4102) --> command: ping
+date: 25/09/2018 08:05:27.190	code: Info	text: Connected by ('127.0.0.1', 4107) --> command: ping
+date: 25/09/2018 08:05:42.223	code: Info	text: Connected by ('127.0.0.1', 4112) --> command: ping
+date: 25/09/2018 08:05:57.240	code: Info	text: Connected by ('127.0.0.1', 4119) --> command: ping
+date: 25/09/2018 08:06:12.273	code: Info	text: Connected by ('127.0.0.1', 4124) --> command: ping
+date: 25/09/2018 08:06:27.509	code: Info	text: Connected by ('127.0.0.1', 4131) --> command: ping
+date: 25/09/2018 08:06:42.746	code: Info	text: Connected by ('127.0.0.1', 4149) --> command: ping
+date: 25/09/2018 08:06:57.794	code: Info	text: Connected by ('127.0.0.1', 4160) --> command: ping
+date: 25/09/2018 08:07:12.812	code: Info	text: Connected by ('127.0.0.1', 4165) --> command: ping
+date: 25/09/2018 08:07:27.861	code: Info	text: Connected by ('127.0.0.1', 4170) --> command: ping
+date: 25/09/2018 08:07:42.894	code: Info	text: Connected by ('127.0.0.1', 4175) --> command: ping
+date: 25/09/2018 08:07:57.927	code: Info	text: Connected by ('127.0.0.1', 4181) --> command: ping
+date: 25/09/2018 08:08:13.288	code: Info	text: Connected by ('127.0.0.1', 4188) --> command: ping
+date: 25/09/2018 08:08:30.056	code: Info	text: Connected by ('127.0.0.1', 4204) --> command: ping
+date: 25/09/2018 08:08:45.667	code: Info	text: Connected by ('127.0.0.1', 4223) --> command: ping
+date: 25/09/2018 08:09:00.762	code: Info	text: Connected by ('127.0.0.1', 4236) --> command: ping
+date: 25/09/2018 08:09:15.796	code: Info	text: Connected by ('127.0.0.1', 4241) --> command: ping
+date: 25/09/2018 08:09:30.829	code: Info	text: Connected by ('127.0.0.1', 4248) --> command: ping
+date: 25/09/2018 08:09:45.862	code: Info	text: Connected by ('127.0.0.1', 4253) --> command: ping
+date: 25/09/2018 08:10:00.895	code: Info	text: Connected by ('127.0.0.1', 4259) --> command: ping
+date: 25/09/2018 08:10:15.928	code: Info	text: Connected by ('127.0.0.1', 4264) --> command: ping
+date: 25/09/2018 08:10:31.273	code: Info	text: Connected by ('127.0.0.1', 4271) --> command: ping
+date: 25/09/2018 08:10:47.010	code: Info	text: Connected by ('127.0.0.1', 4287) --> command: ping
+date: 25/09/2018 08:11:02.043	code: Info	text: Connected by ('127.0.0.1', 4293) --> command: ping
+date: 25/09/2018 08:11:17.107	code: Info	text: Connected by ('127.0.0.1', 4298) --> command: ping
+date: 25/09/2018 08:11:32.172	code: Info	text: Connected by ('127.0.0.1', 4303) --> command: ping
+date: 25/09/2018 08:11:47.205	code: Info	text: Connected by ('127.0.0.1', 4308) --> command: ping
+date: 25/09/2018 08:12:02.253	code: Info	text: Connected by ('127.0.0.1', 4314) --> command: ping
+date: 25/09/2018 08:12:17.411	code: Info	text: Connected by ('127.0.0.1', 4321) --> command: ping
+date: 25/09/2018 08:12:33.351	code: Info	text: Connected by ('127.0.0.1', 4337) --> command: ping
+date: 25/09/2018 08:12:48.446	code: Info	text: Connected by ('127.0.0.1', 4343) --> command: ping
+date: 25/09/2018 08:13:03.511	code: Info	text: Connected by ('127.0.0.1', 4348) --> command: ping
+date: 25/09/2018 08:13:18.544	code: Info	text: Connected by ('127.0.0.1', 4353) --> command: ping
+date: 25/09/2018 08:13:33.593	code: Info	text: Connected by ('127.0.0.1', 4358) --> command: ping
+date: 25/09/2018 08:13:48.542	code: Info	text: Connected by ('127.0.0.1', 4365) --> command: ping
+date: 25/09/2018 08:14:03.793	code: Info	text: Connected by ('127.0.0.1', 4372) --> command: ping
+date: 25/09/2018 08:14:19.655	code: Info	text: Connected by ('127.0.0.1', 4388) --> command: ping
+date: 25/09/2018 08:14:34.719	code: Info	text: Connected by ('127.0.0.1', 4393) --> command: ping
+date: 25/09/2018 08:14:49.752	code: Info	text: Connected by ('127.0.0.1', 4399) --> command: ping
+date: 25/09/2018 08:15:04.785	code: Info	text: Connected by ('127.0.0.1', 4404) --> command: ping
+date: 25/09/2018 08:15:19.818	code: Info	text: Connected by ('127.0.0.1', 4409) --> command: ping
+date: 25/09/2018 08:15:34.836	code: Info	text: Connected by ('127.0.0.1', 4414) --> command: ping
+date: 25/09/2018 08:15:49.869	code: Info	text: Connected by ('127.0.0.1', 4420) --> command: ping
+date: 25/09/2018 08:16:05.168	code: Info	text: Connected by ('127.0.0.1', 4428) --> command: ping
+date: 25/09/2018 08:16:21.388	code: Info	text: Connected by ('127.0.0.1', 4446) --> command: ping
+date: 25/09/2018 08:16:36.546	code: Info	text: Connected by ('127.0.0.1', 4456) --> command: ping
+date: 25/09/2018 08:16:51.611	code: Info	text: Connected by ('127.0.0.1', 4462) --> command: ping
+date: 25/09/2018 08:17:06.691	code: Info	text: Connected by ('127.0.0.1', 4467) --> command: ping
+date: 25/09/2018 08:17:21.724	code: Info	text: Connected by ('127.0.0.1', 4472) --> command: ping
+date: 25/09/2018 08:17:36.757	code: Info	text: Connected by ('127.0.0.1', 4477) --> command: ping
+date: 25/09/2018 08:17:51.790	code: Info	text: Connected by ('127.0.0.1', 4483) --> command: ping
+date: 25/09/2018 08:18:06.823	code: Info	text: Connected by ('127.0.0.1', 4488) --> command: ping
+date: 25/09/2018 08:18:22.278	code: Info	text: Connected by ('127.0.0.1', 4505) --> command: ping
+date: 25/09/2018 08:18:37.655	code: Info	text: Connected by ('127.0.0.1', 4523) --> command: ping
+date: 25/09/2018 08:18:52.672	code: Info	text: Connected by ('127.0.0.1', 4537) --> command: ping
+date: 25/09/2018 08:19:07.705	code: Info	text: Connected by ('127.0.0.1', 4542) --> command: ping
+date: 25/09/2018 08:19:22.738	code: Info	text: Connected by ('127.0.0.1', 4547) --> command: ping
+date: 25/09/2018 08:19:37.771	code: Info	text: Connected by ('127.0.0.1', 4552) --> command: ping
+date: 25/09/2018 08:19:52.805	code: Info	text: Connected by ('127.0.0.1', 4558) --> command: ping
+date: 25/09/2018 08:20:07.838	code: Info	text: Connected by ('127.0.0.1', 4563) --> command: ping
+date: 25/09/2018 08:20:22.886	code: Info	text: Connected by ('127.0.0.1', 4568) --> command: ping
+date: 25/09/2018 08:20:38.013	code: Info	text: Connected by ('127.0.0.1', 4575) --> command: ping
+date: 25/09/2018 08:20:53.468	code: Info	text: Connected by ('127.0.0.1', 4588) --> command: ping
+date: 25/09/2018 08:21:08.501	code: Info	text: Connected by ('127.0.0.1', 4597) --> command: ping
+date: 25/09/2018 08:21:23.534	code: Info	text: Connected by ('127.0.0.1', 4602) --> command: ping
+date: 25/09/2018 08:21:38.567	code: Info	text: Connected by ('127.0.0.1', 4607) --> command: ping
+date: 25/09/2018 08:21:53.601	code: Info	text: Connected by ('127.0.0.1', 4613) --> command: ping
+date: 25/09/2018 08:22:08.634	code: Info	text: Connected by ('127.0.0.1', 4618) --> command: ping
+date: 25/09/2018 08:22:23.667	code: Info	text: Connected by ('127.0.0.1', 4623) --> command: ping
+date: 25/09/2018 08:22:38.700	code: Info	text: Connected by ('127.0.0.1', 4628) --> command: ping
+date: 25/09/2018 08:22:54.170	code: Info	text: Connected by ('127.0.0.1', 4641) --> command: ping
+date: 25/09/2018 08:23:10.344	code: Info	text: Connected by ('127.0.0.1', 4658) --> command: ping
+date: 25/09/2018 08:23:25.377	code: Info	text: Connected by ('127.0.0.1', 4665) --> command: ping
+date: 25/09/2018 08:23:40.457	code: Info	text: Connected by ('127.0.0.1', 4670) --> command: ping
+date: 25/09/2018 08:23:55.410	code: Info	text: Connected by ('127.0.0.1', 4677) --> command: ping
+date: 25/09/2018 08:24:10.444	code: Info	text: Connected by ('127.0.0.1', 4682) --> command: ping
+date: 25/09/2018 08:24:25.477	code: Info	text: Connected by ('127.0.0.1', 4689) --> command: ping
+date: 25/09/2018 08:24:40.510	code: Info	text: Connected by ('127.0.0.1', 4694) --> command: ping
+date: 25/09/2018 08:24:55.543	code: Info	text: Connected by ('127.0.0.1', 4700) --> command: ping
+date: 25/09/2018 08:25:10.998	code: Info	text: Connected by ('127.0.0.1', 4711) --> command: ping
+date: 25/09/2018 08:25:26.531	code: Info	text: Connected by ('127.0.0.1', 4723) --> command: ping
+date: 25/09/2018 08:25:41.564	code: Info	text: Connected by ('127.0.0.1', 4728) --> command: ping
+date: 25/09/2018 08:25:56.597	code: Info	text: Connected by ('127.0.0.1', 4734) --> command: ping
+date: 25/09/2018 08:26:11.630	code: Info	text: Connected by ('127.0.0.1', 4739) --> command: ping
+date: 25/09/2018 08:26:26.663	code: Info	text: Connected by ('127.0.0.1', 4744) --> command: ping
+date: 25/09/2018 08:26:41.696	code: Info	text: Connected by ('127.0.0.1', 4749) --> command: ping
+date: 25/09/2018 08:26:56.729	code: Info	text: Connected by ('127.0.0.1', 4755) --> command: ping
+date: 25/09/2018 08:27:11.934	code: Info	text: Connected by ('127.0.0.1', 4762) --> command: ping
+date: 25/09/2018 08:27:27.874	code: Info	text: Connected by ('127.0.0.1', 4780) --> command: ping
+date: 25/09/2018 08:27:42.907	code: Info	text: Connected by ('127.0.0.1', 4790) --> command: ping
+date: 25/09/2018 08:27:57.940	code: Info	text: Connected by ('127.0.0.1', 4797) --> command: ping
+date: 25/09/2018 08:28:12.973	code: Info	text: Connected by ('127.0.0.1', 4802) --> command: ping
+date: 25/09/2018 08:28:28.006	code: Info	text: Connected by ('127.0.0.1', 4807) --> command: ping
+date: 25/09/2018 08:28:43.039	code: Info	text: Connected by ('127.0.0.1', 4812) --> command: ping
+date: 25/09/2018 08:28:58.088	code: Info	text: Connected by ('127.0.0.1', 4818) --> command: ping
+date: 25/09/2018 08:29:13.121	code: Info	text: Connected by ('127.0.0.1', 4823) --> command: ping
+date: 25/09/2018 08:29:28.310	code: Info	text: Connected by ('127.0.0.1', 4830) --> command: ping
+date: 25/09/2018 08:29:44.781	code: Info	text: Connected by ('127.0.0.1', 4844) --> command: ping
+date: 25/09/2018 08:29:59.986	code: Info	text: Connected by ('127.0.0.1', 4852) --> command: ping
+date: 25/09/2018 08:30:15.019	code: Info	text: Connected by ('127.0.0.1', 4857) --> command: ping
+date: 25/09/2018 08:30:30.068	code: Info	text: Connected by ('127.0.0.1', 4862) --> command: ping
+date: 25/09/2018 08:30:45.101	code: Info	text: Connected by ('127.0.0.1', 4867) --> command: ping
+date: 25/09/2018 08:31:00.165	code: Info	text: Connected by ('127.0.0.1', 4873) --> command: ping
+date: 25/09/2018 08:31:15.198	code: Info	text: Connected by ('127.0.0.1', 4878) --> command: ping
+date: 25/09/2018 08:31:30.278	code: Info	text: Connected by ('127.0.0.1', 4883) --> command: ping
+date: 25/09/2018 08:31:45.311	code: Info	text: Connected by ('127.0.0.1', 4893) --> command: ping
+date: 25/09/2018 08:32:00.610	code: Info	text: Connected by ('127.0.0.1', 4908) --> command: ping
+date: 25/09/2018 08:32:15.659	code: Info	text: Connected by ('127.0.0.1', 4920) --> command: ping
+date: 25/09/2018 08:32:30.692	code: Info	text: Connected by ('127.0.0.1', 4925) --> command: ping
+date: 25/09/2018 08:32:45.725	code: Info	text: Connected by ('127.0.0.1', 4930) --> command: ping
+date: 25/09/2018 08:33:00.758	code: Info	text: Connected by ('127.0.0.1', 4936) --> command: ping
+date: 25/09/2018 08:33:15.791	code: Info	text: Connected by ('127.0.0.1', 4941) --> command: ping
+date: 25/09/2018 08:33:30.840	code: Info	text: Connected by ('127.0.0.1', 4946) --> command: ping
+date: 25/09/2018 08:33:45.873	code: Info	text: Connected by ('127.0.0.1', 4951) --> command: ping
+date: 25/09/2018 08:34:01.157	code: Info	text: Connected by ('127.0.0.1', 4960) --> command: ping
+date: 25/09/2018 08:34:17.127	code: Info	text: Connected by ('127.0.0.1', 4973) --> command: ping
+date: 25/09/2018 08:34:32.160	code: Info	text: Connected by ('127.0.0.1', 4981) --> command: ping
+date: 25/09/2018 08:34:47.240	code: Info	text: Connected by ('127.0.0.1', 4986) --> command: ping
+date: 25/09/2018 08:35:02.273	code: Info	text: Connected by ('127.0.0.1', 4992) --> command: ping
+date: 25/09/2018 08:35:17.307	code: Info	text: Connected by ('127.0.0.1', 4997) --> command: ping
+date: 25/09/2018 08:35:32.340	code: Info	text: Connected by ('127.0.0.1', 1027) --> command: ping
+date: 25/09/2018 08:35:47.373	code: Info	text: Connected by ('127.0.0.1', 1032) --> command: ping
+date: 25/09/2018 08:36:02.406	code: Info	text: Connected by ('127.0.0.1', 1040) --> command: ping
+date: 25/09/2018 08:36:17.658	code: Info	text: Connected by ('127.0.0.1', 1051) --> command: ping
+date: 25/09/2018 08:36:33.644	code: Info	text: Connected by ('127.0.0.1', 1072) --> command: ping
+date: 25/09/2018 08:36:48.786	code: Info	text: Connected by ('127.0.0.1', 1083) --> command: ping
+date: 25/09/2018 08:37:03.819	code: Info	text: Connected by ('127.0.0.1', 1088) --> command: ping
+date: 25/09/2018 08:37:18.853	code: Info	text: Connected by ('127.0.0.1', 1093) --> command: ping
+date: 25/09/2018 08:37:33.886	code: Info	text: Connected by ('127.0.0.1', 1098) --> command: ping
+date: 25/09/2018 08:37:48.934	code: Info	text: Connected by ('127.0.0.1', 1104) --> command: ping
+date: 25/09/2018 08:38:03.967	code: Info	text: Connected by ('127.0.0.1', 1109) --> command: ping
+date: 25/09/2018 08:38:19.001	code: Info	text: Connected by ('127.0.0.1', 1114) --> command: ping
+date: 25/09/2018 08:38:34.034	code: Info	text: Connected by ('127.0.0.1', 1121) --> command: ping
+date: 25/09/2018 08:38:49.067	code: Info	text: Connected by ('127.0.0.1', 1134) --> command: ping
+date: 25/09/2018 08:39:04.178	code: Info	text: Connected by ('127.0.0.1', 1140) --> command: ping
+date: 25/09/2018 08:39:40.370	code: Info	text: Connected by ('127.0.0.1', 1161) --> command: ping
+date: 25/09/2018 08:39:55.418	code: Info	text: Connected by ('127.0.0.1', 1174) --> command: ping
+date: 25/09/2018 08:40:10.452	code: Info	text: Connected by ('127.0.0.1', 1179) --> command: ping
+date: 25/09/2018 08:40:25.500	code: Info	text: Connected by ('127.0.0.1', 1184) --> command: ping
+date: 25/09/2018 08:40:40.533	code: Info	text: Connected by ('127.0.0.1', 1189) --> command: ping
+date: 25/09/2018 08:40:55.801	code: Info	text: Connected by ('127.0.0.1', 1197) --> command: ping
+date: 25/09/2018 08:41:11.084	code: Info	text: Connected by ('127.0.0.1', 1213) --> command: ping
+date: 25/09/2018 08:41:26.133	code: Info	text: Connected by ('127.0.0.1', 1218) --> command: ping
+date: 25/09/2018 08:41:41.166	code: Info	text: Connected by ('127.0.0.1', 1223) --> command: ping
+date: 25/09/2018 08:41:56.199	code: Info	text: Connected by ('127.0.0.1', 1229) --> command: ping
+date: 25/09/2018 08:42:11.247	code: Info	text: Connected by ('127.0.0.1', 1236) --> command: ping
+date: 25/09/2018 08:42:26.327	code: Info	text: Connected by ('127.0.0.1', 1248) --> command: ping
+date: 25/09/2018 08:42:41.361	code: Info	text: Connected by ('127.0.0.1', 1258) --> command: ping
+date: 25/09/2018 08:42:56.394	code: Info	text: Connected by ('127.0.0.1', 1265) --> command: ping
+date: 25/09/2018 08:43:11.442	code: Info	text: Connected by ('127.0.0.1', 1271) --> command: ping
+date: 25/09/2018 08:43:26.475	code: Info	text: Connected by ('127.0.0.1', 1276) --> command: ping
+date: 25/09/2018 08:43:41.759	code: Info	text: Connected by ('127.0.0.1', 1283) --> command: ping
+date: 25/09/2018 08:43:57.323	code: Info	text: Connected by ('127.0.0.1', 1301) --> command: ping
+date: 25/09/2018 08:44:12.356	code: Info	text: Connected by ('127.0.0.1', 1306) --> command: ping
+date: 25/09/2018 08:44:27.389	code: Info	text: Connected by ('127.0.0.1', 1311) --> command: ping
+date: 25/09/2018 08:44:42.422	code: Info	text: Connected by ('127.0.0.1', 1316) --> command: ping
+date: 25/09/2018 08:44:57.627	code: Info	text: Connected by ('127.0.0.1', 1325) --> command: ping
+date: 25/09/2018 08:45:13.254	code: Info	text: Connected by ('127.0.0.1', 1337) --> command: ping
+date: 25/09/2018 08:45:28.287	code: Info	text: Connected by ('127.0.0.1', 1346) --> command: ping
+date: 25/09/2018 08:45:43.336	code: Info	text: Connected by ('127.0.0.1', 1351) --> command: ping
+date: 25/09/2018 08:45:58.369	code: Info	text: Connected by ('127.0.0.1', 1357) --> command: ping
+date: 25/09/2018 08:46:13.402	code: Info	text: Connected by ('127.0.0.1', 1362) --> command: ping
+date: 25/09/2018 08:46:28.748	code: Info	text: Connected by ('127.0.0.1', 1370) --> command: ping
+date: 25/09/2018 08:46:43.781	code: Info	text: Connected by ('127.0.0.1', 1385) --> command: ping
+date: 25/09/2018 08:46:58.845	code: Info	text: Connected by ('127.0.0.1', 1391) --> command: ping
+date: 25/09/2018 08:47:13.878	code: Info	text: Connected by ('127.0.0.1', 1396) --> command: ping
+date: 25/09/2018 08:47:28.911	code: Info	text: Connected by ('127.0.0.1', 1401) --> command: ping
+date: 25/09/2018 08:47:44.319	code: Info	text: Connected by ('127.0.0.1', 1408) --> command: ping
+date: 25/09/2018 08:48:00.774	code: Info	text: Connected by ('127.0.0.1', 1423) --> command: ping
+date: 25/09/2018 08:48:16.026	code: Info	text: Connected by ('127.0.0.1', 1437) --> command: ping
+date: 25/09/2018 08:48:31.075	code: Info	text: Connected by ('127.0.0.1', 1442) --> command: ping
+date: 25/09/2018 08:48:46.108	code: Info	text: Connected by ('127.0.0.1', 1447) --> command: ping
+date: 25/09/2018 08:49:01.141	code: Info	text: Connected by ('127.0.0.1', 1453) --> command: ping
+date: 25/09/2018 08:49:16.299	code: Info	text: Connected by ('127.0.0.1', 1460) --> command: ping
+date: 25/09/2018 08:49:32.520	code: Info	text: Connected by ('127.0.0.1', 1474) --> command: ping
+date: 25/09/2018 08:49:47.975	code: Info	text: Connected by ('127.0.0.1', 1481) --> command: ping
+date: 25/09/2018 08:50:03.008	code: Info	text: Connected by ('127.0.0.1', 1487) --> command: ping
+date: 25/09/2018 08:50:18.041	code: Info	text: Connected by ('127.0.0.1', 1492) --> command: ping
+date: 25/09/2018 08:50:33.074	code: Info	text: Connected by ('127.0.0.1', 1497) --> command: ping
+date: 25/09/2018 08:50:48.107	code: Info	text: Connected by ('127.0.0.1', 1507) --> command: ping
+date: 25/09/2018 08:51:03.140	code: Info	text: Connected by ('127.0.0.1', 1521) --> command: ping
+date: 25/09/2018 08:51:18.173	code: Info	text: Connected by ('127.0.0.1', 1526) --> command: ping
+date: 25/09/2018 08:51:33.222	code: Info	text: Connected by ('127.0.0.1', 1531) --> command: ping
+date: 25/09/2018 08:51:48.287	code: Info	text: Connected by ('127.0.0.1', 1537) --> command: ping
+date: 25/09/2018 08:52:03.320	code: Info	text: Connected by ('127.0.0.1', 1545) --> command: ping
+date: 25/09/2018 08:52:18.353	code: Info	text: Connected by ('127.0.0.1', 1557) --> command: ping
+date: 25/09/2018 08:52:33.386	code: Info	text: Connected by ('127.0.0.1', 1567) --> command: ping
+date: 25/09/2018 08:52:48.419	code: Info	text: Connected by ('127.0.0.1', 1574) --> command: ping
+date: 25/09/2018 08:53:03.436	code: Info	text: Connected by ('127.0.0.1', 1579) --> command: ping
+date: 25/09/2018 08:53:18.485	code: Info	text: Connected by ('127.0.0.1', 1584) --> command: ping
+date: 25/09/2018 08:53:33.784	code: Info	text: Connected by ('127.0.0.1', 1591) --> command: ping
+date: 25/09/2018 08:53:49.770	code: Info	text: Connected by ('127.0.0.1', 1608) --> command: ping
+date: 25/09/2018 08:54:04.987	code: Info	text: Connected by ('127.0.0.1', 1614) --> command: ping
+date: 25/09/2018 08:54:20.020	code: Info	text: Connected by ('127.0.0.1', 1619) --> command: ping
+date: 25/09/2018 08:54:35.069	code: Info	text: Connected by ('127.0.0.1', 1627) --> command: ping
+date: 25/09/2018 08:54:50.102	code: Info	text: Connected by ('127.0.0.1', 1633) --> command: ping
+date: 25/09/2018 08:55:05.479	code: Info	text: Connected by ('127.0.0.1', 1644) --> command: ping
+date: 25/09/2018 08:55:21.387	code: Info	text: Connected by ('127.0.0.1', 1656) --> command: ping
+date: 25/09/2018 08:55:36.420	code: Info	text: Connected by ('127.0.0.1', 1661) --> command: ping
+date: 25/09/2018 08:55:51.453	code: Info	text: Connected by ('127.0.0.1', 1667) --> command: ping
+date: 25/09/2018 08:56:06.487	code: Info	text: Connected by ('127.0.0.1', 1672) --> command: ping
+date: 25/09/2018 08:56:21.723	code: Info	text: Connected by ('127.0.0.1', 1679) --> command: ping
+date: 25/09/2018 08:56:37.818	code: Info	text: Connected by ('127.0.0.1', 1693) --> command: ping
+date: 25/09/2018 08:56:53.758	code: Info	text: Connected by ('127.0.0.1', 1701) --> command: ping
+date: 25/09/2018 08:57:08.791	code: Info	text: Connected by ('127.0.0.1', 1706) --> command: ping
+date: 25/09/2018 08:57:23.824	code: Info	text: Connected by ('127.0.0.1', 1711) --> command: ping
+date: 25/09/2018 08:57:38.857	code: Info	text: Connected by ('127.0.0.1', 1716) --> command: ping
+date: 25/09/2018 08:57:54.125	code: Info	text: Connected by ('127.0.0.1', 1724) --> command: ping
+date: 25/09/2018 08:58:09.689	code: Info	text: Connected by ('127.0.0.1', 1742) --> command: ping
+date: 25/09/2018 08:58:24.722	code: Info	text: Connected by ('127.0.0.1', 1752) --> command: ping
+date: 25/09/2018 08:58:39.755	code: Info	text: Connected by ('127.0.0.1', 1757) --> command: ping
+date: 25/09/2018 08:58:54.788	code: Info	text: Connected by ('127.0.0.1', 1763) --> command: ping
+date: 25/09/2018 08:59:09.821	code: Info	text: Connected by ('127.0.0.1', 1768) --> command: ping
+date: 25/09/2018 08:59:25.011	code: Info	text: Connected by ('127.0.0.1', 1775) --> command: ping
+date: 25/09/2018 08:59:41.231	code: Info	text: Connected by ('127.0.0.1', 1789) --> command: ping
+date: 25/09/2018 08:59:57.186	code: Info	text: Connected by ('127.0.0.1', 1797) --> command: ping
+date: 25/09/2018 09:00:12.235	code: Info	text: Connected by ('127.0.0.1', 1802) --> command: ping
+date: 25/09/2018 09:00:27.268	code: Info	text: Connected by ('127.0.0.1', 1807) --> command: ping
+date: 25/09/2018 09:00:42.333	code: Info	text: Connected by ('127.0.0.1', 1812) --> command: ping
+date: 25/09/2018 09:00:57.366	code: Info	text: Connected by ('127.0.0.1', 1821) --> command: ping
+date: 25/09/2018 09:01:12.399	code: Info	text: Connected by ('127.0.0.1', 1836) --> command: ping
+date: 25/09/2018 09:01:27.432	code: Info	text: Connected by ('127.0.0.1', 1841) --> command: ping
+date: 25/09/2018 09:01:42.481	code: Info	text: Connected by ('127.0.0.1', 1846) --> command: ping
+date: 25/09/2018 09:01:57.514	code: Info	text: Connected by ('127.0.0.1', 1852) --> command: ping
+date: 25/09/2018 09:02:12.562	code: Info	text: Connected by ('127.0.0.1', 1857) --> command: ping
+date: 25/09/2018 09:02:28.205	code: Info	text: Connected by ('127.0.0.1', 1868) --> command: ping
+date: 25/09/2018 09:02:44.254	code: Info	text: Connected by ('127.0.0.1', 1880) --> command: ping
+date: 25/09/2018 09:02:59.287	code: Info	text: Connected by ('127.0.0.1', 1886) --> command: ping
+date: 25/09/2018 09:03:14.335	code: Info	text: Connected by ('127.0.0.1', 1891) --> command: ping
+date: 25/09/2018 09:03:29.369	code: Info	text: Connected by ('127.0.0.1', 1896) --> command: ping
+date: 25/09/2018 09:03:44.402	code: Info	text: Connected by ('127.0.0.1', 1902) --> command: ping
+date: 25/09/2018 09:03:59.337	code: Info	text: Connected by ('127.0.0.1', 1917) --> command: ping
+date: 25/09/2018 09:04:14.370	code: Info	text: Connected by ('127.0.0.1', 1927) --> command: ping
+date: 25/09/2018 09:04:29.403	code: Info	text: Connected by ('127.0.0.1', 1932) --> command: ping
+date: 25/09/2018 09:04:44.436	code: Info	text: Connected by ('127.0.0.1', 1938) --> command: ping
+date: 25/09/2018 09:04:59.469	code: Info	text: Connected by ('127.0.0.1', 1944) --> command: ping
+date: 25/09/2018 09:05:14.690	code: Info	text: Connected by ('127.0.0.1', 1951) --> command: ping
+date: 25/09/2018 09:05:30.629	code: Info	text: Connected by ('127.0.0.1', 1964) --> command: ping
+date: 25/09/2018 09:05:45.662	code: Info	text: Connected by ('127.0.0.1', 1972) --> command: ping
+date: 25/09/2018 09:06:00.695	code: Info	text: Connected by ('127.0.0.1', 1978) --> command: ping
+date: 25/09/2018 09:06:15.728	code: Info	text: Connected by ('127.0.0.1', 1983) --> command: ping
+date: 25/09/2018 09:06:30.762	code: Info	text: Connected by ('127.0.0.1', 1988) --> command: ping
+date: 25/09/2018 09:06:45.951	code: Info	text: Connected by ('127.0.0.1', 1995) --> command: ping
+date: 25/09/2018 09:07:01.687	code: Info	text: Connected by ('127.0.0.1', 2010) --> command: ping
+date: 25/09/2018 09:07:17.642	code: Info	text: Connected by ('127.0.0.1', 2017) --> command: ping
+date: 25/09/2018 09:07:32.675	code: Info	text: Connected by ('127.0.0.1', 2022) --> command: ping
+date: 25/09/2018 09:07:47.708	code: Info	text: Connected by ('127.0.0.1', 2027) --> command: ping
+date: 25/09/2018 09:08:02.773	code: Info	text: Connected by ('127.0.0.1', 2033) --> command: ping
+date: 25/09/2018 09:08:18.118	code: Info	text: Connected by ('127.0.0.1', 2040) --> command: ping
+date: 25/09/2018 09:08:33.464	code: Info	text: Connected by ('127.0.0.1', 2056) --> command: ping
+date: 25/09/2018 09:08:48.497	code: Info	text: Connected by ('127.0.0.1', 2062) --> command: ping
+date: 25/09/2018 09:09:03.530	code: Info	text: Connected by ('127.0.0.1', 2067) --> command: ping
+date: 25/09/2018 09:09:18.563	code: Info	text: Connected by ('127.0.0.1', 2072) --> command: ping
+date: 25/09/2018 09:09:33.596	code: Info	text: Connected by ('127.0.0.1', 2081) --> command: ping
+date: 25/09/2018 09:09:48.629	code: Info	text: Connected by ('127.0.0.1', 2091) --> command: ping
+date: 25/09/2018 09:10:03.662	code: Info	text: Connected by ('127.0.0.1', 2105) --> command: ping
+date: 25/09/2018 09:10:18.695	code: Info	text: Connected by ('127.0.0.1', 2110) --> command: ping
+date: 25/09/2018 09:10:33.729	code: Info	text: Connected by ('127.0.0.1', 2115) --> command: ping
+date: 25/09/2018 09:10:48.762	code: Info	text: Connected by ('127.0.0.1', 2121) --> command: ping
+date: 25/09/2018 09:11:03.795	code: Info	text: Connected by ('127.0.0.1', 2126) --> command: ping
+date: 25/09/2018 09:11:19.156	code: Info	text: Connected by ('127.0.0.1', 2137) --> command: ping
+date: 25/09/2018 09:11:34.783	code: Info	text: Connected by ('127.0.0.1', 2149) --> command: ping
+date: 25/09/2018 09:11:49.816	code: Info	text: Connected by ('127.0.0.1', 2155) --> command: ping
+date: 25/09/2018 09:12:04.849	code: Info	text: Connected by ('127.0.0.1', 2160) --> command: ping
+date: 25/09/2018 09:12:19.882	code: Info	text: Connected by ('127.0.0.1', 2165) --> command: ping
+date: 25/09/2018 09:12:34.931	code: Info	text: Connected by ('127.0.0.1', 2170) --> command: ping
+date: 25/09/2018 09:12:50.167	code: Info	text: Connected by ('127.0.0.1', 2182) --> command: ping
+date: 25/09/2018 09:13:05.622	code: Info	text: Connected by ('127.0.0.1', 2194) --> command: ping
+date: 25/09/2018 09:13:20.655	code: Info	text: Connected by ('127.0.0.1', 2199) --> command: ping
+date: 25/09/2018 09:13:35.688	code: Info	text: Connected by ('127.0.0.1', 2204) --> command: ping
+date: 25/09/2018 09:13:50.721	code: Info	text: Connected by ('127.0.0.1', 2210) --> command: ping
+date: 25/09/2018 09:14:05.661	code: Info	text: Connected by ('127.0.0.1', 2216) --> command: ping
+date: 25/09/2018 09:14:21.210	code: Info	text: Connected by ('127.0.0.1', 2227) --> command: ping
+date: 25/09/2018 09:14:37.165	code: Info	text: Connected by ('127.0.0.1', 2239) --> command: ping
+date: 25/09/2018 09:14:52.198	code: Info	text: Connected by ('127.0.0.1', 2245) --> command: ping
+date: 25/09/2018 09:15:07.231	code: Info	text: Connected by ('127.0.0.1', 2250) --> command: ping
+date: 25/09/2018 09:15:22.264	code: Info	text: Connected by ('127.0.0.1', 2255) --> command: ping
+date: 25/09/2018 09:15:37.297	code: Info	text: Connected by ('127.0.0.1', 2260) --> command: ping
+date: 25/09/2018 09:15:52.674	code: Info	text: Connected by ('127.0.0.1', 2272) --> command: ping
+date: 25/09/2018 09:16:08.504	code: Info	text: Connected by ('127.0.0.1', 2285) --> command: ping
+date: 25/09/2018 09:16:23.553	code: Info	text: Connected by ('127.0.0.1', 2290) --> command: ping
+date: 25/09/2018 09:16:38.602	code: Info	text: Connected by ('127.0.0.1', 2295) --> command: ping
+date: 25/09/2018 09:16:53.682	code: Info	text: Connected by ('127.0.0.1', 2301) --> command: ping
+date: 25/09/2018 09:17:08.730	code: Info	text: Connected by ('127.0.0.1', 2306) --> command: ping
+date: 25/09/2018 09:17:23.763	code: Info	text: Connected by ('127.0.0.1', 2315) --> command: ping
+date: 25/09/2018 09:17:38.797	code: Info	text: Connected by ('127.0.0.1', 2329) --> command: ping
+date: 25/09/2018 09:17:53.830	code: Info	text: Connected by ('127.0.0.1', 2335) --> command: ping
+date: 25/09/2018 09:18:08.863	code: Info	text: Connected by ('127.0.0.1', 2340) --> command: ping
+date: 25/09/2018 09:18:23.896	code: Info	text: Connected by ('127.0.0.1', 2356) --> command: ping
+date: 25/09/2018 09:18:38.929	code: Info	text: Connected by ('127.0.0.1', 2361) --> command: ping
+date: 25/09/2018 09:18:54.321	code: Info	text: Connected by ('127.0.0.1', 2369) --> command: ping
+date: 25/09/2018 09:19:10.839	code: Info	text: Connected by ('127.0.0.1', 2383) --> command: ping
+date: 25/09/2018 09:19:26.372	code: Info	text: Connected by ('127.0.0.1', 2390) --> command: ping
+date: 25/09/2018 09:19:41.405	code: Info	text: Connected by ('127.0.0.1', 2395) --> command: ping
+date: 25/09/2018 09:19:56.470	code: Info	text: Connected by ('127.0.0.1', 2401) --> command: ping
+date: 25/09/2018 09:20:11.503	code: Info	text: Connected by ('127.0.0.1', 2406) --> command: ping
+date: 25/09/2018 09:20:26.551	code: Info	text: Connected by ('127.0.0.1', 2413) --> command: ping
+date: 25/09/2018 09:20:41.834	code: Info	text: Connected by ('127.0.0.1', 2424) --> command: ping
+date: 25/09/2018 09:20:57.024	code: Info	text: Connected by ('127.0.0.1', 2435) --> command: ping
+date: 25/09/2018 09:21:12.057	code: Info	text: Connected by ('127.0.0.1', 2440) --> command: ping
+date: 25/09/2018 09:21:27.152	code: Info	text: Connected by ('127.0.0.1', 2445) --> command: ping
+date: 25/09/2018 09:21:42.186	code: Info	text: Connected by ('127.0.0.1', 2450) --> command: ping
+date: 25/09/2018 09:21:57.219	code: Info	text: Connected by ('127.0.0.1', 2456) --> command: ping
+date: 25/09/2018 09:22:12.330	code: Info	text: Connected by ('127.0.0.1', 2465) --> command: ping
+date: 25/09/2018 09:22:27.363	code: Info	text: Connected by ('127.0.0.1', 2479) --> command: ping
+date: 25/09/2018 09:22:42.412	code: Info	text: Connected by ('127.0.0.1', 2484) --> command: ping
+date: 25/09/2018 09:22:57.445	code: Info	text: Connected by ('127.0.0.1', 2490) --> command: ping
+date: 25/09/2018 09:23:12.478	code: Info	text: Connected by ('127.0.0.1', 2495) --> command: ping
+date: 25/09/2018 09:23:27.511	code: Info	text: Connected by ('127.0.0.1', 2500) --> command: ping
+date: 25/09/2018 09:23:42.825	code: Info	text: Connected by ('127.0.0.1', 2507) --> command: ping
+date: 25/09/2018 09:23:58.549	code: Info	text: Connected by ('127.0.0.1', 2522) --> command: ping
+date: 25/09/2018 09:24:13.598	code: Info	text: Connected by ('127.0.0.1', 2530) --> command: ping
+date: 25/09/2018 09:24:28.631	code: Info	text: Connected by ('127.0.0.1', 2538) --> command: ping
+date: 25/09/2018 09:24:43.679	code: Info	text: Connected by ('127.0.0.1', 2543) --> command: ping
+date: 25/09/2018 09:24:58.713	code: Info	text: Connected by ('127.0.0.1', 2549) --> command: ping
+date: 25/09/2018 09:25:13.918	code: Info	text: Connected by ('127.0.0.1', 2556) --> command: ping
+date: 25/09/2018 09:25:29.576	code: Info	text: Connected by ('127.0.0.1', 2568) --> command: ping
+date: 25/09/2018 09:25:44.609	code: Info	text: Connected by ('127.0.0.1', 2577) --> command: ping
+date: 25/09/2018 09:25:59.642	code: Info	text: Connected by ('127.0.0.1', 2583) --> command: ping
+date: 25/09/2018 09:26:14.675	code: Info	text: Connected by ('127.0.0.1', 2588) --> command: ping
+date: 25/09/2018 09:26:29.708	code: Info	text: Connected by ('127.0.0.1', 2593) --> command: ping
+date: 25/09/2018 09:26:44.741	code: Info	text: Connected by ('127.0.0.1', 2598) --> command: ping
+date: 25/09/2018 09:27:00.024	code: Info	text: Connected by ('127.0.0.1', 2606) --> command: ping
+date: 25/09/2018 09:27:15.120	code: Info	text: Connected by ('127.0.0.1', 2617) --> command: ping
+date: 25/09/2018 09:27:53.421	code: Info	text: Connected by ('127.0.0.1', 2631) --> command: ping
+date: 25/09/2018 09:28:08.439	code: Info	text: Connected by ('127.0.0.1', 2637) --> command: ping
+date: 25/09/2018 09:28:23.472	code: Info	text: Connected by ('127.0.0.1', 2642) --> command: ping
+date: 25/09/2018 09:28:38.505	code: Info	text: Connected by ('127.0.0.1', 2647) --> command: ping
+date: 25/09/2018 09:28:53.538	code: Info	text: Connected by ('127.0.0.1', 2653) --> command: ping
+date: 25/09/2018 09:29:08.571	code: Info	text: Connected by ('127.0.0.1', 2658) --> command: ping
+date: 25/09/2018 09:29:23.604	code: Info	text: Connected by ('127.0.0.1', 2663) --> command: ping
+date: 25/09/2018 09:29:38.637	code: Info	text: Connected by ('127.0.0.1', 2668) --> command: ping
+date: 25/09/2018 09:29:53.827	code: Info	text: Connected by ('127.0.0.1', 2676) --> command: ping
+date: 25/09/2018 09:30:09.969	code: Info	text: Connected by ('127.0.0.1', 2692) --> command: ping
+date: 25/09/2018 09:30:25.362	code: Info	text: Connected by ('127.0.0.1', 2704) --> command: ping
+date: 25/09/2018 09:30:40.395	code: Info	text: Connected by ('127.0.0.1', 2709) --> command: ping
+date: 25/09/2018 09:30:55.428	code: Info	text: Connected by ('127.0.0.1', 2715) --> command: ping
+date: 25/09/2018 09:31:10.461	code: Info	text: Connected by ('127.0.0.1', 2720) --> command: ping
+date: 25/09/2018 09:31:25.494	code: Info	text: Connected by ('127.0.0.1', 2725) --> command: ping
+date: 25/09/2018 09:31:40.558	code: Info	text: Connected by ('127.0.0.1', 2730) --> command: ping
+date: 25/09/2018 09:31:55.591	code: Info	text: Connected by ('127.0.0.1', 2736) --> command: ping
+date: 25/09/2018 09:32:10.624	code: Info	text: Connected by ('127.0.0.1', 2741) --> command: ping
+date: 25/09/2018 09:32:26.017	code: Info	text: Connected by ('127.0.0.1', 2748) --> command: ping
+date: 25/09/2018 09:32:41.784	code: Info	text: Connected by ('127.0.0.1', 2764) --> command: ping
+date: 25/09/2018 09:32:56.818	code: Info	text: Connected by ('127.0.0.1', 2770) --> command: ping
+date: 25/09/2018 09:33:11.851	code: Info	text: Connected by ('127.0.0.1', 2788) --> command: ping
+date: 25/09/2018 09:33:26.884	code: Info	text: Connected by ('127.0.0.1', 2793) --> command: ping
+date: 25/09/2018 09:33:41.917	code: Info	text: Connected by ('127.0.0.1', 2798) --> command: ping
+date: 25/09/2018 09:33:56.872	code: Info	text: Connected by ('127.0.0.1', 2805) --> command: ping
+date: 25/09/2018 09:34:11.905	code: Info	text: Connected by ('127.0.0.1', 2810) --> command: ping
+date: 25/09/2018 09:34:26.938	code: Info	text: Connected by ('127.0.0.1', 2815) --> command: ping
+date: 25/09/2018 09:34:42.143	code: Info	text: Connected by ('127.0.0.1', 2822) --> command: ping
+date: 25/09/2018 09:34:57.911	code: Info	text: Connected by ('127.0.0.1', 2836) --> command: ping
+date: 25/09/2018 09:35:12.944	code: Info	text: Connected by ('127.0.0.1', 2853) --> command: ping
+date: 25/09/2018 09:35:27.977	code: Info	text: Connected by ('127.0.0.1', 2870) --> command: ping
+date: 25/09/2018 09:35:43.010	code: Info	text: Connected by ('127.0.0.1', 2875) --> command: ping
+date: 25/09/2018 09:35:58.043	code: Info	text: Connected by ('127.0.0.1', 2881) --> command: ping
+date: 25/09/2018 09:36:13.092	code: Info	text: Connected by ('127.0.0.1', 2886) --> command: ping
+date: 25/09/2018 09:36:28.125	code: Info	text: Connected by ('127.0.0.1', 2891) --> command: ping
+date: 25/09/2018 09:36:43.143	code: Info	text: Connected by ('127.0.0.1', 2896) --> command: ping
+date: 25/09/2018 09:36:58.176	code: Info	text: Connected by ('127.0.0.1', 2902) --> command: ping
+date: 25/09/2018 09:37:13.209	code: Info	text: Connected by ('127.0.0.1', 2907) --> command: ping
+date: 25/09/2018 09:37:28.242	code: Info	text: Connected by ('127.0.0.1', 2912) --> command: ping
+date: 25/09/2018 09:37:43.275	code: Info	text: Connected by ('127.0.0.1', 2922) --> command: ping
+date: 25/09/2018 09:37:58.308	code: Info	text: Connected by ('127.0.0.1', 2928) --> command: ping
+date: 25/09/2018 09:38:13.341	code: Info	text: Connected by ('127.0.0.1', 2933) --> command: ping
+date: 25/09/2018 09:38:28.390	code: Info	text: Connected by ('127.0.0.1', 2938) --> command: ping
+date: 25/09/2018 09:38:43.423	code: Info	text: Connected by ('127.0.0.1', 2943) --> command: ping
+date: 25/09/2018 09:38:58.456	code: Info	text: Connected by ('127.0.0.1', 2955) --> command: ping
+date: 25/09/2018 09:39:39.289	code: Info	text: Connected by ('127.0.0.1', 2968) --> command: side_A_is_open
+date: 25/09/2018 09:39:41.320	code: Info	text: 	COM4 connected.
+date: 25/09/2018 09:39:41.320	code: Info	text: 	Status: 0OONA
+date: 25/09/2018 09:39:41.336	code: Info	text: 	TimeOut: False
+date: 25/09/2018 09:39:41.336	code: Info	text: 	Safe mode: False
+date: 25/09/2018 09:39:41.336	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 09:39:41.336	code: Info	text: 	Dome Side A is open: True
+date: 25/09/2018 09:39:41.336	code: Info	text: 	Dome Side B is open: True
+date: 25/09/2018 09:39:41.336	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 09:39:44.336	code: Info	text: Connected by ('127.0.0.1', 2969) --> command: close_side_A
+date: 25/09/2018 09:39:46.368	code: Info	text: 	COM4 connected.
+date: 25/09/2018 09:39:46.368	code: Info	text: 	Status: 0OONA
+date: 25/09/2018 09:39:46.368	code: Info	text: 	TimeOut: False
+date: 25/09/2018 09:39:46.368	code: Info	text: 	Safe mode: False
+date: 25/09/2018 09:39:46.368	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 09:39:46.368	code: Info	text: 	Dome Side A is open: True
+date: 25/09/2018 09:39:46.368	code: Info	text: 	Dome Side B is open: True
+date: 25/09/2018 09:39:46.368	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 09:39:49.384	code: Info	text: Connected by ('127.0.0.1', 2971) --> command: side_A_is_open
+date: 25/09/2018 09:39:51.400	code: Info	text: 	COM4 connected.
+date: 25/09/2018 09:39:51.415	code: Info	text: 	Status: 0HOCA
+date: 25/09/2018 09:39:51.415	code: Info	text: 	TimeOut: False
+date: 25/09/2018 09:39:51.415	code: Info	text: 	Safe mode: False
+date: 25/09/2018 09:39:51.415	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 09:39:51.415	code: Info	text: 	Dome Side A is open: False
+date: 25/09/2018 09:39:51.415	code: Info	text: 	Dome Side B is open: True
+date: 25/09/2018 09:39:51.415	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 09:39:54.416	code: Info	text: Connected by ('127.0.0.1', 2973) --> command: side_A_is_open
+date: 25/09/2018 09:39:56.447	code: Info	text: 	COM4 connected.
+date: 25/09/2018 09:39:56.447	code: Info	text: 	Status: 0HOCA
+date: 25/09/2018 09:39:56.447	code: Info	text: 	TimeOut: False
+date: 25/09/2018 09:39:56.447	code: Info	text: 	Safe mode: False
+date: 25/09/2018 09:39:56.447	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 09:39:56.447	code: Info	text: 	Dome Side A is open: False
+date: 25/09/2018 09:39:56.447	code: Info	text: 	Dome Side B is open: True
+date: 25/09/2018 09:39:56.447	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 09:40:02.464	code: Info	text: Connected by ('127.0.0.1', 2974) --> command: side_B_is_open
+date: 25/09/2018 09:40:04.495	code: Info	text: 	COM4 connected.
+date: 25/09/2018 09:40:04.495	code: Info	text: 	Status: 0CONA
+date: 25/09/2018 09:40:04.495	code: Info	text: 	TimeOut: False
+date: 25/09/2018 09:40:04.495	code: Info	text: 	Safe mode: False
+date: 25/09/2018 09:40:04.495	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 09:40:04.495	code: Info	text: 	Dome Side A is open: False
+date: 25/09/2018 09:40:04.495	code: Info	text: 	Dome Side B is open: True
+date: 25/09/2018 09:40:04.495	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 09:40:07.511	code: Info	text: Connected by ('127.0.0.1', 2975) --> command: close_side_B
+date: 25/09/2018 09:40:09.527	code: Info	text: 	COM4 connected.
+date: 25/09/2018 09:40:09.543	code: Info	text: 	Status: 0CONA
+date: 25/09/2018 09:40:09.543	code: Info	text: 	TimeOut: False
+date: 25/09/2018 09:40:09.543	code: Info	text: 	Safe mode: False
+date: 25/09/2018 09:40:09.543	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 09:40:09.543	code: Info	text: 	Dome Side A is open: False
+date: 25/09/2018 09:40:09.543	code: Info	text: 	Dome Side B is open: True
+date: 25/09/2018 09:40:09.543	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 09:40:11.262	code: Info	text: Connected by ('127.0.0.1', 2976) --> command: ping
+date: 25/09/2018 09:40:12.543	code: Info	text: Connected by ('127.0.0.1', 2981) --> command: side_B_is_open
+date: 25/09/2018 09:40:14.574	code: Info	text: 	COM4 connected.
+date: 25/09/2018 09:40:14.574	code: Info	text: 	Status: 0CHCA
+date: 25/09/2018 09:40:14.574	code: Info	text: 	TimeOut: False
+date: 25/09/2018 09:40:14.574	code: Info	text: 	Safe mode: False
+date: 25/09/2018 09:40:14.574	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 09:40:14.574	code: Info	text: 	Dome Side A is open: False
+date: 25/09/2018 09:40:14.574	code: Info	text: 	Dome Side B is open: False
+date: 25/09/2018 09:40:14.574	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 09:40:17.590	code: Info	text: Connected by ('127.0.0.1', 2982) --> command: side_B_is_open
+date: 25/09/2018 09:40:19.606	code: Info	text: 	COM4 connected.
+date: 25/09/2018 09:40:19.622	code: Info	text: 	Status: 0CHCA
+date: 25/09/2018 09:40:19.622	code: Info	text: 	TimeOut: False
+date: 25/09/2018 09:40:19.622	code: Info	text: 	Safe mode: False
+date: 25/09/2018 09:40:19.622	code: Info	text: 	Automatic mode: True
+date: 25/09/2018 09:40:19.622	code: Info	text: 	Dome Side A is open: False
+date: 25/09/2018 09:40:19.622	code: Info	text: 	Dome Side B is open: False
+date: 25/09/2018 09:40:19.622	code: Info	text: 	Keepalive interval: 60.00
+date: 25/09/2018 09:40:34.624	code: Info	text: Connected by ('127.0.0.1', 2983) --> command: ping
+date: 25/09/2018 09:40:49.657	code: Info	text: Connected by ('127.0.0.1', 2989) --> command: ping
+date: 25/09/2018 09:41:04.690	code: Info	text: Connected by ('127.0.0.1', 2994) --> command: ping
+date: 25/09/2018 09:41:19.739	code: Info	text: Connected by ('127.0.0.1', 2999) --> command: ping
+date: 25/09/2018 09:41:34.772	code: Info	text: Connected by ('127.0.0.1', 3004) --> command: ping
+date: 25/09/2018 09:41:49.805	code: Info	text: Connected by ('127.0.0.1', 3010) --> command: ping
+date: 25/09/2018 09:41:54.212	code: Info	text: Connected by ('127.0.0.1', 3019) --> command: shutdown
