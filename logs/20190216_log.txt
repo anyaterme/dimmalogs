@@ -443,3 +443,24 @@ CODE:OT:VIVALDI	Date:2019-02-16 20:20:32.694000	Hum:54.6000	WS:9.9000	DewPoint:0
 16/02/2019 20:20:52.862	Debg	---------------- Star Selection -------------
 16/02/2019 20:20:52.877	Debg	---------------------------------------------
 16/02/2019 20:20:52.877	Info	Seleccionando estella...
+16/02/2019 20:23:46.038	Info	Estella seleccionada --> Mirfak
+	airmass: 1.136687
+	ha hours: hms_tuple(h=1.0, m=36.0, s=49.31048482684858)
+	ra: 3.427967
+	dec: 49.928948
+16/02/2019 20:23:46.038	Info	*** Tiempo seleccion de estrella: 173.16 ***
+16/02/2019 20:23:46.038	Debg	---------------------------------------------
+16/02/2019 20:23:46.038	Debg	-------------- Check spots ------------------
+16/02/2019 20:23:46.038	Debg	---------------------------------------------
+16/02/2019 20:23:46.038	Info	Centrando spots...
+16/02/2019 20:23:49.685	Info	Intento 0
+16/02/2019 20:23:54.844	Info	DX fuera de rango (dx: 52.0 - min: 30.0 - max: 52.0)
+16/02/2019 20:23:54.844	Info	Moviendo telescopio...
+16/02/2019 20:23:57.727	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+16/02/2019 20:23:57.727	Info	Intento 1
+16/02/2019 20:24:00.190	Info	Maximos fuera de rango (diff: 78.20249999999999 - nsigma: 27.2363667264068)
+16/02/2019 20:24:00.190	Info	Moviendo telescopio...
+16/02/2019 20:24:03.822	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+16/02/2019 20:24:03.822	Info	Intento 2
+16/02/2019 20:24:07.609	Info	DX fuera de rango (dx: 94.0 - min: 30.0 - max: 52.0)
+16/02/2019 20:24:07.609	Info	Moviendo telescopio...
