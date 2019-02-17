@@ -814,3 +814,14 @@ date: 17/02/2019 01:03:35.901	code: Info	text: Connected by ('127.0.0.1', 3529) 
 date: 17/02/2019 01:46:56.754	code: Info	text: Dome Server started at port 3350....
 date: 17/02/2019 01:46:57.237	code: Info	text: Starting keepalive... (localhost:3330)
 date: 17/02/2019 01:46:58.186	code: Error (keepalive)	text: Problem with keepalive
+date: 17/02/2019 01:47:35.452	code: Info	text: Connected by ('127.0.0.1', 4617) --> command: 
+date: 17/02/2019 01:47:35.467	code: Info	text: Connected by ('127.0.0.1', 4618) --> command: status
+date: 17/02/2019 01:47:37.477	code: Info	text: 	COM4 connected.
+date: 17/02/2019 01:47:37.493	code: Info	text: 	Status: 1HCEA
+date: 17/02/2019 01:47:37.493	code: Info	text: 	TimeOut: True
+date: 17/02/2019 01:47:37.493	code: Info	text: 	Safe mode: False
+date: 17/02/2019 01:47:37.493	code: Info	text: 	Automatic mode: True
+date: 17/02/2019 01:47:37.493	code: Info	text: 	Dome Side A is open: False
+date: 17/02/2019 01:47:37.493	code: Info	text: 	Dome Side B is open: False
+date: 17/02/2019 01:47:37.493	code: Info	text: 	Keepalive interval: 60.00
+date: 17/02/2019 01:47:59.041	code: Error (keepalive)	text: Problem with keepalive
