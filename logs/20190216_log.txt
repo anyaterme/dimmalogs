@@ -1011,3 +1011,22 @@ CODE:OT:VIVALDI	Date:2019-02-17 00:54:14.496000	Hum:18.3000	WS:7.5000	DewPoint:0
 17/02/2019 00:58:20.677	Debg	--- PARANDO OBSERVACION ---
 17/02/2019 00:58:20.677	Debg	
 17/02/2019 00:58:20.677	Info	Indicando fin del proceso...
+17/02/2019 00:59:43.750	Info	Estella seleccionada --> Pollux
+	airmass: 1.099734
+	ha hours: hms_tuple(h=1.0, m=51.0, s=47.036935714246795)
+	ra: 7.775033
+	dec: 27.978031
+17/02/2019 00:59:43.750	Info	*** Tiempo seleccion de estrella: 97.41 ***
+17/02/2019 00:59:43.750	Debg	---------------------------------------------
+17/02/2019 00:59:43.750	Debg	-------------- Check spots ------------------
+17/02/2019 00:59:43.750	Debg	---------------------------------------------
+17/02/2019 00:59:43.750	Info	Centrando spots...
+17/02/2019 00:59:47.273	Info	Intento 0
+17/02/2019 00:59:49.018	Info	DX fuera de rango (dx: 250.0 - min: 30.0 - max: 52.0)
+17/02/2019 00:59:49.018	Info	Moviendo telescopio...
+17/02/2019 00:59:53.149	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+17/02/2019 00:59:53.149	Info	Intento 1
+17/02/2019 00:59:54.676	Info	Ventana de spots fuera de rango (cx: 549 - cy: 24 - left: 80 - right: 560 - down: 30 - up: 450)
+17/02/2019 00:59:54.676	Info	Moviendo telescopio...
+17/02/2019 01:00:01.298	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+17/02/2019 01:00:01.298	Info	Intento 2
