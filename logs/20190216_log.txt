@@ -1123,3 +1123,50 @@ CODE:OT:VIVALDI	Date:2019-02-17 00:54:14.496000	Hum:18.3000	WS:7.5000	DewPoint:0
 17/02/2019 01:01:57.242	Info	Intento 25
 17/02/2019 01:01:58.801	Info	DX fuera de rango (dx: 232.0 - min: 30.0 - max: 52.0)
 17/02/2019 01:01:58.801	Info	Moviendo telescopio...
+17/02/2019 01:02:10.475	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+17/02/2019 01:02:10.475	Info	Intento 26
+17/02/2019 01:02:12.563	Info	DX fuera de rango (dx: 108.0 - min: 30.0 - max: 52.0)
+17/02/2019 01:02:12.563	Info	Moviendo telescopio...
+17/02/2019 01:02:15.587	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+17/02/2019 01:02:15.587	Info	Intento 27
+17/02/2019 01:02:17.551	Info	DX fuera de rango (dx: 123.0 - min: 30.0 - max: 52.0)
+17/02/2019 01:02:17.551	Info	Moviendo telescopio...
+17/02/2019 01:02:21.774	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+17/02/2019 01:02:21.774	Info	Intento 28
+17/02/2019 01:02:23.582	Info	Moviendo telescopio...
+17/02/2019 01:02:26.637	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+17/02/2019 01:02:26.637	Info	Intento 29
+17/02/2019 01:02:28.383	Info	Ventana de spots fuera de rango (cx: 339 - cy: 30 - left: 80 - right: 560 - down: 30 - up: 450)
+17/02/2019 01:02:28.383	Info	Moviendo telescopio...
+17/02/2019 01:02:31.469	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+17/02/2019 01:02:31.469	Info	Intento 30
+17/02/2019 01:02:33.339	Info	Ventana de spots fuera de rango (cx: 329 - cy: 21 - left: 80 - right: 560 - down: 30 - up: 450)
+17/02/2019 01:02:33.339	Info	Moviendo telescopio...
+17/02/2019 01:02:36.254	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+17/02/2019 01:02:36.254	Info	Intento 31
+17/02/2019 01:02:37.579	Info	Ventana de spots fuera de rango (cx: 355 - cy: 30 - left: 80 - right: 560 - down: 30 - up: 450)
+17/02/2019 01:02:37.579	Info	Moviendo telescopio...
+17/02/2019 01:02:41.070	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+17/02/2019 01:02:41.070	Info	Intento 32
+17/02/2019 01:02:42.613	Info	DX fuera de rango (dx: 87.0 - min: 30.0 - max: 52.0)
+17/02/2019 01:02:42.613	Info	Moviendo telescopio...
+17/02/2019 01:02:45.917	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+17/02/2019 01:02:45.917	Info	Intento 33
+17/02/2019 01:02:47.616	Info	DX fuera de rango (dx: 87.0 - min: 30.0 - max: 52.0)
+17/02/2019 01:02:47.616	Info	Moviendo telescopio...
+17/02/2019 01:02:50.796	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+17/02/2019 01:02:50.796	Info	Intento 34
+17/02/2019 01:02:52.339	Info	DX fuera de rango (dx: 559.0 - min: 30.0 - max: 52.0)
+17/02/2019 01:02:52.339	Info	Moviendo telescopio...
+17/02/2019 01:02:55.596	Info	Se ha producido un error al ejecutar el comando (reiniciar sky?)
+17/02/2019 01:02:58.666	Error (centrando los spots)	No se han podido centrar los spots
+17/02/2019 01:02:58.666	Info	*** Tiempo seleccion de estrella: 292.33 ***
+17/02/2019 01:03:01.659	Info	*** TIEMPO TOTAL ITERACION: 295.32 ***
+17/02/2019 01:03:01.659	Info	Parando la observacion...
+17/02/2019 01:03:01.659	Info	 --- OBSERVACION TERMINADA ---
+17/02/2019 01:03:01.659	Info	 --- CERRANDO TELESCOPIO ---
+17/02/2019 01:03:01.659	Debg	---------------------------------------------
+17/02/2019 01:03:01.675	Debg	------------------ Switch Off ---------------
+17/02/2019 01:03:01.675	Debg	---------------------------------------------
+17/02/2019 01:03:01.675	Info	Cerrando cupula (este proceso puede tardar unos minutos)...
+17/02/2019 01:03:01.675	Info	Cerrando cupula lado A...
