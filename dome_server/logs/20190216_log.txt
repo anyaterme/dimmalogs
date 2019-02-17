@@ -837,3 +837,4 @@ date: 17/02/2019 06:35:15.302	code: Error (keepalive)	text: Problem with keepali
 date: 17/02/2019 06:36:16.304	code: Error (keepalive)	text: Problem with keepalive
 date: 17/02/2019 06:37:17.307	code: Error (keepalive)	text: Problem with keepalive
 date: 17/02/2019 06:38:18.403	code: Error (keepalive)	text: Problem with keepalive
+ERROR ====:> [<class 'serial.serialutil.SerialException'> in C:\DIMMA\dimma-master\git\dimma\deploy\dome_server\dome_server.py:36] : could not open port u'COM4': WindowsError(2, 'El sistema no puede hallar el archivo especificado.')
