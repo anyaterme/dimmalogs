@@ -1,0 +1,2242 @@
+
+date: 15/10/2018 07:49:59.698	code: Info	text: Focus Server started at port 3340....
+date: 15/10/2018 07:50:06.355	code: Info	text: Connected by ('127.0.0.1', 1183) --> command: ping
+date: 15/10/2018 07:50:06.355	code: Info	text: self.ping()
+date: 15/10/2018 07:50:06.355	code: Info	text: 0
+date: 15/10/2018 07:50:22.452	code: Info	text: Connected by ('127.0.0.1', 1189) --> command: ping
+date: 15/10/2018 07:50:22.452	code: Info	text: self.ping()
+date: 15/10/2018 07:50:22.452	code: Info	text: 0
+date: 15/10/2018 07:50:38.705	code: Info	text: Connected by ('127.0.0.1', 1195) --> command: ping
+date: 15/10/2018 07:50:38.705	code: Info	text: self.ping()
+date: 15/10/2018 07:50:38.705	code: Info	text: 0
+date: 15/10/2018 07:50:54.692	code: Info	text: Connected by ('127.0.0.1', 1202) --> command: ping
+date: 15/10/2018 07:50:54.692	code: Info	text: self.ping()
+date: 15/10/2018 07:50:54.692	code: Info	text: 0
+date: 15/10/2018 07:51:09.726	code: Info	text: Connected by ('127.0.0.1', 1213) --> command: ping
+date: 15/10/2018 07:51:09.726	code: Info	text: self.ping()
+date: 15/10/2018 07:51:09.726	code: Info	text: 0
+date: 15/10/2018 07:51:54.765	code: Info	text: Connected by ('127.0.0.1', 1226) --> command: ping
+date: 15/10/2018 07:51:54.765	code: Info	text: self.ping()
+date: 15/10/2018 07:51:54.765	code: Info	text: 0
+date: 15/10/2018 07:52:53.526	code: Info	text: Connected by ('127.0.0.1', 1239) --> command: ping
+date: 15/10/2018 07:52:53.526	code: Info	text: self.ping()
+date: 15/10/2018 07:52:53.526	code: Info	text: 0
+date: 15/10/2018 07:53:09.639	code: Info	text: Connected by ('127.0.0.1', 1248) --> command: ping
+date: 15/10/2018 07:53:09.639	code: Info	text: self.ping()
+date: 15/10/2018 07:53:09.639	code: Info	text: 0
+date: 15/10/2018 07:53:49.395	code: Info	text: Connected by ('127.0.0.1', 1257) --> command: ping
+date: 15/10/2018 07:53:49.395	code: Info	text: self.ping()
+date: 15/10/2018 07:53:49.395	code: Info	text: 0
+date: 15/10/2018 07:54:03.117	code: Info	text: Connected by ('127.0.0.1', 1269) --> command: rwd_time:1
+date: 15/10/2018 07:54:03.117	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 07:54:03.507	code: Info	text: OK
+date: 15/10/2018 07:54:03.523	code: Info	text: Connected by ('127.0.0.1', 1270) --> command: get_pos
+date: 15/10/2018 07:54:03.523	code: Info	text: self.get_pos()
+date: 15/10/2018 07:54:03.523	code: Info	text: 0.113998413
+date: 15/10/2018 07:54:05.461	code: Info	text: Connected by ('127.0.0.1', 1275) --> command: ping
+date: 15/10/2018 07:54:05.476	code: Info	text: self.ping()
+date: 15/10/2018 07:54:05.476	code: Info	text: 0.113998413
+date: 15/10/2018 07:54:20.510	code: Info	text: Connected by ('127.0.0.1', 1287) --> command: ping
+date: 15/10/2018 07:54:20.510	code: Info	text: self.ping()
+date: 15/10/2018 07:54:20.510	code: Info	text: 0.113998413
+date: 15/10/2018 07:54:35.544	code: Info	text: Connected by ('127.0.0.1', 1292) --> command: ping
+date: 15/10/2018 07:54:35.560	code: Info	text: self.ping()
+date: 15/10/2018 07:54:35.560	code: Info	text: 0.113998413
+date: 15/10/2018 07:54:51.250	code: Info	text: Connected by ('127.0.0.1', 1299) --> command: ping
+date: 15/10/2018 07:54:51.250	code: Info	text: self.ping()
+date: 15/10/2018 07:54:51.250	code: Info	text: 0.113998413
+date: 15/10/2018 07:55:06.456	code: Info	text: Connected by ('127.0.0.1', 1320) --> command: ping
+date: 15/10/2018 07:55:06.456	code: Info	text: self.ping()
+date: 15/10/2018 07:55:06.456	code: Info	text: 0.113998413
+date: 15/10/2018 07:55:21.489	code: Info	text: Connected by ('127.0.0.1', 1329) --> command: ping
+date: 15/10/2018 07:55:21.489	code: Info	text: self.ping()
+date: 15/10/2018 07:55:21.505	code: Info	text: 0.113998413
+date: 15/10/2018 07:55:36.523	code: Info	text: Connected by ('127.0.0.1', 1337) --> command: ping
+date: 15/10/2018 07:55:36.523	code: Info	text: self.ping()
+date: 15/10/2018 07:55:36.539	code: Info	text: 0.113998413
+date: 15/10/2018 07:55:52.214	code: Info	text: Connected by ('127.0.0.1', 1344) --> command: ping
+date: 15/10/2018 07:55:52.214	code: Info	text: self.ping()
+date: 15/10/2018 07:55:52.214	code: Info	text: 0.113998413
+date: 15/10/2018 07:56:07.888	code: Info	text: Connected by ('127.0.0.1', 1361) --> command: ping
+date: 15/10/2018 07:56:07.888	code: Info	text: self.ping()
+date: 15/10/2018 07:56:07.888	code: Info	text: 0.113998413
+date: 15/10/2018 07:56:22.938	code: Info	text: Connected by ('127.0.0.1', 1366) --> command: ping
+date: 15/10/2018 07:56:22.938	code: Info	text: self.ping()
+date: 15/10/2018 07:56:22.938	code: Info	text: 0.113998413
+date: 15/10/2018 07:56:37.987	code: Info	text: Connected by ('127.0.0.1', 1371) --> command: ping
+date: 15/10/2018 07:56:37.987	code: Info	text: self.ping()
+date: 15/10/2018 07:56:37.987	code: Info	text: 0.113998413
+date: 15/10/2018 07:56:54.068	code: Info	text: Connected by ('127.0.0.1', 1378) --> command: ping
+date: 15/10/2018 07:56:54.068	code: Info	text: self.ping()
+date: 15/10/2018 07:56:54.068	code: Info	text: 0.113998413
+date: 15/10/2018 07:57:03.398	code: Info	text: Connected by ('127.0.0.1', 1389) --> command: rwd_time:1
+date: 15/10/2018 07:57:03.398	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 07:57:03.757	code: Info	text: OK
+date: 15/10/2018 07:57:03.773	code: Info	text: Connected by ('127.0.0.1', 1390) --> command: get_pos
+date: 15/10/2018 07:57:03.773	code: Info	text: self.get_pos()
+date: 15/10/2018 07:57:03.773	code: Info	text: 0.113800049
+date: 15/10/2018 07:57:09.274	code: Info	text: Connected by ('127.0.0.1', 1399) --> command: ping
+date: 15/10/2018 07:57:09.274	code: Info	text: self.ping()
+date: 15/10/2018 07:57:09.274	code: Info	text: 0.113800049
+date: 15/10/2018 07:57:24.323	code: Info	text: Connected by ('127.0.0.1', 1407) --> command: ping
+date: 15/10/2018 07:57:24.323	code: Info	text: self.ping()
+date: 15/10/2018 07:57:24.323	code: Info	text: 0.113800049
+date: 15/10/2018 07:57:39.357	code: Info	text: Connected by ('127.0.0.1', 1412) --> command: ping
+date: 15/10/2018 07:57:39.357	code: Info	text: self.ping()
+date: 15/10/2018 07:57:39.357	code: Info	text: 0.113800049
+date: 15/10/2018 07:57:55.329	code: Info	text: Connected by ('127.0.0.1', 1419) --> command: ping
+date: 15/10/2018 07:57:55.329	code: Info	text: self.ping()
+date: 15/10/2018 07:57:55.329	code: Info	text: 0.113800049
+date: 15/10/2018 07:58:06.440	code: Info	text: Connected by ('127.0.0.1', 1430) --> command: fwd_time:1
+date: 15/10/2018 07:58:06.440	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 07:58:06.893	code: Info	text: OK
+date: 15/10/2018 07:58:06.909	code: Info	text: Connected by ('127.0.0.1', 1431) --> command: get_pos
+date: 15/10/2018 07:58:06.909	code: Info	text: self.get_pos()
+date: 15/10/2018 07:58:06.909	code: Info	text: 0.113998413
+date: 15/10/2018 07:58:10.550	code: Info	text: Connected by ('127.0.0.1', 1438) --> command: ping
+date: 15/10/2018 07:58:10.550	code: Info	text: self.ping()
+date: 15/10/2018 07:58:10.550	code: Info	text: 0.113998413
+date: 15/10/2018 07:58:13.519	code: Info	text: Connected by ('127.0.0.1', 1442) --> command: fwd_time:1
+date: 15/10/2018 07:58:13.519	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 07:58:13.879	code: Info	text: OK
+date: 15/10/2018 07:58:13.879	code: Info	text: Connected by ('127.0.0.1', 1443) --> command: get_pos
+date: 15/10/2018 07:58:13.879	code: Info	text: self.get_pos()
+date: 15/10/2018 07:58:13.894	code: Info	text: 0.114212036
+date: 15/10/2018 07:58:20.270	code: Info	text: Connected by ('127.0.0.1', 1449) --> command: fwd_time:1
+date: 15/10/2018 07:58:20.270	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 07:58:20.614	code: Info	text: OK
+date: 15/10/2018 07:58:20.614	code: Info	text: Connected by ('127.0.0.1', 1450) --> command: get_pos
+date: 15/10/2018 07:58:20.614	code: Info	text: self.get_pos()
+date: 15/10/2018 07:58:20.630	code: Info	text: 0.114410400
+date: 15/10/2018 07:58:25.584	code: Info	text: Connected by ('127.0.0.1', 1458) --> command: ping
+date: 15/10/2018 07:58:25.584	code: Info	text: self.ping()
+date: 15/10/2018 07:58:25.584	code: Info	text: 0.114410400
+date: 15/10/2018 07:58:40.618	code: Info	text: Connected by ('127.0.0.1', 1467) --> command: ping
+date: 15/10/2018 07:58:40.618	code: Info	text: self.ping()
+date: 15/10/2018 07:58:40.618	code: Info	text: 0.114410400
+date: 15/10/2018 07:58:55.651	code: Info	text: Connected by ('127.0.0.1', 1472) --> command: ping
+date: 15/10/2018 07:58:55.651	code: Info	text: self.ping()
+date: 15/10/2018 07:58:55.667	code: Info	text: 0.114410400
+date: 15/10/2018 07:59:11.748	code: Info	text: Connected by ('127.0.0.1', 1480) --> command: ping
+date: 15/10/2018 07:59:11.748	code: Info	text: self.ping()
+date: 15/10/2018 07:59:11.748	code: Info	text: 0.114410400
+date: 15/10/2018 07:59:27.063	code: Info	text: Connected by ('127.0.0.1', 1496) --> command: ping
+date: 15/10/2018 07:59:27.063	code: Info	text: self.ping()
+date: 15/10/2018 07:59:27.063	code: Info	text: 0.114410400
+date: 15/10/2018 07:59:42.097	code: Info	text: Connected by ('127.0.0.1', 1501) --> command: ping
+date: 15/10/2018 07:59:42.097	code: Info	text: self.ping()
+date: 15/10/2018 07:59:42.097	code: Info	text: 0.114410400
+date: 15/10/2018 07:59:57.131	code: Info	text: Connected by ('127.0.0.1', 1506) --> command: ping
+date: 15/10/2018 07:59:57.131	code: Info	text: self.ping()
+date: 15/10/2018 07:59:57.131	code: Info	text: 0.114410400
+date: 15/10/2018 08:00:13.227	code: Info	text: Connected by ('127.0.0.1', 1514) --> command: ping
+date: 15/10/2018 08:00:13.227	code: Info	text: self.ping()
+date: 15/10/2018 08:00:13.227	code: Info	text: 0.114410400
+date: 15/10/2018 08:00:28.308	code: Info	text: Connected by ('127.0.0.1', 1530) --> command: ping
+date: 15/10/2018 08:00:28.308	code: Info	text: self.ping()
+date: 15/10/2018 08:00:28.308	code: Info	text: 0.114410400
+date: 15/10/2018 08:00:43.342	code: Info	text: Connected by ('127.0.0.1', 1535) --> command: ping
+date: 15/10/2018 08:00:43.342	code: Info	text: self.ping()
+date: 15/10/2018 08:00:43.342	code: Info	text: 0.114410400
+date: 15/10/2018 08:00:58.376	code: Info	text: Connected by ('127.0.0.1', 1542) --> command: ping
+date: 15/10/2018 08:00:58.376	code: Info	text: self.ping()
+date: 15/10/2018 08:00:58.376	code: Info	text: 0.114410400
+date: 15/10/2018 08:01:13.878	code: Info	text: Connected by ('127.0.0.1', 1551) --> command: ping
+date: 15/10/2018 08:01:13.878	code: Info	text: self.ping()
+date: 15/10/2018 08:01:13.878	code: Info	text: 0.114410400
+date: 15/10/2018 08:01:29.053	code: Info	text: Connected by ('127.0.0.1', 1566) --> command: ping
+date: 15/10/2018 08:01:29.053	code: Info	text: self.ping()
+date: 15/10/2018 08:01:29.053	code: Info	text: 0.114410400
+date: 15/10/2018 08:01:44.087	code: Info	text: Connected by ('127.0.0.1', 1571) --> command: ping
+date: 15/10/2018 08:01:44.087	code: Info	text: self.ping()
+date: 15/10/2018 08:01:44.087	code: Info	text: 0.114410400
+date: 15/10/2018 08:01:59.121	code: Info	text: Connected by ('127.0.0.1', 1577) --> command: ping
+date: 15/10/2018 08:01:59.121	code: Info	text: self.ping()
+date: 15/10/2018 08:01:59.121	code: Info	text: 0.114410400
+date: 15/10/2018 08:02:14.155	code: Info	text: Connected by ('127.0.0.1', 1586) --> command: ping
+date: 15/10/2018 08:02:14.155	code: Info	text: self.ping()
+date: 15/10/2018 08:02:14.155	code: Info	text: 0.114410400
+date: 15/10/2018 08:02:29.188	code: Info	text: Connected by ('127.0.0.1', 1600) --> command: ping
+date: 15/10/2018 08:02:29.188	code: Info	text: self.ping()
+date: 15/10/2018 08:02:29.188	code: Info	text: 0.114410400
+date: 15/10/2018 08:02:44.125	code: Info	text: Connected by ('127.0.0.1', 1606) --> command: ping
+date: 15/10/2018 08:02:44.125	code: Info	text: self.ping()
+date: 15/10/2018 08:02:44.125	code: Info	text: 0.114410400
+date: 15/10/2018 08:03:00.487	code: Info	text: Connected by ('127.0.0.1', 1613) --> command: ping
+date: 15/10/2018 08:03:00.487	code: Info	text: self.ping()
+date: 15/10/2018 08:03:00.487	code: Info	text: 0.114410400
+date: 15/10/2018 08:03:15.818	code: Info	text: Connected by ('127.0.0.1', 1625) --> command: ping
+date: 15/10/2018 08:03:15.818	code: Info	text: self.ping()
+date: 15/10/2018 08:03:15.818	code: Info	text: 0.114410400
+date: 15/10/2018 08:03:30.852	code: Info	text: Connected by ('127.0.0.1', 1635) --> command: ping
+date: 15/10/2018 08:03:30.852	code: Info	text: self.ping()
+date: 15/10/2018 08:03:30.868	code: Info	text: 0.114410400
+date: 15/10/2018 08:03:45.901	code: Info	text: Connected by ('127.0.0.1', 1640) --> command: ping
+date: 15/10/2018 08:03:45.901	code: Info	text: self.ping()
+date: 15/10/2018 08:03:45.901	code: Info	text: 0.114410400
+date: 15/10/2018 08:04:02.092	code: Info	text: Connected by ('127.0.0.1', 1648) --> command: ping
+date: 15/10/2018 08:04:02.092	code: Info	text: self.ping()
+date: 15/10/2018 08:04:02.092	code: Info	text: 0.114410400
+date: 15/10/2018 08:04:18.219	code: Info	text: Connected by ('127.0.0.1', 1662) --> command: ping
+date: 15/10/2018 08:04:18.219	code: Info	text: self.ping()
+date: 15/10/2018 08:04:18.219	code: Info	text: 0.114410400
+date: 15/10/2018 08:04:33.285	code: Info	text: Connected by ('127.0.0.1', 1669) --> command: ping
+date: 15/10/2018 08:04:33.285	code: Info	text: self.ping()
+date: 15/10/2018 08:04:33.285	code: Info	text: 0.114410400
+date: 15/10/2018 08:04:48.318	code: Info	text: Connected by ('127.0.0.1', 1674) --> command: ping
+date: 15/10/2018 08:04:48.318	code: Info	text: self.ping()
+date: 15/10/2018 08:04:48.318	code: Info	text: 0.114410400
+date: 15/10/2018 08:05:04.540	code: Info	text: Connected by ('127.0.0.1', 1682) --> command: ping
+date: 15/10/2018 08:05:04.540	code: Info	text: self.ping()
+date: 15/10/2018 08:05:04.540	code: Info	text: 0.114410400
+date: 15/10/2018 08:05:19.793	code: Info	text: Connected by ('127.0.0.1', 1698) --> command: ping
+date: 15/10/2018 08:05:19.793	code: Info	text: self.ping()
+date: 15/10/2018 08:05:19.793	code: Info	text: 0.114410400
+date: 15/10/2018 08:05:34.826	code: Info	text: Connected by ('127.0.0.1', 1714) --> command: ping
+date: 15/10/2018 08:05:34.826	code: Info	text: self.ping()
+date: 15/10/2018 08:05:34.826	code: Info	text: 0.114410400
+date: 15/10/2018 08:05:49.860	code: Info	text: Connected by ('127.0.0.1', 1719) --> command: ping
+date: 15/10/2018 08:05:49.860	code: Info	text: self.ping()
+date: 15/10/2018 08:05:49.860	code: Info	text: 0.114410400
+date: 15/10/2018 08:06:05.660	code: Info	text: Connected by ('127.0.0.1', 1727) --> command: ping
+date: 15/10/2018 08:06:05.660	code: Info	text: self.ping()
+date: 15/10/2018 08:06:05.660	code: Info	text: 0.114410400
+date: 15/10/2018 08:06:21.084	code: Info	text: Connected by ('127.0.0.1', 1743) --> command: ping
+date: 15/10/2018 08:06:21.084	code: Info	text: self.ping()
+date: 15/10/2018 08:06:21.084	code: Info	text: 0.114410400
+date: 15/10/2018 08:06:36.118	code: Info	text: Connected by ('127.0.0.1', 1748) --> command: ping
+date: 15/10/2018 08:06:36.118	code: Info	text: self.ping()
+date: 15/10/2018 08:06:36.118	code: Info	text: 0.114410400
+date: 15/10/2018 08:06:51.152	code: Info	text: Connected by ('127.0.0.1', 1754) --> command: ping
+date: 15/10/2018 08:06:51.152	code: Info	text: self.ping()
+date: 15/10/2018 08:06:51.152	code: Info	text: 0.114410400
+date: 15/10/2018 08:07:06.389	code: Info	text: Connected by ('127.0.0.1', 1762) --> command: ping
+date: 15/10/2018 08:07:06.389	code: Info	text: self.ping()
+date: 15/10/2018 08:07:06.389	code: Info	text: 0.114410400
+date: 15/10/2018 08:07:21.439	code: Info	text: Connected by ('127.0.0.1', 1777) --> command: ping
+date: 15/10/2018 08:07:21.439	code: Info	text: self.ping()
+date: 15/10/2018 08:07:21.439	code: Info	text: 0.114410400
+date: 15/10/2018 08:07:36.472	code: Info	text: Connected by ('127.0.0.1', 1782) --> command: ping
+date: 15/10/2018 08:07:36.472	code: Info	text: self.ping()
+date: 15/10/2018 08:07:36.472	code: Info	text: 0.114410400
+date: 15/10/2018 08:07:51.506	code: Info	text: Connected by ('127.0.0.1', 1788) --> command: ping
+date: 15/10/2018 08:07:51.506	code: Info	text: self.ping()
+date: 15/10/2018 08:07:51.506	code: Info	text: 0.114410400
+date: 15/10/2018 08:08:07.415	code: Info	text: Connected by ('127.0.0.1', 1796) --> command: ping
+date: 15/10/2018 08:08:07.415	code: Info	text: self.ping()
+date: 15/10/2018 08:08:07.415	code: Info	text: 0.114410400
+date: 15/10/2018 08:08:22.449	code: Info	text: Connected by ('127.0.0.1', 1812) --> command: ping
+date: 15/10/2018 08:08:22.449	code: Info	text: self.ping()
+date: 15/10/2018 08:08:22.465	code: Info	text: 0.114410400
+date: 15/10/2018 08:08:37.530	code: Info	text: Connected by ('127.0.0.1', 1817) --> command: ping
+date: 15/10/2018 08:08:37.530	code: Info	text: self.ping()
+date: 15/10/2018 08:08:37.530	code: Info	text: 0.114410400
+date: 15/10/2018 08:08:52.579	code: Info	text: Connected by ('127.0.0.1', 1822) --> command: ping
+date: 15/10/2018 08:08:52.579	code: Info	text: self.ping()
+date: 15/10/2018 08:08:52.579	code: Info	text: 0.114410400
+date: 15/10/2018 08:09:08.348	code: Info	text: Connected by ('127.0.0.1', 1830) --> command: ping
+date: 15/10/2018 08:09:08.348	code: Info	text: self.ping()
+date: 15/10/2018 08:09:08.348	code: Info	text: 0.114410400
+date: 15/10/2018 08:09:20.553	code: Info	text: Connected by ('127.0.0.1', 1840) --> command: rwd_time:1
+date: 15/10/2018 08:09:20.553	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:09:21.022	code: Info	text: OK
+date: 15/10/2018 08:09:21.022	code: Info	text: Connected by ('127.0.0.1', 1841) --> command: get_pos
+date: 15/10/2018 08:09:21.022	code: Info	text: self.get_pos()
+date: 15/10/2018 08:09:21.037	code: Info	text: 0.114181519
+date: 15/10/2018 08:09:23.819	code: Info	text: Connected by ('127.0.0.1', 1848) --> command: ping
+date: 15/10/2018 08:09:23.819	code: Info	text: self.ping()
+date: 15/10/2018 08:09:23.819	code: Info	text: 0.114181519
+date: 15/10/2018 08:09:38.853	code: Info	text: Connected by ('127.0.0.1', 1858) --> command: ping
+date: 15/10/2018 08:09:38.853	code: Info	text: self.ping()
+date: 15/10/2018 08:09:38.853	code: Info	text: 0.114181519
+date: 15/10/2018 08:09:53.887	code: Info	text: Connected by ('127.0.0.1', 1863) --> command: ping
+date: 15/10/2018 08:09:53.887	code: Info	text: self.ping()
+date: 15/10/2018 08:09:53.887	code: Info	text: 0.114181519
+date: 15/10/2018 08:10:08.921	code: Info	text: Connected by ('127.0.0.1', 1870) --> command: ping
+date: 15/10/2018 08:10:08.921	code: Info	text: self.ping()
+date: 15/10/2018 08:10:08.921	code: Info	text: 0.114181519
+date: 15/10/2018 08:10:23.955	code: Info	text: Connected by ('127.0.0.1', 1878) --> command: ping
+date: 15/10/2018 08:10:23.955	code: Info	text: self.ping()
+date: 15/10/2018 08:10:23.955	code: Info	text: 0.114181519
+date: 15/10/2018 08:10:57.648	code: Info	text: Connected by ('127.0.0.1', 1890) --> command: ping
+date: 15/10/2018 08:10:57.648	code: Info	text: self.ping()
+date: 15/10/2018 08:10:57.648	code: Info	text: 0.114181519
+date: 15/10/2018 08:11:12.385	code: Info	text: Connected by ('127.0.0.1', 1902) --> command: rwd_time:1
+date: 15/10/2018 08:11:12.385	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:11:12.775	code: Info	text: OK
+date: 15/10/2018 08:11:12.775	code: Info	text: Connected by ('127.0.0.1', 1906) --> command: ping
+date: 15/10/2018 08:11:12.775	code: Info	text: self.ping()
+date: 15/10/2018 08:11:12.775	code: Info	text: OK
+date: 15/10/2018 08:11:12.775	code: Info	text: Connected by ('127.0.0.1', 1907) --> command: get_pos
+date: 15/10/2018 08:11:12.775	code: Info	text: self.get_pos()
+date: 15/10/2018 08:11:12.807	code: Info	text: 0.114013672
+date: 15/10/2018 08:11:20.808	code: Info	text: Connected by ('127.0.0.1', 1914) --> command: rwd_time:1
+date: 15/10/2018 08:11:20.808	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:11:21.168	code: Info	text: OK
+date: 15/10/2018 08:11:21.183	code: Info	text: Connected by ('127.0.0.1', 1915) --> command: get_pos
+date: 15/10/2018 08:11:21.183	code: Info	text: self.get_pos()
+date: 15/10/2018 08:11:21.183	code: Info	text: 0.113800049
+date: 15/10/2018 08:11:27.809	code: Info	text: Connected by ('127.0.0.1', 1923) --> command: ping
+date: 15/10/2018 08:11:27.809	code: Info	text: self.ping()
+date: 15/10/2018 08:11:27.809	code: Info	text: 0.113800049
+date: 15/10/2018 08:11:29.216	code: Info	text: Connected by ('127.0.0.1', 1926) --> command: rwd_time:1
+date: 15/10/2018 08:11:29.216	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:11:29.544	code: Info	text: OK
+date: 15/10/2018 08:11:29.544	code: Info	text: Connected by ('127.0.0.1', 1927) --> command: get_pos
+date: 15/10/2018 08:11:29.544	code: Info	text: self.get_pos()
+date: 15/10/2018 08:11:29.575	code: Info	text: 0.113601685
+date: 15/10/2018 08:11:37.420	code: Info	text: Connected by ('127.0.0.1', 1933) --> command: rwd_time:1
+date: 15/10/2018 08:11:37.420	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:11:37.764	code: Info	text: OK
+date: 15/10/2018 08:11:37.764	code: Info	text: Connected by ('127.0.0.1', 1934) --> command: get_pos
+date: 15/10/2018 08:11:37.764	code: Info	text: self.get_pos()
+date: 15/10/2018 08:11:37.780	code: Info	text: 0.113403320
+date: 15/10/2018 08:11:43.015	code: Info	text: Connected by ('127.0.0.1', 1942) --> command: ping
+date: 15/10/2018 08:11:43.015	code: Info	text: self.ping()
+date: 15/10/2018 08:11:43.015	code: Info	text: 0.113403320
+date: 15/10/2018 08:11:45.625	code: Info	text: Connected by ('127.0.0.1', 1945) --> command: rwd_time:1
+date: 15/10/2018 08:11:45.625	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:11:45.953	code: Info	text: OK
+date: 15/10/2018 08:11:45.953	code: Info	text: Connected by ('127.0.0.1', 1946) --> command: get_pos
+date: 15/10/2018 08:11:45.953	code: Info	text: self.get_pos()
+date: 15/10/2018 08:11:45.969	code: Info	text: 0.113189697
+date: 15/10/2018 08:11:58.049	code: Info	text: Connected by ('127.0.0.1', 1958) --> command: ping
+date: 15/10/2018 08:11:58.049	code: Info	text: self.ping()
+date: 15/10/2018 08:11:58.049	code: Info	text: 0.113189697
+date: 15/10/2018 08:12:13.083	code: Info	text: Connected by ('127.0.0.1', 1964) --> command: ping
+date: 15/10/2018 08:12:13.083	code: Info	text: self.ping()
+date: 15/10/2018 08:12:13.083	code: Info	text: 0.113189697
+date: 15/10/2018 08:12:28.210	code: Info	text: Connected by ('127.0.0.1', 1969) --> command: ping
+date: 15/10/2018 08:12:28.210	code: Info	text: self.ping()
+date: 15/10/2018 08:12:28.226	code: Info	text: 0.113189697
+date: 15/10/2018 08:12:43.135	code: Info	text: Connected by ('127.0.0.1', 1975) --> command: ping
+date: 15/10/2018 08:12:43.135	code: Info	text: self.ping()
+date: 15/10/2018 08:12:43.135	code: Info	text: 0.113189697
+date: 15/10/2018 08:12:58.169	code: Info	text: Connected by ('127.0.0.1', 1980) --> command: ping
+date: 15/10/2018 08:12:58.169	code: Info	text: self.ping()
+date: 15/10/2018 08:12:58.169	code: Info	text: 0.113189697
+date: 15/10/2018 08:13:13.203	code: Info	text: Connected by ('127.0.0.1', 1986) --> command: ping
+date: 15/10/2018 08:13:13.203	code: Info	text: self.ping()
+date: 15/10/2018 08:13:13.203	code: Info	text: 0.113189697
+date: 15/10/2018 08:13:28.237	code: Info	text: Connected by ('127.0.0.1', 1991) --> command: ping
+date: 15/10/2018 08:13:28.237	code: Info	text: self.ping()
+date: 15/10/2018 08:13:28.237	code: Info	text: 0.113189697
+date: 15/10/2018 08:13:43.271	code: Info	text: Connected by ('127.0.0.1', 1996) --> command: ping
+date: 15/10/2018 08:13:43.271	code: Info	text: self.ping()
+date: 15/10/2018 08:13:43.271	code: Info	text: 0.113189697
+date: 15/10/2018 08:13:58.883	code: Info	text: Connected by ('127.0.0.1', 2003) --> command: ping
+date: 15/10/2018 08:13:58.883	code: Info	text: self.ping()
+date: 15/10/2018 08:13:58.883	code: Info	text: 0.113189697
+date: 15/10/2018 08:14:15.011	code: Info	text: Connected by ('127.0.0.1', 2018) --> command: ping
+date: 15/10/2018 08:14:15.011	code: Info	text: self.ping()
+date: 15/10/2018 08:14:15.011	code: Info	text: 0.113189697
+date: 15/10/2018 08:14:30.045	code: Info	text: Connected by ('127.0.0.1', 2025) --> command: ping
+date: 15/10/2018 08:14:30.045	code: Info	text: self.ping()
+date: 15/10/2018 08:14:30.045	code: Info	text: 0.113189697
+date: 15/10/2018 08:14:45.078	code: Info	text: Connected by ('127.0.0.1', 2030) --> command: ping
+date: 15/10/2018 08:14:45.078	code: Info	text: self.ping()
+date: 15/10/2018 08:14:45.078	code: Info	text: 0.113189697
+date: 15/10/2018 08:15:00.097	code: Info	text: Connected by ('127.0.0.1', 2035) --> command: ping
+date: 15/10/2018 08:15:00.097	code: Info	text: self.ping()
+date: 15/10/2018 08:15:00.097	code: Info	text: 0.113189697
+date: 15/10/2018 08:15:15.130	code: Info	text: Connected by ('127.0.0.1', 2041) --> command: ping
+date: 15/10/2018 08:15:15.130	code: Info	text: self.ping()
+date: 15/10/2018 08:15:15.130	code: Info	text: 0.113189697
+date: 15/10/2018 08:15:30.164	code: Info	text: Connected by ('127.0.0.1', 2046) --> command: ping
+date: 15/10/2018 08:15:30.164	code: Info	text: self.ping()
+date: 15/10/2018 08:15:30.164	code: Info	text: 0.113189697
+date: 15/10/2018 08:15:45.245	code: Info	text: Connected by ('127.0.0.1', 2051) --> command: ping
+date: 15/10/2018 08:15:45.245	code: Info	text: self.ping()
+date: 15/10/2018 08:15:45.245	code: Info	text: 0.113189697
+date: 15/10/2018 08:16:00.279	code: Info	text: Connected by ('127.0.0.1', 2056) --> command: ping
+date: 15/10/2018 08:16:00.279	code: Info	text: self.ping()
+date: 15/10/2018 08:16:00.279	code: Info	text: 0.113189697
+date: 15/10/2018 08:16:15.313	code: Info	text: Connected by ('127.0.0.1', 2064) --> command: ping
+date: 15/10/2018 08:16:15.313	code: Info	text: self.ping()
+date: 15/10/2018 08:16:15.313	code: Info	text: 0.113189697
+date: 15/10/2018 08:16:30.675	code: Info	text: Connected by ('127.0.0.1', 2072) --> command: ping
+date: 15/10/2018 08:16:30.675	code: Info	text: self.ping()
+date: 15/10/2018 08:16:30.675	code: Info	text: 0.113189697
+date: 15/10/2018 08:16:45.709	code: Info	text: Connected by ('127.0.0.1', 2085) --> command: ping
+date: 15/10/2018 08:16:45.709	code: Info	text: self.ping()
+date: 15/10/2018 08:16:45.709	code: Info	text: 0.113189697
+date: 15/10/2018 08:17:00.742	code: Info	text: Connected by ('127.0.0.1', 2090) --> command: ping
+date: 15/10/2018 08:17:00.742	code: Info	text: self.ping()
+date: 15/10/2018 08:17:00.742	code: Info	text: 0.113189697
+date: 15/10/2018 08:17:15.808	code: Info	text: Connected by ('127.0.0.1', 2096) --> command: ping
+date: 15/10/2018 08:17:15.808	code: Info	text: self.ping()
+date: 15/10/2018 08:17:15.808	code: Info	text: 0.113189697
+date: 15/10/2018 08:17:30.841	code: Info	text: Connected by ('127.0.0.1', 2101) --> command: ping
+date: 15/10/2018 08:17:30.841	code: Info	text: self.ping()
+date: 15/10/2018 08:17:30.857	code: Info	text: 0.113189697
+date: 15/10/2018 08:17:45.875	code: Info	text: Connected by ('127.0.0.1', 2106) --> command: ping
+date: 15/10/2018 08:17:45.875	code: Info	text: self.ping()
+date: 15/10/2018 08:17:45.875	code: Info	text: 0.113189697
+date: 15/10/2018 08:18:00.909	code: Info	text: Connected by ('127.0.0.1', 2112) --> command: ping
+date: 15/10/2018 08:18:00.909	code: Info	text: self.ping()
+date: 15/10/2018 08:18:00.909	code: Info	text: 0.113189697
+date: 15/10/2018 08:18:15.943	code: Info	text: Connected by ('127.0.0.1', 2117) --> command: ping
+date: 15/10/2018 08:18:15.943	code: Info	text: self.ping()
+date: 15/10/2018 08:18:15.943	code: Info	text: 0.113189697
+date: 15/10/2018 08:18:30.977	code: Info	text: Connected by ('127.0.0.1', 2122) --> command: ping
+date: 15/10/2018 08:18:30.977	code: Info	text: self.ping()
+date: 15/10/2018 08:18:30.977	code: Info	text: 0.113189697
+date: 15/10/2018 08:18:46.651	code: Info	text: Connected by ('127.0.0.1', 2129) --> command: ping
+date: 15/10/2018 08:18:46.651	code: Info	text: self.ping()
+date: 15/10/2018 08:18:46.651	code: Info	text: 0.113189697
+date: 15/10/2018 08:19:01.904	code: Info	text: Connected by ('127.0.0.1', 2146) --> command: ping
+date: 15/10/2018 08:19:01.904	code: Info	text: self.ping()
+date: 15/10/2018 08:19:01.904	code: Info	text: 0.113189697
+date: 15/10/2018 08:19:17.032	code: Info	text: Connected by ('127.0.0.1', 2151) --> command: ping
+date: 15/10/2018 08:19:17.032	code: Info	text: self.ping()
+date: 15/10/2018 08:19:17.032	code: Info	text: 0.113189697
+date: 15/10/2018 08:19:32.065	code: Info	text: Connected by ('127.0.0.1', 2156) --> command: ping
+date: 15/10/2018 08:19:32.065	code: Info	text: self.ping()
+date: 15/10/2018 08:19:32.065	code: Info	text: 0.113189697
+date: 15/10/2018 08:19:47.099	code: Info	text: Connected by ('127.0.0.1', 2161) --> command: ping
+date: 15/10/2018 08:19:47.099	code: Info	text: self.ping()
+date: 15/10/2018 08:19:47.099	code: Info	text: 0.113189697
+date: 15/10/2018 08:20:02.133	code: Info	text: Connected by ('127.0.0.1', 2167) --> command: ping
+date: 15/10/2018 08:20:02.133	code: Info	text: self.ping()
+date: 15/10/2018 08:20:02.133	code: Info	text: 0.113189697
+date: 15/10/2018 08:20:17.167	code: Info	text: Connected by ('127.0.0.1', 2172) --> command: ping
+date: 15/10/2018 08:20:17.167	code: Info	text: self.ping()
+date: 15/10/2018 08:20:17.167	code: Info	text: 0.113189697
+date: 15/10/2018 08:20:32.201	code: Info	text: Connected by ('127.0.0.1', 2177) --> command: ping
+date: 15/10/2018 08:20:32.201	code: Info	text: self.ping()
+date: 15/10/2018 08:20:32.201	code: Info	text: 0.113189697
+date: 15/10/2018 08:20:47.235	code: Info	text: Connected by ('127.0.0.1', 2182) --> command: ping
+date: 15/10/2018 08:20:47.235	code: Info	text: self.ping()
+date: 15/10/2018 08:20:47.235	code: Info	text: 0.113189697
+date: 15/10/2018 08:21:02.253	code: Info	text: Connected by ('127.0.0.1', 2188) --> command: ping
+date: 15/10/2018 08:21:02.269	code: Info	text: self.ping()
+date: 15/10/2018 08:21:02.269	code: Info	text: 0.113189697
+date: 15/10/2018 08:21:17.302	code: Info	text: Connected by ('127.0.0.1', 2193) --> command: ping
+date: 15/10/2018 08:21:17.302	code: Info	text: self.ping()
+date: 15/10/2018 08:21:17.302	code: Info	text: 0.113189697
+date: 15/10/2018 08:21:33.446	code: Info	text: Connected by ('127.0.0.1', 2200) --> command: ping
+date: 15/10/2018 08:21:33.446	code: Info	text: self.ping()
+date: 15/10/2018 08:21:33.446	code: Info	text: 0.113189697
+date: 15/10/2018 08:21:46.776	code: Info	text: Connected by ('127.0.0.1', 2210) --> command: rwd_time:1
+date: 15/10/2018 08:21:46.776	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:21:47.120	code: Info	text: OK
+date: 15/10/2018 08:21:47.136	code: Info	text: Connected by ('127.0.0.1', 2211) --> command: get_pos
+date: 15/10/2018 08:21:47.136	code: Info	text: self.get_pos()
+date: 15/10/2018 08:21:47.136	code: Info	text: 0.112976074
+date: 15/10/2018 08:21:49.058	code: Info	text: Connected by ('127.0.0.1', 2216) --> command: ping
+date: 15/10/2018 08:21:49.058	code: Info	text: self.ping()
+date: 15/10/2018 08:21:49.058	code: Info	text: 0.112976074
+date: 15/10/2018 08:21:56.325	code: Info	text: Connected by ('127.0.0.1', 2222) --> command: rwd_time:1
+date: 15/10/2018 08:21:56.325	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:21:56.669	code: Info	text: OK
+date: 15/10/2018 08:21:56.684	code: Info	text: Connected by ('127.0.0.1', 2223) --> command: get_pos
+date: 15/10/2018 08:21:56.684	code: Info	text: self.get_pos()
+date: 15/10/2018 08:21:56.684	code: Info	text: 0.112747192
+date: 15/10/2018 08:22:04.092	code: Info	text: Connected by ('127.0.0.1', 2233) --> command: ping
+date: 15/10/2018 08:22:04.092	code: Info	text: self.ping()
+date: 15/10/2018 08:22:04.092	code: Info	text: 0.112747192
+date: 15/10/2018 08:22:04.748	code: Info	text: Connected by ('127.0.0.1', 2235) --> command: fwd_time:1
+date: 15/10/2018 08:22:04.748	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 08:22:05.217	code: Info	text: OK
+date: 15/10/2018 08:22:05.233	code: Info	text: Connected by ('127.0.0.1', 2236) --> command: get_pos
+date: 15/10/2018 08:22:05.233	code: Info	text: self.get_pos()
+date: 15/10/2018 08:22:05.248	code: Info	text: 0.112976074
+date: 15/10/2018 08:22:13.250	code: Info	text: Connected by ('127.0.0.1', 2242) --> command: fwd_time:1
+date: 15/10/2018 08:22:13.250	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 08:22:13.640	code: Info	text: OK
+date: 15/10/2018 08:22:13.640	code: Info	text: Connected by ('127.0.0.1', 2243) --> command: get_pos
+date: 15/10/2018 08:22:13.640	code: Info	text: self.get_pos()
+date: 15/10/2018 08:22:13.656	code: Info	text: 0.113143921
+date: 15/10/2018 08:22:19.141	code: Info	text: Connected by ('127.0.0.1', 2251) --> command: ping
+date: 15/10/2018 08:22:19.141	code: Info	text: self.ping()
+date: 15/10/2018 08:22:19.157	code: Info	text: 0.113143921
+date: 15/10/2018 08:22:21.751	code: Info	text: Connected by ('127.0.0.1', 2254) --> command: fwd_time:1
+date: 15/10/2018 08:22:21.751	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 08:22:22.095	code: Info	text: OK
+date: 15/10/2018 08:22:22.110	code: Info	text: Connected by ('127.0.0.1', 2255) --> command: get_pos
+date: 15/10/2018 08:22:22.110	code: Info	text: self.get_pos()
+date: 15/10/2018 08:22:22.110	code: Info	text: 0.113342285
+date: 15/10/2018 08:22:34.175	code: Info	text: Connected by ('127.0.0.1', 2267) --> command: ping
+date: 15/10/2018 08:22:34.175	code: Info	text: self.ping()
+date: 15/10/2018 08:22:34.175	code: Info	text: 0.113342285
+date: 15/10/2018 08:22:49.080	code: Info	text: Connected by ('127.0.0.1', 2273) --> command: ping
+date: 15/10/2018 08:22:49.080	code: Info	text: self.ping()
+date: 15/10/2018 08:22:49.080	code: Info	text: 0.113342285
+date: 15/10/2018 08:23:04.129	code: Info	text: Connected by ('127.0.0.1', 2279) --> command: ping
+date: 15/10/2018 08:23:04.129	code: Info	text: self.ping()
+date: 15/10/2018 08:23:04.129	code: Info	text: 0.113342285
+date: 15/10/2018 08:23:19.163	code: Info	text: Connected by ('127.0.0.1', 2284) --> command: ping
+date: 15/10/2018 08:23:19.163	code: Info	text: self.ping()
+date: 15/10/2018 08:23:19.163	code: Info	text: 0.113342285
+date: 15/10/2018 08:23:34.197	code: Info	text: Connected by ('127.0.0.1', 2289) --> command: ping
+date: 15/10/2018 08:23:34.197	code: Info	text: self.ping()
+date: 15/10/2018 08:23:34.197	code: Info	text: 0.113342285
+date: 15/10/2018 08:23:49.231	code: Info	text: Connected by ('127.0.0.1', 2294) --> command: ping
+date: 15/10/2018 08:23:49.231	code: Info	text: self.ping()
+date: 15/10/2018 08:23:49.231	code: Info	text: 0.113342285
+date: 15/10/2018 08:24:04.249	code: Info	text: Connected by ('127.0.0.1', 2300) --> command: ping
+date: 15/10/2018 08:24:04.249	code: Info	text: self.ping()
+date: 15/10/2018 08:24:04.265	code: Info	text: 0.113342285
+date: 15/10/2018 08:24:19.283	code: Info	text: Connected by ('127.0.0.1', 2305) --> command: ping
+date: 15/10/2018 08:24:19.283	code: Info	text: self.ping()
+date: 15/10/2018 08:24:19.283	code: Info	text: 0.113342285
+date: 15/10/2018 08:24:35.598	code: Info	text: Connected by ('127.0.0.1', 2322) --> command: ping
+date: 15/10/2018 08:24:35.598	code: Info	text: self.ping()
+date: 15/10/2018 08:24:35.598	code: Info	text: 0.113342285
+date: 15/10/2018 08:24:50.929	code: Info	text: Connected by ('127.0.0.1', 2335) --> command: ping
+date: 15/10/2018 08:24:50.929	code: Info	text: self.ping()
+date: 15/10/2018 08:24:50.929	code: Info	text: 0.113342285
+date: 15/10/2018 08:25:05.963	code: Info	text: Connected by ('127.0.0.1', 2345) --> command: ping
+date: 15/10/2018 08:25:05.963	code: Info	text: self.ping()
+date: 15/10/2018 08:25:05.963	code: Info	text: 0.113342285
+date: 15/10/2018 08:25:20.997	code: Info	text: Connected by ('127.0.0.1', 2350) --> command: ping
+date: 15/10/2018 08:25:20.997	code: Info	text: self.ping()
+date: 15/10/2018 08:25:20.997	code: Info	text: 0.113342285
+date: 15/10/2018 08:25:36.031	code: Info	text: Connected by ('127.0.0.1', 2357) --> command: ping
+date: 15/10/2018 08:25:36.031	code: Info	text: self.ping()
+date: 15/10/2018 08:25:36.031	code: Info	text: 0.113342285
+date: 15/10/2018 08:25:51.064	code: Info	text: Connected by ('127.0.0.1', 2362) --> command: ping
+date: 15/10/2018 08:25:51.064	code: Info	text: self.ping()
+date: 15/10/2018 08:25:51.064	code: Info	text: 0.113342285
+date: 15/10/2018 08:26:06.098	code: Info	text: Connected by ('127.0.0.1', 2368) --> command: ping
+date: 15/10/2018 08:26:06.098	code: Info	text: self.ping()
+date: 15/10/2018 08:26:06.098	code: Info	text: 0.113342285
+date: 15/10/2018 08:26:21.132	code: Info	text: Connected by ('127.0.0.1', 2373) --> command: ping
+date: 15/10/2018 08:26:21.132	code: Info	text: self.ping()
+date: 15/10/2018 08:26:21.132	code: Info	text: 0.113342285
+date: 15/10/2018 08:26:36.166	code: Info	text: Connected by ('127.0.0.1', 2378) --> command: ping
+date: 15/10/2018 08:26:36.166	code: Info	text: self.ping()
+date: 15/10/2018 08:26:36.166	code: Info	text: 0.113342285
+date: 15/10/2018 08:26:51.200	code: Info	text: Connected by ('127.0.0.1', 2384) --> command: ping
+date: 15/10/2018 08:26:51.200	code: Info	text: self.ping()
+date: 15/10/2018 08:26:51.200	code: Info	text: 0.113342285
+date: 15/10/2018 08:27:06.234	code: Info	text: Connected by ('127.0.0.1', 2393) --> command: ping
+date: 15/10/2018 08:27:06.234	code: Info	text: self.ping()
+date: 15/10/2018 08:27:06.234	code: Info	text: 0.113342285
+date: 15/10/2018 08:27:21.267	code: Info	text: Connected by ('127.0.0.1', 2407) --> command: ping
+date: 15/10/2018 08:27:21.267	code: Info	text: self.ping()
+date: 15/10/2018 08:27:21.267	code: Info	text: 0.113342285
+date: 15/10/2018 08:27:36.333	code: Info	text: Connected by ('127.0.0.1', 2412) --> command: ping
+date: 15/10/2018 08:27:36.333	code: Info	text: self.ping()
+date: 15/10/2018 08:27:36.333	code: Info	text: 0.113342285
+date: 15/10/2018 08:27:51.366	code: Info	text: Connected by ('127.0.0.1', 2417) --> command: ping
+date: 15/10/2018 08:27:51.366	code: Info	text: self.ping()
+date: 15/10/2018 08:27:51.366	code: Info	text: 0.113342285
+date: 15/10/2018 08:28:06.400	code: Info	text: Connected by ('127.0.0.1', 2423) --> command: ping
+date: 15/10/2018 08:28:06.400	code: Info	text: self.ping()
+date: 15/10/2018 08:28:06.400	code: Info	text: 0.113342285
+date: 15/10/2018 08:28:21.434	code: Info	text: Connected by ('127.0.0.1', 2428) --> command: ping
+date: 15/10/2018 08:28:21.434	code: Info	text: self.ping()
+date: 15/10/2018 08:28:21.434	code: Info	text: 0.113342285
+date: 15/10/2018 08:28:36.468	code: Info	text: Connected by ('127.0.0.1', 2433) --> command: ping
+date: 15/10/2018 08:28:36.468	code: Info	text: self.ping()
+date: 15/10/2018 08:28:36.468	code: Info	text: 0.113342285
+date: 15/10/2018 08:28:51.502	code: Info	text: Connected by ('127.0.0.1', 2439) --> command: ping
+date: 15/10/2018 08:28:51.502	code: Info	text: self.ping()
+date: 15/10/2018 08:28:51.502	code: Info	text: 0.113342285
+date: 15/10/2018 08:29:06.536	code: Info	text: Connected by ('127.0.0.1', 2445) --> command: ping
+date: 15/10/2018 08:29:06.536	code: Info	text: self.ping()
+date: 15/10/2018 08:29:06.536	code: Info	text: 0.113342285
+date: 15/10/2018 08:29:22.538	code: Info	text: Connected by ('127.0.0.1', 2452) --> command: ping
+date: 15/10/2018 08:29:22.538	code: Info	text: self.ping()
+date: 15/10/2018 08:29:22.538	code: Info	text: 0.113342285
+date: 15/10/2018 08:29:36.603	code: Info	text: Connected by ('127.0.0.1', 2462) --> command: rwd_time:1
+date: 15/10/2018 08:29:36.603	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:29:37.057	code: Info	text: OK
+date: 15/10/2018 08:29:37.057	code: Info	text: Connected by ('127.0.0.1', 2463) --> command: get_pos
+date: 15/10/2018 08:29:37.057	code: Info	text: self.get_pos()
+date: 15/10/2018 08:29:37.072	code: Info	text: 0.113128662
+date: 15/10/2018 08:29:38.447	code: Info	text: Connected by ('127.0.0.1', 2468) --> command: ping
+date: 15/10/2018 08:29:38.447	code: Info	text: self.ping()
+date: 15/10/2018 08:29:38.447	code: Info	text: 0.113128662
+date: 15/10/2018 08:29:46.136	code: Info	text: Connected by ('127.0.0.1', 2474) --> command: rwd_time:1
+date: 15/10/2018 08:29:46.136	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:29:46.496	code: Info	text: OK
+date: 15/10/2018 08:29:46.496	code: Info	text: Connected by ('127.0.0.1', 2475) --> command: get_pos
+date: 15/10/2018 08:29:46.496	code: Info	text: self.get_pos()
+date: 15/10/2018 08:29:46.511	code: Info	text: 0.112960815
+date: 15/10/2018 08:29:53.872	code: Info	text: Connected by ('127.0.0.1', 2484) --> command: ping
+date: 15/10/2018 08:29:53.872	code: Info	text: self.ping()
+date: 15/10/2018 08:29:53.872	code: Info	text: 0.112960815
+date: 15/10/2018 08:29:54.653	code: Info	text: Connected by ('127.0.0.1', 2486) --> command: rwd_time:1
+date: 15/10/2018 08:29:54.653	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:29:54.997	code: Info	text: OK
+date: 15/10/2018 08:29:55.013	code: Info	text: Connected by ('127.0.0.1', 2487) --> command: get_pos
+date: 15/10/2018 08:29:55.013	code: Info	text: self.get_pos()
+date: 15/10/2018 08:29:55.013	code: Info	text: 0.112731934
+date: 15/10/2018 08:30:03.030	code: Info	text: Connected by ('127.0.0.1', 2494) --> command: rwd_time:1
+date: 15/10/2018 08:30:03.030	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:30:03.389	code: Info	text: OK
+date: 15/10/2018 08:30:03.389	code: Info	text: Connected by ('127.0.0.1', 2495) --> command: get_pos
+date: 15/10/2018 08:30:03.389	code: Info	text: self.get_pos()
+date: 15/10/2018 08:30:03.405	code: Info	text: 0.112548828
+date: 15/10/2018 08:30:08.906	code: Info	text: Connected by ('127.0.0.1', 2503) --> command: ping
+date: 15/10/2018 08:30:08.906	code: Info	text: self.ping()
+date: 15/10/2018 08:30:08.906	code: Info	text: 0.112548828
+date: 15/10/2018 08:30:11.469	code: Info	text: Connected by ('127.0.0.1', 2506) --> command: rwd_time:1
+date: 15/10/2018 08:30:11.469	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:30:11.813	code: Info	text: OK
+date: 15/10/2018 08:30:11.828	code: Info	text: Connected by ('127.0.0.1', 2507) --> command: get_pos
+date: 15/10/2018 08:30:11.828	code: Info	text: self.get_pos()
+date: 15/10/2018 08:30:11.844	code: Info	text: 0.112319946
+date: 15/10/2018 08:30:23.955	code: Info	text: Connected by ('127.0.0.1', 2519) --> command: ping
+date: 15/10/2018 08:30:23.955	code: Info	text: self.ping()
+date: 15/10/2018 08:30:23.955	code: Info	text: 0.112319946
+date: 15/10/2018 08:30:38.989	code: Info	text: Connected by ('127.0.0.1', 2524) --> command: ping
+date: 15/10/2018 08:30:38.989	code: Info	text: self.ping()
+date: 15/10/2018 08:30:38.989	code: Info	text: 0.112319946
+date: 15/10/2018 08:30:54.023	code: Info	text: Connected by ('127.0.0.1', 2529) --> command: ping
+date: 15/10/2018 08:30:54.039	code: Info	text: self.ping()
+date: 15/10/2018 08:30:54.039	code: Info	text: 0.112319946
+date: 15/10/2018 08:31:09.072	code: Info	text: Connected by ('127.0.0.1', 2535) --> command: ping
+date: 15/10/2018 08:31:09.072	code: Info	text: self.ping()
+date: 15/10/2018 08:31:09.072	code: Info	text: 0.112319946
+date: 15/10/2018 08:31:24.106	code: Info	text: Connected by ('127.0.0.1', 2540) --> command: ping
+date: 15/10/2018 08:31:24.106	code: Info	text: self.ping()
+date: 15/10/2018 08:31:24.106	code: Info	text: 0.112319946
+date: 15/10/2018 08:31:39.140	code: Info	text: Connected by ('127.0.0.1', 2545) --> command: ping
+date: 15/10/2018 08:31:39.140	code: Info	text: self.ping()
+date: 15/10/2018 08:31:39.140	code: Info	text: 0.112319946
+date: 15/10/2018 08:31:54.174	code: Info	text: Connected by ('127.0.0.1', 2550) --> command: ping
+date: 15/10/2018 08:31:54.174	code: Info	text: self.ping()
+date: 15/10/2018 08:31:54.174	code: Info	text: 0.112319946
+date: 15/10/2018 08:32:09.208	code: Info	text: Connected by ('127.0.0.1', 2556) --> command: ping
+date: 15/10/2018 08:32:09.208	code: Info	text: self.ping()
+date: 15/10/2018 08:32:09.208	code: Info	text: 0.112319946
+date: 15/10/2018 08:32:24.851	code: Info	text: Connected by ('127.0.0.1', 2563) --> command: ping
+date: 15/10/2018 08:32:24.851	code: Info	text: self.ping()
+date: 15/10/2018 08:32:24.851	code: Info	text: 0.112319946
+date: 15/10/2018 08:32:39.984	code: Info	text: Connected by ('127.0.0.1', 2577) --> command: ping
+date: 15/10/2018 08:32:39.984	code: Info	text: self.ping()
+date: 15/10/2018 08:32:39.984	code: Info	text: 0.112319946
+date: 15/10/2018 08:32:55.018	code: Info	text: Connected by ('127.0.0.1', 2585) --> command: ping
+date: 15/10/2018 08:32:55.018	code: Info	text: self.ping()
+date: 15/10/2018 08:32:55.018	code: Info	text: 0.112319946
+date: 15/10/2018 08:33:10.052	code: Info	text: Connected by ('127.0.0.1', 2591) --> command: ping
+date: 15/10/2018 08:33:10.052	code: Info	text: self.ping()
+date: 15/10/2018 08:33:10.052	code: Info	text: 0.112319946
+date: 15/10/2018 08:33:25.086	code: Info	text: Connected by ('127.0.0.1', 2596) --> command: ping
+date: 15/10/2018 08:33:25.086	code: Info	text: self.ping()
+date: 15/10/2018 08:33:25.086	code: Info	text: 0.112319946
+date: 15/10/2018 08:33:40.135	code: Info	text: Connected by ('127.0.0.1', 2601) --> command: ping
+date: 15/10/2018 08:33:40.135	code: Info	text: self.ping()
+date: 15/10/2018 08:33:40.135	code: Info	text: 0.112319946
+date: 15/10/2018 08:33:55.169	code: Info	text: Connected by ('127.0.0.1', 2606) --> command: ping
+date: 15/10/2018 08:33:55.169	code: Info	text: self.ping()
+date: 15/10/2018 08:33:55.169	code: Info	text: 0.112319946
+date: 15/10/2018 08:34:10.203	code: Info	text: Connected by ('127.0.0.1', 2612) --> command: ping
+date: 15/10/2018 08:34:10.203	code: Info	text: self.ping()
+date: 15/10/2018 08:34:10.203	code: Info	text: 0.112319946
+date: 15/10/2018 08:34:25.237	code: Info	text: Connected by ('127.0.0.1', 2617) --> command: ping
+date: 15/10/2018 08:34:25.237	code: Info	text: self.ping()
+date: 15/10/2018 08:34:25.237	code: Info	text: 0.112319946
+date: 15/10/2018 08:34:40.270	code: Info	text: Connected by ('127.0.0.1', 2622) --> command: ping
+date: 15/10/2018 08:34:40.270	code: Info	text: self.ping()
+date: 15/10/2018 08:34:40.270	code: Info	text: 0.112319946
+date: 15/10/2018 08:34:56.633	code: Info	text: Connected by ('127.0.0.1', 2629) --> command: ping
+date: 15/10/2018 08:34:56.633	code: Info	text: self.ping()
+date: 15/10/2018 08:34:56.633	code: Info	text: 0.112319946
+date: 15/10/2018 08:35:11.963	code: Info	text: Connected by ('127.0.0.1', 2646) --> command: ping
+date: 15/10/2018 08:35:11.963	code: Info	text: self.ping()
+date: 15/10/2018 08:35:11.963	code: Info	text: 0.112319946
+date: 15/10/2018 08:35:26.997	code: Info	text: Connected by ('127.0.0.1', 2651) --> command: ping
+date: 15/10/2018 08:35:26.997	code: Info	text: self.ping()
+date: 15/10/2018 08:35:26.997	code: Info	text: 0.112319946
+date: 15/10/2018 08:35:42.031	code: Info	text: Connected by ('127.0.0.1', 2656) --> command: ping
+date: 15/10/2018 08:35:42.031	code: Info	text: self.ping()
+date: 15/10/2018 08:35:42.031	code: Info	text: 0.112319946
+date: 15/10/2018 08:35:57.065	code: Info	text: Connected by ('127.0.0.1', 2661) --> command: ping
+date: 15/10/2018 08:35:57.065	code: Info	text: self.ping()
+date: 15/10/2018 08:35:57.065	code: Info	text: 0.112319946
+date: 15/10/2018 08:36:12.099	code: Info	text: Connected by ('127.0.0.1', 2667) --> command: ping
+date: 15/10/2018 08:36:12.099	code: Info	text: self.ping()
+date: 15/10/2018 08:36:12.099	code: Info	text: 0.112319946
+date: 15/10/2018 08:36:27.133	code: Info	text: Connected by ('127.0.0.1', 2672) --> command: ping
+date: 15/10/2018 08:36:27.133	code: Info	text: self.ping()
+date: 15/10/2018 08:36:27.133	code: Info	text: 0.112319946
+date: 15/10/2018 08:36:42.167	code: Info	text: Connected by ('127.0.0.1', 2677) --> command: ping
+date: 15/10/2018 08:36:42.167	code: Info	text: self.ping()
+date: 15/10/2018 08:36:42.167	code: Info	text: 0.112319946
+date: 15/10/2018 08:36:57.216	code: Info	text: Connected by ('127.0.0.1', 2682) --> command: ping
+date: 15/10/2018 08:36:57.216	code: Info	text: self.ping()
+date: 15/10/2018 08:36:57.232	code: Info	text: 0.112319946
+date: 15/10/2018 08:37:13.484	code: Info	text: Connected by ('127.0.0.1', 2690) --> command: ping
+date: 15/10/2018 08:37:13.484	code: Info	text: self.ping()
+date: 15/10/2018 08:37:13.484	code: Info	text: 0.112319946
+date: 15/10/2018 08:37:28.815	code: Info	text: Connected by ('127.0.0.1', 2702) --> command: ping
+date: 15/10/2018 08:37:28.815	code: Info	text: self.ping()
+date: 15/10/2018 08:37:28.815	code: Info	text: 0.112319946
+date: 15/10/2018 08:37:43.849	code: Info	text: Connected by ('127.0.0.1', 2711) --> command: ping
+date: 15/10/2018 08:37:43.849	code: Info	text: self.ping()
+date: 15/10/2018 08:37:43.849	code: Info	text: 0.112319946
+date: 15/10/2018 08:37:58.930	code: Info	text: Connected by ('127.0.0.1', 2716) --> command: ping
+date: 15/10/2018 08:37:58.930	code: Info	text: self.ping()
+date: 15/10/2018 08:37:58.930	code: Info	text: 0.112319946
+date: 15/10/2018 08:38:13.964	code: Info	text: Connected by ('127.0.0.1', 2724) --> command: ping
+date: 15/10/2018 08:38:13.964	code: Info	text: self.ping()
+date: 15/10/2018 08:38:13.964	code: Info	text: 0.112319946
+date: 15/10/2018 08:38:29.013	code: Info	text: Connected by ('127.0.0.1', 2729) --> command: ping
+date: 15/10/2018 08:38:29.013	code: Info	text: self.ping()
+date: 15/10/2018 08:38:29.013	code: Info	text: 0.112319946
+date: 15/10/2018 08:38:44.047	code: Info	text: Connected by ('127.0.0.1', 2734) --> command: ping
+date: 15/10/2018 08:38:44.047	code: Info	text: self.ping()
+date: 15/10/2018 08:38:44.047	code: Info	text: 0.112319946
+date: 15/10/2018 08:38:59.081	code: Info	text: Connected by ('127.0.0.1', 2739) --> command: ping
+date: 15/10/2018 08:38:59.081	code: Info	text: self.ping()
+date: 15/10/2018 08:38:59.081	code: Info	text: 0.112319946
+date: 15/10/2018 08:39:14.115	code: Info	text: Connected by ('127.0.0.1', 2745) --> command: ping
+date: 15/10/2018 08:39:14.115	code: Info	text: self.ping()
+date: 15/10/2018 08:39:14.115	code: Info	text: 0.112319946
+date: 15/10/2018 08:39:29.148	code: Info	text: Connected by ('127.0.0.1', 2750) --> command: ping
+date: 15/10/2018 08:39:29.148	code: Info	text: self.ping()
+date: 15/10/2018 08:39:29.148	code: Info	text: 0.112319946
+date: 15/10/2018 08:39:45.026	code: Info	text: Connected by ('127.0.0.1', 2757) --> command: ping
+date: 15/10/2018 08:39:45.026	code: Info	text: self.ping()
+date: 15/10/2018 08:39:45.026	code: Info	text: 0.112319946
+date: 15/10/2018 08:40:00.201	code: Info	text: Connected by ('127.0.0.1', 2773) --> command: ping
+date: 15/10/2018 08:40:00.201	code: Info	text: self.ping()
+date: 15/10/2018 08:40:00.201	code: Info	text: 0.112319946
+date: 15/10/2018 08:40:15.235	code: Info	text: Connected by ('127.0.0.1', 2779) --> command: ping
+date: 15/10/2018 08:40:15.235	code: Info	text: self.ping()
+date: 15/10/2018 08:40:15.235	code: Info	text: 0.112319946
+date: 15/10/2018 08:40:30.268	code: Info	text: Connected by ('127.0.0.1', 2784) --> command: ping
+date: 15/10/2018 08:40:30.268	code: Info	text: self.ping()
+date: 15/10/2018 08:40:30.268	code: Info	text: 0.112319946
+date: 15/10/2018 08:40:45.302	code: Info	text: Connected by ('127.0.0.1', 2791) --> command: ping
+date: 15/10/2018 08:40:45.302	code: Info	text: self.ping()
+date: 15/10/2018 08:40:45.302	code: Info	text: 0.112319946
+date: 15/10/2018 08:41:00.352	code: Info	text: Connected by ('127.0.0.1', 2796) --> command: ping
+date: 15/10/2018 08:41:00.352	code: Info	text: self.ping()
+date: 15/10/2018 08:41:00.352	code: Info	text: 0.112319946
+date: 15/10/2018 08:41:15.370	code: Info	text: Connected by ('127.0.0.1', 2802) --> command: ping
+date: 15/10/2018 08:41:15.370	code: Info	text: self.ping()
+date: 15/10/2018 08:41:15.370	code: Info	text: 0.112319946
+date: 15/10/2018 08:41:30.404	code: Info	text: Connected by ('127.0.0.1', 2807) --> command: ping
+date: 15/10/2018 08:41:30.404	code: Info	text: self.ping()
+date: 15/10/2018 08:41:30.404	code: Info	text: 0.112319946
+date: 15/10/2018 08:41:45.438	code: Info	text: Connected by ('127.0.0.1', 2812) --> command: ping
+date: 15/10/2018 08:41:45.438	code: Info	text: self.ping()
+date: 15/10/2018 08:41:45.438	code: Info	text: 0.112319946
+date: 15/10/2018 08:42:01.284	code: Info	text: Connected by ('127.0.0.1', 2820) --> command: ping
+date: 15/10/2018 08:42:01.284	code: Info	text: self.ping()
+date: 15/10/2018 08:42:01.284	code: Info	text: 0.112319946
+date: 15/10/2018 08:42:17.287	code: Info	text: Connected by ('127.0.0.1', 2829) --> command: ping
+date: 15/10/2018 08:42:17.287	code: Info	text: self.ping()
+date: 15/10/2018 08:42:17.287	code: Info	text: 0.112319946
+date: 15/10/2018 08:42:22.397	code: Info	text: Connected by ('127.0.0.1', 2835) --> command: rwd_time:1
+date: 15/10/2018 08:42:22.397	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:42:22.757	code: Info	text: OK
+date: 15/10/2018 08:42:22.788	code: Info	text: Connected by ('127.0.0.1', 2836) --> command: get_pos
+date: 15/10/2018 08:42:22.788	code: Info	text: self.get_pos()
+date: 15/10/2018 08:42:22.803	code: Info	text: 0.112136841
+date: 15/10/2018 08:42:33.665	code: Info	text: Connected by ('127.0.0.1', 2846) --> command: ping
+date: 15/10/2018 08:42:33.665	code: Info	text: self.ping()
+date: 15/10/2018 08:42:33.665	code: Info	text: 0.112136841
+date: 15/10/2018 08:42:48.776	code: Info	text: Connected by ('127.0.0.1', 2854) --> command: ping
+date: 15/10/2018 08:42:48.776	code: Info	text: self.ping()
+date: 15/10/2018 08:42:48.776	code: Info	text: 0.112136841
+date: 15/10/2018 08:43:03.794	code: Info	text: Connected by ('127.0.0.1', 2860) --> command: ping
+date: 15/10/2018 08:43:03.810	code: Info	text: self.ping()
+date: 15/10/2018 08:43:03.810	code: Info	text: 0.112136841
+date: 15/10/2018 08:43:18.844	code: Info	text: Connected by ('127.0.0.1', 2865) --> command: ping
+date: 15/10/2018 08:43:18.844	code: Info	text: self.ping()
+date: 15/10/2018 08:43:18.844	code: Info	text: 0.112136841
+date: 15/10/2018 08:43:33.878	code: Info	text: Connected by ('127.0.0.1', 2870) --> command: ping
+date: 15/10/2018 08:43:33.878	code: Info	text: self.ping()
+date: 15/10/2018 08:43:33.878	code: Info	text: 0.112136841
+date: 15/10/2018 08:43:48.911	code: Info	text: Connected by ('127.0.0.1', 2875) --> command: ping
+date: 15/10/2018 08:43:48.911	code: Info	text: self.ping()
+date: 15/10/2018 08:43:48.911	code: Info	text: 0.112136841
+date: 15/10/2018 08:44:03.945	code: Info	text: Connected by ('127.0.0.1', 2881) --> command: ping
+date: 15/10/2018 08:44:03.945	code: Info	text: self.ping()
+date: 15/10/2018 08:44:03.945	code: Info	text: 0.112136841
+date: 15/10/2018 08:44:18.979	code: Info	text: Connected by ('127.0.0.1', 2886) --> command: ping
+date: 15/10/2018 08:44:18.979	code: Info	text: self.ping()
+date: 15/10/2018 08:44:18.979	code: Info	text: 0.112136841
+date: 15/10/2018 08:44:34.685	code: Info	text: Connected by ('127.0.0.1', 2893) --> command: ping
+date: 15/10/2018 08:44:34.685	code: Info	text: self.ping()
+date: 15/10/2018 08:44:34.685	code: Info	text: 0.112136841
+date: 15/10/2018 08:44:49.844	code: Info	text: Connected by ('127.0.0.1', 2902) --> command: ping
+date: 15/10/2018 08:44:49.844	code: Info	text: self.ping()
+date: 15/10/2018 08:44:49.844	code: Info	text: 0.112136841
+date: 15/10/2018 08:44:54.251	code: Info	text: Connected by ('127.0.0.1', 2908) --> command: rwd_time:1
+date: 15/10/2018 08:44:54.251	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:44:54.595	code: Info	text: OK
+date: 15/10/2018 08:44:54.610	code: Info	text: Connected by ('127.0.0.1', 2909) --> command: get_pos
+date: 15/10/2018 08:44:54.610	code: Info	text: self.get_pos()
+date: 15/10/2018 08:44:54.610	code: Info	text: 0.111923218
+date: 15/10/2018 08:45:03.815	code: Info	text: Connected by ('127.0.0.1', 2916) --> command: rwd_time:1
+date: 15/10/2018 08:45:03.815	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 08:45:04.190	code: Info	text: OK
+date: 15/10/2018 08:45:04.190	code: Info	text: Connected by ('127.0.0.1', 2917) --> command: get_pos
+date: 15/10/2018 08:45:04.190	code: Info	text: self.get_pos()
+date: 15/10/2018 08:45:04.206	code: Info	text: 0.111740112
+date: 15/10/2018 08:45:05.550	code: Info	text: Connected by ('127.0.0.1', 2922) --> command: ping
+date: 15/10/2018 08:45:05.550	code: Info	text: self.ping()
+date: 15/10/2018 08:45:05.550	code: Info	text: 0.111740112
+date: 15/10/2018 08:45:12.223	code: Info	text: Connected by ('127.0.0.1', 2928) --> command: fwd_time:1
+date: 15/10/2018 08:45:12.223	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 08:45:12.660	code: Info	text: OK
+date: 15/10/2018 08:45:12.676	code: Info	text: Connected by ('127.0.0.1', 2929) --> command: get_pos
+date: 15/10/2018 08:45:12.676	code: Info	text: self.get_pos()
+date: 15/10/2018 08:45:12.691	code: Info	text: 0.111968994
+date: 15/10/2018 08:45:20.708	code: Info	text: Connected by ('127.0.0.1', 2935) --> command: fwd_time:1
+date: 15/10/2018 08:45:20.708	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 08:45:21.084	code: Info	text: OK
+date: 15/10/2018 08:45:21.084	code: Info	text: Connected by ('127.0.0.1', 2939) --> command: ping
+date: 15/10/2018 08:45:21.084	code: Info	text: self.ping()
+date: 15/10/2018 08:45:21.084	code: Info	text: OK
+date: 15/10/2018 08:45:21.084	code: Info	text: Connected by ('127.0.0.1', 2940) --> command: get_pos
+date: 15/10/2018 08:45:21.084	code: Info	text: self.get_pos()
+date: 15/10/2018 08:45:21.099	code: Info	text: 0.112136841
+date: 15/10/2018 08:45:36.117	code: Info	text: Connected by ('127.0.0.1', 2953) --> command: ping
+date: 15/10/2018 08:45:36.117	code: Info	text: self.ping()
+date: 15/10/2018 08:45:36.117	code: Info	text: 0.112136841
+date: 15/10/2018 08:45:51.151	code: Info	text: Connected by ('127.0.0.1', 2958) --> command: ping
+date: 15/10/2018 08:45:51.151	code: Info	text: self.ping()
+date: 15/10/2018 08:45:51.151	code: Info	text: 0.112136841
+date: 15/10/2018 08:46:06.185	code: Info	text: Connected by ('127.0.0.1', 2964) --> command: ping
+date: 15/10/2018 08:46:06.185	code: Info	text: self.ping()
+date: 15/10/2018 08:46:06.185	code: Info	text: 0.112136841
+date: 15/10/2018 08:46:21.219	code: Info	text: Connected by ('127.0.0.1', 2969) --> command: ping
+date: 15/10/2018 08:46:21.219	code: Info	text: self.ping()
+date: 15/10/2018 08:46:21.219	code: Info	text: 0.112136841
+date: 15/10/2018 08:46:36.253	code: Info	text: Connected by ('127.0.0.1', 2974) --> command: ping
+date: 15/10/2018 08:46:36.253	code: Info	text: self.ping()
+date: 15/10/2018 08:46:36.253	code: Info	text: 0.112136841
+date: 15/10/2018 08:46:51.287	code: Info	text: Connected by ('127.0.0.1', 2979) --> command: ping
+date: 15/10/2018 08:46:51.287	code: Info	text: self.ping()
+date: 15/10/2018 08:46:51.287	code: Info	text: 0.112136841
+date: 15/10/2018 08:47:06.352	code: Info	text: Connected by ('127.0.0.1', 2985) --> command: ping
+date: 15/10/2018 08:47:06.352	code: Info	text: self.ping()
+date: 15/10/2018 08:47:06.352	code: Info	text: 0.112136841
+date: 15/10/2018 08:47:21.386	code: Info	text: Connected by ('127.0.0.1', 2990) --> command: ping
+date: 15/10/2018 08:47:21.386	code: Info	text: self.ping()
+date: 15/10/2018 08:47:21.386	code: Info	text: 0.112136841
+date: 15/10/2018 08:47:37.748	code: Info	text: Connected by ('127.0.0.1', 2997) --> command: ping
+date: 15/10/2018 08:47:37.748	code: Info	text: self.ping()
+date: 15/10/2018 08:47:37.748	code: Info	text: 0.112136841
+date: 15/10/2018 08:47:53.000	code: Info	text: Connected by ('127.0.0.1', 3007) --> command: fwd_time:1
+date: 15/10/2018 08:47:53.000	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 08:47:53.329	code: Info	text: OK
+date: 15/10/2018 08:47:53.329	code: Info	text: Connected by ('127.0.0.1', 3011) --> command: ping
+date: 15/10/2018 08:47:53.329	code: Info	text: self.ping()
+date: 15/10/2018 08:47:53.329	code: Info	text: OK
+date: 15/10/2018 08:47:53.329	code: Info	text: Connected by ('127.0.0.1', 3012) --> command: get_pos
+date: 15/10/2018 08:47:53.329	code: Info	text: self.get_pos()
+date: 15/10/2018 08:47:53.360	code: Info	text: 0.112335205
+date: 15/10/2018 08:48:08.362	code: Info	text: Connected by ('127.0.0.1', 3026) --> command: ping
+date: 15/10/2018 08:48:08.362	code: Info	text: self.ping()
+date: 15/10/2018 08:48:08.362	code: Info	text: 0.112335205
+date: 15/10/2018 08:48:23.396	code: Info	text: Connected by ('127.0.0.1', 3031) --> command: ping
+date: 15/10/2018 08:48:23.396	code: Info	text: self.ping()
+date: 15/10/2018 08:48:23.396	code: Info	text: 0.112335205
+date: 15/10/2018 08:48:38.430	code: Info	text: Connected by ('127.0.0.1', 3036) --> command: ping
+date: 15/10/2018 08:48:38.430	code: Info	text: self.ping()
+date: 15/10/2018 08:48:38.430	code: Info	text: 0.112335205
+date: 15/10/2018 08:48:53.464	code: Info	text: Connected by ('127.0.0.1', 3041) --> command: ping
+date: 15/10/2018 08:48:53.464	code: Info	text: self.ping()
+date: 15/10/2018 08:48:53.480	code: Info	text: 0.112335205
+date: 15/10/2018 08:49:08.498	code: Info	text: Connected by ('127.0.0.1', 3047) --> command: ping
+date: 15/10/2018 08:49:08.498	code: Info	text: self.ping()
+date: 15/10/2018 08:49:08.498	code: Info	text: 0.112335205
+date: 15/10/2018 08:49:23.532	code: Info	text: Connected by ('127.0.0.1', 3052) --> command: ping
+date: 15/10/2018 08:49:23.532	code: Info	text: self.ping()
+date: 15/10/2018 08:49:23.532	code: Info	text: 0.112335205
+date: 15/10/2018 08:49:38.566	code: Info	text: Connected by ('127.0.0.1', 3057) --> command: ping
+date: 15/10/2018 08:49:38.566	code: Info	text: self.ping()
+date: 15/10/2018 08:49:38.566	code: Info	text: 0.112335205
+date: 15/10/2018 08:49:53.646	code: Info	text: Connected by ('127.0.0.1', 3062) --> command: ping
+date: 15/10/2018 08:49:53.646	code: Info	text: self.ping()
+date: 15/10/2018 08:49:53.646	code: Info	text: 0.112335205
+date: 15/10/2018 08:50:09.602	code: Info	text: Connected by ('127.0.0.1', 3070) --> command: ping
+date: 15/10/2018 08:50:09.602	code: Info	text: self.ping()
+date: 15/10/2018 08:50:09.602	code: Info	text: 0.112335205
+date: 15/10/2018 08:50:24.839	code: Info	text: Connected by ('127.0.0.1', 3083) --> command: ping
+date: 15/10/2018 08:50:24.839	code: Info	text: self.ping()
+date: 15/10/2018 08:50:24.839	code: Info	text: 0.112335205
+date: 15/10/2018 08:50:39.873	code: Info	text: Connected by ('127.0.0.1', 3091) --> command: ping
+date: 15/10/2018 08:50:39.873	code: Info	text: self.ping()
+date: 15/10/2018 08:50:39.873	code: Info	text: 0.112335205
+date: 15/10/2018 08:50:54.922	code: Info	text: Connected by ('127.0.0.1', 3096) --> command: ping
+date: 15/10/2018 08:50:54.922	code: Info	text: self.ping()
+date: 15/10/2018 08:50:54.922	code: Info	text: 0.112335205
+date: 15/10/2018 08:51:09.956	code: Info	text: Connected by ('127.0.0.1', 3102) --> command: ping
+date: 15/10/2018 08:51:09.956	code: Info	text: self.ping()
+date: 15/10/2018 08:51:09.956	code: Info	text: 0.112335205
+date: 15/10/2018 08:51:24.990	code: Info	text: Connected by ('127.0.0.1', 3107) --> command: ping
+date: 15/10/2018 08:51:24.990	code: Info	text: self.ping()
+date: 15/10/2018 08:51:24.990	code: Info	text: 0.112335205
+date: 15/10/2018 08:51:40.024	code: Info	text: Connected by ('127.0.0.1', 3112) --> command: ping
+date: 15/10/2018 08:51:40.024	code: Info	text: self.ping()
+date: 15/10/2018 08:51:40.024	code: Info	text: 0.112335205
+date: 15/10/2018 08:51:55.058	code: Info	text: Connected by ('127.0.0.1', 3117) --> command: ping
+date: 15/10/2018 08:51:55.058	code: Info	text: self.ping()
+date: 15/10/2018 08:51:55.058	code: Info	text: 0.112335205
+date: 15/10/2018 08:52:10.092	code: Info	text: Connected by ('127.0.0.1', 3123) --> command: ping
+date: 15/10/2018 08:52:10.092	code: Info	text: self.ping()
+date: 15/10/2018 08:52:10.092	code: Info	text: 0.112335205
+date: 15/10/2018 08:52:25.126	code: Info	text: Connected by ('127.0.0.1', 3128) --> command: ping
+date: 15/10/2018 08:52:25.126	code: Info	text: self.ping()
+date: 15/10/2018 08:52:25.126	code: Info	text: 0.112335205
+date: 15/10/2018 08:52:40.972	code: Info	text: Connected by ('127.0.0.1', 3135) --> command: ping
+date: 15/10/2018 08:52:40.972	code: Info	text: self.ping()
+date: 15/10/2018 08:52:40.972	code: Info	text: 0.112335205
+date: 15/10/2018 08:52:56.048	code: Info	text: Connected by ('127.0.0.1', 3152) --> command: ping
+date: 15/10/2018 08:52:56.048	code: Info	text: self.ping()
+date: 15/10/2018 08:52:56.048	code: Info	text: 0.112335205
+date: 15/10/2018 08:53:11.082	code: Info	text: Connected by ('127.0.0.1', 3158) --> command: ping
+date: 15/10/2018 08:53:11.082	code: Info	text: self.ping()
+date: 15/10/2018 08:53:11.082	code: Info	text: 0.112335205
+date: 15/10/2018 08:53:26.131	code: Info	text: Connected by ('127.0.0.1', 3163) --> command: ping
+date: 15/10/2018 08:53:26.131	code: Info	text: self.ping()
+date: 15/10/2018 08:53:26.131	code: Info	text: 0.112335205
+date: 15/10/2018 08:53:41.165	code: Info	text: Connected by ('127.0.0.1', 3168) --> command: ping
+date: 15/10/2018 08:53:41.165	code: Info	text: self.ping()
+date: 15/10/2018 08:53:41.165	code: Info	text: 0.112335205
+date: 15/10/2018 08:53:56.230	code: Info	text: Connected by ('127.0.0.1', 3173) --> command: ping
+date: 15/10/2018 08:53:56.230	code: Info	text: self.ping()
+date: 15/10/2018 08:53:56.230	code: Info	text: 0.112335205
+date: 15/10/2018 08:54:11.514	code: Info	text: Connected by ('127.0.0.1', 3179) --> command: ping
+date: 15/10/2018 08:54:11.514	code: Info	text: self.ping()
+date: 15/10/2018 08:54:11.514	code: Info	text: 0.112335205
+date: 15/10/2018 08:54:26.548	code: Info	text: Connected by ('127.0.0.1', 3188) --> command: ping
+date: 15/10/2018 08:54:26.548	code: Info	text: self.ping()
+date: 15/10/2018 08:54:26.548	code: Info	text: 0.112335205
+date: 15/10/2018 08:54:41.582	code: Info	text: Connected by ('127.0.0.1', 3193) --> command: ping
+date: 15/10/2018 08:54:41.582	code: Info	text: self.ping()
+date: 15/10/2018 08:54:41.582	code: Info	text: 0.112335205
+date: 15/10/2018 08:54:57.350	code: Info	text: Connected by ('127.0.0.1', 3201) --> command: ping
+date: 15/10/2018 08:54:57.350	code: Info	text: self.ping()
+date: 15/10/2018 08:54:57.350	code: Info	text: 0.112335205
+date: 15/10/2018 08:55:12.650	code: Info	text: Connected by ('127.0.0.1', 3210) --> command: ping
+date: 15/10/2018 08:55:12.650	code: Info	text: self.ping()
+date: 15/10/2018 08:55:12.650	code: Info	text: 0.112335205
+date: 15/10/2018 08:55:57.798	code: Info	text: Connected by ('127.0.0.1', 3220) --> command: ping
+date: 15/10/2018 08:55:57.798	code: Info	text: self.ping()
+date: 15/10/2018 08:55:57.798	code: Info	text: 0.112335205
+date: 15/10/2018 08:56:16.239	code: Info	text: Connected by ('127.0.0.1', 3227) --> command: ping
+date: 15/10/2018 08:56:16.239	code: Info	text: self.ping()
+date: 15/10/2018 08:56:16.239	code: Info	text: 0.112335205
+date: 15/10/2018 08:56:31.288	code: Info	text: Connected by ('127.0.0.1', 3242) --> command: ping
+date: 15/10/2018 08:56:31.288	code: Info	text: self.ping()
+date: 15/10/2018 08:56:31.288	code: Info	text: 0.112335205
+date: 15/10/2018 08:56:46.322	code: Info	text: Connected by ('127.0.0.1', 3249) --> command: ping
+date: 15/10/2018 08:56:46.322	code: Info	text: self.ping()
+date: 15/10/2018 08:56:46.322	code: Info	text: 0.112335205
+date: 15/10/2018 08:57:01.356	code: Info	text: Connected by ('127.0.0.1', 3255) --> command: ping
+date: 15/10/2018 08:57:01.356	code: Info	text: self.ping()
+date: 15/10/2018 08:57:01.356	code: Info	text: 0.112335205
+date: 15/10/2018 08:57:16.390	code: Info	text: Connected by ('127.0.0.1', 3260) --> command: ping
+date: 15/10/2018 08:57:16.390	code: Info	text: self.ping()
+date: 15/10/2018 08:57:16.390	code: Info	text: 0.112335205
+date: 15/10/2018 08:57:31.424	code: Info	text: Connected by ('127.0.0.1', 3265) --> command: ping
+date: 15/10/2018 08:57:31.424	code: Info	text: self.ping()
+date: 15/10/2018 08:57:31.424	code: Info	text: 0.112335205
+date: 15/10/2018 08:57:46.458	code: Info	text: Connected by ('127.0.0.1', 3270) --> command: ping
+date: 15/10/2018 08:57:46.458	code: Info	text: self.ping()
+date: 15/10/2018 08:57:46.458	code: Info	text: 0.112335205
+date: 15/10/2018 08:58:01.491	code: Info	text: Connected by ('127.0.0.1', 3276) --> command: ping
+date: 15/10/2018 08:58:01.491	code: Info	text: self.ping()
+date: 15/10/2018 08:58:01.491	code: Info	text: 0.112335205
+date: 15/10/2018 08:58:17.713	code: Info	text: Connected by ('127.0.0.1', 3286) --> command: ping
+date: 15/10/2018 08:58:17.713	code: Info	text: self.ping()
+date: 15/10/2018 08:58:17.713	code: Info	text: 0.112335205
+date: 15/10/2018 08:58:51.625	code: Info	text: Connected by ('127.0.0.1', 3303) --> command: ping
+date: 15/10/2018 08:58:51.625	code: Info	text: self.ping()
+date: 15/10/2018 08:58:51.625	code: Info	text: 0.112335205
+date: 15/10/2018 08:59:36.680	code: Info	text: Connected by ('127.0.0.1', 3309) --> command: ping
+date: 15/10/2018 08:59:36.680	code: Info	text: self.ping()
+date: 15/10/2018 08:59:36.680	code: Info	text: 0.112335205
+date: 15/10/2018 09:00:08.998	code: Info	text: Connected by ('127.0.0.1', 3316) --> command: ping
+date: 15/10/2018 09:00:08.998	code: Info	text: self.ping()
+date: 15/10/2018 09:00:08.998	code: Info	text: 0.112335205
+date: 15/10/2018 09:00:24.032	code: Info	text: Connected by ('127.0.0.1', 3322) --> command: ping
+date: 15/10/2018 09:00:24.032	code: Info	text: self.ping()
+date: 15/10/2018 09:00:24.032	code: Info	text: 0.112335205
+date: 15/10/2018 09:00:39.066	code: Info	text: Connected by ('127.0.0.1', 3327) --> command: ping
+date: 15/10/2018 09:00:39.066	code: Info	text: self.ping()
+date: 15/10/2018 09:00:39.066	code: Info	text: 0.112335205
+date: 15/10/2018 09:00:54.099	code: Info	text: Connected by ('127.0.0.1', 3333) --> command: ping
+date: 15/10/2018 09:00:54.099	code: Info	text: self.ping()
+date: 15/10/2018 09:00:54.099	code: Info	text: 0.112335205
+date: 15/10/2018 09:01:09.133	code: Info	text: Connected by ('127.0.0.1', 3341) --> command: ping
+date: 15/10/2018 09:01:09.133	code: Info	text: self.ping()
+date: 15/10/2018 09:01:09.133	code: Info	text: 0.112335205
+date: 15/10/2018 09:01:41.389	code: Info	text: Connected by ('127.0.0.1', 3349) --> command: ping
+date: 15/10/2018 09:01:41.389	code: Info	text: self.ping()
+date: 15/10/2018 09:01:41.389	code: Info	text: 0.112335205
+date: 15/10/2018 09:01:56.423	code: Info	text: Connected by ('127.0.0.1', 3365) --> command: ping
+date: 15/10/2018 09:01:56.423	code: Info	text: self.ping()
+date: 15/10/2018 09:01:56.423	code: Info	text: 0.112335205
+date: 15/10/2018 09:02:11.457	code: Info	text: Connected by ('127.0.0.1', 3374) --> command: ping
+date: 15/10/2018 09:02:11.457	code: Info	text: self.ping()
+date: 15/10/2018 09:02:11.457	code: Info	text: 0.112335205
+date: 15/10/2018 09:02:26.490	code: Info	text: Connected by ('127.0.0.1', 3379) --> command: ping
+date: 15/10/2018 09:02:26.490	code: Info	text: self.ping()
+date: 15/10/2018 09:02:26.490	code: Info	text: 0.112335205
+date: 15/10/2018 09:02:41.524	code: Info	text: Connected by ('127.0.0.1', 3384) --> command: ping
+date: 15/10/2018 09:02:41.524	code: Info	text: self.ping()
+date: 15/10/2018 09:02:41.524	code: Info	text: 0.112335205
+date: 15/10/2018 09:02:56.436	code: Info	text: Connected by ('127.0.0.1', 3391) --> command: ping
+date: 15/10/2018 09:02:56.436	code: Info	text: self.ping()
+date: 15/10/2018 09:02:56.436	code: Info	text: 0.112335205
+date: 15/10/2018 09:03:11.470	code: Info	text: Connected by ('127.0.0.1', 3397) --> command: ping
+date: 15/10/2018 09:03:11.470	code: Info	text: self.ping()
+date: 15/10/2018 09:03:11.470	code: Info	text: 0.112335205
+date: 15/10/2018 09:03:26.504	code: Info	text: Connected by ('127.0.0.1', 3402) --> command: ping
+date: 15/10/2018 09:03:26.504	code: Info	text: self.ping()
+date: 15/10/2018 09:03:26.504	code: Info	text: 0.112335205
+date: 15/10/2018 09:03:41.569	code: Info	text: Connected by ('127.0.0.1', 3407) --> command: ping
+date: 15/10/2018 09:03:41.569	code: Info	text: self.ping()
+date: 15/10/2018 09:03:41.569	code: Info	text: 0.112335205
+date: 15/10/2018 09:03:56.603	code: Info	text: Connected by ('127.0.0.1', 3412) --> command: ping
+date: 15/10/2018 09:03:56.603	code: Info	text: self.ping()
+date: 15/10/2018 09:03:56.603	code: Info	text: 0.112335205
+date: 15/10/2018 09:04:11.636	code: Info	text: Connected by ('127.0.0.1', 3419) --> command: ping
+date: 15/10/2018 09:04:11.636	code: Info	text: self.ping()
+date: 15/10/2018 09:04:11.636	code: Info	text: 0.112335205
+date: 15/10/2018 09:04:26.686	code: Info	text: Connected by ('127.0.0.1', 3427) --> command: ping
+date: 15/10/2018 09:04:26.686	code: Info	text: self.ping()
+date: 15/10/2018 09:04:26.686	code: Info	text: 0.112335205
+date: 15/10/2018 09:04:41.720	code: Info	text: Connected by ('127.0.0.1', 3441) --> command: ping
+date: 15/10/2018 09:04:41.720	code: Info	text: self.ping()
+date: 15/10/2018 09:04:41.720	code: Info	text: 0.112335205
+date: 15/10/2018 09:04:56.754	code: Info	text: Connected by ('127.0.0.1', 3446) --> command: ping
+date: 15/10/2018 09:04:56.754	code: Info	text: self.ping()
+date: 15/10/2018 09:04:56.754	code: Info	text: 0.112335205
+date: 15/10/2018 09:05:11.787	code: Info	text: Connected by ('127.0.0.1', 3452) --> command: ping
+date: 15/10/2018 09:05:11.787	code: Info	text: self.ping()
+date: 15/10/2018 09:05:11.787	code: Info	text: 0.112335205
+date: 15/10/2018 09:05:26.821	code: Info	text: Connected by ('127.0.0.1', 3457) --> command: ping
+date: 15/10/2018 09:05:26.821	code: Info	text: self.ping()
+date: 15/10/2018 09:05:26.821	code: Info	text: 0.112335205
+date: 15/10/2018 09:05:41.855	code: Info	text: Connected by ('127.0.0.1', 3463) --> command: ping
+date: 15/10/2018 09:05:41.855	code: Info	text: self.ping()
+date: 15/10/2018 09:05:41.855	code: Info	text: 0.112335205
+date: 15/10/2018 09:05:56.889	code: Info	text: Connected by ('127.0.0.1', 3468) --> command: ping
+date: 15/10/2018 09:05:56.889	code: Info	text: self.ping()
+date: 15/10/2018 09:05:56.889	code: Info	text: 0.112335205
+date: 15/10/2018 09:06:11.938	code: Info	text: Connected by ('127.0.0.1', 3474) --> command: ping
+date: 15/10/2018 09:06:11.938	code: Info	text: self.ping()
+date: 15/10/2018 09:06:11.938	code: Info	text: 0.112335205
+date: 15/10/2018 09:06:26.957	code: Info	text: Connected by ('127.0.0.1', 3479) --> command: ping
+date: 15/10/2018 09:06:26.972	code: Info	text: self.ping()
+date: 15/10/2018 09:06:26.972	code: Info	text: 0.112335205
+date: 15/10/2018 09:06:41.990	code: Info	text: Connected by ('127.0.0.1', 3484) --> command: ping
+date: 15/10/2018 09:06:41.990	code: Info	text: self.ping()
+date: 15/10/2018 09:06:41.990	code: Info	text: 0.112335205
+date: 15/10/2018 09:06:58.118	code: Info	text: Connected by ('127.0.0.1', 3491) --> command: ping
+date: 15/10/2018 09:06:58.118	code: Info	text: self.ping()
+date: 15/10/2018 09:06:58.118	code: Info	text: 0.112335205
+date: 15/10/2018 09:07:13.496	code: Info	text: Connected by ('127.0.0.1', 3508) --> command: ping
+date: 15/10/2018 09:07:13.496	code: Info	text: self.ping()
+date: 15/10/2018 09:07:13.496	code: Info	text: 0.112335205
+date: 15/10/2018 09:07:28.577	code: Info	text: Connected by ('127.0.0.1', 3513) --> command: ping
+date: 15/10/2018 09:07:28.592	code: Info	text: self.ping()
+date: 15/10/2018 09:07:28.592	code: Info	text: 0.112335205
+date: 15/10/2018 09:07:43.610	code: Info	text: Connected by ('127.0.0.1', 3518) --> command: ping
+date: 15/10/2018 09:07:43.610	code: Info	text: self.ping()
+date: 15/10/2018 09:07:43.626	code: Info	text: 0.112335205
+date: 15/10/2018 09:07:58.644	code: Info	text: Connected by ('127.0.0.1', 3523) --> command: ping
+date: 15/10/2018 09:07:58.644	code: Info	text: self.ping()
+date: 15/10/2018 09:07:58.644	code: Info	text: 0.112335205
+date: 15/10/2018 09:08:13.678	code: Info	text: Connected by ('127.0.0.1', 3529) --> command: ping
+date: 15/10/2018 09:08:13.678	code: Info	text: self.ping()
+date: 15/10/2018 09:08:13.678	code: Info	text: 0.112335205
+date: 15/10/2018 09:08:28.712	code: Info	text: Connected by ('127.0.0.1', 3534) --> command: ping
+date: 15/10/2018 09:08:28.712	code: Info	text: self.ping()
+date: 15/10/2018 09:08:28.712	code: Info	text: 0.112335205
+date: 15/10/2018 09:08:43.746	code: Info	text: Connected by ('127.0.0.1', 3539) --> command: ping
+date: 15/10/2018 09:08:43.746	code: Info	text: self.ping()
+date: 15/10/2018 09:08:43.746	code: Info	text: 0.112335205
+date: 15/10/2018 09:08:58.780	code: Info	text: Connected by ('127.0.0.1', 3544) --> command: ping
+date: 15/10/2018 09:08:58.780	code: Info	text: self.ping()
+date: 15/10/2018 09:08:58.780	code: Info	text: 0.112335205
+date: 15/10/2018 09:09:13.814	code: Info	text: Connected by ('127.0.0.1', 3550) --> command: ping
+date: 15/10/2018 09:09:13.814	code: Info	text: self.ping()
+date: 15/10/2018 09:09:13.814	code: Info	text: 0.112335205
+date: 15/10/2018 09:09:29.441	code: Info	text: Connected by ('127.0.0.1', 3557) --> command: ping
+date: 15/10/2018 09:09:29.441	code: Info	text: self.ping()
+date: 15/10/2018 09:09:29.441	code: Info	text: 0.112335205
+date: 15/10/2018 09:09:44.616	code: Info	text: Connected by ('127.0.0.1', 3573) --> command: ping
+date: 15/10/2018 09:09:44.616	code: Info	text: self.ping()
+date: 15/10/2018 09:09:44.616	code: Info	text: 0.112335205
+date: 15/10/2018 09:09:59.665	code: Info	text: Connected by ('127.0.0.1', 3578) --> command: ping
+date: 15/10/2018 09:09:59.665	code: Info	text: self.ping()
+date: 15/10/2018 09:09:59.665	code: Info	text: 0.112335205
+date: 15/10/2018 09:10:14.699	code: Info	text: Connected by ('127.0.0.1', 3586) --> command: ping
+date: 15/10/2018 09:10:14.699	code: Info	text: self.ping()
+date: 15/10/2018 09:10:14.699	code: Info	text: 0.112335205
+date: 15/10/2018 09:10:29.733	code: Info	text: Connected by ('127.0.0.1', 3591) --> command: ping
+date: 15/10/2018 09:10:29.733	code: Info	text: self.ping()
+date: 15/10/2018 09:10:29.733	code: Info	text: 0.112335205
+date: 15/10/2018 09:10:44.751	code: Info	text: Connected by ('127.0.0.1', 3598) --> command: ping
+date: 15/10/2018 09:10:44.767	code: Info	text: self.ping()
+date: 15/10/2018 09:10:44.767	code: Info	text: 0.112335205
+date: 15/10/2018 09:10:59.785	code: Info	text: Connected by ('127.0.0.1', 3603) --> command: ping
+date: 15/10/2018 09:10:59.785	code: Info	text: self.ping()
+date: 15/10/2018 09:10:59.785	code: Info	text: 0.112335205
+date: 15/10/2018 09:11:14.819	code: Info	text: Connected by ('127.0.0.1', 3609) --> command: ping
+date: 15/10/2018 09:11:14.819	code: Info	text: self.ping()
+date: 15/10/2018 09:11:14.819	code: Info	text: 0.112335205
+date: 15/10/2018 09:11:29.853	code: Info	text: Connected by ('127.0.0.1', 3614) --> command: ping
+date: 15/10/2018 09:11:29.853	code: Info	text: self.ping()
+date: 15/10/2018 09:11:29.853	code: Info	text: 0.112335205
+date: 15/10/2018 09:11:44.887	code: Info	text: Connected by ('127.0.0.1', 3619) --> command: ping
+date: 15/10/2018 09:11:44.887	code: Info	text: self.ping()
+date: 15/10/2018 09:11:44.887	code: Info	text: 0.112335205
+date: 15/10/2018 09:12:00.639	code: Info	text: Connected by ('127.0.0.1', 3626) --> command: ping
+date: 15/10/2018 09:12:00.639	code: Info	text: self.ping()
+date: 15/10/2018 09:12:00.639	code: Info	text: 0.112335205
+date: 15/10/2018 09:12:16.220	code: Info	text: Connected by ('127.0.0.1', 3641) --> command: ping
+date: 15/10/2018 09:12:16.220	code: Info	text: self.ping()
+date: 15/10/2018 09:12:16.220	code: Info	text: 0.112335205
+date: 15/10/2018 09:12:31.582	code: Info	text: Connected by ('127.0.0.1', 3648) --> command: ping
+date: 15/10/2018 09:12:31.582	code: Info	text: self.ping()
+date: 15/10/2018 09:12:31.582	code: Info	text: 0.112335205
+date: 15/10/2018 09:12:46.482	code: Info	text: Connected by ('127.0.0.1', 3654) --> command: ping
+date: 15/10/2018 09:12:46.482	code: Info	text: self.ping()
+date: 15/10/2018 09:12:46.482	code: Info	text: 0.112335205
+date: 15/10/2018 09:13:01.516	code: Info	text: Connected by ('127.0.0.1', 3660) --> command: ping
+date: 15/10/2018 09:13:01.516	code: Info	text: self.ping()
+date: 15/10/2018 09:13:01.516	code: Info	text: 0.112335205
+date: 15/10/2018 09:13:16.550	code: Info	text: Connected by ('127.0.0.1', 3665) --> command: ping
+date: 15/10/2018 09:13:16.550	code: Info	text: self.ping()
+date: 15/10/2018 09:13:16.550	code: Info	text: 0.112335205
+date: 15/10/2018 09:13:31.583	code: Info	text: Connected by ('127.0.0.1', 3670) --> command: ping
+date: 15/10/2018 09:13:31.583	code: Info	text: self.ping()
+date: 15/10/2018 09:13:31.583	code: Info	text: 0.112335205
+date: 15/10/2018 09:13:46.617	code: Info	text: Connected by ('127.0.0.1', 3675) --> command: ping
+date: 15/10/2018 09:13:46.617	code: Info	text: self.ping()
+date: 15/10/2018 09:13:46.617	code: Info	text: 0.112335205
+date: 15/10/2018 09:14:01.651	code: Info	text: Connected by ('127.0.0.1', 3681) --> command: ping
+date: 15/10/2018 09:14:01.651	code: Info	text: self.ping()
+date: 15/10/2018 09:14:01.651	code: Info	text: 0.112335205
+date: 15/10/2018 09:14:16.685	code: Info	text: Connected by ('127.0.0.1', 3686) --> command: ping
+date: 15/10/2018 09:14:16.685	code: Info	text: self.ping()
+date: 15/10/2018 09:14:16.685	code: Info	text: 0.112335205
+date: 15/10/2018 09:14:32.766	code: Info	text: Connected by ('127.0.0.1', 3693) --> command: ping
+date: 15/10/2018 09:14:32.766	code: Info	text: self.ping()
+date: 15/10/2018 09:14:32.766	code: Info	text: 0.112335205
+date: 15/10/2018 09:14:47.956	code: Info	text: Connected by ('127.0.0.1', 3705) --> command: ping
+date: 15/10/2018 09:14:47.956	code: Info	text: self.ping()
+date: 15/10/2018 09:14:47.956	code: Info	text: 0.112335205
+date: 15/10/2018 09:15:03.021	code: Info	text: Connected by ('127.0.0.1', 3715) --> command: ping
+date: 15/10/2018 09:15:03.021	code: Info	text: self.ping()
+date: 15/10/2018 09:15:03.021	code: Info	text: 0.112335205
+date: 15/10/2018 09:15:18.055	code: Info	text: Connected by ('127.0.0.1', 3720) --> command: ping
+date: 15/10/2018 09:15:18.055	code: Info	text: self.ping()
+date: 15/10/2018 09:15:18.055	code: Info	text: 0.112335205
+date: 15/10/2018 09:15:33.120	code: Info	text: Connected by ('127.0.0.1', 3726) --> command: ping
+date: 15/10/2018 09:15:33.120	code: Info	text: self.ping()
+date: 15/10/2018 09:15:33.120	code: Info	text: 0.112335205
+date: 15/10/2018 09:15:48.185	code: Info	text: Connected by ('127.0.0.1', 3731) --> command: ping
+date: 15/10/2018 09:15:48.185	code: Info	text: self.ping()
+date: 15/10/2018 09:15:48.185	code: Info	text: 0.112335205
+date: 15/10/2018 09:16:03.219	code: Info	text: Connected by ('127.0.0.1', 3737) --> command: ping
+date: 15/10/2018 09:16:03.219	code: Info	text: self.ping()
+date: 15/10/2018 09:16:03.219	code: Info	text: 0.112335205
+date: 15/10/2018 09:16:18.253	code: Info	text: Connected by ('127.0.0.1', 3742) --> command: ping
+date: 15/10/2018 09:16:18.253	code: Info	text: self.ping()
+date: 15/10/2018 09:16:18.253	code: Info	text: 0.112335205
+date: 15/10/2018 09:16:33.287	code: Info	text: Connected by ('127.0.0.1', 3747) --> command: ping
+date: 15/10/2018 09:16:33.287	code: Info	text: self.ping()
+date: 15/10/2018 09:16:33.287	code: Info	text: 0.112335205
+date: 15/10/2018 09:16:48.336	code: Info	text: Connected by ('127.0.0.1', 3752) --> command: ping
+date: 15/10/2018 09:16:48.336	code: Info	text: self.ping()
+date: 15/10/2018 09:16:48.336	code: Info	text: 0.112335205
+date: 15/10/2018 09:17:04.042	code: Info	text: Connected by ('127.0.0.1', 3760) --> command: ping
+date: 15/10/2018 09:17:04.042	code: Info	text: self.ping()
+date: 15/10/2018 09:17:04.042	code: Info	text: 0.112335205
+date: 15/10/2018 09:17:19.201	code: Info	text: Connected by ('127.0.0.1', 3773) --> command: ping
+date: 15/10/2018 09:17:19.201	code: Info	text: self.ping()
+date: 15/10/2018 09:17:19.201	code: Info	text: 0.112335205
+date: 15/10/2018 09:17:20.498	code: Info	text: Connected by ('127.0.0.1', 3775) --> command: rwd_time:1
+date: 15/10/2018 09:17:20.498	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 09:17:20.951	code: Info	text: OK
+date: 15/10/2018 09:17:20.951	code: Info	text: Connected by ('127.0.0.1', 3776) --> command: get_pos
+date: 15/10/2018 09:17:20.951	code: Info	text: self.get_pos()
+date: 15/10/2018 09:17:20.967	code: Info	text: 0.112091064
+date: 15/10/2018 09:17:31.109	code: Info	text: Connected by ('127.0.0.1', 3782) --> command: rwd_time:1
+date: 15/10/2018 09:17:31.109	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 09:17:31.453	code: Info	text: OK
+date: 15/10/2018 09:17:31.469	code: Info	text: Connected by ('127.0.0.1', 3783) --> command: get_pos
+date: 15/10/2018 09:17:31.469	code: Info	text: self.get_pos()
+date: 15/10/2018 09:17:31.469	code: Info	text: 0.111923218
+date: 15/10/2018 09:17:34.250	code: Info	text: Connected by ('127.0.0.1', 3790) --> command: ping
+date: 15/10/2018 09:17:34.250	code: Info	text: self.ping()
+date: 15/10/2018 09:17:34.250	code: Info	text: 0.111923218
+date: 15/10/2018 09:17:39.548	code: Info	text: Connected by ('127.0.0.1', 3794) --> command: rwd_time:1
+date: 15/10/2018 09:17:39.548	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 09:17:39.908	code: Info	text: OK
+date: 15/10/2018 09:17:39.908	code: Info	text: Connected by ('127.0.0.1', 3795) --> command: get_pos
+date: 15/10/2018 09:17:39.908	code: Info	text: self.get_pos()
+date: 15/10/2018 09:17:39.923	code: Info	text: 0.111694336
+date: 15/10/2018 09:17:47.925	code: Info	text: Connected by ('127.0.0.1', 3801) --> command: rwd_time:1
+date: 15/10/2018 09:17:47.925	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 09:17:48.284	code: Info	text: OK
+date: 15/10/2018 09:17:48.300	code: Info	text: Connected by ('127.0.0.1', 3802) --> command: get_pos
+date: 15/10/2018 09:17:48.300	code: Info	text: self.get_pos()
+date: 15/10/2018 09:17:48.300	code: Info	text: 0.111495972
+date: 15/10/2018 09:17:49.394	code: Info	text: Connected by ('127.0.0.1', 3807) --> command: ping
+date: 15/10/2018 09:17:49.394	code: Info	text: self.ping()
+date: 15/10/2018 09:17:49.394	code: Info	text: 0.111495972
+date: 15/10/2018 09:18:04.709	code: Info	text: Connected by ('127.0.0.1', 3820) --> command: ping
+date: 15/10/2018 09:18:04.709	code: Info	text: self.ping()
+date: 15/10/2018 09:18:04.709	code: Info	text: 0.111495972
+date: 15/10/2018 09:18:19.743	code: Info	text: Connected by ('127.0.0.1', 3825) --> command: ping
+date: 15/10/2018 09:18:19.743	code: Info	text: self.ping()
+date: 15/10/2018 09:18:19.743	code: Info	text: 0.111495972
+date: 15/10/2018 09:18:34.776	code: Info	text: Connected by ('127.0.0.1', 3830) --> command: ping
+date: 15/10/2018 09:18:34.776	code: Info	text: self.ping()
+date: 15/10/2018 09:18:34.776	code: Info	text: 0.111495972
+date: 15/10/2018 09:18:49.810	code: Info	text: Connected by ('127.0.0.1', 3835) --> command: ping
+date: 15/10/2018 09:18:49.810	code: Info	text: self.ping()
+date: 15/10/2018 09:18:49.810	code: Info	text: 0.111495972
+date: 15/10/2018 09:19:04.844	code: Info	text: Connected by ('127.0.0.1', 3841) --> command: ping
+date: 15/10/2018 09:19:04.844	code: Info	text: self.ping()
+date: 15/10/2018 09:19:04.844	code: Info	text: 0.111495972
+date: 15/10/2018 09:19:19.909	code: Info	text: Connected by ('127.0.0.1', 3846) --> command: ping
+date: 15/10/2018 09:19:19.925	code: Info	text: self.ping()
+date: 15/10/2018 09:19:19.925	code: Info	text: 0.111495972
+date: 15/10/2018 09:19:34.959	code: Info	text: Connected by ('127.0.0.1', 3851) --> command: ping
+date: 15/10/2018 09:19:34.959	code: Info	text: self.ping()
+date: 15/10/2018 09:19:34.959	code: Info	text: 0.111495972
+date: 15/10/2018 09:19:49.992	code: Info	text: Connected by ('127.0.0.1', 3856) --> command: ping
+date: 15/10/2018 09:19:49.992	code: Info	text: self.ping()
+date: 15/10/2018 09:19:49.992	code: Info	text: 0.111495972
+date: 15/10/2018 09:20:06.042	code: Info	text: Connected by ('127.0.0.1', 3864) --> command: ping
+date: 15/10/2018 09:20:06.042	code: Info	text: self.ping()
+date: 15/10/2018 09:20:06.042	code: Info	text: 0.111495972
+date: 15/10/2018 09:20:21.498	code: Info	text: Connected by ('127.0.0.1', 3873) --> command: ping
+date: 15/10/2018 09:20:21.498	code: Info	text: self.ping()
+date: 15/10/2018 09:20:21.498	code: Info	text: 0.111495972
+date: 15/10/2018 09:20:36.532	code: Info	text: Connected by ('127.0.0.1', 3885) --> command: ping
+date: 15/10/2018 09:20:36.532	code: Info	text: self.ping()
+date: 15/10/2018 09:20:36.532	code: Info	text: 0.111495972
+date: 15/10/2018 09:20:51.613	code: Info	text: Connected by ('127.0.0.1', 3890) --> command: ping
+date: 15/10/2018 09:20:51.613	code: Info	text: self.ping()
+date: 15/10/2018 09:20:51.613	code: Info	text: 0.111495972
+date: 15/10/2018 09:21:06.662	code: Info	text: Connected by ('127.0.0.1', 3896) --> command: ping
+date: 15/10/2018 09:21:06.662	code: Info	text: self.ping()
+date: 15/10/2018 09:21:06.662	code: Info	text: 0.111495972
+date: 15/10/2018 09:21:21.680	code: Info	text: Connected by ('127.0.0.1', 3901) --> command: ping
+date: 15/10/2018 09:21:21.696	code: Info	text: self.ping()
+date: 15/10/2018 09:21:21.696	code: Info	text: 0.111495972
+date: 15/10/2018 09:21:36.714	code: Info	text: Connected by ('127.0.0.1', 3906) --> command: ping
+date: 15/10/2018 09:21:36.714	code: Info	text: self.ping()
+date: 15/10/2018 09:21:36.730	code: Info	text: 0.111495972
+date: 15/10/2018 09:21:51.748	code: Info	text: Connected by ('127.0.0.1', 3911) --> command: ping
+date: 15/10/2018 09:21:51.748	code: Info	text: self.ping()
+date: 15/10/2018 09:21:51.748	code: Info	text: 0.111495972
+date: 15/10/2018 09:22:06.782	code: Info	text: Connected by ('127.0.0.1', 3917) --> command: ping
+date: 15/10/2018 09:22:06.782	code: Info	text: self.ping()
+date: 15/10/2018 09:22:06.782	code: Info	text: 0.111495972
+date: 15/10/2018 09:22:21.862	code: Info	text: Connected by ('127.0.0.1', 3922) --> command: ping
+date: 15/10/2018 09:22:21.862	code: Info	text: self.ping()
+date: 15/10/2018 09:22:21.862	code: Info	text: 0.111495972
+date: 15/10/2018 09:22:36.896	code: Info	text: Connected by ('127.0.0.1', 3927) --> command: ping
+date: 15/10/2018 09:22:36.896	code: Info	text: self.ping()
+date: 15/10/2018 09:22:36.896	code: Info	text: 0.111495972
+date: 15/10/2018 09:22:52.842	code: Info	text: Connected by ('127.0.0.1', 3935) --> command: ping
+date: 15/10/2018 09:22:52.842	code: Info	text: self.ping()
+date: 15/10/2018 09:22:52.842	code: Info	text: 0.111495972
+date: 15/10/2018 09:23:01.828	code: Info	text: Connected by ('127.0.0.1', 3946) --> command: fwd_time:1
+date: 15/10/2018 09:23:01.828	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 09:23:02.250	code: Info	text: OK
+date: 15/10/2018 09:23:02.297	code: Info	text: Connected by ('127.0.0.1', 3947) --> command: get_pos
+date: 15/10/2018 09:23:02.297	code: Info	text: self.get_pos()
+date: 15/10/2018 09:23:02.328	code: Info	text: 0.111724854
+date: 15/10/2018 09:23:08.001	code: Info	text: Connected by ('127.0.0.1', 3954) --> command: ping
+date: 15/10/2018 09:23:08.001	code: Info	text: self.ping()
+date: 15/10/2018 09:23:08.001	code: Info	text: 0.111724854
+date: 15/10/2018 09:23:23.035	code: Info	text: Connected by ('127.0.0.1', 3964) --> command: ping
+date: 15/10/2018 09:23:23.035	code: Info	text: self.ping()
+date: 15/10/2018 09:23:23.035	code: Info	text: 0.111724854
+date: 15/10/2018 09:23:38.100	code: Info	text: Connected by ('127.0.0.1', 3969) --> command: ping
+date: 15/10/2018 09:23:38.100	code: Info	text: self.ping()
+date: 15/10/2018 09:23:38.100	code: Info	text: 0.111724854
+date: 15/10/2018 09:23:53.133	code: Info	text: Connected by ('127.0.0.1', 3974) --> command: ping
+date: 15/10/2018 09:23:53.133	code: Info	text: self.ping()
+date: 15/10/2018 09:23:53.133	code: Info	text: 0.111724854
+date: 15/10/2018 09:24:08.167	code: Info	text: Connected by ('127.0.0.1', 3980) --> command: ping
+date: 15/10/2018 09:24:08.167	code: Info	text: self.ping()
+date: 15/10/2018 09:24:08.183	code: Info	text: 0.111724854
+date: 15/10/2018 09:24:23.201	code: Info	text: Connected by ('127.0.0.1', 3991) --> command: ping
+date: 15/10/2018 09:24:23.201	code: Info	text: self.ping()
+date: 15/10/2018 09:24:23.201	code: Info	text: 0.111724854
+date: 15/10/2018 09:24:38.235	code: Info	text: Connected by ('127.0.0.1', 4000) --> command: ping
+date: 15/10/2018 09:24:38.235	code: Info	text: self.ping()
+date: 15/10/2018 09:24:38.235	code: Info	text: 0.111724854
+date: 15/10/2018 09:24:53.269	code: Info	text: Connected by ('127.0.0.1', 4005) --> command: ping
+date: 15/10/2018 09:24:53.269	code: Info	text: self.ping()
+date: 15/10/2018 09:24:53.269	code: Info	text: 0.111724854
+date: 15/10/2018 09:25:08.303	code: Info	text: Connected by ('127.0.0.1', 4011) --> command: ping
+date: 15/10/2018 09:25:08.303	code: Info	text: self.ping()
+date: 15/10/2018 09:25:08.303	code: Info	text: 0.111724854
+date: 15/10/2018 09:25:23.977	code: Info	text: Connected by ('127.0.0.1', 4018) --> command: ping
+date: 15/10/2018 09:25:23.977	code: Info	text: self.ping()
+date: 15/10/2018 09:25:23.977	code: Info	text: 0.111724854
+date: 15/10/2018 09:25:39.496	code: Info	text: Connected by ('127.0.0.1', 4034) --> command: ping
+date: 15/10/2018 09:25:39.496	code: Info	text: self.ping()
+date: 15/10/2018 09:25:39.496	code: Info	text: 0.111724854
+date: 15/10/2018 09:25:54.873	code: Info	text: Connected by ('127.0.0.1', 4041) --> command: ping
+date: 15/10/2018 09:25:54.873	code: Info	text: self.ping()
+date: 15/10/2018 09:25:54.873	code: Info	text: 0.111724854
+date: 15/10/2018 09:26:09.907	code: Info	text: Connected by ('127.0.0.1', 4047) --> command: ping
+date: 15/10/2018 09:26:09.907	code: Info	text: self.ping()
+date: 15/10/2018 09:26:09.907	code: Info	text: 0.111724854
+date: 15/10/2018 09:26:24.941	code: Info	text: Connected by ('127.0.0.1', 4052) --> command: ping
+date: 15/10/2018 09:26:24.941	code: Info	text: self.ping()
+date: 15/10/2018 09:26:24.941	code: Info	text: 0.111724854
+date: 15/10/2018 09:26:39.975	code: Info	text: Connected by ('127.0.0.1', 4057) --> command: ping
+date: 15/10/2018 09:26:39.975	code: Info	text: self.ping()
+date: 15/10/2018 09:26:39.975	code: Info	text: 0.111724854
+date: 15/10/2018 09:26:55.009	code: Info	text: Connected by ('127.0.0.1', 4062) --> command: ping
+date: 15/10/2018 09:26:55.009	code: Info	text: self.ping()
+date: 15/10/2018 09:26:55.009	code: Info	text: 0.111724854
+date: 15/10/2018 09:27:10.043	code: Info	text: Connected by ('127.0.0.1', 4068) --> command: ping
+date: 15/10/2018 09:27:10.043	code: Info	text: self.ping()
+date: 15/10/2018 09:27:10.043	code: Info	text: 0.111724854
+date: 15/10/2018 09:27:25.076	code: Info	text: Connected by ('127.0.0.1', 4073) --> command: ping
+date: 15/10/2018 09:27:25.076	code: Info	text: self.ping()
+date: 15/10/2018 09:27:25.076	code: Info	text: 0.111724854
+date: 15/10/2018 09:27:40.110	code: Info	text: Connected by ('127.0.0.1', 4078) --> command: ping
+date: 15/10/2018 09:27:40.110	code: Info	text: self.ping()
+date: 15/10/2018 09:27:40.110	code: Info	text: 0.111724854
+date: 15/10/2018 09:27:55.957	code: Info	text: Connected by ('127.0.0.1', 4085) --> command: ping
+date: 15/10/2018 09:27:55.957	code: Info	text: self.ping()
+date: 15/10/2018 09:27:55.957	code: Info	text: 0.111724854
+date: 15/10/2018 09:28:11.412	code: Info	text: Connected by ('127.0.0.1', 4102) --> command: ping
+date: 15/10/2018 09:28:11.412	code: Info	text: self.ping()
+date: 15/10/2018 09:28:11.412	code: Info	text: 0.111724854
+date: 15/10/2018 09:28:26.446	code: Info	text: Connected by ('127.0.0.1', 4107) --> command: ping
+date: 15/10/2018 09:28:26.462	code: Info	text: self.ping()
+date: 15/10/2018 09:28:26.462	code: Info	text: 0.111724854
+date: 15/10/2018 09:28:41.480	code: Info	text: Connected by ('127.0.0.1', 4112) --> command: ping
+date: 15/10/2018 09:28:41.480	code: Info	text: self.ping()
+date: 15/10/2018 09:28:41.496	code: Info	text: 0.111724854
+date: 15/10/2018 09:28:56.514	code: Info	text: Connected by ('127.0.0.1', 4117) --> command: ping
+date: 15/10/2018 09:28:56.514	code: Info	text: self.ping()
+date: 15/10/2018 09:28:56.514	code: Info	text: 0.111724854
+date: 15/10/2018 09:29:11.548	code: Info	text: Connected by ('127.0.0.1', 4123) --> command: ping
+date: 15/10/2018 09:29:11.548	code: Info	text: self.ping()
+date: 15/10/2018 09:29:11.548	code: Info	text: 0.111724854
+date: 15/10/2018 09:29:26.582	code: Info	text: Connected by ('127.0.0.1', 4128) --> command: ping
+date: 15/10/2018 09:29:26.582	code: Info	text: self.ping()
+date: 15/10/2018 09:29:26.582	code: Info	text: 0.111724854
+date: 15/10/2018 09:29:41.616	code: Info	text: Connected by ('127.0.0.1', 4133) --> command: ping
+date: 15/10/2018 09:29:41.616	code: Info	text: self.ping()
+date: 15/10/2018 09:29:41.616	code: Info	text: 0.111724854
+date: 15/10/2018 09:29:56.649	code: Info	text: Connected by ('127.0.0.1', 4138) --> command: ping
+date: 15/10/2018 09:29:56.649	code: Info	text: self.ping()
+date: 15/10/2018 09:29:56.649	code: Info	text: 0.111724854
+date: 15/10/2018 09:30:11.683	code: Info	text: Connected by ('127.0.0.1', 4145) --> command: ping
+date: 15/10/2018 09:30:11.683	code: Info	text: self.ping()
+date: 15/10/2018 09:30:11.683	code: Info	text: 0.111724854
+date: 15/10/2018 09:30:27.608	code: Info	text: Connected by ('127.0.0.1', 4151) --> command: ping
+date: 15/10/2018 09:30:27.608	code: Info	text: self.ping()
+date: 15/10/2018 09:30:27.608	code: Info	text: 0.111724854
+date: 15/10/2018 09:30:42.704	code: Info	text: Connected by ('127.0.0.1', 4167) --> command: ping
+date: 15/10/2018 09:30:42.720	code: Info	text: self.ping()
+date: 15/10/2018 09:30:42.720	code: Info	text: 0.111724854
+date: 15/10/2018 09:30:57.754	code: Info	text: Connected by ('127.0.0.1', 4172) --> command: ping
+date: 15/10/2018 09:30:57.754	code: Info	text: self.ping()
+date: 15/10/2018 09:30:57.754	code: Info	text: 0.111724854
+date: 15/10/2018 09:31:12.788	code: Info	text: Connected by ('127.0.0.1', 4178) --> command: ping
+date: 15/10/2018 09:31:12.788	code: Info	text: self.ping()
+date: 15/10/2018 09:31:12.788	code: Info	text: 0.111724854
+date: 15/10/2018 09:31:27.837	code: Info	text: Connected by ('127.0.0.1', 4183) --> command: ping
+date: 15/10/2018 09:31:27.837	code: Info	text: self.ping()
+date: 15/10/2018 09:31:27.837	code: Info	text: 0.111724854
+date: 15/10/2018 09:31:42.871	code: Info	text: Connected by ('127.0.0.1', 4189) --> command: ping
+date: 15/10/2018 09:31:42.871	code: Info	text: self.ping()
+date: 15/10/2018 09:31:42.871	code: Info	text: 0.111724854
+date: 15/10/2018 09:31:57.967	code: Info	text: Connected by ('127.0.0.1', 4194) --> command: ping
+date: 15/10/2018 09:31:57.967	code: Info	text: self.ping()
+date: 15/10/2018 09:31:57.967	code: Info	text: 0.111724854
+date: 15/10/2018 09:32:13.001	code: Info	text: Connected by ('127.0.0.1', 4200) --> command: ping
+date: 15/10/2018 09:32:13.001	code: Info	text: self.ping()
+date: 15/10/2018 09:32:13.001	code: Info	text: 0.111724854
+date: 15/10/2018 09:32:28.035	code: Info	text: Connected by ('127.0.0.1', 4205) --> command: ping
+date: 15/10/2018 09:32:28.035	code: Info	text: self.ping()
+date: 15/10/2018 09:32:28.035	code: Info	text: 0.111724854
+date: 15/10/2018 09:32:43.053	code: Info	text: Connected by ('127.0.0.1', 4210) --> command: ping
+date: 15/10/2018 09:32:43.053	code: Info	text: self.ping()
+date: 15/10/2018 09:32:43.069	code: Info	text: 0.111724854
+date: 15/10/2018 09:32:58.689	code: Info	text: Connected by ('127.0.0.1', 4218) --> command: ping
+date: 15/10/2018 09:32:58.689	code: Info	text: self.ping()
+date: 15/10/2018 09:32:58.689	code: Info	text: 0.111724854
+date: 15/10/2018 09:33:13.895	code: Info	text: Connected by ('127.0.0.1', 4236) --> command: ping
+date: 15/10/2018 09:33:13.895	code: Info	text: self.ping()
+date: 15/10/2018 09:33:13.895	code: Info	text: 0.111724854
+date: 15/10/2018 09:33:28.929	code: Info	text: Connected by ('127.0.0.1', 4241) --> command: ping
+date: 15/10/2018 09:33:28.929	code: Info	text: self.ping()
+date: 15/10/2018 09:33:28.929	code: Info	text: 0.111724854
+date: 15/10/2018 09:33:43.963	code: Info	text: Connected by ('127.0.0.1', 4246) --> command: ping
+date: 15/10/2018 09:33:43.963	code: Info	text: self.ping()
+date: 15/10/2018 09:33:43.963	code: Info	text: 0.111724854
+date: 15/10/2018 09:33:58.997	code: Info	text: Connected by ('127.0.0.1', 4251) --> command: ping
+date: 15/10/2018 09:33:58.997	code: Info	text: self.ping()
+date: 15/10/2018 09:33:58.997	code: Info	text: 0.111724854
+date: 15/10/2018 09:34:14.062	code: Info	text: Connected by ('127.0.0.1', 4257) --> command: ping
+date: 15/10/2018 09:34:14.077	code: Info	text: self.ping()
+date: 15/10/2018 09:34:14.077	code: Info	text: 0.111724854
+date: 15/10/2018 09:34:29.096	code: Info	text: Connected by ('127.0.0.1', 4262) --> command: ping
+date: 15/10/2018 09:34:29.096	code: Info	text: self.ping()
+date: 15/10/2018 09:34:29.111	code: Info	text: 0.111724854
+date: 15/10/2018 09:34:44.130	code: Info	text: Connected by ('127.0.0.1', 4267) --> command: ping
+date: 15/10/2018 09:34:44.145	code: Info	text: self.ping()
+date: 15/10/2018 09:34:44.145	code: Info	text: 0.111724854
+date: 15/10/2018 09:34:59.179	code: Info	text: Connected by ('127.0.0.1', 4272) --> command: ping
+date: 15/10/2018 09:34:59.179	code: Info	text: self.ping()
+date: 15/10/2018 09:34:59.179	code: Info	text: 0.111724854
+date: 15/10/2018 09:35:14.213	code: Info	text: Connected by ('127.0.0.1', 4278) --> command: ping
+date: 15/10/2018 09:35:14.213	code: Info	text: self.ping()
+date: 15/10/2018 09:35:14.213	code: Info	text: 0.111724854
+date: 15/10/2018 09:35:29.997	code: Info	text: Connected by ('127.0.0.1', 4285) --> command: ping
+date: 15/10/2018 09:35:29.997	code: Info	text: self.ping()
+date: 15/10/2018 09:35:29.997	code: Info	text: 0.111724854
+date: 15/10/2018 09:35:40.436	code: Info	text: Connected by ('127.0.0.1', 4306) --> command: fwd_time:1
+date: 15/10/2018 09:35:40.436	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 09:35:40.811	code: Info	text: OK
+date: 15/10/2018 09:35:40.811	code: Info	text: Connected by ('127.0.0.1', 4307) --> command: get_pos
+date: 15/10/2018 09:35:40.827	code: Info	text: self.get_pos()
+date: 15/10/2018 09:35:40.827	code: Info	text: 0.111892700
+date: 15/10/2018 09:35:45.390	code: Info	text: Connected by ('127.0.0.1', 4314) --> command: ping
+date: 15/10/2018 09:35:45.390	code: Info	text: self.ping()
+date: 15/10/2018 09:35:45.390	code: Info	text: 0.111892700
+date: 15/10/2018 09:35:49.953	code: Info	text: Connected by ('127.0.0.1', 4318) --> command: fwd_time:1
+date: 15/10/2018 09:35:49.953	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 09:35:50.297	code: Info	text: OK
+date: 15/10/2018 09:35:50.313	code: Info	text: Connected by ('127.0.0.1', 4319) --> command: get_pos
+date: 15/10/2018 09:35:50.313	code: Info	text: self.get_pos()
+date: 15/10/2018 09:35:50.313	code: Info	text: 0.112106323
+date: 15/10/2018 09:36:00.440	code: Info	text: Connected by ('127.0.0.1', 4329) --> command: ping
+date: 15/10/2018 09:36:00.440	code: Info	text: self.ping()
+date: 15/10/2018 09:36:00.440	code: Info	text: 0.112106323
+date: 15/10/2018 09:36:15.473	code: Info	text: Connected by ('127.0.0.1', 4337) --> command: ping
+date: 15/10/2018 09:36:15.473	code: Info	text: self.ping()
+date: 15/10/2018 09:36:15.473	code: Info	text: 0.112106323
+date: 15/10/2018 09:36:30.507	code: Info	text: Connected by ('127.0.0.1', 4342) --> command: ping
+date: 15/10/2018 09:36:30.507	code: Info	text: self.ping()
+date: 15/10/2018 09:36:30.507	code: Info	text: 0.112106323
+date: 15/10/2018 09:36:45.541	code: Info	text: Connected by ('127.0.0.1', 4347) --> command: ping
+date: 15/10/2018 09:36:45.541	code: Info	text: self.ping()
+date: 15/10/2018 09:36:45.541	code: Info	text: 0.112106323
+date: 15/10/2018 09:37:00.575	code: Info	text: Connected by ('127.0.0.1', 4352) --> command: ping
+date: 15/10/2018 09:37:00.575	code: Info	text: self.ping()
+date: 15/10/2018 09:37:00.575	code: Info	text: 0.112106323
+date: 15/10/2018 09:37:15.656	code: Info	text: Connected by ('127.0.0.1', 4358) --> command: ping
+date: 15/10/2018 09:37:15.656	code: Info	text: self.ping()
+date: 15/10/2018 09:37:15.656	code: Info	text: 0.112106323
+date: 15/10/2018 09:37:30.705	code: Info	text: Connected by ('127.0.0.1', 4363) --> command: ping
+date: 15/10/2018 09:37:30.705	code: Info	text: self.ping()
+date: 15/10/2018 09:37:30.705	code: Info	text: 0.112106323
+date: 15/10/2018 09:37:45.755	code: Info	text: Connected by ('127.0.0.1', 4368) --> command: ping
+date: 15/10/2018 09:37:45.755	code: Info	text: self.ping()
+date: 15/10/2018 09:37:45.755	code: Info	text: 0.112106323
+date: 15/10/2018 09:38:00.788	code: Info	text: Connected by ('127.0.0.1', 4373) --> command: ping
+date: 15/10/2018 09:38:00.788	code: Info	text: self.ping()
+date: 15/10/2018 09:38:00.788	code: Info	text: 0.112106323
+date: 15/10/2018 09:38:17.119	code: Info	text: Connected by ('127.0.0.1', 4383) --> command: ping
+date: 15/10/2018 09:38:17.119	code: Info	text: self.ping()
+date: 15/10/2018 09:38:17.119	code: Info	text: 0.112106323
+date: 15/10/2018 09:38:32.997	code: Info	text: Connected by ('127.0.0.1', 4398) --> command: ping
+date: 15/10/2018 09:38:32.997	code: Info	text: self.ping()
+date: 15/10/2018 09:38:32.997	code: Info	text: 0.112106323
+date: 15/10/2018 09:38:48.359	code: Info	text: Connected by ('127.0.0.1', 4405) --> command: ping
+date: 15/10/2018 09:38:48.359	code: Info	text: self.ping()
+date: 15/10/2018 09:38:48.359	code: Info	text: 0.112106323
+date: 15/10/2018 09:39:03.393	code: Info	text: Connected by ('127.0.0.1', 4411) --> command: ping
+date: 15/10/2018 09:39:03.393	code: Info	text: self.ping()
+date: 15/10/2018 09:39:03.393	code: Info	text: 0.112106323
+date: 15/10/2018 09:39:18.427	code: Info	text: Connected by ('127.0.0.1', 4416) --> command: ping
+date: 15/10/2018 09:39:18.427	code: Info	text: self.ping()
+date: 15/10/2018 09:39:18.427	code: Info	text: 0.112106323
+date: 15/10/2018 09:39:33.461	code: Info	text: Connected by ('127.0.0.1', 4421) --> command: ping
+date: 15/10/2018 09:39:33.461	code: Info	text: self.ping()
+date: 15/10/2018 09:39:33.461	code: Info	text: 0.112106323
+date: 15/10/2018 09:39:48.495	code: Info	text: Connected by ('127.0.0.1', 4426) --> command: ping
+date: 15/10/2018 09:39:48.495	code: Info	text: self.ping()
+date: 15/10/2018 09:39:48.495	code: Info	text: 0.112106323
+date: 15/10/2018 09:40:03.528	code: Info	text: Connected by ('127.0.0.1', 4432) --> command: ping
+date: 15/10/2018 09:40:03.528	code: Info	text: self.ping()
+date: 15/10/2018 09:40:03.528	code: Info	text: 0.112106323
+date: 15/10/2018 09:40:18.562	code: Info	text: Connected by ('127.0.0.1', 4437) --> command: ping
+date: 15/10/2018 09:40:18.562	code: Info	text: self.ping()
+date: 15/10/2018 09:40:18.562	code: Info	text: 0.112106323
+date: 15/10/2018 09:40:33.596	code: Info	text: Connected by ('127.0.0.1', 4442) --> command: ping
+date: 15/10/2018 09:40:33.596	code: Info	text: self.ping()
+date: 15/10/2018 09:40:33.596	code: Info	text: 0.112106323
+date: 15/10/2018 09:40:48.630	code: Info	text: Connected by ('127.0.0.1', 4451) --> command: ping
+date: 15/10/2018 09:40:48.630	code: Info	text: self.ping()
+date: 15/10/2018 09:40:48.630	code: Info	text: 0.112106323
+date: 15/10/2018 09:41:04.648	code: Info	text: Connected by ('127.0.0.1', 4459) --> command: ping
+date: 15/10/2018 09:41:04.648	code: Info	text: self.ping()
+date: 15/10/2018 09:41:04.648	code: Info	text: 0.112106323
+date: 15/10/2018 09:41:19.854	code: Info	text: Connected by ('127.0.0.1', 4476) --> command: ping
+date: 15/10/2018 09:41:19.854	code: Info	text: self.ping()
+date: 15/10/2018 09:41:19.854	code: Info	text: 0.112106323
+date: 15/10/2018 09:41:34.888	code: Info	text: Connected by ('127.0.0.1', 4481) --> command: ping
+date: 15/10/2018 09:41:34.888	code: Info	text: self.ping()
+date: 15/10/2018 09:41:34.888	code: Info	text: 0.112106323
+date: 15/10/2018 09:41:49.922	code: Info	text: Connected by ('127.0.0.1', 4486) --> command: ping
+date: 15/10/2018 09:41:49.922	code: Info	text: self.ping()
+date: 15/10/2018 09:41:49.922	code: Info	text: 0.112106323
+date: 15/10/2018 09:42:04.971	code: Info	text: Connected by ('127.0.0.1', 4492) --> command: ping
+date: 15/10/2018 09:42:04.971	code: Info	text: self.ping()
+date: 15/10/2018 09:42:04.971	code: Info	text: 0.112106323
+date: 15/10/2018 09:42:20.005	code: Info	text: Connected by ('127.0.0.1', 4497) --> command: ping
+date: 15/10/2018 09:42:20.005	code: Info	text: self.ping()
+date: 15/10/2018 09:42:20.005	code: Info	text: 0.112106323
+date: 15/10/2018 09:42:35.039	code: Info	text: Connected by ('127.0.0.1', 4502) --> command: ping
+date: 15/10/2018 09:42:35.039	code: Info	text: self.ping()
+date: 15/10/2018 09:42:35.039	code: Info	text: 0.112106323
+date: 15/10/2018 09:42:49.949	code: Info	text: Connected by ('127.0.0.1', 4508) --> command: ping
+date: 15/10/2018 09:42:49.949	code: Info	text: self.ping()
+date: 15/10/2018 09:42:49.949	code: Info	text: 0.112106323
+date: 15/10/2018 09:43:04.983	code: Info	text: Connected by ('127.0.0.1', 4514) --> command: ping
+date: 15/10/2018 09:43:04.983	code: Info	text: self.ping()
+date: 15/10/2018 09:43:04.983	code: Info	text: 0.112106323
+date: 15/10/2018 09:43:20.017	code: Info	text: Connected by ('127.0.0.1', 4519) --> command: ping
+date: 15/10/2018 09:43:20.017	code: Info	text: self.ping()
+date: 15/10/2018 09:43:20.017	code: Info	text: 0.112106323
+date: 15/10/2018 09:43:36.019	code: Info	text: Connected by ('127.0.0.1', 4526) --> command: ping
+date: 15/10/2018 09:43:36.019	code: Info	text: self.ping()
+date: 15/10/2018 09:43:36.019	code: Info	text: 0.112106323
+date: 15/10/2018 09:43:51.944	code: Info	text: Connected by ('127.0.0.1', 4541) --> command: ping
+date: 15/10/2018 09:43:51.944	code: Info	text: self.ping()
+date: 15/10/2018 09:43:51.944	code: Info	text: 0.112106323
+date: 15/10/2018 09:44:07.415	code: Info	text: Connected by ('127.0.0.1', 4549) --> command: ping
+date: 15/10/2018 09:44:07.415	code: Info	text: self.ping()
+date: 15/10/2018 09:44:07.415	code: Info	text: 0.112106323
+date: 15/10/2018 09:44:22.465	code: Info	text: Connected by ('127.0.0.1', 4554) --> command: ping
+date: 15/10/2018 09:44:22.465	code: Info	text: self.ping()
+date: 15/10/2018 09:44:22.465	code: Info	text: 0.112106323
+date: 15/10/2018 09:44:37.483	code: Info	text: Connected by ('127.0.0.1', 4559) --> command: ping
+date: 15/10/2018 09:44:37.483	code: Info	text: self.ping()
+date: 15/10/2018 09:44:37.499	code: Info	text: 0.112106323
+date: 15/10/2018 09:44:52.517	code: Info	text: Connected by ('127.0.0.1', 4564) --> command: ping
+date: 15/10/2018 09:44:52.517	code: Info	text: self.ping()
+date: 15/10/2018 09:44:52.517	code: Info	text: 0.112106323
+date: 15/10/2018 09:45:07.551	code: Info	text: Connected by ('127.0.0.1', 4570) --> command: ping
+date: 15/10/2018 09:45:07.566	code: Info	text: self.ping()
+date: 15/10/2018 09:45:07.566	code: Info	text: 0.112106323
+date: 15/10/2018 09:45:22.600	code: Info	text: Connected by ('127.0.0.1', 4575) --> command: ping
+date: 15/10/2018 09:45:22.600	code: Info	text: self.ping()
+date: 15/10/2018 09:45:22.600	code: Info	text: 0.112106323
+date: 15/10/2018 09:45:37.634	code: Info	text: Connected by ('127.0.0.1', 4580) --> command: ping
+date: 15/10/2018 09:45:37.634	code: Info	text: self.ping()
+date: 15/10/2018 09:45:37.634	code: Info	text: 0.112106323
+date: 15/10/2018 09:45:53.387	code: Info	text: Connected by ('127.0.0.1', 4587) --> command: ping
+date: 15/10/2018 09:45:53.387	code: Info	text: self.ping()
+date: 15/10/2018 09:45:53.387	code: Info	text: 0.112106323
+date: 15/10/2018 09:46:08.577	code: Info	text: Connected by ('127.0.0.1', 4600) --> command: ping
+date: 15/10/2018 09:46:08.577	code: Info	text: self.ping()
+date: 15/10/2018 09:46:08.577	code: Info	text: 0.112106323
+date: 15/10/2018 09:46:23.611	code: Info	text: Connected by ('127.0.0.1', 4609) --> command: ping
+date: 15/10/2018 09:46:23.611	code: Info	text: self.ping()
+date: 15/10/2018 09:46:23.611	code: Info	text: 0.112106323
+date: 15/10/2018 09:46:38.645	code: Info	text: Connected by ('127.0.0.1', 4614) --> command: ping
+date: 15/10/2018 09:46:38.645	code: Info	text: self.ping()
+date: 15/10/2018 09:46:38.645	code: Info	text: 0.112106323
+date: 15/10/2018 09:46:53.679	code: Info	text: Connected by ('127.0.0.1', 4619) --> command: ping
+date: 15/10/2018 09:46:53.679	code: Info	text: self.ping()
+date: 15/10/2018 09:46:53.679	code: Info	text: 0.112106323
+date: 15/10/2018 09:47:08.712	code: Info	text: Connected by ('127.0.0.1', 4625) --> command: ping
+date: 15/10/2018 09:47:08.712	code: Info	text: self.ping()
+date: 15/10/2018 09:47:08.712	code: Info	text: 0.112106323
+date: 15/10/2018 09:47:23.746	code: Info	text: Connected by ('127.0.0.1', 4630) --> command: ping
+date: 15/10/2018 09:47:23.746	code: Info	text: self.ping()
+date: 15/10/2018 09:47:23.746	code: Info	text: 0.112106323
+date: 15/10/2018 09:47:38.780	code: Info	text: Connected by ('127.0.0.1', 4636) --> command: ping
+date: 15/10/2018 09:47:38.780	code: Info	text: self.ping()
+date: 15/10/2018 09:47:38.780	code: Info	text: 0.112106323
+date: 15/10/2018 09:47:53.814	code: Info	text: Connected by ('127.0.0.1', 4641) --> command: ping
+date: 15/10/2018 09:47:53.814	code: Info	text: self.ping()
+date: 15/10/2018 09:47:53.814	code: Info	text: 0.112106323
+date: 15/10/2018 09:48:08.848	code: Info	text: Connected by ('127.0.0.1', 4647) --> command: ping
+date: 15/10/2018 09:48:08.848	code: Info	text: self.ping()
+date: 15/10/2018 09:48:08.848	code: Info	text: 0.112106323
+date: 15/10/2018 09:48:23.882	code: Info	text: Connected by ('127.0.0.1', 4652) --> command: ping
+date: 15/10/2018 09:48:23.882	code: Info	text: self.ping()
+date: 15/10/2018 09:48:23.882	code: Info	text: 0.112106323
+date: 15/10/2018 09:48:39.587	code: Info	text: Connected by ('127.0.0.1', 4659) --> command: ping
+date: 15/10/2018 09:48:39.587	code: Info	text: self.ping()
+date: 15/10/2018 09:48:39.587	code: Info	text: 0.112106323
+date: 15/10/2018 09:48:54.903	code: Info	text: Connected by ('127.0.0.1', 4675) --> command: ping
+date: 15/10/2018 09:48:54.903	code: Info	text: self.ping()
+date: 15/10/2018 09:48:54.903	code: Info	text: 0.112106323
+date: 15/10/2018 09:49:09.936	code: Info	text: Connected by ('127.0.0.1', 4681) --> command: ping
+date: 15/10/2018 09:49:09.936	code: Info	text: self.ping()
+date: 15/10/2018 09:49:09.936	code: Info	text: 0.112106323
+date: 15/10/2018 09:49:24.970	code: Info	text: Connected by ('127.0.0.1', 4686) --> command: ping
+date: 15/10/2018 09:49:24.970	code: Info	text: self.ping()
+date: 15/10/2018 09:49:24.970	code: Info	text: 0.112106323
+date: 15/10/2018 09:49:40.020	code: Info	text: Connected by ('127.0.0.1', 4691) --> command: ping
+date: 15/10/2018 09:49:40.020	code: Info	text: self.ping()
+date: 15/10/2018 09:49:40.020	code: Info	text: 0.112106323
+date: 15/10/2018 09:49:55.054	code: Info	text: Connected by ('127.0.0.1', 4696) --> command: ping
+date: 15/10/2018 09:49:55.054	code: Info	text: self.ping()
+date: 15/10/2018 09:49:55.054	code: Info	text: 0.112106323
+date: 15/10/2018 09:50:10.087	code: Info	text: Connected by ('127.0.0.1', 4702) --> command: ping
+date: 15/10/2018 09:50:10.087	code: Info	text: self.ping()
+date: 15/10/2018 09:50:10.087	code: Info	text: 0.112106323
+date: 15/10/2018 09:50:25.121	code: Info	text: Connected by ('127.0.0.1', 4707) --> command: ping
+date: 15/10/2018 09:50:25.121	code: Info	text: self.ping()
+date: 15/10/2018 09:50:25.121	code: Info	text: 0.112106323
+date: 15/10/2018 09:50:40.155	code: Info	text: Connected by ('127.0.0.1', 4712) --> command: ping
+date: 15/10/2018 09:50:40.155	code: Info	text: self.ping()
+date: 15/10/2018 09:50:40.155	code: Info	text: 0.112106323
+date: 15/10/2018 09:50:55.189	code: Info	text: Connected by ('127.0.0.1', 4717) --> command: ping
+date: 15/10/2018 09:50:55.189	code: Info	text: self.ping()
+date: 15/10/2018 09:50:55.189	code: Info	text: 0.112106323
+date: 15/10/2018 09:51:10.223	code: Info	text: Connected by ('127.0.0.1', 4723) --> command: ping
+date: 15/10/2018 09:51:10.223	code: Info	text: self.ping()
+date: 15/10/2018 09:51:10.223	code: Info	text: 0.112106323
+date: 15/10/2018 09:51:25.257	code: Info	text: Connected by ('127.0.0.1', 4728) --> command: ping
+date: 15/10/2018 09:51:25.257	code: Info	text: self.ping()
+date: 15/10/2018 09:51:25.257	code: Info	text: 0.112106323
+date: 15/10/2018 09:51:41.322	code: Info	text: Connected by ('127.0.0.1', 4735) --> command: ping
+date: 15/10/2018 09:51:41.322	code: Info	text: self.ping()
+date: 15/10/2018 09:51:41.322	code: Info	text: 0.112106323
+date: 15/10/2018 09:51:56.512	code: Info	text: Connected by ('127.0.0.1', 4748) --> command: ping
+date: 15/10/2018 09:51:56.512	code: Info	text: self.ping()
+date: 15/10/2018 09:51:56.512	code: Info	text: 0.112106323
+date: 15/10/2018 09:51:57.262	code: Info	text: Connected by ('127.0.0.1', 4750) --> command: rwd_time:1
+date: 15/10/2018 09:51:57.262	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 09:51:57.700	code: Info	text: OK
+date: 15/10/2018 09:51:57.700	code: Info	text: Connected by ('127.0.0.1', 4751) --> command: get_pos
+date: 15/10/2018 09:51:57.715	code: Info	text: self.get_pos()
+date: 15/10/2018 09:51:57.715	code: Info	text: 0.111862183
+date: 15/10/2018 09:52:11.546	code: Info	text: Connected by ('127.0.0.1', 4764) --> command: ping
+date: 15/10/2018 09:52:11.546	code: Info	text: self.ping()
+date: 15/10/2018 09:52:11.546	code: Info	text: 0.111862183
+date: 15/10/2018 09:52:26.580	code: Info	text: Connected by ('127.0.0.1', 4769) --> command: ping
+date: 15/10/2018 09:52:26.580	code: Info	text: self.ping()
+date: 15/10/2018 09:52:26.580	code: Info	text: 0.111862183
+date: 15/10/2018 09:52:41.614	code: Info	text: Connected by ('127.0.0.1', 4774) --> command: ping
+date: 15/10/2018 09:52:41.614	code: Info	text: self.ping()
+date: 15/10/2018 09:52:41.614	code: Info	text: 0.111862183
+date: 15/10/2018 09:52:56.521	code: Info	text: Connected by ('127.0.0.1', 4780) --> command: ping
+date: 15/10/2018 09:52:56.521	code: Info	text: self.ping()
+date: 15/10/2018 09:52:56.521	code: Info	text: 0.111862183
+date: 15/10/2018 09:53:11.555	code: Info	text: Connected by ('127.0.0.1', 4786) --> command: ping
+date: 15/10/2018 09:53:11.555	code: Info	text: self.ping()
+date: 15/10/2018 09:53:11.555	code: Info	text: 0.111862183
+date: 15/10/2018 09:53:26.604	code: Info	text: Connected by ('127.0.0.1', 4791) --> command: ping
+date: 15/10/2018 09:53:26.604	code: Info	text: self.ping()
+date: 15/10/2018 09:53:26.604	code: Info	text: 0.111862183
+date: 15/10/2018 09:53:41.638	code: Info	text: Connected by ('127.0.0.1', 4796) --> command: ping
+date: 15/10/2018 09:53:41.638	code: Info	text: self.ping()
+date: 15/10/2018 09:53:41.638	code: Info	text: 0.111862183
+date: 15/10/2018 09:53:56.672	code: Info	text: Connected by ('127.0.0.1', 4801) --> command: ping
+date: 15/10/2018 09:53:56.672	code: Info	text: self.ping()
+date: 15/10/2018 09:53:56.672	code: Info	text: 0.111862183
+date: 15/10/2018 09:54:11.706	code: Info	text: Connected by ('127.0.0.1', 4807) --> command: ping
+date: 15/10/2018 09:54:11.706	code: Info	text: self.ping()
+date: 15/10/2018 09:54:11.706	code: Info	text: 0.111862183
+date: 15/10/2018 09:54:26.740	code: Info	text: Connected by ('127.0.0.1', 4812) --> command: ping
+date: 15/10/2018 09:54:26.740	code: Info	text: self.ping()
+date: 15/10/2018 09:54:26.740	code: Info	text: 0.111862183
+date: 15/10/2018 09:54:41.758	code: Info	text: Connected by ('127.0.0.1', 4817) --> command: ping
+date: 15/10/2018 09:54:41.774	code: Info	text: self.ping()
+date: 15/10/2018 09:54:41.774	code: Info	text: 0.111862183
+date: 15/10/2018 09:54:57.464	code: Info	text: Connected by ('127.0.0.1', 4824) --> command: ping
+date: 15/10/2018 09:54:57.464	code: Info	text: self.ping()
+date: 15/10/2018 09:54:57.464	code: Info	text: 0.111862183
+date: 15/10/2018 09:55:12.669	code: Info	text: Connected by ('127.0.0.1', 4838) --> command: ping
+date: 15/10/2018 09:55:12.669	code: Info	text: self.ping()
+date: 15/10/2018 09:55:12.669	code: Info	text: 0.111862183
+date: 15/10/2018 09:55:14.092	code: Info	text: Connected by ('127.0.0.1', 4840) --> command: rwd_time:1
+date: 15/10/2018 09:55:14.092	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 09:55:14.451	code: Info	text: OK
+date: 15/10/2018 09:55:14.467	code: Info	text: Connected by ('127.0.0.1', 4841) --> command: get_pos
+date: 15/10/2018 09:55:14.467	code: Info	text: self.get_pos()
+date: 15/10/2018 09:55:14.467	code: Info	text: 0.111679077
+date: 15/10/2018 09:55:24.312	code: Info	text: Connected by ('127.0.0.1', 4847) --> command: rwd_time:1
+date: 15/10/2018 09:55:24.312	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 09:55:24.672	code: Info	text: OK
+date: 15/10/2018 09:55:24.672	code: Info	text: Connected by ('127.0.0.1', 4848) --> command: get_pos
+date: 15/10/2018 09:55:24.672	code: Info	text: self.get_pos()
+date: 15/10/2018 09:55:24.687	code: Info	text: 0.111450195
+date: 15/10/2018 09:55:27.703	code: Info	text: Connected by ('127.0.0.1', 4855) --> command: ping
+date: 15/10/2018 09:55:27.703	code: Info	text: self.ping()
+date: 15/10/2018 09:55:27.703	code: Info	text: 0.111450195
+date: 15/10/2018 09:55:42.737	code: Info	text: Connected by ('127.0.0.1', 4869) --> command: ping
+date: 15/10/2018 09:55:42.737	code: Info	text: self.ping()
+date: 15/10/2018 09:55:42.737	code: Info	text: 0.111450195
+date: 15/10/2018 09:55:57.771	code: Info	text: Connected by ('127.0.0.1', 4874) --> command: ping
+date: 15/10/2018 09:55:57.771	code: Info	text: self.ping()
+date: 15/10/2018 09:55:57.771	code: Info	text: 0.111450195
+date: 15/10/2018 09:56:12.805	code: Info	text: Connected by ('127.0.0.1', 4880) --> command: ping
+date: 15/10/2018 09:56:12.805	code: Info	text: self.ping()
+date: 15/10/2018 09:56:12.805	code: Info	text: 0.111450195
+date: 15/10/2018 09:56:27.839	code: Info	text: Connected by ('127.0.0.1', 4885) --> command: ping
+date: 15/10/2018 09:56:27.839	code: Info	text: self.ping()
+date: 15/10/2018 09:56:27.839	code: Info	text: 0.111450195
+date: 15/10/2018 09:56:42.873	code: Info	text: Connected by ('127.0.0.1', 4890) --> command: ping
+date: 15/10/2018 09:56:42.873	code: Info	text: self.ping()
+date: 15/10/2018 09:56:42.873	code: Info	text: 0.111450195
+date: 15/10/2018 09:56:57.906	code: Info	text: Connected by ('127.0.0.1', 4895) --> command: ping
+date: 15/10/2018 09:56:57.906	code: Info	text: self.ping()
+date: 15/10/2018 09:56:57.906	code: Info	text: 0.111450195
+date: 15/10/2018 09:57:12.956	code: Info	text: Connected by ('127.0.0.1', 4901) --> command: ping
+date: 15/10/2018 09:57:12.956	code: Info	text: self.ping()
+date: 15/10/2018 09:57:12.956	code: Info	text: 0.111450195
+date: 15/10/2018 09:57:28.037	code: Info	text: Connected by ('127.0.0.1', 4906) --> command: ping
+date: 15/10/2018 09:57:28.037	code: Info	text: self.ping()
+date: 15/10/2018 09:57:28.037	code: Info	text: 0.111450195
+date: 15/10/2018 09:57:43.070	code: Info	text: Connected by ('127.0.0.1', 4911) --> command: ping
+date: 15/10/2018 09:57:43.070	code: Info	text: self.ping()
+date: 15/10/2018 09:57:43.070	code: Info	text: 0.111450195
+date: 15/10/2018 09:57:58.120	code: Info	text: Connected by ('127.0.0.1', 4916) --> command: ping
+date: 15/10/2018 09:57:58.120	code: Info	text: self.ping()
+date: 15/10/2018 09:57:58.120	code: Info	text: 0.111450195
+date: 15/10/2018 09:58:13.841	code: Info	text: Connected by ('127.0.0.1', 4924) --> command: ping
+date: 15/10/2018 09:58:13.841	code: Info	text: self.ping()
+date: 15/10/2018 09:58:13.841	code: Info	text: 0.111450195
+date: 15/10/2018 09:58:29.000	code: Info	text: Connected by ('127.0.0.1', 4940) --> command: ping
+date: 15/10/2018 09:58:29.000	code: Info	text: self.ping()
+date: 15/10/2018 09:58:29.000	code: Info	text: 0.111450195
+date: 15/10/2018 09:58:44.050	code: Info	text: Connected by ('127.0.0.1', 4945) --> command: ping
+date: 15/10/2018 09:58:44.050	code: Info	text: self.ping()
+date: 15/10/2018 09:58:44.050	code: Info	text: 0.111450195
+date: 15/10/2018 09:58:59.084	code: Info	text: Connected by ('127.0.0.1', 4950) --> command: ping
+date: 15/10/2018 09:58:59.084	code: Info	text: self.ping()
+date: 15/10/2018 09:58:59.084	code: Info	text: 0.111450195
+date: 15/10/2018 09:59:14.117	code: Info	text: Connected by ('127.0.0.1', 4956) --> command: ping
+date: 15/10/2018 09:59:14.117	code: Info	text: self.ping()
+date: 15/10/2018 09:59:14.117	code: Info	text: 0.111450195
+date: 15/10/2018 09:59:29.151	code: Info	text: Connected by ('127.0.0.1', 4961) --> command: ping
+date: 15/10/2018 09:59:29.151	code: Info	text: self.ping()
+date: 15/10/2018 09:59:29.151	code: Info	text: 0.111450195
+date: 15/10/2018 09:59:44.185	code: Info	text: Connected by ('127.0.0.1', 4966) --> command: ping
+date: 15/10/2018 09:59:44.185	code: Info	text: self.ping()
+date: 15/10/2018 09:59:44.185	code: Info	text: 0.111450195
+date: 15/10/2018 09:59:59.219	code: Info	text: Connected by ('127.0.0.1', 4971) --> command: ping
+date: 15/10/2018 09:59:59.219	code: Info	text: self.ping()
+date: 15/10/2018 09:59:59.219	code: Info	text: 0.111450195
+date: 15/10/2018 10:00:14.253	code: Info	text: Connected by ('127.0.0.1', 4977) --> command: ping
+date: 15/10/2018 10:00:14.253	code: Info	text: self.ping()
+date: 15/10/2018 10:00:14.253	code: Info	text: 0.111450195
+date: 15/10/2018 10:00:29.287	code: Info	text: Connected by ('127.0.0.1', 4982) --> command: ping
+date: 15/10/2018 10:00:29.287	code: Info	text: self.ping()
+date: 15/10/2018 10:00:29.287	code: Info	text: 0.111450195
+date: 15/10/2018 10:00:44.321	code: Info	text: Connected by ('127.0.0.1', 4988) --> command: ping
+date: 15/10/2018 10:00:44.321	code: Info	text: self.ping()
+date: 15/10/2018 10:00:44.321	code: Info	text: 0.111450195
+date: 15/10/2018 10:01:00.511	code: Info	text: Connected by ('127.0.0.1', 4996) --> command: ping
+date: 15/10/2018 10:01:00.511	code: Info	text: self.ping()
+date: 15/10/2018 10:01:00.511	code: Info	text: 0.111450195
+date: 15/10/2018 10:01:15.795	code: Info	text: Connected by ('127.0.0.1', 1032) --> command: rwd_time:1
+date: 15/10/2018 10:01:15.795	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 10:01:16.154	code: Info	text: OK
+date: 15/10/2018 10:01:16.170	code: Info	text: Connected by ('127.0.0.1', 1036) --> command: ping
+date: 15/10/2018 10:01:16.170	code: Info	text: self.ping()
+date: 15/10/2018 10:01:16.170	code: Info	text: OK
+date: 15/10/2018 10:01:16.170	code: Info	text: Connected by ('127.0.0.1', 1039) --> command: get_pos
+date: 15/10/2018 10:01:16.170	code: Info	text: self.get_pos()
+date: 15/10/2018 10:01:16.201	code: Info	text: 0.111282349
+date: 15/10/2018 10:01:31.204	code: Info	text: Connected by ('127.0.0.1', 1059) --> command: ping
+date: 15/10/2018 10:01:31.204	code: Info	text: self.ping()
+date: 15/10/2018 10:01:31.204	code: Info	text: 0.111282349
+date: 15/10/2018 10:01:46.581	code: Info	text: Connected by ('127.0.0.1', 1064) --> command: ping
+date: 15/10/2018 10:01:46.581	code: Info	text: self.ping()
+date: 15/10/2018 10:01:46.581	code: Info	text: 0.111282349
+date: 15/10/2018 10:02:01.631	code: Info	text: Connected by ('127.0.0.1', 1069) --> command: ping
+date: 15/10/2018 10:02:01.631	code: Info	text: self.ping()
+date: 15/10/2018 10:02:01.631	code: Info	text: 0.111282349
+date: 15/10/2018 10:02:16.665	code: Info	text: Connected by ('127.0.0.1', 1076) --> command: ping
+date: 15/10/2018 10:02:16.665	code: Info	text: self.ping()
+date: 15/10/2018 10:02:16.665	code: Info	text: 0.111282349
+date: 15/10/2018 10:02:31.698	code: Info	text: Connected by ('127.0.0.1', 1081) --> command: ping
+date: 15/10/2018 10:02:31.698	code: Info	text: self.ping()
+date: 15/10/2018 10:02:31.698	code: Info	text: 0.111282349
+date: 15/10/2018 10:02:46.591	code: Info	text: Connected by ('127.0.0.1', 1087) --> command: ping
+date: 15/10/2018 10:02:46.607	code: Info	text: self.ping()
+date: 15/10/2018 10:02:46.607	code: Info	text: 0.111282349
+date: 15/10/2018 10:03:01.656	code: Info	text: Connected by ('127.0.0.1', 1092) --> command: ping
+date: 15/10/2018 10:03:01.656	code: Info	text: self.ping()
+date: 15/10/2018 10:03:01.656	code: Info	text: 0.111282349
+date: 15/10/2018 10:03:16.706	code: Info	text: Connected by ('127.0.0.1', 1098) --> command: ping
+date: 15/10/2018 10:03:16.706	code: Info	text: self.ping()
+date: 15/10/2018 10:03:16.706	code: Info	text: 0.111282349
+date: 15/10/2018 10:03:31.724	code: Info	text: Connected by ('127.0.0.1', 1103) --> command: ping
+date: 15/10/2018 10:03:31.724	code: Info	text: self.ping()
+date: 15/10/2018 10:03:31.724	code: Info	text: 0.111282349
+date: 15/10/2018 10:03:46.758	code: Info	text: Connected by ('127.0.0.1', 1108) --> command: ping
+date: 15/10/2018 10:03:46.758	code: Info	text: self.ping()
+date: 15/10/2018 10:03:46.758	code: Info	text: 0.111282349
+date: 15/10/2018 10:04:02.839	code: Info	text: Connected by ('127.0.0.1', 1116) --> command: ping
+date: 15/10/2018 10:04:02.839	code: Info	text: self.ping()
+date: 15/10/2018 10:04:02.839	code: Info	text: 0.111282349
+date: 15/10/2018 10:04:18.216	code: Info	text: Connected by ('127.0.0.1', 1128) --> command: ping
+date: 15/10/2018 10:04:18.216	code: Info	text: self.ping()
+date: 15/10/2018 10:04:18.216	code: Info	text: 0.111282349
+date: 15/10/2018 10:04:19.810	code: Info	text: Connected by ('127.0.0.1', 1131) --> command: rwd_time:1
+date: 15/10/2018 10:04:19.810	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 10:04:20.139	code: Info	text: OK
+date: 15/10/2018 10:04:20.139	code: Info	text: Connected by ('127.0.0.1', 1132) --> command: get_pos
+date: 15/10/2018 10:04:20.139	code: Info	text: self.get_pos()
+date: 15/10/2018 10:04:20.154	code: Info	text: 0.111068726
+date: 15/10/2018 10:04:29.312	code: Info	text: Connected by ('127.0.0.1', 1138) --> command: rwd_time:1
+date: 15/10/2018 10:04:29.312	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 10:04:29.640	code: Info	text: OK
+date: 15/10/2018 10:04:29.672	code: Info	text: Connected by ('127.0.0.1', 1139) --> command: get_pos
+date: 15/10/2018 10:04:29.672	code: Info	text: self.get_pos()
+date: 15/10/2018 10:04:29.687	code: Info	text: 0.110855103
+date: 15/10/2018 10:04:33.266	code: Info	text: Connected by ('127.0.0.1', 1146) --> command: ping
+date: 15/10/2018 10:04:33.266	code: Info	text: self.ping()
+date: 15/10/2018 10:04:33.266	code: Info	text: 0.110855103
+date: 15/10/2018 10:04:48.300	code: Info	text: Connected by ('127.0.0.1', 1156) --> command: ping
+date: 15/10/2018 10:04:48.300	code: Info	text: self.ping()
+date: 15/10/2018 10:04:48.300	code: Info	text: 0.110855103
+date: 15/10/2018 10:05:03.380	code: Info	text: Connected by ('127.0.0.1', 1162) --> command: ping
+date: 15/10/2018 10:05:03.380	code: Info	text: self.ping()
+date: 15/10/2018 10:05:03.380	code: Info	text: 0.110855103
+date: 15/10/2018 10:05:18.414	code: Info	text: Connected by ('127.0.0.1', 1167) --> command: ping
+date: 15/10/2018 10:05:18.414	code: Info	text: self.ping()
+date: 15/10/2018 10:05:18.414	code: Info	text: 0.110855103
+date: 15/10/2018 10:05:33.433	code: Info	text: Connected by ('127.0.0.1', 1173) --> command: ping
+date: 15/10/2018 10:05:33.433	code: Info	text: self.ping()
+date: 15/10/2018 10:05:33.448	code: Info	text: 0.110855103
+date: 15/10/2018 10:05:48.466	code: Info	text: Connected by ('127.0.0.1', 1178) --> command: ping
+date: 15/10/2018 10:05:48.466	code: Info	text: self.ping()
+date: 15/10/2018 10:05:48.466	code: Info	text: 0.110855103
+date: 15/10/2018 10:06:03.500	code: Info	text: Connected by ('127.0.0.1', 1184) --> command: ping
+date: 15/10/2018 10:06:03.500	code: Info	text: self.ping()
+date: 15/10/2018 10:06:03.500	code: Info	text: 0.110855103
+date: 15/10/2018 10:06:18.534	code: Info	text: Connected by ('127.0.0.1', 1189) --> command: ping
+date: 15/10/2018 10:06:18.534	code: Info	text: self.ping()
+date: 15/10/2018 10:06:18.534	code: Info	text: 0.110855103
+date: 15/10/2018 10:06:33.568	code: Info	text: Connected by ('127.0.0.1', 1194) --> command: ping
+date: 15/10/2018 10:06:33.568	code: Info	text: self.ping()
+date: 15/10/2018 10:06:33.568	code: Info	text: 0.110855103
+date: 15/10/2018 10:06:48.617	code: Info	text: Connected by ('127.0.0.1', 1199) --> command: ping
+date: 15/10/2018 10:06:48.617	code: Info	text: self.ping()
+date: 15/10/2018 10:06:48.617	code: Info	text: 0.110855103
+date: 15/10/2018 10:07:04.636	code: Info	text: Connected by ('127.0.0.1', 1207) --> command: ping
+date: 15/10/2018 10:07:04.636	code: Info	text: self.ping()
+date: 15/10/2018 10:07:04.636	code: Info	text: 0.110855103
+date: 15/10/2018 10:07:18.154	code: Info	text: Connected by ('127.0.0.1', 1217) --> command: fwd_time:1
+date: 15/10/2018 10:07:18.169	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 10:07:18.638	code: Info	text: OK
+date: 15/10/2018 10:07:18.638	code: Info	text: Connected by ('127.0.0.1', 1218) --> command: get_pos
+date: 15/10/2018 10:07:18.638	code: Info	text: self.get_pos()
+date: 15/10/2018 10:07:18.654	code: Info	text: 0.111053467
+date: 15/10/2018 10:07:20.560	code: Info	text: Connected by ('127.0.0.1', 1223) --> command: ping
+date: 15/10/2018 10:07:20.560	code: Info	text: self.ping()
+date: 15/10/2018 10:07:20.560	code: Info	text: 0.111053467
+date: 15/10/2018 10:07:35.594	code: Info	text: Connected by ('127.0.0.1', 1235) --> command: ping
+date: 15/10/2018 10:07:35.594	code: Info	text: self.ping()
+date: 15/10/2018 10:07:35.594	code: Info	text: 0.111053467
+date: 15/10/2018 10:07:50.675	code: Info	text: Connected by ('127.0.0.1', 1240) --> command: ping
+date: 15/10/2018 10:07:50.675	code: Info	text: self.ping()
+date: 15/10/2018 10:07:50.675	code: Info	text: 0.111053467
+date: 15/10/2018 10:08:05.709	code: Info	text: Connected by ('127.0.0.1', 1247) --> command: ping
+date: 15/10/2018 10:08:05.709	code: Info	text: self.ping()
+date: 15/10/2018 10:08:05.709	code: Info	text: 0.111053467
+date: 15/10/2018 10:08:20.743	code: Info	text: Connected by ('127.0.0.1', 1252) --> command: ping
+date: 15/10/2018 10:08:20.743	code: Info	text: self.ping()
+date: 15/10/2018 10:08:20.743	code: Info	text: 0.111053467
+date: 15/10/2018 10:08:35.761	code: Info	text: Connected by ('127.0.0.1', 1257) --> command: ping
+date: 15/10/2018 10:08:35.761	code: Info	text: self.ping()
+date: 15/10/2018 10:08:35.777	code: Info	text: 0.111053467
+date: 15/10/2018 10:08:50.795	code: Info	text: Connected by ('127.0.0.1', 1263) --> command: ping
+date: 15/10/2018 10:08:50.795	code: Info	text: self.ping()
+date: 15/10/2018 10:08:50.795	code: Info	text: 0.111053467
+date: 15/10/2018 10:09:05.829	code: Info	text: Connected by ('127.0.0.1', 1270) --> command: ping
+date: 15/10/2018 10:09:05.829	code: Info	text: self.ping()
+date: 15/10/2018 10:09:05.829	code: Info	text: 0.111053467
+date: 15/10/2018 10:09:20.878	code: Info	text: Connected by ('127.0.0.1', 1275) --> command: ping
+date: 15/10/2018 10:09:20.878	code: Info	text: self.ping()
+date: 15/10/2018 10:09:20.878	code: Info	text: 0.111053467
+date: 15/10/2018 10:09:35.912	code: Info	text: Connected by ('127.0.0.1', 1280) --> command: ping
+date: 15/10/2018 10:09:35.912	code: Info	text: self.ping()
+date: 15/10/2018 10:09:35.912	code: Info	text: 0.111053467
+date: 15/10/2018 10:09:50.946	code: Info	text: Connected by ('127.0.0.1', 1285) --> command: ping
+date: 15/10/2018 10:09:50.946	code: Info	text: self.ping()
+date: 15/10/2018 10:09:50.946	code: Info	text: 0.111053467
+date: 15/10/2018 10:10:06.605	code: Info	text: Connected by ('127.0.0.1', 1293) --> command: ping
+date: 15/10/2018 10:10:06.605	code: Info	text: self.ping()
+date: 15/10/2018 10:10:06.605	code: Info	text: 0.111053467
+date: 15/10/2018 10:10:20.373	code: Info	text: Connected by ('127.0.0.1', 1303) --> command: fwd_time:1
+date: 15/10/2018 10:10:20.373	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 10:10:20.701	code: Info	text: OK
+date: 15/10/2018 10:10:20.717	code: Info	text: Connected by ('127.0.0.1', 1304) --> command: get_pos
+date: 15/10/2018 10:10:20.717	code: Info	text: self.get_pos()
+date: 15/10/2018 10:10:20.717	code: Info	text: 0.111251831
+date: 15/10/2018 10:10:22.670	code: Info	text: Connected by ('127.0.0.1', 1309) --> command: ping
+date: 15/10/2018 10:10:22.686	code: Info	text: self.ping()
+date: 15/10/2018 10:10:22.686	code: Info	text: 0.111251831
+date: 15/10/2018 10:10:30.921	code: Info	text: Connected by ('127.0.0.1', 1315) --> command: fwd_time:1
+date: 15/10/2018 10:10:30.921	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 10:10:31.265	code: Info	text: OK
+date: 15/10/2018 10:10:31.265	code: Info	text: Connected by ('127.0.0.1', 1316) --> command: get_pos
+date: 15/10/2018 10:10:31.265	code: Info	text: self.get_pos()
+date: 15/10/2018 10:10:31.281	code: Info	text: 0.111465454
+date: 15/10/2018 10:10:37.704	code: Info	text: Connected by ('127.0.0.1', 1328) --> command: ping
+date: 15/10/2018 10:10:37.704	code: Info	text: self.ping()
+date: 15/10/2018 10:10:37.704	code: Info	text: 0.111465454
+date: 15/10/2018 10:10:40.298	code: Info	text: Connected by ('127.0.0.1', 1331) --> command: fwd_time:1
+date: 15/10/2018 10:10:40.298	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 10:10:40.642	code: Info	text: OK
+date: 15/10/2018 10:10:40.642	code: Info	text: Connected by ('127.0.0.1', 1332) --> command: get_pos
+date: 15/10/2018 10:10:40.642	code: Info	text: self.get_pos()
+date: 15/10/2018 10:10:40.658	code: Info	text: 0.111694336
+date: 15/10/2018 10:10:52.894	code: Info	text: Connected by ('127.0.0.1', 1344) --> command: ping
+date: 15/10/2018 10:10:52.894	code: Info	text: self.ping()
+date: 15/10/2018 10:10:52.894	code: Info	text: 0.111694336
+date: 15/10/2018 10:11:07.928	code: Info	text: Connected by ('127.0.0.1', 1350) --> command: ping
+date: 15/10/2018 10:11:07.928	code: Info	text: self.ping()
+date: 15/10/2018 10:11:07.928	code: Info	text: 0.111694336
+date: 15/10/2018 10:11:22.962	code: Info	text: Connected by ('127.0.0.1', 1355) --> command: ping
+date: 15/10/2018 10:11:22.962	code: Info	text: self.ping()
+date: 15/10/2018 10:11:22.962	code: Info	text: 0.111694336
+date: 15/10/2018 10:11:37.996	code: Info	text: Connected by ('127.0.0.1', 1360) --> command: ping
+date: 15/10/2018 10:11:37.996	code: Info	text: self.ping()
+date: 15/10/2018 10:11:37.996	code: Info	text: 0.111694336
+date: 15/10/2018 10:11:53.029	code: Info	text: Connected by ('127.0.0.1', 1365) --> command: ping
+date: 15/10/2018 10:11:53.029	code: Info	text: self.ping()
+date: 15/10/2018 10:11:53.029	code: Info	text: 0.111694336
+date: 15/10/2018 10:12:08.063	code: Info	text: Connected by ('127.0.0.1', 1371) --> command: ping
+date: 15/10/2018 10:12:08.063	code: Info	text: self.ping()
+date: 15/10/2018 10:12:08.063	code: Info	text: 0.111694336
+date: 15/10/2018 10:12:23.113	code: Info	text: Connected by ('127.0.0.1', 1376) --> command: ping
+date: 15/10/2018 10:12:23.113	code: Info	text: self.ping()
+date: 15/10/2018 10:12:23.113	code: Info	text: 0.111694336
+date: 15/10/2018 10:12:38.147	code: Info	text: Connected by ('127.0.0.1', 1381) --> command: ping
+date: 15/10/2018 10:12:38.147	code: Info	text: self.ping()
+date: 15/10/2018 10:12:38.147	code: Info	text: 0.111694336
+date: 15/10/2018 10:12:53.054	code: Info	text: Connected by ('127.0.0.1', 1387) --> command: ping
+date: 15/10/2018 10:12:53.054	code: Info	text: self.ping()
+date: 15/10/2018 10:12:53.054	code: Info	text: 0.111694336
+date: 15/10/2018 10:13:08.088	code: Info	text: Connected by ('127.0.0.1', 1393) --> command: ping
+date: 15/10/2018 10:13:08.088	code: Info	text: self.ping()
+date: 15/10/2018 10:13:08.088	code: Info	text: 0.111694336
+date: 15/10/2018 10:13:23.122	code: Info	text: Connected by ('127.0.0.1', 1399) --> command: ping
+date: 15/10/2018 10:13:23.122	code: Info	text: self.ping()
+date: 15/10/2018 10:13:23.122	code: Info	text: 0.111694336
+date: 15/10/2018 10:13:38.156	code: Info	text: Connected by ('127.0.0.1', 1407) --> command: ping
+date: 15/10/2018 10:13:38.156	code: Info	text: self.ping()
+date: 15/10/2018 10:13:38.156	code: Info	text: 0.111694336
+date: 15/10/2018 10:13:53.189	code: Info	text: Connected by ('127.0.0.1', 1421) --> command: ping
+date: 15/10/2018 10:13:53.189	code: Info	text: self.ping()
+date: 15/10/2018 10:13:53.205	code: Info	text: 0.111694336
+date: 15/10/2018 10:14:08.223	code: Info	text: Connected by ('127.0.0.1', 1427) --> command: ping
+date: 15/10/2018 10:14:08.223	code: Info	text: self.ping()
+date: 15/10/2018 10:14:08.223	code: Info	text: 0.111694336
+date: 15/10/2018 10:14:23.257	code: Info	text: Connected by ('127.0.0.1', 1432) --> command: ping
+date: 15/10/2018 10:14:23.257	code: Info	text: self.ping()
+date: 15/10/2018 10:14:23.257	code: Info	text: 0.111694336
+date: 15/10/2018 10:14:38.291	code: Info	text: Connected by ('127.0.0.1', 1437) --> command: ping
+date: 15/10/2018 10:14:38.291	code: Info	text: self.ping()
+date: 15/10/2018 10:14:38.291	code: Info	text: 0.111694336
+date: 15/10/2018 10:14:53.325	code: Info	text: Connected by ('127.0.0.1', 1442) --> command: ping
+date: 15/10/2018 10:14:53.325	code: Info	text: self.ping()
+date: 15/10/2018 10:14:53.325	code: Info	text: 0.111694336
+date: 15/10/2018 10:15:08.359	code: Info	text: Connected by ('127.0.0.1', 1448) --> command: ping
+date: 15/10/2018 10:15:08.359	code: Info	text: self.ping()
+date: 15/10/2018 10:15:08.359	code: Info	text: 0.111694336
+date: 15/10/2018 10:15:23.439	code: Info	text: Connected by ('127.0.0.1', 1453) --> command: ping
+date: 15/10/2018 10:15:23.439	code: Info	text: self.ping()
+date: 15/10/2018 10:15:23.439	code: Info	text: 0.111694336
+date: 15/10/2018 10:15:38.504	code: Info	text: Connected by ('127.0.0.1', 1458) --> command: ping
+date: 15/10/2018 10:15:38.504	code: Info	text: self.ping()
+date: 15/10/2018 10:15:38.504	code: Info	text: 0.111694336
+date: 15/10/2018 10:15:53.538	code: Info	text: Connected by ('127.0.0.1', 1463) --> command: ping
+date: 15/10/2018 10:15:53.538	code: Info	text: self.ping()
+date: 15/10/2018 10:15:53.538	code: Info	text: 0.111694336
+date: 15/10/2018 10:16:08.572	code: Info	text: Connected by ('127.0.0.1', 1469) --> command: ping
+date: 15/10/2018 10:16:08.572	code: Info	text: self.ping()
+date: 15/10/2018 10:16:08.572	code: Info	text: 0.111694336
+date: 15/10/2018 10:16:24.215	code: Info	text: Connected by ('127.0.0.1', 1476) --> command: ping
+date: 15/10/2018 10:16:24.215	code: Info	text: self.ping()
+date: 15/10/2018 10:16:24.215	code: Info	text: 0.111694336
+date: 15/10/2018 10:16:39.374	code: Info	text: Connected by ('127.0.0.1', 1489) --> command: ping
+date: 15/10/2018 10:16:39.374	code: Info	text: self.ping()
+date: 15/10/2018 10:16:39.374	code: Info	text: 0.111694336
+date: 15/10/2018 10:16:54.408	code: Info	text: Connected by ('127.0.0.1', 1497) --> command: ping
+date: 15/10/2018 10:16:54.408	code: Info	text: self.ping()
+date: 15/10/2018 10:16:54.408	code: Info	text: 0.111694336
+date: 15/10/2018 10:17:09.458	code: Info	text: Connected by ('127.0.0.1', 1503) --> command: ping
+date: 15/10/2018 10:17:09.458	code: Info	text: self.ping()
+date: 15/10/2018 10:17:09.458	code: Info	text: 0.111694336
+date: 15/10/2018 10:17:24.492	code: Info	text: Connected by ('127.0.0.1', 1508) --> command: ping
+date: 15/10/2018 10:17:24.492	code: Info	text: self.ping()
+date: 15/10/2018 10:17:24.492	code: Info	text: 0.111694336
+date: 15/10/2018 10:17:39.510	code: Info	text: Connected by ('127.0.0.1', 1513) --> command: ping
+date: 15/10/2018 10:17:39.525	code: Info	text: self.ping()
+date: 15/10/2018 10:17:39.525	code: Info	text: 0.111694336
+date: 15/10/2018 10:17:54.544	code: Info	text: Connected by ('127.0.0.1', 1518) --> command: ping
+date: 15/10/2018 10:17:54.544	code: Info	text: self.ping()
+date: 15/10/2018 10:17:54.544	code: Info	text: 0.111694336
+date: 15/10/2018 10:18:09.577	code: Info	text: Connected by ('127.0.0.1', 1524) --> command: ping
+date: 15/10/2018 10:18:09.577	code: Info	text: self.ping()
+date: 15/10/2018 10:18:09.577	code: Info	text: 0.111694336
+date: 15/10/2018 10:18:24.611	code: Info	text: Connected by ('127.0.0.1', 1529) --> command: ping
+date: 15/10/2018 10:18:24.611	code: Info	text: self.ping()
+date: 15/10/2018 10:18:24.611	code: Info	text: 0.111694336
+date: 15/10/2018 10:18:39.645	code: Info	text: Connected by ('127.0.0.1', 1534) --> command: ping
+date: 15/10/2018 10:18:39.645	code: Info	text: self.ping()
+date: 15/10/2018 10:18:39.645	code: Info	text: 0.111694336
+date: 15/10/2018 10:18:54.679	code: Info	text: Connected by ('127.0.0.1', 1539) --> command: ping
+date: 15/10/2018 10:18:54.679	code: Info	text: self.ping()
+date: 15/10/2018 10:18:54.679	code: Info	text: 0.111694336
+date: 15/10/2018 10:19:09.713	code: Info	text: Connected by ('127.0.0.1', 1545) --> command: ping
+date: 15/10/2018 10:19:09.713	code: Info	text: self.ping()
+date: 15/10/2018 10:19:09.713	code: Info	text: 0.111694336
+date: 15/10/2018 10:19:26.044	code: Info	text: Connected by ('127.0.0.1', 1552) --> command: ping
+date: 15/10/2018 10:19:26.044	code: Info	text: self.ping()
+date: 15/10/2018 10:19:26.044	code: Info	text: 0.111694336
+date: 15/10/2018 10:19:41.453	code: Info	text: Connected by ('127.0.0.1', 1564) --> command: ping
+date: 15/10/2018 10:19:41.453	code: Info	text: self.ping()
+date: 15/10/2018 10:19:41.453	code: Info	text: 0.111694336
+date: 15/10/2018 10:19:43.203	code: Info	text: Connected by ('127.0.0.1', 1567) --> command: fwd_time:1
+date: 15/10/2018 10:19:43.203	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 10:19:43.547	code: Info	text: OK
+date: 15/10/2018 10:19:43.562	code: Info	text: Connected by ('127.0.0.1', 1568) --> command: get_pos
+date: 15/10/2018 10:19:43.562	code: Info	text: self.get_pos()
+date: 15/10/2018 10:19:43.562	code: Info	text: 0.111923218
+date: 15/10/2018 10:19:56.502	code: Info	text: Connected by ('127.0.0.1', 1580) --> command: ping
+date: 15/10/2018 10:19:56.502	code: Info	text: self.ping()
+date: 15/10/2018 10:19:56.502	code: Info	text: 0.111923218
+date: 15/10/2018 10:20:11.536	code: Info	text: Connected by ('127.0.0.1', 1586) --> command: ping
+date: 15/10/2018 10:20:11.536	code: Info	text: self.ping()
+date: 15/10/2018 10:20:11.536	code: Info	text: 0.111923218
+date: 15/10/2018 10:20:26.570	code: Info	text: Connected by ('127.0.0.1', 1591) --> command: ping
+date: 15/10/2018 10:20:26.570	code: Info	text: self.ping()
+date: 15/10/2018 10:20:26.570	code: Info	text: 0.111923218
+date: 15/10/2018 10:20:41.604	code: Info	text: Connected by ('127.0.0.1', 1596) --> command: ping
+date: 15/10/2018 10:20:41.604	code: Info	text: self.ping()
+date: 15/10/2018 10:20:41.604	code: Info	text: 0.111923218
+date: 15/10/2018 10:20:56.669	code: Info	text: Connected by ('127.0.0.1', 1601) --> command: ping
+date: 15/10/2018 10:20:56.669	code: Info	text: self.ping()
+date: 15/10/2018 10:20:56.669	code: Info	text: 0.111923218
+date: 15/10/2018 10:21:11.703	code: Info	text: Connected by ('127.0.0.1', 1607) --> command: ping
+date: 15/10/2018 10:21:11.703	code: Info	text: self.ping()
+date: 15/10/2018 10:21:11.703	code: Info	text: 0.111923218
+date: 15/10/2018 10:21:26.752	code: Info	text: Connected by ('127.0.0.1', 1612) --> command: ping
+date: 15/10/2018 10:21:26.752	code: Info	text: self.ping()
+date: 15/10/2018 10:21:26.752	code: Info	text: 0.111923218
+date: 15/10/2018 10:21:41.786	code: Info	text: Connected by ('127.0.0.1', 1617) --> command: ping
+date: 15/10/2018 10:21:41.786	code: Info	text: self.ping()
+date: 15/10/2018 10:21:41.786	code: Info	text: 0.111923218
+date: 15/10/2018 10:21:56.820	code: Info	text: Connected by ('127.0.0.1', 1622) --> command: ping
+date: 15/10/2018 10:21:56.820	code: Info	text: self.ping()
+date: 15/10/2018 10:21:56.820	code: Info	text: 0.111923218
+date: 15/10/2018 10:22:11.854	code: Info	text: Connected by ('127.0.0.1', 1628) --> command: ping
+date: 15/10/2018 10:22:11.854	code: Info	text: self.ping()
+date: 15/10/2018 10:22:11.854	code: Info	text: 0.111923218
+date: 15/10/2018 10:22:26.888	code: Info	text: Connected by ('127.0.0.1', 1633) --> command: ping
+date: 15/10/2018 10:22:26.888	code: Info	text: self.ping()
+date: 15/10/2018 10:22:26.888	code: Info	text: 0.111923218
+date: 15/10/2018 10:22:42.500	code: Info	text: Connected by ('127.0.0.1', 1640) --> command: ping
+date: 15/10/2018 10:22:42.500	code: Info	text: self.ping()
+date: 15/10/2018 10:22:42.500	code: Info	text: 0.111923218
+date: 15/10/2018 10:22:58.187	code: Info	text: Connected by ('127.0.0.1', 1650) --> command: ping
+date: 15/10/2018 10:22:58.187	code: Info	text: self.ping()
+date: 15/10/2018 10:22:58.187	code: Info	text: 0.111923218
+date: 15/10/2018 10:23:03.032	code: Info	text: Connected by ('127.0.0.1', 1657) --> command: fwd_time:1
+date: 15/10/2018 10:23:03.032	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 10:23:03.376	code: Info	text: OK
+date: 15/10/2018 10:23:03.391	code: Info	text: Connected by ('127.0.0.1', 1658) --> command: get_pos
+date: 15/10/2018 10:23:03.391	code: Info	text: self.get_pos()
+date: 15/10/2018 10:23:03.391	code: Info	text: 0.112152100
+date: 15/10/2018 10:23:13.628	code: Info	text: Connected by ('127.0.0.1', 1665) --> command: fwd_time:1
+date: 15/10/2018 10:23:13.628	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 10:23:13.956	code: Info	text: OK
+date: 15/10/2018 10:23:13.956	code: Info	text: Connected by ('127.0.0.1', 1668) --> command: ping
+date: 15/10/2018 10:23:13.956	code: Info	text: self.ping()
+date: 15/10/2018 10:23:13.956	code: Info	text: OK
+date: 15/10/2018 10:23:13.971	code: Info	text: Connected by ('127.0.0.1', 1669) --> command: get_pos
+date: 15/10/2018 10:23:13.971	code: Info	text: self.get_pos()
+date: 15/10/2018 10:23:13.987	code: Info	text: 0.112365723
+date: 15/10/2018 10:23:22.692	code: Info	text: Connected by ('127.0.0.1', 1676) --> command: rwd_time:1
+date: 15/10/2018 10:23:22.692	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 10:23:23.145	code: Info	text: OK
+date: 15/10/2018 10:23:23.176	code: Info	text: Connected by ('127.0.0.1', 1677) --> command: get_pos
+date: 15/10/2018 10:23:23.176	code: Info	text: self.get_pos()
+date: 15/10/2018 10:23:23.192	code: Info	text: 0.112106323
+date: 15/10/2018 10:23:28.990	code: Info	text: Connected by ('127.0.0.1', 1684) --> command: ping
+date: 15/10/2018 10:23:28.990	code: Info	text: self.ping()
+date: 15/10/2018 10:23:28.990	code: Info	text: 0.112106323
+date: 15/10/2018 10:23:44.039	code: Info	text: Connected by ('127.0.0.1', 1694) --> command: ping
+date: 15/10/2018 10:23:44.039	code: Info	text: self.ping()
+date: 15/10/2018 10:23:44.039	code: Info	text: 0.112106323
+date: 15/10/2018 10:23:59.073	code: Info	text: Connected by ('127.0.0.1', 1699) --> command: ping
+date: 15/10/2018 10:23:59.073	code: Info	text: self.ping()
+date: 15/10/2018 10:23:59.073	code: Info	text: 0.112106323
+date: 15/10/2018 10:24:14.107	code: Info	text: Connected by ('127.0.0.1', 1705) --> command: ping
+date: 15/10/2018 10:24:14.107	code: Info	text: self.ping()
+date: 15/10/2018 10:24:14.107	code: Info	text: 0.112106323
+date: 15/10/2018 10:24:29.156	code: Info	text: Connected by ('127.0.0.1', 1720) --> command: ping
+date: 15/10/2018 10:24:29.156	code: Info	text: self.ping()
+date: 15/10/2018 10:24:29.156	code: Info	text: 0.112106323
+date: 15/10/2018 10:24:44.190	code: Info	text: Connected by ('127.0.0.1', 1725) --> command: ping
+date: 15/10/2018 10:24:44.190	code: Info	text: self.ping()
+date: 15/10/2018 10:24:44.190	code: Info	text: 0.112106323
+date: 15/10/2018 10:24:59.224	code: Info	text: Connected by ('127.0.0.1', 1730) --> command: ping
+date: 15/10/2018 10:24:59.224	code: Info	text: self.ping()
+date: 15/10/2018 10:24:59.224	code: Info	text: 0.112106323
+date: 15/10/2018 10:25:14.258	code: Info	text: Connected by ('127.0.0.1', 1736) --> command: ping
+date: 15/10/2018 10:25:14.258	code: Info	text: self.ping()
+date: 15/10/2018 10:25:14.258	code: Info	text: 0.112106323
+date: 15/10/2018 10:25:29.292	code: Info	text: Connected by ('127.0.0.1', 1741) --> command: ping
+date: 15/10/2018 10:25:29.292	code: Info	text: self.ping()
+date: 15/10/2018 10:25:29.292	code: Info	text: 0.112106323
+date: 15/10/2018 10:25:44.326	code: Info	text: Connected by ('127.0.0.1', 1749) --> command: ping
+date: 15/10/2018 10:25:44.326	code: Info	text: self.ping()
+date: 15/10/2018 10:25:44.326	code: Info	text: 0.112106323
+date: 15/10/2018 10:25:59.359	code: Info	text: Connected by ('127.0.0.1', 1754) --> command: ping
+date: 15/10/2018 10:25:59.359	code: Info	text: self.ping()
+date: 15/10/2018 10:25:59.359	code: Info	text: 0.112106323
+date: 15/10/2018 10:26:14.393	code: Info	text: Connected by ('127.0.0.1', 1760) --> command: ping
+date: 15/10/2018 10:26:14.393	code: Info	text: self.ping()
+date: 15/10/2018 10:26:14.393	code: Info	text: 0.112106323
+date: 15/10/2018 10:26:30.115	code: Info	text: Connected by ('127.0.0.1', 1767) --> command: ping
+date: 15/10/2018 10:26:30.115	code: Info	text: self.ping()
+date: 15/10/2018 10:26:30.115	code: Info	text: 0.112106323
+date: 15/10/2018 10:26:44.977	code: Info	text: Connected by ('127.0.0.1', 1777) --> command: rwd_time:1
+date: 15/10/2018 10:26:44.977	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 10:26:45.352	code: Info	text: OK
+date: 15/10/2018 10:26:45.352	code: Info	text: Connected by ('127.0.0.1', 1781) --> command: ping
+date: 15/10/2018 10:26:45.352	code: Info	text: self.ping()
+date: 15/10/2018 10:26:45.352	code: Info	text: OK
+date: 15/10/2018 10:26:45.352	code: Info	text: Connected by ('127.0.0.1', 1782) --> command: get_pos
+date: 15/10/2018 10:26:45.352	code: Info	text: self.get_pos()
+date: 15/10/2018 10:26:45.367	code: Info	text: 0.111938477
+date: 15/10/2018 10:26:54.697	code: Info	text: Connected by ('127.0.0.1', 1789) --> command: rwd_time:1
+date: 15/10/2018 10:26:54.697	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 10:26:55.025	code: Info	text: OK
+date: 15/10/2018 10:26:55.041	code: Info	text: Connected by ('127.0.0.1', 1790) --> command: get_pos
+date: 15/10/2018 10:26:55.041	code: Info	text: self.get_pos()
+date: 15/10/2018 10:26:55.041	code: Info	text: 0.111709595
+date: 15/10/2018 10:27:00.386	code: Info	text: Connected by ('127.0.0.1', 1797) --> command: ping
+date: 15/10/2018 10:27:00.386	code: Info	text: self.ping()
+date: 15/10/2018 10:27:00.386	code: Info	text: 0.111709595
+date: 15/10/2018 10:27:03.652	code: Info	text: Connected by ('127.0.0.1', 1802) --> command: rwd_time:1
+date: 15/10/2018 10:27:03.652	code: Info	text: self.rwd_time(1)
+date: 15/10/2018 10:27:04.027	code: Info	text: OK
+date: 15/10/2018 10:27:04.027	code: Info	text: Connected by ('127.0.0.1', 1803) --> command: get_pos
+date: 15/10/2018 10:27:04.027	code: Info	text: self.get_pos()
+date: 15/10/2018 10:27:04.042	code: Info	text: 0.111526489
+date: 15/10/2018 10:27:15.419	code: Info	text: Connected by ('127.0.0.1', 1815) --> command: ping
+date: 15/10/2018 10:27:15.419	code: Info	text: self.ping()
+date: 15/10/2018 10:27:15.419	code: Info	text: 0.111526489
+date: 15/10/2018 10:27:30.453	code: Info	text: Connected by ('127.0.0.1', 1820) --> command: ping
+date: 15/10/2018 10:27:30.453	code: Info	text: self.ping()
+date: 15/10/2018 10:27:30.453	code: Info	text: 0.111526489
+date: 15/10/2018 10:27:45.487	code: Info	text: Connected by ('127.0.0.1', 1825) --> command: ping
+date: 15/10/2018 10:27:45.487	code: Info	text: self.ping()
+date: 15/10/2018 10:27:45.487	code: Info	text: 0.111526489
+date: 15/10/2018 10:28:00.521	code: Info	text: Connected by ('127.0.0.1', 1830) --> command: ping
+date: 15/10/2018 10:28:00.521	code: Info	text: self.ping()
+date: 15/10/2018 10:28:00.521	code: Info	text: 0.111526489
+date: 15/10/2018 10:28:15.555	code: Info	text: Connected by ('127.0.0.1', 1836) --> command: ping
+date: 15/10/2018 10:28:15.555	code: Info	text: self.ping()
+date: 15/10/2018 10:28:15.555	code: Info	text: 0.111526489
+date: 15/10/2018 10:28:30.589	code: Info	text: Connected by ('127.0.0.1', 1841) --> command: ping
+date: 15/10/2018 10:28:30.589	code: Info	text: self.ping()
+date: 15/10/2018 10:28:30.589	code: Info	text: 0.111526489
+date: 15/10/2018 10:28:45.638	code: Info	text: Connected by ('127.0.0.1', 1846) --> command: ping
+date: 15/10/2018 10:28:45.638	code: Info	text: self.ping()
+date: 15/10/2018 10:28:45.638	code: Info	text: 0.111526489
+date: 15/10/2018 10:29:00.672	code: Info	text: Connected by ('127.0.0.1', 1851) --> command: ping
+date: 15/10/2018 10:29:00.672	code: Info	text: self.ping()
+date: 15/10/2018 10:29:00.672	code: Info	text: 0.111526489
+date: 15/10/2018 10:29:15.706	code: Info	text: Connected by ('127.0.0.1', 1857) --> command: ping
+date: 15/10/2018 10:29:15.706	code: Info	text: self.ping()
+date: 15/10/2018 10:29:15.706	code: Info	text: 0.111526489
+date: 15/10/2018 10:29:30.755	code: Info	text: Connected by ('127.0.0.1', 1862) --> command: ping
+date: 15/10/2018 10:29:30.755	code: Info	text: self.ping()
+date: 15/10/2018 10:29:30.755	code: Info	text: 0.111526489
+date: 15/10/2018 10:29:45.774	code: Info	text: Connected by ('127.0.0.1', 1867) --> command: ping
+date: 15/10/2018 10:29:45.789	code: Info	text: self.ping()
+date: 15/10/2018 10:29:45.789	code: Info	text: 0.111526489
+date: 15/10/2018 10:30:01.854	code: Info	text: Connected by ('127.0.0.1', 1874) --> command: ping
+date: 15/10/2018 10:30:01.854	code: Info	text: self.ping()
+date: 15/10/2018 10:30:01.854	code: Info	text: 0.111526489
+date: 15/10/2018 10:30:17.310	code: Info	text: Connected by ('127.0.0.1', 1886) --> command: ping
+date: 15/10/2018 10:30:17.310	code: Info	text: self.ping()
+date: 15/10/2018 10:30:17.310	code: Info	text: 0.111526489
+date: 15/10/2018 10:30:21.061	code: Info	text: Connected by ('127.0.0.1', 1890) --> command: fwd_time:1
+date: 15/10/2018 10:30:21.061	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 10:30:21.514	code: Info	text: OK
+date: 15/10/2018 10:30:21.545	code: Info	text: Connected by ('127.0.0.1', 1891) --> command: get_pos
+date: 15/10/2018 10:30:21.545	code: Info	text: self.get_pos()
+date: 15/10/2018 10:30:21.545	code: Info	text: 0.111770630
+date: 15/10/2018 10:30:31.250	code: Info	text: Connected by ('127.0.0.1', 1897) --> command: fwd_time:1
+date: 15/10/2018 10:30:31.250	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 10:30:31.625	code: Info	text: OK
+date: 15/10/2018 10:30:31.641	code: Info	text: Connected by ('127.0.0.1', 1898) --> command: get_pos
+date: 15/10/2018 10:30:31.641	code: Info	text: self.get_pos()
+date: 15/10/2018 10:30:31.641	code: Info	text: 0.111938477
+date: 15/10/2018 10:30:32.610	code: Info	text: Connected by ('127.0.0.1', 1903) --> command: ping
+date: 15/10/2018 10:30:32.610	code: Info	text: self.ping()
+date: 15/10/2018 10:30:32.610	code: Info	text: 0.111938477
+date: 15/10/2018 10:30:41.705	code: Info	text: Connected by ('127.0.0.1', 1909) --> command: fwd_time:1
+date: 15/10/2018 10:30:41.705	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 10:30:42.033	code: Info	text: OK
+date: 15/10/2018 10:30:42.033	code: Info	text: Connected by ('127.0.0.1', 1910) --> command: get_pos
+date: 15/10/2018 10:30:42.033	code: Info	text: self.get_pos()
+date: 15/10/2018 10:30:42.049	code: Info	text: 0.112152100
+date: 15/10/2018 10:30:47.878	code: Info	text: Connected by ('127.0.0.1', 1917) --> command: ping
+date: 15/10/2018 10:30:47.878	code: Info	text: self.ping()
+date: 15/10/2018 10:30:47.878	code: Info	text: 0.112152100
+date: 15/10/2018 10:30:51.160	code: Info	text: Connected by ('127.0.0.1', 1921) --> command: fwd_time:1
+date: 15/10/2018 10:30:51.160	code: Info	text: self.fwd_time(1)
+date: 15/10/2018 10:30:51.519	code: Info	text: OK
+date: 15/10/2018 10:30:51.519	code: Info	text: Connected by ('127.0.0.1', 1922) --> command: get_pos
+date: 15/10/2018 10:30:51.519	code: Info	text: self.get_pos()
+date: 15/10/2018 10:30:51.535	code: Info	text: 0.112365723
+date: 15/10/2018 10:31:02.912	code: Info	text: Connected by ('127.0.0.1', 1935) --> command: ping
+date: 15/10/2018 10:31:02.912	code: Info	text: self.ping()
+date: 15/10/2018 10:31:02.912	code: Info	text: 0.112365723
+date: 15/10/2018 10:31:17.946	code: Info	text: Connected by ('127.0.0.1', 1940) --> command: ping
+date: 15/10/2018 10:31:17.946	code: Info	text: self.ping()
+date: 15/10/2018 10:31:17.946	code: Info	text: 0.112365723
+date: 15/10/2018 10:31:32.980	code: Info	text: Connected by ('127.0.0.1', 1945) --> command: ping
+date: 15/10/2018 10:31:32.980	code: Info	text: self.ping()
+date: 15/10/2018 10:31:32.980	code: Info	text: 0.112365723
+date: 15/10/2018 10:31:48.060	code: Info	text: Connected by ('127.0.0.1', 1950) --> command: ping
+date: 15/10/2018 10:31:48.060	code: Info	text: self.ping()
+date: 15/10/2018 10:31:48.060	code: Info	text: 0.112365723
+date: 15/10/2018 10:32:03.094	code: Info	text: Connected by ('127.0.0.1', 1956) --> command: ping
+date: 15/10/2018 10:32:03.094	code: Info	text: self.ping()
+date: 15/10/2018 10:32:03.094	code: Info	text: 0.112365723
+date: 15/10/2018 10:32:18.128	code: Info	text: Connected by ('127.0.0.1', 1961) --> command: ping
+date: 15/10/2018 10:32:18.128	code: Info	text: self.ping()
+date: 15/10/2018 10:32:18.128	code: Info	text: 0.112365723
+date: 15/10/2018 10:32:33.162	code: Info	text: Connected by ('127.0.0.1', 1966) --> command: ping
+date: 15/10/2018 10:32:33.162	code: Info	text: self.ping()
+date: 15/10/2018 10:32:33.162	code: Info	text: 0.112365723
+date: 15/10/2018 10:32:48.078	code: Info	text: Connected by ('127.0.0.1', 1972) --> command: ping
+date: 15/10/2018 10:32:48.078	code: Info	text: self.ping()
+date: 15/10/2018 10:32:48.078	code: Info	text: 0.112365723
+date: 15/10/2018 10:33:03.112	code: Info	text: Connected by ('127.0.0.1', 1978) --> command: ping
+date: 15/10/2018 10:33:03.112	code: Info	text: self.ping()
+date: 15/10/2018 10:33:03.112	code: Info	text: 0.112365723
+date: 15/10/2018 10:33:18.146	code: Info	text: Connected by ('127.0.0.1', 1983) --> command: ping
+date: 15/10/2018 10:33:18.146	code: Info	text: self.ping()
+date: 15/10/2018 10:33:18.146	code: Info	text: 0.112365723
+date: 15/10/2018 10:33:33.180	code: Info	text: Connected by ('127.0.0.1', 1988) --> command: ping
+date: 15/10/2018 10:33:33.180	code: Info	text: self.ping()
+date: 15/10/2018 10:33:33.180	code: Info	text: 0.112365723
+date: 15/10/2018 10:33:48.214	code: Info	text: Connected by ('127.0.0.1', 1994) --> command: ping
+date: 15/10/2018 10:33:48.214	code: Info	text: self.ping()
+date: 15/10/2018 10:33:48.214	code: Info	text: 0.112365723
+date: 15/10/2018 10:34:03.248	code: Info	text: Connected by ('127.0.0.1', 2006) --> command: ping
+date: 15/10/2018 10:34:03.248	code: Info	text: self.ping()
+date: 15/10/2018 10:34:03.248	code: Info	text: 0.112365723
+date: 15/10/2018 10:34:40.598	code: Info	text: Connected by ('127.0.0.1', 2015) --> command: ping
+date: 15/10/2018 10:34:40.598	code: Info	text: self.ping()
+date: 15/10/2018 10:34:40.598	code: Info	text: 0.112365723
+date: 15/10/2018 10:35:25.637	code: Info	text: Connected by ('127.0.0.1', 2029) --> command: ping
+date: 15/10/2018 10:35:25.637	code: Info	text: self.ping()
+date: 15/10/2018 10:35:25.637	code: Info	text: 0.112365723
+date: 15/10/2018 10:35:34.888	code: Info	text: Connected by ('127.0.0.1', 2037) --> command: shutdown
+date: 15/10/2018 10:35:34.888	code: Info	text: Closing server....

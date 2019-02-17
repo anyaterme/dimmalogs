@@ -1,0 +1,27 @@
+
+date: 12/02/2019 11:54:09.520	code: Info	text: Init connection with serial port (COM8:9600)
+date: 12/02/2019 11:54:09.551	code: Info	text: Done
+date: 12/02/2019 11:54:09.567	code: Info	text: Focus Server started at port 3340....
+date: 12/02/2019 11:54:50.175	code: Info	text: Connected by ('127.0.0.1', 2574) --> command: 
+date: 12/02/2019 11:54:50.175	code: Info	text: self.()
+date: 12/02/2019 11:54:50.175	code: Info	text: invalid syntax (<string>, line 1)
+date: 12/02/2019 11:54:50.175	code: Info	text: Connected by ('127.0.0.1', 2575) --> command: status
+date: 12/02/2019 11:54:50.175	code: Info	text: self.status()
+date: 12/02/2019 11:54:50.191	code: Debug	text: Get focus status
+date: 12/02/2019 11:54:50.206	code: Info	text: 00000001
+date: 12/02/2019 11:55:09.038	code: Info	text: Connected by ('127.0.0.1', 2583) --> command: test
+date: 12/02/2019 11:55:09.038	code: Info	text: self.test()
+date: 12/02/2019 11:55:09.053	code: Debug	text: Get focus status
+date: 12/02/2019 11:55:09.069	code: Info	text: 00000001
+date: 12/02/2019 11:55:09.084	code: Info	text: 0.263412476
+date: 12/02/2019 11:55:09.100	code: Info	text: 0.263412476
+date: 12/02/2019 11:55:09.116	code: Info	text: 17263
+date: 12/02/2019 11:55:10.269	code: Info	text: OK
+date: 12/02/2019 11:55:10.285	code: Info	text: 0.262542725
+date: 12/02/2019 11:55:10.300	code: Info	text: 0.262542725
+date: 12/02/2019 11:55:10.300	code: Info	text: 17206
+date: 12/02/2019 11:55:10.908	code: Info	text: OK
+date: 12/02/2019 11:55:10.924	code: Info	text: 0.262115479
+date: 12/02/2019 11:55:10.939	code: Debug	text: Get focus status
+date: 12/02/2019 11:55:10.955	code: Info	text: 00000001
+date: 12/02/2019 11:55:10.955	code: Info	text: OK
