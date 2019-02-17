@@ -232,3 +232,5 @@ send_volts:78 @ Activating board 0...[0 = No error] = 0
 send_volts:82 @ Sending 0.0000V [0x7ff], channel 1 to board 0...[0 = No error] = 0
 pin_status:107 @ c_ushort(32784)
 date: 17/02/2019 01:03:36.852	code: Info	text: Connected by ('127.0.0.1', 3531) --> command: shutdown
+date: 17/02/2019 06:24:30.171	code: Info	text: PCI server listening in :3330
+date: 17/02/2019 06:24:30.326	code: Info	text: Mount/Focus server started.... (port 3330)
