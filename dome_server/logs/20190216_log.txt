@@ -811,3 +811,6 @@ date: 17/02/2019 01:03:15.437	code: Info	text: 	Dome Side B is open: False
 date: 17/02/2019 01:03:15.437	code: Info	text: 	Keepalive interval: 60.00
 date: 17/02/2019 01:03:21.313	code: Info	text: Connected by ('127.0.0.1', 3518) --> command: ping
 date: 17/02/2019 01:03:35.901	code: Info	text: Connected by ('127.0.0.1', 3529) --> command: shutdown
+date: 17/02/2019 01:46:56.754	code: Info	text: Dome Server started at port 3350....
+date: 17/02/2019 01:46:57.237	code: Info	text: Starting keepalive... (localhost:3330)
+date: 17/02/2019 01:46:58.186	code: Error (keepalive)	text: Problem with keepalive
