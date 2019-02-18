@@ -124,3 +124,37 @@ CODE:OT:VIVALDI	Date:2019-02-18 18:26:19.799000	Hum:20.3000	WS:17.8000	DewPoint:
 18/02/2019 18:32:03.218	Info	Maximos fuera de rango (diff: 703.0 - nsigma: 442.5553107460053)
 18/02/2019 18:32:08.018	Info	DX: 48.15 (MIN: 40.5 - MAX: 41.5)
 18/02/2019 18:32:08.018	Info	Moviendo el foco...
+18/02/2019 18:32:09.421	Info	Intento 2
+18/02/2019 18:32:13.380	Debg	
+18/02/2019 18:32:13.380	Debg	--- PARANDO OBSERVACION ---
+18/02/2019 18:32:13.380	Debg	
+18/02/2019 18:32:13.380	Info	Indicando fin del proceso...
+18/02/2019 18:32:22.934	Info	Maximos fuera de rango (diff: 687.0 - nsigma: 459.25675175069694)
+18/02/2019 18:32:26.846	Info	DX: 47.37 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 18:32:26.846	Info	Moviendo el foco...
+18/02/2019 18:32:28.374	Info	Intento 3
+18/02/2019 18:32:36.276	Info	Maximos fuera de rango (diff: 710.0 - nsigma: 493.05274383098094)
+18/02/2019 18:32:40.500	Info	DX: 48.12 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 18:32:40.500	Info	Moviendo el foco...
+18/02/2019 18:32:41.559	Info	Intento 4
+18/02/2019 18:32:50.506	Info	Maximos fuera de rango (diff: 985.0 - nsigma: 469.7213629681904)
+18/02/2019 18:32:50.615	Info	Maximos fuera de rango (diff: 792.0 - nsigma: 457.28768063576194)
+18/02/2019 18:32:50.677	Info	Maximos fuera de rango (diff: 867.0 - nsigma: 396.7111247513572)
+18/02/2019 18:32:54.480	Info	DX: 46.64 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 18:32:54.480	Info	Moviendo el foco...
+18/02/2019 18:32:57.909	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+18/02/2019 18:32:57.909	Info	*** Tiempo seleccion de estrella: 392.9 ***
+18/02/2019 18:33:00.902	Info	*** TIEMPO TOTAL ITERACION: 395.9 ***
+18/02/2019 18:33:00.902	Info	Parando la observacion...
+18/02/2019 18:33:00.902	Info	 --- OBSERVACION TERMINADA ---
+18/02/2019 18:33:00.902	Info	 --- CERRANDO TELESCOPIO ---
+18/02/2019 18:33:00.902	Debg	---------------------------------------------
+18/02/2019 18:33:00.902	Debg	------------------ Switch Off ---------------
+18/02/2019 18:33:00.902	Debg	---------------------------------------------
+18/02/2019 18:33:00.902	Info	Cerrando cupula (este proceso puede tardar unos minutos)...
+18/02/2019 18:33:00.902	Info	Cerrando cupula lado A...
+18/02/2019 18:33:25.933	Info	Lado A cerrado
+18/02/2019 18:33:28.925	Info	Cerrando cupula lado B...
+18/02/2019 18:33:52.445	Info	Lado B cerrado
+18/02/2019 18:33:52.460	Info	Cupula cerrada
+18/02/2019 18:33:52.460	Info	Llevando la montura al home...
