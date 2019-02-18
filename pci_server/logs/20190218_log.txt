@@ -176,3 +176,17 @@ date: 18/02/2019 18:50:09.322	code: Info	text: Connected by ('127.0.0.1', 1730) 
 date: 18/02/2019 18:50:35.532	code: Info	text: Connected by ('127.0.0.1', 1748) --> command: echo_dome
 pin_off:123 @ New Status = c_ushort(32789)
 date: 18/02/2019 18:51:00.281	code: Info	text: Connected by ('127.0.0.1', 1766) --> command: ping
+date: 18/02/2019 18:51:24.951	code: Info	text: Connected by ('127.0.0.1', 2112) --> command: ping
+date: 18/02/2019 18:51:36.235	code: Info	text: Connected by ('127.0.0.1', 2307) --> command: echo_dome
+pin_on:115 @ New Status = c_ushort(40981)
+date: 18/02/2019 18:52:15.992	code: Info	text: Connected by ('127.0.0.1', 2488) --> command: ping
+date: 18/02/2019 18:52:36.502	code: Info	text: Connected by ('127.0.0.1', 2497) --> command: echo_dome
+pin_off:123 @ New Status = c_ushort(32789)
+date: 18/02/2019 18:53:06.020	code: Info	text: Connected by ('127.0.0.1', 2613) --> command: m off
+pin_off:123 @ New Status = c_ushort(32788)
+send_volts:78 @ Activating board 0...[0 = No error] = 0
+send_volts:82 @ Sending 0.0000V [0x7ff], channel 0 to board 0...[0 = No error] = 0
+send_volts:78 @ Activating board 0...[0 = No error] = 0
+send_volts:82 @ Sending 2.5000V [0x9ff], channel 1 to board 0...[0 = No error] = 0
+pin_status:107 @ c_ushort(32788)
+date: 18/02/2019 18:53:06.082	code: Info	text: Connected by ('127.0.0.1', 2616) --> command: ping
