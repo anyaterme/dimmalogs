@@ -51,3 +51,22 @@ CODE:OT:VIVALDI	Date:2019-02-18 18:17:53.114000	Hum:17.3000	WS:16.9000	DewPoint:
 18/02/2019 18:21:47.620	Debg	---------------- Star Selection -------------
 18/02/2019 18:21:47.620	Debg	---------------------------------------------
 18/02/2019 18:21:47.620	Info	Seleccionando estella...
+18/02/2019 18:24:54.590	Info	Estella seleccionada --> Mirach
+	airmass: 1.115768
+	ha hours: hms_tuple(h=1.0, m=59.0, s=44.878718364626025)
+	ra: 1.179582
+	dec: 35.721161
+18/02/2019 18:24:54.590	Info	*** Tiempo seleccion de estrella: 186.97 ***
+18/02/2019 18:24:54.590	Debg	---------------------------------------------
+18/02/2019 18:24:54.590	Debg	-------------- Check spots ------------------
+18/02/2019 18:24:54.590	Debg	---------------------------------------------
+18/02/2019 18:24:54.590	Info	Centrando spots...
+18/02/2019 18:24:59.063	ERROR	Error in open_tcp:  [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+18/02/2019 18:25:00.778	Info	Intento 0
+18/02/2019 18:25:06.903	Info	Los spots estan centrados
+18/02/2019 18:25:06.903	Info	*** Tiempo centrado de spots: 12.31 ***
+18/02/2019 18:25:06.903	Debg	---------------------------------------------
+18/02/2019 18:25:06.903	Debg	--------------- Check focal -----------------
+18/02/2019 18:25:06.903	Debg	---------------------------------------------
+18/02/2019 18:25:06.903	Info	Comprobando el foco...
+18/02/2019 18:25:06.903	Info	Intento 0

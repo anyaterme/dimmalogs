@@ -41,3 +41,21 @@ date: 18/02/2019 18:21:51.423	code: Info	text: OK
 date: 18/02/2019 18:22:41.766	code: Info	text: Connected by ('127.0.0.1', 2060) --> command: ping
 date: 18/02/2019 18:22:41.766	code: Info	text: self.ping()
 date: 18/02/2019 18:22:41.766	code: Info	text: OK
+date: 18/02/2019 18:23:31.828	code: Info	text: Connected by ('127.0.0.1', 2480) --> command: ping
+date: 18/02/2019 18:23:31.844	code: Info	text: self.ping()
+date: 18/02/2019 18:23:31.844	code: Info	text: OK
+date: 18/02/2019 18:24:20.862	code: Info	text: Connected by ('127.0.0.1', 2754) --> command: ping
+date: 18/02/2019 18:24:20.862	code: Info	text: self.ping()
+date: 18/02/2019 18:24:20.862	code: Info	text: OK
+date: 18/02/2019 18:24:56.071	code: Info	text: Connected by ('127.0.0.1', 2762) --> command: ping
+date: 18/02/2019 18:24:56.071	code: Info	text: self.ping()
+date: 18/02/2019 18:24:56.071	code: Info	text: OK
+date: 18/02/2019 18:25:15.008	code: Info	text: Connected by ('127.0.0.1', 2919) --> command: ping
+date: 18/02/2019 18:25:15.008	code: Info	text: self.ping()
+date: 18/02/2019 18:25:15.008	code: Info	text: OK
+date: 18/02/2019 18:25:22.115	code: Info	text: Connected by ('127.0.0.1', 3049) --> command: rwd_time:1
+date: 18/02/2019 18:25:22.115	code: Info	text: self.rwd_time(1)
+date: 18/02/2019 18:25:22.115	code: Info	text: FocusServer instance has no attribute 'serial'
+date: 18/02/2019 18:25:22.847	code: Info	text: Connected by ('127.0.0.1', 3063) --> command: get_pos
+date: 18/02/2019 18:25:22.847	code: Info	text: self.get_pos()
+date: 18/02/2019 18:25:22.847	code: Info	text: FocusServer instance has no attribute 'serial'
