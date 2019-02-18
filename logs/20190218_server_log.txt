@@ -274,3 +274,6 @@ Received:  Server is closing...
 18/02/2019 18:53:33.013	Info	Connected by ('127.0.0.1', 3227) --> command: shutdown
 Thread en proceso (shutdown): <Process(Process-1, stopped)> 
 Thread en proceso (shutdown): <Process(Process-1, stopped)> 
+18/02/2019 18:54:12.738	Info	Agent Server started in port 3310....
+18/02/2019 18:54:19.627	Info	Connected by ('127.0.0.1', 3937) --> command: ping
+18/02/2019 18:54:21.419	Info	Connected by ('127.0.0.1', 3938) --> command: start_obs

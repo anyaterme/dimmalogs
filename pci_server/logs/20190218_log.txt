@@ -198,3 +198,12 @@ send_volts:78 @ Activating board 0...[0 = No error] = 0
 send_volts:82 @ Sending 0.0000V [0x7ff], channel 1 to board 0...[0 = No error] = 0
 pin_status:107 @ c_ushort(32784)
 date: 18/02/2019 18:53:24.488	code: Info	text: Connected by ('127.0.0.1', 3215) --> command: shutdown
+date: 18/02/2019 18:54:50.438	code: Info	text: PCI server listening in :3330
+date: 18/02/2019 18:54:50.657	code: Info	text: Mount/Focus server started.... (port 3330)
+date: 18/02/2019 18:54:50.657	code: Info	text: Connected by ('127.0.0.1', 3964) --> command: ping
+__init__:35 @ Initializing driver...
+__init__:41 @ Driver is ok. 1 board(s) detected
+__init__:42 @ Activating board 0...[0 = No error] = 0
+__init__:44 @ Active Board = 0
+__init__:45 @ DLL Version = 513
+__init__:47 @ Test 2 - 1 = 1
