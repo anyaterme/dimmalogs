@@ -3937,3 +3937,34 @@ CODE:OT:VIVALDI	Date:2019-02-18 22:55:58.268000	Hum:6.7000	WS:28.2000	DewPoint:0
 18/02/2019 22:56:51.089	Debg	---------------------------------------------
 18/02/2019 22:56:51.089	Info	Comprobando que la estella es observable...
 18/02/2019 22:56:57.042	info	La estrella sigue siendo observable(Menkalinan)
+18/02/2019 22:57:11.693	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '1.67906756213', 'az': '316.592672', 'name': 'Menkalinan', 'airmass': '1.112554', 'ha_hours': 'hms_tuple(h=1.0, m=40.0, s=44.64322368260042)', 'alt': '64.004859', 'dec': '44.948158', 'magnitude': '1.900000', 'ra': '6.015509'}
+18/02/2019 22:57:11.693	Info	*** Tiempo seleccion de estrella: 20.6 ***
+18/02/2019 22:57:11.693	Debg	---------------------------------------------
+18/02/2019 22:57:11.693	Debg	-------------- Check spots ------------------
+18/02/2019 22:57:11.693	Debg	---------------------------------------------
+18/02/2019 22:57:11.693	Info	Centrando spots...
+18/02/2019 22:57:15.901	Info	Intento 0
+18/02/2019 22:57:22.494	Info	Los spots estan centrados
+18/02/2019 22:57:22.494	Info	*** Tiempo centrado de spots: 10.8 ***
+18/02/2019 22:57:22.494	Debg	---------------------------------------------
+18/02/2019 22:57:22.494	Debg	--------------- Check focal -----------------
+18/02/2019 22:57:22.494	Debg	---------------------------------------------
+18/02/2019 22:57:22.494	Info	Comprobando el foco...
+18/02/2019 22:57:22.510	Info	Intento 0
+18/02/2019 22:57:23.383	Info	DX: 40.0 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 22:57:23.383	Info	Moviendo el foco...
+18/02/2019 22:57:25.347	Info	Intento 1
+18/02/2019 22:57:32.189	Info	Maximos fuera de rango (diff: 389.0 - nsigma: 193.31885457198828)
+18/02/2019 22:57:36.662	Info	DX: 40.3 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 22:57:36.662	Info	Moviendo el foco...
+18/02/2019 22:57:38.299	Info	Intento 2
+18/02/2019 22:57:45.546	Info	Maximos fuera de rango (diff: 227.0 - nsigma: 178.31944364860442)
+18/02/2019 22:57:45.982	Info	Maximos fuera de rango (diff: 197.0 - nsigma: 165.57178865747562)
+18/02/2019 22:57:50.175	Info	DX: 41.24 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 22:57:50.175	Info	La imagen esta enfocada
+18/02/2019 22:57:50.191	Info	*** Tiempo enfocado: 27.7 ***
+18/02/2019 22:57:50.191	Info	*** Tiempo seleccion de estrella: 59.1 ***
+18/02/2019 22:57:50.191	Debg	---------------------------------------------
+18/02/2019 22:57:50.191	Debg	---------- Generating datas file ------------
+18/02/2019 22:57:50.191	Debg	---------------------------------------------
+18/02/2019 22:57:50.191	Info	##### PACK: OTSX_KRK81O_190218225750
