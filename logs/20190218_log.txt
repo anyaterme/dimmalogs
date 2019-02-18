@@ -3367,3 +3367,32 @@ CODE:OT:VIVALDI	Date:2019-02-18 22:26:22.174000	Hum:5.6000	WS:22.2000	DewPoint:0
 18/02/2019 22:26:59.736	Info	Ventana de spots fuera de rango (cx: 64 - cy: 255 - left: 80 - right: 560 - down: 30 - up: 450)
 18/02/2019 22:26:59.736	Info	Moviendo telescopio...
 18/02/2019 22:27:10.194	Info	Intento 2
+18/02/2019 22:27:13.031	Info	DX fuera de rango (dx: 115.0 - min: 30.0 - max: 52.0)
+18/02/2019 22:27:13.047	Info	Moviendo telescopio...
+18/02/2019 22:27:17.925	Info	Intento 3
+18/02/2019 22:27:20.138	Info	DX fuera de rango (dx: 248.0 - min: 30.0 - max: 52.0)
+18/02/2019 22:27:20.138	Info	Moviendo telescopio...
+18/02/2019 22:27:25.344	Info	Intento 4
+18/02/2019 22:27:27.167	Info	Ventana de spots fuera de rango (cx: 507 - cy: 29 - left: 80 - right: 560 - down: 30 - up: 450)
+18/02/2019 22:27:27.167	Info	Moviendo telescopio...
+18/02/2019 22:27:32.451	Info	Intento 5
+18/02/2019 22:27:40.104	Info	Los spots estan centrados
+18/02/2019 22:27:40.104	Info	*** Tiempo centrado de spots: 53.48 ***
+18/02/2019 22:27:40.104	Debg	---------------------------------------------
+18/02/2019 22:27:40.104	Debg	--------------- Check focal -----------------
+18/02/2019 22:27:40.104	Debg	---------------------------------------------
+18/02/2019 22:27:40.104	Info	Comprobando el foco...
+18/02/2019 22:27:40.104	Info	Intento 0
+18/02/2019 22:27:41.179	Info	DX: 41.19 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 22:27:41.179	Info	La imagen esta enfocada
+18/02/2019 22:27:41.195	Info	*** Tiempo enfocado: 1.07 ***
+18/02/2019 22:27:41.195	Info	*** Tiempo seleccion de estrella: 70.74 ***
+18/02/2019 22:27:41.195	Debg	---------------------------------------------
+18/02/2019 22:27:41.195	Debg	---------- Generating datas file ------------
+18/02/2019 22:27:41.195	Debg	---------------------------------------------
+18/02/2019 22:27:41.195	Info	##### PACK: OTSX_EHDWQM_190218222741
+18/02/2019 22:28:59.187	Info	##### (OTSX_EHDWQM_190218222741) Se ha generado el fichero: D:/DIMMLAB\19_02_18\OTSX190218222834.txt
+18/02/2019 22:28:59.187	Info	*** Tiempo generacion del fichero 77.99 ***
+18/02/2019 22:28:59.187	Debg	---------------------------------------------
+18/02/2019 22:28:59.187	Debg	------------ Calculating seeing -------------
+18/02/2019 22:28:59.187	Debg	---------------------------------------------
