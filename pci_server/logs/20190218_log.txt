@@ -338,3 +338,26 @@ date: 18/02/2019 20:06:36.901	code: Info	text: Connected by ('127.0.0.1', 4544) 
 pin_off:123 @ New Status = c_ushort(32784)
 date: 18/02/2019 20:06:56.882	code: Info	text: Connected by ('127.0.0.1', 4550) --> command: ping
 date: 18/02/2019 20:07:18.438	code: Info	text: Connected by ('127.0.0.1', 4816) --> command: ping
+date: 18/02/2019 20:07:37.266	code: Info	text: Connected by ('127.0.0.1', 1244) --> command: echo_dome
+pin_on:115 @ New Status = c_ushort(40976)
+date: 18/02/2019 20:07:37.796	code: Info	text: Connected by ('127.0.0.1', 1253) --> command: ping
+date: 18/02/2019 20:07:57.715	code: Info	text: Connected by ('127.0.0.1', 1331) --> command: ping
+date: 18/02/2019 20:08:20.267	code: Info	text: Connected by ('127.0.0.1', 1340) --> command: ping
+date: 18/02/2019 20:08:37.786	code: Info	text: Connected by ('127.0.0.1', 1354) --> command: echo_dome
+pin_off:123 @ New Status = c_ushort(32784)
+date: 18/02/2019 20:08:38.503	code: Info	text: Connected by ('127.0.0.1', 1355) --> command: ping
+date: 18/02/2019 20:08:46.592	code: Info	text: Connected by ('127.0.0.1', 1361) --> command: m on
+pin_on:115 @ New Status = c_ushort(32785)
+send_volts:78 @ Activating board 0...[0 = No error] = 0
+send_volts:82 @ Sending 2.5000V [0x9ff], channel 0 to board 0...[0 = No error] = 0
+send_volts:78 @ Activating board 0...[0 = No error] = 0
+send_volts:82 @ Sending 0.0000V [0x7ff], channel 1 to board 0...[0 = No error] = 0
+pin_status:107 @ c_ushort(32785)
+date: 18/02/2019 20:08:57.643	code: Info	text: Connected by ('127.0.0.1', 1364) --> command: f on
+pin_on:115 @ New Status = c_ushort(32789)
+send_volts:78 @ Activating board 0...[0 = No error] = 0
+send_volts:82 @ Sending 2.5000V [0x9ff], channel 0 to board 0...[0 = No error] = 0
+send_volts:78 @ Activating board 0...[0 = No error] = 0
+send_volts:82 @ Sending 2.5000V [0x9ff], channel 1 to board 0...[0 = No error] = 0
+pin_status:107 @ c_ushort(32789)
+date: 18/02/2019 20:08:58.375	code: Info	text: Connected by ('127.0.0.1', 1365) --> command: ping
