@@ -96,3 +96,31 @@ CODE:OT:VIVALDI	Date:2019-02-18 18:26:19.799000	Hum:20.3000	WS:17.8000	DewPoint:
 18/02/2019 18:26:25.004	Debg	---------------- Star Selection -------------
 18/02/2019 18:26:25.004	Debg	---------------------------------------------
 18/02/2019 18:26:25.004	Info	Seleccionando estella...
+18/02/2019 18:31:32.217	Info	Estella seleccionada --> Aldebaran
+	airmass: 1.079561
+	ha hours: hms_tuple(h=-1.0, m=-21.0, s=-26.491014697873325)
+	ra: 4.616806
+	dec: 16.545412
+18/02/2019 18:31:32.217	Info	*** Tiempo seleccion de estrella: 307.21 ***
+18/02/2019 18:31:32.217	Debg	---------------------------------------------
+18/02/2019 18:31:32.217	Debg	-------------- Check spots ------------------
+18/02/2019 18:31:32.217	Debg	---------------------------------------------
+18/02/2019 18:31:32.217	Info	Centrando spots...
+18/02/2019 18:31:35.381	Info	Intento 0
+18/02/2019 18:31:42.442	Info	Los spots estan centrados
+18/02/2019 18:31:42.442	Info	*** Tiempo centrado de spots: 10.22 ***
+18/02/2019 18:31:42.442	Debg	---------------------------------------------
+18/02/2019 18:31:42.442	Debg	--------------- Check focal -----------------
+18/02/2019 18:31:42.442	Debg	---------------------------------------------
+18/02/2019 18:31:42.442	Info	Comprobando el foco...
+18/02/2019 18:31:42.457	Info	Intento 0
+18/02/2019 18:31:50.469	Info	Maximos fuera de rango (diff: 785.0 - nsigma: 420.28940692136314)
+18/02/2019 18:31:50.515	Info	Maximos fuera de rango (diff: 556.0 - nsigma: 486.8049418960004)
+18/02/2019 18:31:50.531	Info	Maximos fuera de rango (diff: 686.0 - nsigma: 402.75838410261247)
+18/02/2019 18:31:50.578	Info	Maximos fuera de rango (diff: 700.0 - nsigma: 465.69693078510267)
+18/02/2019 18:31:54.381	Info	DX: 47.67 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 18:31:54.381	Info	Moviendo el foco...
+18/02/2019 18:31:55.503	Info	Intento 1
+18/02/2019 18:32:03.218	Info	Maximos fuera de rango (diff: 703.0 - nsigma: 442.5553107460053)
+18/02/2019 18:32:08.018	Info	DX: 48.15 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 18:32:08.018	Info	Moviendo el foco...
