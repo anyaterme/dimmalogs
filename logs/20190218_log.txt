@@ -3506,3 +3506,41 @@ CODE:OT:VIVALDI	Date:2019-02-18 22:32:43.579000	Hum:6.3000	WS:26.6000	DewPoint:0
 18/02/2019 22:33:00.646	Debg	---------------- Star Selection -------------
 18/02/2019 22:33:00.661	Debg	---------------------------------------------
 18/02/2019 22:33:00.661	Info	Comprobando que la estella es observable...
+18/02/2019 22:33:09.795	info	La estrella sigue siendo observable(Capella)
+18/02/2019 22:33:21.671	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '2.05851524781', 'az': '315.343990', 'name': 'Capella', 'airmass': '1.154875', 'ha_hours': 'hms_tuple(h=2.0, m=3.0, s=30.654892107558567)', 'alt': '60.766591', 'dec': '46.018659', 'magnitude': '0.080000', 'ra': '5.301590'}
+18/02/2019 22:33:21.671	Info	*** Tiempo seleccion de estrella: 21.01 ***
+18/02/2019 22:33:21.671	Debg	---------------------------------------------
+18/02/2019 22:33:21.671	Debg	-------------- Check spots ------------------
+18/02/2019 22:33:21.671	Debg	---------------------------------------------
+18/02/2019 22:33:21.671	Info	Centrando spots...
+18/02/2019 22:33:25.817	Info	Intento 0
+18/02/2019 22:33:28.405	Info	Maximos fuera de rango (diff: 1654.0 - nsigma: 861.4275907971913)
+18/02/2019 22:33:28.405	Info	Moviendo telescopio...
+18/02/2019 22:33:33.189	Info	Intento 1
+18/02/2019 22:33:35.481	Info	Maximos fuera de rango (diff: 624.0 - nsigma: 275.0731636711151)
+18/02/2019 22:33:35.481	Info	Moviendo telescopio...
+18/02/2019 22:33:41.107	Info	Intento 2
+18/02/2019 22:33:43.274	Info	DX fuera de rango (dx: 426.0 - min: 30.0 - max: 52.0)
+18/02/2019 22:33:43.274	Info	Moviendo telescopio...
+18/02/2019 22:33:47.186	Info	Intento 3
+18/02/2019 22:33:49.539	Info	DX fuera de rango (dx: 439.0 - min: 30.0 - max: 52.0)
+18/02/2019 22:33:49.539	Info	Moviendo telescopio...
+18/02/2019 22:33:56.054	Info	Intento 4
+18/02/2019 22:33:58.704	Info	DX fuera de rango (dx: 66.0 - min: 30.0 - max: 52.0)
+18/02/2019 22:33:58.704	Info	Moviendo telescopio...
+18/02/2019 22:34:05.328	Info	Intento 5
+18/02/2019 22:34:12.248	Info	Los spots estan centrados
+18/02/2019 22:34:12.248	Info	*** Tiempo centrado de spots: 50.58 ***
+18/02/2019 22:34:12.248	Debg	---------------------------------------------
+18/02/2019 22:34:12.248	Debg	--------------- Check focal -----------------
+18/02/2019 22:34:12.248	Debg	---------------------------------------------
+18/02/2019 22:34:12.248	Info	Comprobando el foco...
+18/02/2019 22:34:12.264	Info	Intento 0
+18/02/2019 22:34:13.058	Info	DX: 41.17 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 22:34:13.058	Info	La imagen esta enfocada
+18/02/2019 22:34:13.058	Info	*** Tiempo enfocado: 0.81 ***
+18/02/2019 22:34:13.058	Info	*** Tiempo seleccion de estrella: 72.43 ***
+18/02/2019 22:34:13.074	Debg	---------------------------------------------
+18/02/2019 22:34:13.074	Debg	---------- Generating datas file ------------
+18/02/2019 22:34:13.074	Debg	---------------------------------------------
+18/02/2019 22:34:13.074	Info	##### PACK: OTSX_JBVIW0_190218223413
