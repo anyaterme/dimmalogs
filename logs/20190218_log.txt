@@ -4016,3 +4016,35 @@ CODE:OT:VIVALDI	Date:2019-02-18 22:59:08.308000	Hum:5.7000	WS:22.1000	DewPoint:0
 18/02/2019 23:01:01.727	Info	Intento 5
 18/02/2019 23:01:04.533	Info	Maximos fuera de rango (diff: 370.0 - nsigma: 85.1748836414419)
 18/02/2019 23:01:04.533	Info	Moviendo telescopio...
+18/02/2019 23:01:12.777	Info	Intento 6
+18/02/2019 23:01:15.224	Info	Ventana de spots fuera de rango (cx: 67 - cy: 200 - left: 80 - right: 560 - down: 30 - up: 450)
+18/02/2019 23:01:15.224	Info	Moviendo telescopio...
+18/02/2019 23:01:19.854	Info	Intento 7
+18/02/2019 23:01:23.514	Info	DX fuera de rango (dx: 420.0 - min: 30.0 - max: 52.0)
+18/02/2019 23:01:23.514	Info	Moviendo telescopio...
+18/02/2019 23:01:30.325	Info	Intento 8
+18/02/2019 23:01:32.430	Info	DX fuera de rango (dx: 313.0 - min: 30.0 - max: 52.0)
+18/02/2019 23:01:32.430	Info	Moviendo telescopio...
+18/02/2019 23:01:37.137	Info	Intento 9
+18/02/2019 23:01:39.615	Info	Ventana de spots fuera de rango (cx: 411 - cy: 30 - left: 80 - right: 560 - down: 30 - up: 450)
+18/02/2019 23:01:39.615	Info	Moviendo telescopio...
+18/02/2019 23:01:46.628	Info	Intento 10
+18/02/2019 23:01:53.408	Info	Los spots estan centrados
+18/02/2019 23:01:53.408	Info	*** Tiempo centrado de spots: 89.96 ***
+18/02/2019 23:01:53.408	Debg	---------------------------------------------
+18/02/2019 23:01:53.408	Debg	--------------- Check focal -----------------
+18/02/2019 23:01:53.408	Debg	---------------------------------------------
+18/02/2019 23:01:53.408	Info	Comprobando el foco...
+18/02/2019 23:01:53.424	Info	Intento 0
+18/02/2019 23:01:54.593	Info	DX: 41.66 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 23:01:54.593	Info	Moviendo el foco...
+18/02/2019 23:01:57.024	Info	Intento 1
+18/02/2019 23:02:06.610	Info	Maximos fuera de rango (diff: 255.0 - nsigma: 153.00146336097916)
+18/02/2019 23:02:11.472	Info	DX: 41.04 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 23:02:11.472	Info	La imagen esta enfocada
+18/02/2019 23:02:11.472	Info	*** Tiempo enfocado: 18.06 ***
+18/02/2019 23:02:11.472	Info	*** Tiempo seleccion de estrella: 126.76 ***
+18/02/2019 23:02:11.472	Debg	---------------------------------------------
+18/02/2019 23:02:11.472	Debg	---------- Generating datas file ------------
+18/02/2019 23:02:11.472	Debg	---------------------------------------------
+18/02/2019 23:02:11.488	Info	##### PACK: OTSX_LYQ416_190218230211
