@@ -4121,3 +4121,33 @@ CODE:OT:VIVALDI	Date:2019-02-18 23:06:32.787000	Hum:6.0000	WS:27.0000	DewPoint:0
 18/02/2019 23:06:49.714	Debg	---------------------------------------------
 18/02/2019 23:06:49.729	Info	Comprobando que la estella es observable...
 18/02/2019 23:06:54.483	info	La estrella sigue siendo observable(Menkalinan)
+18/02/2019 23:07:07.638	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '1.84624349898', 'az': '314.652328', 'name': 'Menkalinan', 'airmass': '1.127790', 'ha_hours': 'hms_tuple(h=1.0, m=50.0, s=46.476596340689866)', 'alt': '62.460011', 'dec': '44.948158', 'magnitude': '1.900000', 'ra': '6.015509'}
+18/02/2019 23:07:07.638	Info	*** Tiempo seleccion de estrella: 17.92 ***
+18/02/2019 23:07:07.638	Debg	---------------------------------------------
+18/02/2019 23:07:07.638	Debg	-------------- Check spots ------------------
+18/02/2019 23:07:07.638	Debg	---------------------------------------------
+18/02/2019 23:07:07.638	Info	Centrando spots...
+18/02/2019 23:07:11.067	Info	Intento 0
+18/02/2019 23:07:17.924	Info	Los spots estan centrados
+18/02/2019 23:07:17.924	Info	*** Tiempo centrado de spots: 10.29 ***
+18/02/2019 23:07:17.924	Debg	---------------------------------------------
+18/02/2019 23:07:17.924	Debg	--------------- Check focal -----------------
+18/02/2019 23:07:17.924	Debg	---------------------------------------------
+18/02/2019 23:07:17.924	Info	Comprobando el foco...
+18/02/2019 23:07:17.940	Info	Intento 0
+18/02/2019 23:07:18.735	Info	DX: 40.21 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 23:07:18.735	Info	Moviendo el foco...
+18/02/2019 23:07:20.932	Info	Intento 1
+18/02/2019 23:07:28.570	Info	Maximos fuera de rango (diff: 276.0 - nsigma: 75.34955874573868)
+18/02/2019 23:07:33.043	Info	DX: 40.26 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 23:07:33.043	Info	Moviendo el foco...
+18/02/2019 23:07:34.866	Info	Intento 2
+18/02/2019 23:07:41.257	Info	Maximos fuera de rango (diff: 145.0 - nsigma: 118.59619721290943)
+18/02/2019 23:07:45.480	Info	DX: 41.24 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 23:07:45.480	Info	La imagen esta enfocada
+18/02/2019 23:07:45.480	Info	*** Tiempo enfocado: 27.56 ***
+18/02/2019 23:07:45.480	Info	*** Tiempo seleccion de estrella: 55.77 ***
+18/02/2019 23:07:45.480	Debg	---------------------------------------------
+18/02/2019 23:07:45.480	Debg	---------- Generating datas file ------------
+18/02/2019 23:07:45.496	Debg	---------------------------------------------
+18/02/2019 23:07:45.496	Info	##### PACK: OTSX_OQXWIR_190218230745
