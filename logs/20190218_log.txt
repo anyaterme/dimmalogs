@@ -1381,3 +1381,32 @@ CODE:OT:VIVALDI	Date:2019-02-18 20:53:55.532000	Hum:11.9000	WS:24.6000	DewPoint:
 18/02/2019 20:55:33.553	Info	Intento 0
 18/02/2019 20:56:36.816	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
 18/02/2019 20:56:36.816	Info	Recovery Image Server error
+18/02/2019 20:58:01.136	Error	No se ha podido conseguir imagen del servidor
+18/02/2019 20:58:01.183	Info	Intento 1
+18/02/2019 20:58:04.565	Info	Maximos fuera de rango (diff: 369.0 - nsigma: 309.6985241462095)
+18/02/2019 20:58:04.565	Info	Moviendo telescopio...
+18/02/2019 20:58:10.270	Info	Intento 2
+18/02/2019 20:58:12.717	Info	DX fuera de rango (dx: 3.0 - min: 30.0 - max: 52.0)
+18/02/2019 20:58:12.717	Info	Moviendo telescopio...
+18/02/2019 20:58:16.380	Info	Intento 3
+18/02/2019 20:58:18.686	Info	DX fuera de rango (dx: 381.0 - min: 30.0 - max: 52.0)
+18/02/2019 20:58:18.686	Info	Moviendo telescopio...
+18/02/2019 20:58:22.863	Info	Intento 4
+18/02/2019 20:58:25.248	Info	DX fuera de rango (dx: 85.0 - min: 30.0 - max: 52.0)
+18/02/2019 20:58:25.248	Info	Moviendo telescopio...
+18/02/2019 20:58:30.875	Info	Intento 5
+18/02/2019 20:58:37.826	Info	Los spots estan centrados
+18/02/2019 20:58:37.826	Info	*** Tiempo centrado de spots: 187.81 ***
+18/02/2019 20:58:37.826	Debg	---------------------------------------------
+18/02/2019 20:58:37.826	Debg	--------------- Check focal -----------------
+18/02/2019 20:58:37.826	Debg	---------------------------------------------
+18/02/2019 20:58:37.826	Info	Comprobando el foco...
+18/02/2019 20:58:37.826	Info	Intento 0
+18/02/2019 20:58:38.636	Info	DX: 41.15 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 20:58:38.636	Info	La imagen esta enfocada
+18/02/2019 20:58:38.636	Info	*** Tiempo enfocado: 0.81 ***
+18/02/2019 20:58:38.636	Info	*** Tiempo seleccion de estrella: 218.84 ***
+18/02/2019 20:58:38.636	Debg	---------------------------------------------
+18/02/2019 20:58:38.636	Debg	---------- Generating datas file ------------
+18/02/2019 20:58:38.636	Debg	---------------------------------------------
+18/02/2019 20:58:38.636	Info	##### PACK: OTSX_KEEW4O_190218205838
