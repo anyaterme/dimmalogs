@@ -367,3 +367,73 @@ get_dx_data @ dx final: nan
 18/02/2019 19:11:41.079	Info	Connected by ('127.0.0.1', 3385) --> command: ping
 18/02/2019 19:11:57.132	Info	Connected by ('127.0.0.1', 3396) --> command: ping
 18/02/2019 19:12:00.328	Info	Connected by ('127.0.0.1', 3401) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 9, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 16, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 18, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 19, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 20, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 21, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 22, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 23, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 24, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 25, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 26, ra: -0.008634, dec: 0.0
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.73799991608
+get_dx_data @ dx final: nan
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+2019-02-18 18:54:42.496458
+timed out
+2019-02-19 18:55:25.140122
+timed out
+Received:  0
+2019-02-19 18:55:25.033423
+Received:  0
+2019-02-19 18:55:24.963015
+Received:  0
+2019-02-19 18:55:24.883997
+Received:  0
+2019-02-19 18:55:24.834792
+Received:  0
+2019-02-19 18:55:24.814515
+Received:  0
+2019-02-19 18:55:24.822642
+Received:  0
+2019-02-19 18:55:24.858409
+Received:  0
+2019-02-19 18:55:24.921374
+Received:  0
+2019-02-19 18:55:25.009927
+Received:  0
+2019-02-19 18:55:25.125235
+Received:  0
+2019-02-19 18:55:25.031613
+Received:  0
+2019-02-19 18:55:24.932478
+Received:  0
+2019-02-19 18:55:24.863760
+Received:  0
+2019-02-19 18:55:24.824372
+Received:  0
+2019-02-19 18:55:24.813710
+Received:  0
+2019-02-19 18:55:24.831171
+Received:  0
+2019-02-19 18:55:24.875991
+18/02/2019 19:12:52.026	Info	Connected by ('127.0.0.1', 4122) --> command: ping
+18/02/2019 19:13:08.532	Info	Connected by ('127.0.0.1', 4126) --> command: stop_obs
