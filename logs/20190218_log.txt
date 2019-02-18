@@ -604,3 +604,67 @@ CODE:OT:VIVALDI	Date:2019-02-18 19:11:21.830000	Hum:15.7000	WS:19.7000	DewPoint:
 18/02/2019 19:13:08.532	Debg	--- PARANDO OBSERVACION ---
 18/02/2019 19:13:08.532	Debg	
 18/02/2019 19:13:08.532	Info	Indicando fin del proceso...
+18/02/2019 19:14:07.790	Info	Estella seleccionada --> Aldebaran
+	airmass: 1.032449
+	ha hours: hms_tuple(h=-0.0, m=-36.0, s=-7.586740140665427)
+	ra: 4.616806
+	dec: 16.545413
+18/02/2019 19:14:07.790	Info	*** Tiempo seleccion de estrella: 111.53 ***
+18/02/2019 19:14:07.790	Debg	---------------------------------------------
+18/02/2019 19:14:07.790	Debg	-------------- Check spots ------------------
+18/02/2019 19:14:07.790	Debg	---------------------------------------------
+18/02/2019 19:14:07.790	Info	Centrando spots...
+18/02/2019 19:14:10.237	Info	Intento 0
+18/02/2019 19:14:12.092	Info	Maximos fuera de rango (diff: 365.0 - nsigma: 196.78090783220307)
+18/02/2019 19:14:12.107	Info	Moviendo telescopio...
+18/02/2019 19:14:15.037	Info	Intento 1
+18/02/2019 19:14:16.908	Info	Maximos fuera de rango (diff: 571.0 - nsigma: 130.7099374832095)
+18/02/2019 19:14:16.908	Info	Moviendo telescopio...
+18/02/2019 19:14:19.152	Info	Intento 2
+18/02/2019 19:14:20.664	Info	DX fuera de rango (dx: 29.0 - min: 30.0 - max: 52.0)
+18/02/2019 19:14:20.664	Info	Moviendo telescopio...
+18/02/2019 19:14:22.191	Info	Intento 3
+18/02/2019 19:14:23.812	Info	DX fuera de rango (dx: 229.0 - min: 30.0 - max: 52.0)
+18/02/2019 19:14:23.812	Info	Moviendo telescopio...
+18/02/2019 19:14:25.277	Info	Intento 4
+18/02/2019 19:14:26.742	Info	DX fuera de rango (dx: 145.0 - min: 30.0 - max: 52.0)
+18/02/2019 19:14:26.742	Info	Moviendo telescopio...
+18/02/2019 19:14:28.722	Info	Intento 5
+18/02/2019 19:14:30.249	Info	Maximos fuera de rango (diff: 266.0 - nsigma: 202.735619537139)
+18/02/2019 19:14:30.249	Info	Moviendo telescopio...
+18/02/2019 19:14:31.917	Info	Intento 6
+18/02/2019 19:14:33.429	Info	DX fuera de rango (dx: 325.0 - min: 30.0 - max: 52.0)
+18/02/2019 19:14:33.429	Info	Moviendo telescopio...
+18/02/2019 19:14:34.426	Info	Intento 7
+18/02/2019 19:14:36.001	Info	Ventana de spots fuera de rango (cx: 589 - cy: 112 - left: 80 - right: 560 - down: 30 - up: 450)
+18/02/2019 19:14:36.001	Info	Moviendo telescopio...
+18/02/2019 19:14:37.169	Info	Intento 8
+18/02/2019 19:14:38.432	Info	Moviendo telescopio...
+18/02/2019 19:14:39.803	Info	Intento 9
+18/02/2019 19:14:41.487	Info	DX fuera de rango (dx: 238.0 - min: 30.0 - max: 52.0)
+18/02/2019 19:14:41.487	Info	Moviendo telescopio...
+18/02/2019 19:14:43.809	Info	Intento 10
+18/02/2019 19:14:48.376	Info	Los spots estan centrados
+18/02/2019 19:14:48.376	Info	*** Tiempo centrado de spots: 40.59 ***
+18/02/2019 19:14:48.376	Debg	---------------------------------------------
+18/02/2019 19:14:48.376	Debg	--------------- Check focal -----------------
+18/02/2019 19:14:48.376	Debg	---------------------------------------------
+18/02/2019 19:14:48.376	Info	Comprobando el foco...
+18/02/2019 19:14:48.391	Info	Intento 0
+18/02/2019 19:14:52.771	Info	Maximos fuera de rango (diff: 365.0 - nsigma: 181.22470001752168)
+18/02/2019 19:14:52.787	Info	Maximos fuera de rango (diff: 551.0 - nsigma: 222.01190573269483)
+18/02/2019 19:14:52.818	Info	DX fuera de rango (dx: 52.0 - min: 30.0 - max: 52.0)
+18/02/2019 19:14:52.833	Info	Maximos fuera de rango (diff: 493.0 - nsigma: 230.8491126142535)
+18/02/2019 19:14:52.849	Info	Maximos fuera de rango (diff: 286.0 - nsigma: 203.24954120366107)
+18/02/2019 19:14:56.013	Info	DX: nan (MIN: 40.5 - MAX: 41.5)
+18/02/2019 19:14:56.013	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+18/02/2019 19:14:56.013	Info	*** Tiempo seleccion de estrella: 159.77 ***
+18/02/2019 19:14:59.005	Info	*** TIEMPO TOTAL ITERACION: 162.76 ***
+18/02/2019 19:14:59.005	Info	Parando la observacion...
+18/02/2019 19:14:59.005	Info	 --- OBSERVACION TERMINADA ---
+18/02/2019 19:14:59.021	Info	 --- CERRANDO TELESCOPIO ---
+18/02/2019 19:14:59.021	Debg	---------------------------------------------
+18/02/2019 19:14:59.021	Debg	------------------ Switch Off ---------------
+18/02/2019 19:14:59.021	Debg	---------------------------------------------
+18/02/2019 19:14:59.021	Info	Cerrando cupula (este proceso puede tardar unos minutos)...
+18/02/2019 19:14:59.021	Info	Cerrando cupula lado A...
