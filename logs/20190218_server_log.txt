@@ -451,3 +451,23 @@ get_window @ could not broadcast input array from shape (16) into shape (20)
 get_move_matrix @ cell 9, ra: -0.008634, dec: 0.0
 get_dx_data @ Tiempo de procesado de las 5 imagenes: 1.93300008774
 get_dx_data @ dx final: nan
+--END--
+Received:  
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Closing server....
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Closing server....
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Server is closing...
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Server is closing...
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+18/02/2019 19:17:34.289	Info	Connected by ('127.0.0.1', 4137) --> command: status
+18/02/2019 19:17:34.320	Info	Connected by ('127.0.0.1', 4138) --> command: ping
+18/02/2019 19:17:34.320	Info	Connected by ('127.0.0.1', 4844) --> command: status
+18/02/2019 19:17:34.320	Info	Connected by ('127.0.0.1', 4858) --> command: ping
+18/02/2019 19:17:34.320	Info	Connected by ('127.0.0.1', 4885) --> command: status
+18/02/2019 19:17:41.973	Info	Connected by ('127.0.0.1', 3062) --> command: status
+18/02/2019 19:17:41.988	Info	Connected by ('127.0.0.1', 3063) --> command: shutdown
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
