@@ -3968,3 +3968,51 @@ CODE:OT:VIVALDI	Date:2019-02-18 22:55:58.268000	Hum:6.7000	WS:28.2000	DewPoint:0
 18/02/2019 22:57:50.191	Debg	---------- Generating datas file ------------
 18/02/2019 22:57:50.191	Debg	---------------------------------------------
 18/02/2019 22:57:50.191	Info	##### PACK: OTSX_KRK81O_190218225750
+18/02/2019 22:59:53.398	Info	##### (OTSX_KRK81O_190218225750) Se ha generado el fichero: D:/DIMMLAB\19_02_18\OTSX190218225927.txt
+18/02/2019 22:59:53.398	Info	*** Tiempo generacion del fichero 123.21 ***
+18/02/2019 22:59:53.398	Debg	---------------------------------------------
+18/02/2019 22:59:53.398	Debg	------------ Calculating seeing -------------
+18/02/2019 22:59:53.398	Debg	---------------------------------------------
+18/02/2019 23:00:02.391	Info	
+18/02/2019 23:00:02.391	Info	SEEING: 1.7715682467957496 (used imgs: 200) (OTSX_KRK81O_190218225750)
+18/02/2019 23:00:02.391	Info	
+18/02/2019 23:00:02.391	Info	*** Tiempo calculo del seeing 8.99 ***
+18/02/2019 23:00:02.391	Info	*** Tiempo procesado de datos: 132.2 ***
+18/02/2019 23:00:02.391	Info	*** TIEMPO TOTAL ITERACION: 191.3 ***
+18/02/2019 23:00:02.391	Debg	---------------------------------------------
+18/02/2019 23:00:02.391	Debg	-------------------- Meteo ------------------
+18/02/2019 23:00:02.391	Debg	---------------------------------------------
+18/02/2019 23:00:04.713	Info	
+CODE:OT:IAC	Date:2019-02-18 22:59:06.921000	Hum:8.4000	WS:38.8800	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-18 22:59:06.593000	Hum:0.0000	WS:25.9560	DewPoint:0.0000	Dust:0.0010
+CODE:OT:VIVALDI	Date:2019-02-18 22:59:08.308000	Hum:5.7000	WS:22.1000	DewPoint:0.0000	Dust:2.7000
+
+18/02/2019 23:00:04.713	Debg	---------------------------------------------
+18/02/2019 23:00:04.713	Debg	---------------- Star Selection -------------
+18/02/2019 23:00:04.713	Debg	---------------------------------------------
+18/02/2019 23:00:04.713	Info	Comprobando que la estella es observable...
+18/02/2019 23:00:10.745	info	La estrella sigue siendo observable(Menkalinan)
+18/02/2019 23:00:23.448	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '1.76263464731', 'az': '315.583546', 'name': 'Menkalinan', 'airmass': '1.119951', 'ha_hours': 'hms_tuple(h=1.0, m=45.0, s=45.48473031178105)', 'alt': '63.239303', 'dec': '44.948158', 'magnitude': '1.900000', 'ra': '6.015509'}
+18/02/2019 23:00:23.448	Info	*** Tiempo seleccion de estrella: 18.73 ***
+18/02/2019 23:00:23.448	Debg	---------------------------------------------
+18/02/2019 23:00:23.448	Debg	-------------- Check spots ------------------
+18/02/2019 23:00:23.448	Debg	---------------------------------------------
+18/02/2019 23:00:23.448	Info	Centrando spots...
+18/02/2019 23:00:28.311	Info	Intento 0
+18/02/2019 23:00:30.773	Info	Maximos fuera de rango (diff: 157.0 - nsigma: 99.44588959858854)
+18/02/2019 23:00:30.773	Info	Moviendo telescopio...
+18/02/2019 23:00:35.028	Info	Intento 1
+18/02/2019 23:00:37.179	Info	Maximos fuera de rango (diff: 183.0 - nsigma: 93.4225182014205)
+18/02/2019 23:00:37.179	Info	Moviendo telescopio...
+18/02/2019 23:00:41.496	Info	Intento 2
+18/02/2019 23:00:43.803	Info	DX fuera de rango (dx: 185.0 - min: 30.0 - max: 52.0)
+18/02/2019 23:00:43.803	Info	Moviendo telescopio...
+18/02/2019 23:00:48.245	Info	Intento 3
+18/02/2019 23:00:50.427	Info	DX fuera de rango (dx: 211.0 - min: 30.0 - max: 52.0)
+18/02/2019 23:00:50.427	Info	Moviendo telescopio...
+18/02/2019 23:00:55.352	Info	Intento 4
+18/02/2019 23:00:57.612	Info	DX fuera de rango (dx: 185.0 - min: 30.0 - max: 52.0)
+18/02/2019 23:00:57.612	Info	Moviendo telescopio...
+18/02/2019 23:01:01.727	Info	Intento 5
+18/02/2019 23:01:04.533	Info	Maximos fuera de rango (diff: 370.0 - nsigma: 85.1748836414419)
+18/02/2019 23:01:04.533	Info	Moviendo telescopio...
