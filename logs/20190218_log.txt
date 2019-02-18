@@ -3736,3 +3736,40 @@ CODE:OT:VIVALDI	Date:2019-02-18 22:42:14.248000	Hum:5.0000	WS:24.1000	DewPoint:0
 18/02/2019 22:42:54.429	Info	Moviendo telescopio...
 18/02/2019 22:42:59.712	Info	Intento 1
 18/02/2019 22:43:02.003	Info	Moviendo telescopio...
+18/02/2019 22:43:13.631	Info	Intento 2
+18/02/2019 22:43:16.031	Info	DX fuera de rango (dx: 109.0 - min: 30.0 - max: 52.0)
+18/02/2019 22:43:16.031	Info	Moviendo telescopio...
+18/02/2019 22:43:19.553	Info	Intento 3
+18/02/2019 22:43:21.876	Info	DX fuera de rango (dx: 301.0 - min: 30.0 - max: 52.0)
+18/02/2019 22:43:21.876	Info	Moviendo telescopio...
+18/02/2019 22:43:26.396	Info	Intento 4
+18/02/2019 22:43:29.295	Info	Ventana de spots fuera de rango (cx: 400 - cy: 22 - left: 80 - right: 560 - down: 30 - up: 450)
+18/02/2019 22:43:29.295	Info	Moviendo telescopio...
+18/02/2019 22:43:35.903	Info	Intento 5
+18/02/2019 22:43:43.602	Info	Los spots estan centrados
+18/02/2019 22:43:43.602	Info	*** Tiempo centrado de spots: 55.07 ***
+18/02/2019 22:43:43.602	Debg	---------------------------------------------
+18/02/2019 22:43:43.602	Debg	--------------- Check focal -----------------
+18/02/2019 22:43:43.602	Debg	---------------------------------------------
+18/02/2019 22:43:43.602	Info	Comprobando el foco...
+18/02/2019 22:43:43.618	Info	Intento 0
+18/02/2019 22:43:44.553	Info	DX: 41.91 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 22:43:44.553	Info	Moviendo el foco...
+18/02/2019 22:43:49.229	Info	Intento 1
+18/02/2019 22:43:57.412	Info	Maximos fuera de rango (diff: 881.0 - nsigma: 646.2785771416438)
+18/02/2019 22:43:57.505	Info	Maximos fuera de rango (diff: 468.0 - nsigma: 452.8780366711436)
+18/02/2019 22:44:02.914	Info	DX: 40.15 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 22:44:02.914	Info	Moviendo el foco...
+18/02/2019 22:44:05.719	Info	Intento 2
+18/02/2019 22:44:13.154	Info	Maximos fuera de rango (diff: 317.0 - nsigma: 307.03765274706046)
+18/02/2019 22:44:13.185	Info	Maximos fuera de rango (diff: 758.0 - nsigma: 202.17676701616958)
+18/02/2019 22:44:13.278	Info	Maximos fuera de rango (diff: 694.0 - nsigma: 241.0922865794708)
+18/02/2019 22:44:13.387	Info	Maximos fuera de rango (diff: 608.0 - nsigma: 544.9202651658926)
+18/02/2019 22:44:18.827	Info	DX: 41.13 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 22:44:18.827	Info	La imagen esta enfocada
+18/02/2019 22:44:18.827	Info	*** Tiempo enfocado: 35.22 ***
+18/02/2019 22:44:18.827	Info	*** Tiempo seleccion de estrella: 117.44 ***
+18/02/2019 22:44:18.827	Debg	---------------------------------------------
+18/02/2019 22:44:18.827	Debg	---------- Generating datas file ------------
+18/02/2019 22:44:18.827	Debg	---------------------------------------------
+18/02/2019 22:44:18.842	Info	##### PACK: OTSX_SA00H4_190218224418
