@@ -1487,3 +1487,21 @@ date: 18/02/2019 22:05:19.574	code: Info	text: 0.262771606
 date: 18/02/2019 22:05:29.549	code: Info	text: Connected by ('127.0.0.1', 1895) --> command: ping
 date: 18/02/2019 22:05:29.549	code: Info	text: self.ping()
 date: 18/02/2019 22:05:29.549	code: Info	text: OK
+date: 18/02/2019 22:05:32.012	code: Info	text: Connected by ('127.0.0.1', 1972) --> command: fwd_time:1
+date: 18/02/2019 22:05:32.012	code: Info	text: self.fwd_time(1)
+date: 18/02/2019 22:05:32.355	code: Info	text: OK
+date: 18/02/2019 22:05:32.947	code: Info	text: Connected by ('127.0.0.1', 2004) --> command: get_pos
+date: 18/02/2019 22:05:32.947	code: Info	text: self.get_pos()
+date: 18/02/2019 22:05:32.963	code: Info	text: 0.262985229
+date: 18/02/2019 22:05:45.852	code: Info	text: Connected by ('127.0.0.1', 2206) --> command: rwd_time:1
+date: 18/02/2019 22:05:45.852	code: Info	text: self.rwd_time(1)
+date: 18/02/2019 22:05:46.336	code: Info	text: OK
+date: 18/02/2019 22:05:48.315	code: Info	text: Connected by ('127.0.0.1', 2229) --> command: get_pos
+date: 18/02/2019 22:05:49.390	code: Info	text: self.get_pos()
+date: 18/02/2019 22:05:49.406	code: Info	text: 0.262802124
+date: 18/02/2019 22:05:52.663	code: Info	text: Connected by ('127.0.0.1', 2233) --> command: ping
+date: 18/02/2019 22:05:52.663	code: Info	text: self.ping()
+date: 18/02/2019 22:05:52.663	code: Info	text: OK
+date: 18/02/2019 22:06:45.064	code: Info	text: Connected by ('127.0.0.1', 2254) --> command: ping
+date: 18/02/2019 22:06:45.064	code: Info	text: self.ping()
+date: 18/02/2019 22:06:45.064	code: Info	text: OK

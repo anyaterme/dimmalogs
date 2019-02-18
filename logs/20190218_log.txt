@@ -2925,3 +2925,30 @@ CODE:OT:VIVALDI	Date:2019-02-18 22:02:52.863000	Hum:6.7000	WS:26.9000	DewPoint:0
 18/02/2019 22:05:01.978	Info	DX: 42.09 (MIN: 40.5 - MAX: 41.5)
 18/02/2019 22:05:01.978	Info	Moviendo el foco...
 18/02/2019 22:05:05.111	Info	Intento 2
+18/02/2019 22:05:17.548	Info	DX: 40.29 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 22:05:17.548	Info	Moviendo el foco...
+18/02/2019 22:05:19.574	Info	Intento 3
+18/02/2019 22:05:25.980	Info	Maximos fuera de rango (diff: 565.0 - nsigma: 303.6368099557302)
+18/02/2019 22:05:31.124	Info	DX: 40.43 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 22:05:31.124	Info	Moviendo el foco...
+18/02/2019 22:05:32.963	Info	Intento 4
+18/02/2019 22:05:39.711	Info	Maximos fuera de rango (diff: 303.0 - nsigma: 268.37715712888934)
+18/02/2019 22:05:39.821	Info	Maximos fuera de rango (diff: 801.0 - nsigma: 351.58056971927624)
+18/02/2019 22:05:39.883	Info	Maximos fuera de rango (diff: 558.0 - nsigma: 288.6286942305096)
+18/02/2019 22:05:44.652	Info	DX: 41.74 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 22:05:44.652	Info	Moviendo el foco...
+18/02/2019 22:05:49.406	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+18/02/2019 22:05:49.406	Info	*** Tiempo seleccion de estrella: 128.74 ***
+18/02/2019 22:05:52.398	Info	*** TIEMPO TOTAL ITERACION: 131.73 ***
+18/02/2019 22:05:52.414	Debg	---------------------------------------------
+18/02/2019 22:05:52.414	Debg	-------------------- Meteo ------------------
+18/02/2019 22:05:52.414	Debg	---------------------------------------------
+18/02/2019 22:05:53.941	Info	
+CODE:OT:IAC	Date:2019-02-18 22:04:58.128000	Hum:11.4000	WS:18.0000	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-18 22:04:57.738000	Hum:0.0000	WS:19.5480	DewPoint:0.0000	Dust:0.0011
+CODE:OT:VIVALDI	Date:2019-02-18 22:04:59.250000	Hum:6.4000	WS:26.9000	DewPoint:0.0000	Dust:1.9000
+
+18/02/2019 22:05:53.941	Debg	---------------------------------------------
+18/02/2019 22:05:53.941	Debg	---------------- Star Selection -------------
+18/02/2019 22:05:53.941	Debg	---------------------------------------------
+18/02/2019 22:05:53.941	Info	Seleccionando estella...
