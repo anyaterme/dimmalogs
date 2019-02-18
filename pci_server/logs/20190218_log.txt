@@ -115,3 +115,7 @@ __init__:44 @ Active Board = 0
 __init__:45 @ DLL Version = 513
 __init__:47 @ Test 2 - 1 = 1
 date: 18/02/2019 18:37:52.152	code: Info	text: Connected by ('127.0.0.1', 4545) --> command: ping
+date: 18/02/2019 18:38:29.983	code: Info	text: Connected by ('127.0.0.1', 1258) --> command: echo_dome
+pin_off:123 @ New Status = c_ushort(32784)
+date: 18/02/2019 18:38:38.946	code: Info	text: Connected by ('127.0.0.1', 1261) --> command: ping
+date: 18/02/2019 18:38:58.383	code: Info	text: Connected by ('127.0.0.1', 1272) --> command: ping

@@ -197,3 +197,21 @@ CODE:OT:VIVALDI	Date:2019-02-18 18:26:19.799000	Hum:20.3000	WS:17.8000	DewPoint:
 18/02/2019 18:37:15.145	Debg	Inicializando servidor del foco...
 18/02/2019 18:37:27.968	Debg		Servidor de foco iniciado
 18/02/2019 18:37:27.968	Debg	
+18/02/2019 18:38:27.726	Debg	Inicializando servidor de la cupula...
+18/02/2019 18:38:40.269	Debg		Servidor de cupula iniciado
+18/02/2019 18:38:40.269	Debg	
+18/02/2019 18:38:41.078	Debg	--- INICIANDO OBSERVACION ---
+18/02/2019 18:38:41.078	Debg	
+18/02/2019 18:39:04.546	Debg	---------------------------------------------
+18/02/2019 18:39:04.546	Debg	-------------------- Meteo ------------------
+18/02/2019 18:39:04.546	Debg	---------------------------------------------
+18/02/2019 18:39:06.180	Info	
+CODE:OT:IAC	Date:2019-02-18 18:38:57.699000	Hum:24.1000	WS:12.6000	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-18 18:38:57.310000	Hum:0.0000	WS:21.9240	DewPoint:0.0000	Dust:0.0011
+CODE:OT:VIVALDI	Date:2019-02-18 18:38:58.446000	Hum:14.7000	WS:23.0000	DewPoint:0.0000	Dust:1.9000
+
+18/02/2019 18:39:06.180	Debg	---------------------------------------------
+18/02/2019 18:39:06.180	Debg	------------------ Get Ready ----------------
+18/02/2019 18:39:06.180	Debg	---------------------------------------------
+18/02/2019 18:39:06.196	Info	Abriendo cupula (este proceso puede tardar unos minutos)...
+18/02/2019 18:39:06.196	Info	Abriendo cupula lado A (0)...
