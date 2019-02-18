@@ -284,3 +284,58 @@ CODE:OT:VIVALDI	Date:2019-02-18 18:45:19.712000	Hum:13.3000	WS:20.7000	DewPoint:
 18/02/2019 18:48:45.619	Debg	--- PARANDO OBSERVACION ---
 18/02/2019 18:48:45.619	Debg	
 18/02/2019 18:48:45.619	Info	Indicando fin del proceso...
+18/02/2019 18:49:21.397	Info	Estella seleccionada --> Aldebaran
+	airmass: 1.053799
+	ha hours: hms_tuple(h=-1.0, m=-1.0, s=-22.653806587953937)
+	ra: 4.616806
+	dec: 16.545412
+18/02/2019 18:49:21.397	Info	*** Tiempo seleccion de estrella: 205.8 ***
+18/02/2019 18:49:21.397	Debg	---------------------------------------------
+18/02/2019 18:49:21.397	Debg	-------------- Check spots ------------------
+18/02/2019 18:49:21.397	Debg	---------------------------------------------
+18/02/2019 18:49:21.397	Info	Centrando spots...
+18/02/2019 18:49:32.305	Info	Intento 0
+18/02/2019 18:49:39.215	Info	Los spots estan centrados
+18/02/2019 18:49:39.215	Info	*** Tiempo centrado de spots: 17.82 ***
+18/02/2019 18:49:39.215	Debg	---------------------------------------------
+18/02/2019 18:49:39.215	Debg	--------------- Check focal -----------------
+18/02/2019 18:49:39.215	Debg	---------------------------------------------
+18/02/2019 18:49:39.215	Info	Comprobando el foco...
+18/02/2019 18:49:39.231	Info	Intento 0
+18/02/2019 18:49:45.246	Info	Maximos fuera de rango (diff: 630.0 - nsigma: 324.5707607266952)
+18/02/2019 18:49:45.495	Info	Maximos fuera de rango (diff: 677.0 - nsigma: 299.4807469122446)
+18/02/2019 18:49:49.594	Info	DX: 48.44 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 18:49:49.594	Info	Moviendo el foco...
+18/02/2019 18:49:51.573	Info	Intento 1
+18/02/2019 18:49:59.395	Info	Maximos fuera de rango (diff: 401.0 - nsigma: 312.29402507786494)
+18/02/2019 18:49:59.520	Info	Maximos fuera de rango (diff: 294.0 - nsigma: 292.6846606847329)
+18/02/2019 18:50:03.634	Info	DX: 49.22 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 18:50:03.634	Info	Moviendo el foco...
+18/02/2019 18:50:05.831	Info	Intento 2
+18/02/2019 18:50:13.513	Info	Maximos fuera de rango (diff: 355.0 - nsigma: 285.2448850240719)
+18/02/2019 18:50:13.700	Info	Maximos fuera de rango (diff: 621.0 - nsigma: 366.6703015779693)
+18/02/2019 18:50:13.716	Info	DX fuera de rango (dx: 52.0 - min: 30.0 - max: 52.0)
+18/02/2019 18:50:17.970	Info	DX: 49.27 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 18:50:17.970	Info	Moviendo el foco...
+18/02/2019 18:50:20.011	Info	Intento 3
+18/02/2019 18:50:27.071	Info	Maximos fuera de rango (diff: 362.0 - nsigma: 277.5307718596764)
+18/02/2019 18:50:27.289	Info	Maximos fuera de rango (diff: 398.0 - nsigma: 312.48811090120665)
+18/02/2019 18:50:31.558	Info	DX: 50.62 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 18:50:31.558	Info	Moviendo el foco...
+18/02/2019 18:50:33.382	Info	Intento 4
+18/02/2019 18:50:40.612	Info	Maximos fuera de rango (diff: 445.0 - nsigma: 331.9354630824798)
+18/02/2019 18:50:40.768	Info	Maximos fuera de rango (diff: 432.0 - nsigma: 285.11794885863515)
+18/02/2019 18:50:40.784	Info	Maximos fuera de rango (diff: 545.0 - nsigma: 285.4979583816313)
+18/02/2019 18:50:44.820	Info	DX: 51.18 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 18:50:44.820	Info	Moviendo el foco...
+18/02/2019 18:50:46.955	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+18/02/2019 18:50:46.955	Info	*** Tiempo seleccion de estrella: 291.36 ***
+18/02/2019 18:50:49.948	Info	*** TIEMPO TOTAL ITERACION: 294.35 ***
+18/02/2019 18:50:49.948	Info	Parando la observacion...
+18/02/2019 18:50:49.948	Info	 --- OBSERVACION TERMINADA ---
+18/02/2019 18:50:49.948	Info	 --- CERRANDO TELESCOPIO ---
+18/02/2019 18:50:49.948	Debg	---------------------------------------------
+18/02/2019 18:50:49.948	Debg	------------------ Switch Off ---------------
+18/02/2019 18:50:49.948	Debg	---------------------------------------------
+18/02/2019 18:50:49.948	Info	Cerrando cupula (este proceso puede tardar unos minutos)...
+18/02/2019 18:50:49.963	Info	Cerrando cupula lado A...
