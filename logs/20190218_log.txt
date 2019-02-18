@@ -749,3 +749,48 @@ CODE:OT:VIVALDI	Date:2019-02-18 20:06:14.847000	Hum:7.1000	WS:23.3000	DewPoint:0
 18/02/2019 20:10:24.316	Debg	---------------- Star Selection -------------
 18/02/2019 20:10:24.316	Debg	---------------------------------------------
 18/02/2019 20:10:24.316	Info	Seleccionando estella...
+18/02/2019 20:13:40.778	Info	Estella seleccionada --> Menkalinan
+	airmass: 1.067318
+	ha hours: hms_tuple(h=-0.0, m=-59.0, s=-52.66272058952154)
+	ra: 6.015509
+	dec: 44.948153
+18/02/2019 20:13:40.778	Info	*** Tiempo seleccion de estrella: 196.46 ***
+18/02/2019 20:13:40.778	Debg	---------------------------------------------
+18/02/2019 20:13:40.778	Debg	-------------- Check spots ------------------
+18/02/2019 20:13:40.778	Debg	---------------------------------------------
+18/02/2019 20:13:40.778	Info	Centrando spots...
+18/02/2019 20:13:45.781	ERROR	Error in open_tcp:  [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+18/02/2019 20:13:47.495	Info	Intento 0
+18/02/2019 20:13:54.088	Info	Los spots estan centrados
+18/02/2019 20:13:54.088	Info	*** Tiempo centrado de spots: 13.31 ***
+18/02/2019 20:13:54.088	Debg	---------------------------------------------
+18/02/2019 20:13:54.088	Debg	--------------- Check focal -----------------
+18/02/2019 20:13:54.088	Debg	---------------------------------------------
+18/02/2019 20:13:54.088	Info	Comprobando el foco...
+18/02/2019 20:13:54.104	Info	Intento 0
+18/02/2019 20:14:03.393	Info	Maximos fuera de rango (diff: 264.0 - nsigma: 86.2258267619031)
+18/02/2019 20:14:08.318	Info	DX: 39.05 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 20:14:08.318	Info	Moviendo el foco...
+18/02/2019 20:14:10.609	Info	Intento 1
+18/02/2019 20:14:18.340	Info	Maximos fuera de rango (diff: 183.0 - nsigma: 132.73162373448548)
+18/02/2019 20:14:18.356	Info	Maximos fuera de rango (diff: 223.0 - nsigma: 88.05865463622462)
+18/02/2019 20:14:18.371	Info	Maximos fuera de rango (diff: 195.0 - nsigma: 154.86058417687684)
+18/02/2019 20:14:18.449	Info	Maximos fuera de rango (diff: 175.0 - nsigma: 105.53532623667424)
+18/02/2019 20:14:22.642	Info	DX: 39.93 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 20:14:22.642	Info	Moviendo el foco...
+18/02/2019 20:14:25.369	Info	Intento 2
+18/02/2019 20:14:33.006	Info	Maximos fuera de rango (diff: 191.0 - nsigma: 72.71663888983547)
+18/02/2019 20:14:33.069	Info	Maximos fuera de rango (diff: 399.0 - nsigma: 164.77551001749924)
+18/02/2019 20:14:33.084	Info	Maximos fuera de rango (diff: 118.0 - nsigma: 108.54287380707636)
+18/02/2019 20:14:37.386	Info	DX: 41.55 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 20:14:37.386	Info	Moviendo el foco...
+18/02/2019 20:14:38.804	Info	Intento 3
+18/02/2019 20:14:45.865	Info	Maximos fuera de rango (diff: 148.0 - nsigma: 101.85205164330131)
+18/02/2019 20:14:45.990	Info	Maximos fuera de rango (diff: 168.0 - nsigma: 109.17540814667937)
+18/02/2019 20:14:46.083	Info	Maximos fuera de rango (diff: 246.0 - nsigma: 133.6193647492583)
+18/02/2019 20:14:50.198	Info	DX: 40.07 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 20:14:50.198	Info	Moviendo el foco...
+18/02/2019 20:14:51.897	Info	Intento 4
+18/02/2019 20:15:01.061	Info	Maximos fuera de rango (diff: 134.0 - nsigma: 92.21330520972055)
+18/02/2019 20:15:05.597	Info	DX: 40.26 (MIN: 40.5 - MAX: 41.5)
+18/02/2019 20:15:05.597	Info	Moviendo el foco...
