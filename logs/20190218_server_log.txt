@@ -516,3 +516,18 @@ Received:  OK
 18/02/2019 20:14:38.680	Info	Connected by ('127.0.0.1', 3589) --> command: ping
 18/02/2019 20:14:46.613	Info	Connected by ('127.0.0.1', 3606) --> command: ping
 18/02/2019 20:15:07.280	Info	Connected by ('127.0.0.1', 3666) --> command: ping
+ERROR: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.84699988365
+get_dx_data @ dx final: 39.046025
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.22299981117
+get_dx_data @ dx final: 39.9257
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.44500017166
+get_dx_data @ dx final: 41.5549
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.39499998093
+get_dx_data @ dx final: 40.0684
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 5.61100006104
+get_dx_data @ dx final: 40.2564
+18/02/2019 20:15:39.013	Info	Connected by ('127.0.0.1', 4175) --> command: ping
+18/02/2019 20:16:02.906	Info	Connected by ('127.0.0.1', 4345) --> command: ping
+18/02/2019 20:16:39.331	Info	Connected by ('127.0.0.1', 4348) --> command: ping
+18/02/2019 20:16:52.065	Info	Connected by ('127.0.0.1', 4359) --> command: ping
