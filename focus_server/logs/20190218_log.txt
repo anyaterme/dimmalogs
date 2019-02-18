@@ -1,0 +1,10 @@
+
+date: 18/02/2019 18:17:11.593	code: Info	text: Init connection with serial port (COM8:9600)
+date: 18/02/2019 18:17:11.593	code: Error	text: Problem with Serial Port: could not open port u'COM8': WindowsError(2, 'El sistema no puede hallar el archivo especificado.')
+date: 18/02/2019 18:17:11.624	code: Info	text: Focus Server started at port 3340....
+date: 18/02/2019 18:17:11.765	code: Info	text: Connected by ('127.0.0.1', 3178) --> command: ping
+date: 18/02/2019 18:17:11.765	code: Info	text: self.ping()
+date: 18/02/2019 18:17:11.765	code: Info	text: OK
+date: 18/02/2019 18:17:44.745	code: Info	text: Connected by ('127.0.0.1', 3182) --> command: ping
+date: 18/02/2019 18:17:44.745	code: Info	text: self.ping()
+date: 18/02/2019 18:17:44.745	code: Info	text: OK
