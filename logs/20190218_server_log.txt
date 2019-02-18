@@ -253,3 +253,24 @@ timed out
 2019-02-18 18:54:42.288855
 [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
 2019-02-18 18:54:42.344337
+--END--
+Received:  
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Closing server....
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Closing server....
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Server is closing...
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Server is closing...
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+18/02/2019 18:53:27.153	Info	Connected by ('127.0.0.1', 1222) --> command: status
+18/02/2019 18:53:27.153	Info	Connected by ('127.0.0.1', 1326) --> command: ping
+18/02/2019 18:53:27.153	Info	Connected by ('127.0.0.1', 1357) --> command: ping
+18/02/2019 18:53:27.153	Info	Connected by ('127.0.0.1', 1721) --> command: status
+18/02/2019 18:53:27.153	Info	Connected by ('127.0.0.1', 1734) --> command: ping
+18/02/2019 18:53:28.664	Info	Connected by ('127.0.0.1', 3225) --> command: ping
+18/02/2019 18:53:33.013	Info	Connected by ('127.0.0.1', 3226) --> command: status
+18/02/2019 18:53:33.013	Info	Connected by ('127.0.0.1', 3227) --> command: shutdown
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
+Thread en proceso (shutdown): <Process(Process-1, stopped)> 
