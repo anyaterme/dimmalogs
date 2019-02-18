@@ -321,3 +321,30 @@ Received:  OK
 18/02/2019 19:03:39.870	Info	Connected by ('127.0.0.1', 4301) --> command: ping
 18/02/2019 19:03:56.921	Info	Connected by ('127.0.0.1', 4316) --> command: ping
 18/02/2019 19:04:03.592	Info	Connected by ('127.0.0.1', 4322) --> command: ping
+18/02/2019 19:04:26.083	Info	Connected by ('127.0.0.1', 4706) --> command: ping
+18/02/2019 19:04:49.867	Info	Connected by ('127.0.0.1', 1025) --> command: ping
+18/02/2019 19:04:57.145	Info	Connected by ('127.0.0.1', 1091) --> command: ping
+ERROR: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 9, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 16, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.008634, dec: 0.0
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.74300003052
+get_dx_data @ dx final: nan
+18/02/2019 19:05:10.721	Info	Connected by ('127.0.0.1', 1109) --> command: ping
+18/02/2019 19:05:57.026	Info	Connected by ('127.0.0.1', 1114) --> command: ping
+18/02/2019 19:06:00.346	Info	Connected by ('127.0.0.1', 1119) --> command: ping
