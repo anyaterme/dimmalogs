@@ -86,3 +86,22 @@ date: 18/02/2019 18:33:17.610	code: Info	text: Connected by ('127.0.0.1', 2428) 
 pin_on:115 @ New Status = c_ushort(40981)
 date: 18/02/2019 18:34:17.756	code: Info	text: Connected by ('127.0.0.1', 2721) --> command: echo_dome
 pin_off:123 @ New Status = c_ushort(32789)
+date: 18/02/2019 18:34:36.927	code: Info	text: Connected by ('127.0.0.1', 3006) --> command: ping
+date: 18/02/2019 18:35:12.276	code: Info	text: Connected by ('127.0.0.1', 3152) --> command: m off
+pin_off:123 @ New Status = c_ushort(32788)
+send_volts:78 @ Activating board 0...[0 = No error] = 0
+send_volts:82 @ Sending 0.0000V [0x7ff], channel 0 to board 0...[0 = No error] = 0
+send_volts:78 @ Activating board 0...[0 = No error] = 0
+send_volts:82 @ Sending 2.5000V [0x9ff], channel 1 to board 0...[0 = No error] = 0
+pin_status:107 @ c_ushort(32788)
+date: 18/02/2019 18:35:12.307	code: Info	text: Connected by ('127.0.0.1', 3153) --> command: ping
+date: 18/02/2019 18:35:18.043	code: Info	text: Connected by ('127.0.0.1', 3158) --> command: echo_dome
+pin_on:115 @ New Status = c_ushort(40980)
+date: 18/02/2019 18:35:22.812	code: Info	text: Connected by ('127.0.0.1', 3159) --> command: f off
+pin_off:123 @ New Status = c_ushort(40976)
+send_volts:78 @ Activating board 0...[0 = No error] = 0
+send_volts:82 @ Sending 0.0000V [0x7ff], channel 0 to board 0...[0 = No error] = 0
+send_volts:78 @ Activating board 0...[0 = No error] = 0
+send_volts:82 @ Sending 0.0000V [0x7ff], channel 1 to board 0...[0 = No error] = 0
+pin_status:107 @ c_ushort(40976)
+date: 18/02/2019 18:35:30.839	code: Info	text: Connected by ('127.0.0.1', 3168) --> command: shutdown
