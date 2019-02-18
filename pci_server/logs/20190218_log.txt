@@ -910,3 +910,12 @@ date: 18/02/2019 22:10:46.600	code: Info	text: Connected by ('127.0.0.1', 3879) 
 date: 18/02/2019 22:10:56.330	code: Info	text: Connected by ('127.0.0.1', 3887) --> command: echo_dome
 pin_on:115 @ New Status = c_ushort(40981)
 date: 18/02/2019 22:11:08.004	code: Info	text: Connected by ('127.0.0.1', 3969) --> command: ping
+date: 18/02/2019 22:11:27.409	code: Info	text: Connected by ('127.0.0.1', 4367) --> command: ping
+date: 18/02/2019 22:11:47.858	code: Info	text: Connected by ('127.0.0.1', 4695) --> command: ping
+date: 18/02/2019 22:11:58.004	code: Info	text: Connected by ('127.0.0.1', 4702) --> command: echo_dome
+pin_off:123 @ New Status = c_ushort(32789)
+date: 18/02/2019 22:12:23.222	code: Info	text: Connected by ('127.0.0.1', 4714) --> command: ping
+date: 18/02/2019 22:12:42.767	code: Info	text: Connected by ('127.0.0.1', 4729) --> command: ping
+date: 18/02/2019 22:12:58.649	code: Info	text: Connected by ('127.0.0.1', 4736) --> command: echo_dome
+pin_on:115 @ New Status = c_ushort(40981)
+date: 18/02/2019 22:13:04.338	code: Info	text: Connected by ('127.0.0.1', 4745) --> command: ping
