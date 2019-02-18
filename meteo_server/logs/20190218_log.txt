@@ -125,3 +125,12 @@ Meteo server started.... (port 3360)
 date: 18/02/2019 18:54:41.197	code: Info	text: Connected by ('127.0.0.1', 3960) --> command: ping
 date: 18/02/2019 18:55:27.873	code: Info	text: Connected by ('127.0.0.1', 4643) --> command: ping
 date: 18/02/2019 18:55:30.102	code: Info	text: Collecting datas...
+date: 18/02/2019 18:56:13.741	code: Info	text: Connected by ('127.0.0.1', 1364) --> command: ping
+date: 18/02/2019 18:56:31.867	code: Info	text: Collecting datas...
+date: 18/02/2019 18:56:34.081	code: Info	text: Connected by ('127.0.0.1', 1375) --> command: ping
+date: 18/02/2019 18:56:39.863	code: Info	text: Connected by ('127.0.0.1', 1380) --> command: safe_start:'OT':5
+date: 18/02/2019 18:56:39.863	code: Info	text: Is meteorology safe in OT?
+date: 18/02/2019 18:56:39.894	code: Info	text: ==== YES ====
+date: 18/02/2019 18:56:40.658	code: Info	text: Connected by ('127.0.0.1', 1381) --> command: get_big_meteo_values:'OT':5
+date: 18/02/2019 18:56:54.124	code: Info	text: Connected by ('127.0.0.1', 1390) --> command: ping
+date: 18/02/2019 18:57:12.998	code: Info	text: Connected by ('127.0.0.1', 1580) --> command: ping
