@@ -6777,3 +6777,54 @@ CODE:OT:VIVALDI	Date:2019-02-19 01:24:42.576000	Hum:7.4000	WS:22.1000	DewPoint:0
 19/02/2019 01:25:31.080	Debg	---------------- Star Selection -------------
 19/02/2019 01:25:31.080	Debg	---------------------------------------------
 19/02/2019 01:25:31.080	Info	Seleccionando estella...
+19/02/2019 01:29:33.489	Info	Estella seleccionada --> Denebola
+	airmass: 1.108478
+	ha hours: hms_tuple(h=-1.0, m=-32.0, s=-44.407373949332225)
+	ra: 11.834150
+	dec: 14.464588
+19/02/2019 01:29:33.489	Info	*** Tiempo seleccion de estrella: 242.41 ***
+19/02/2019 01:29:33.489	Debg	---------------------------------------------
+19/02/2019 01:29:33.489	Debg	-------------- Check spots ------------------
+19/02/2019 01:29:33.489	Debg	---------------------------------------------
+19/02/2019 01:29:33.489	Info	Centrando spots...
+19/02/2019 01:29:37.884	Info	Intento 0
+19/02/2019 01:29:40.752	Info	Maximos fuera de rango (diff: 149.0 - nsigma: 64.20858163301803)
+19/02/2019 01:29:40.752	Info	Moviendo telescopio...
+19/02/2019 01:29:47.703	Info	Intento 1
+19/02/2019 01:29:53.907	Info	Los spots estan centrados
+19/02/2019 01:29:53.907	Info	*** Tiempo centrado de spots: 20.42 ***
+19/02/2019 01:29:53.907	Debg	---------------------------------------------
+19/02/2019 01:29:53.907	Debg	--------------- Check focal -----------------
+19/02/2019 01:29:53.907	Debg	---------------------------------------------
+19/02/2019 01:29:53.907	Info	Comprobando el foco...
+19/02/2019 01:29:53.922	Info	Intento 0
+19/02/2019 01:30:03.508	Info	Maximos fuera de rango (diff: 103.0 - nsigma: 60.96486042156766)
+19/02/2019 01:30:03.554	Info	Maximos fuera de rango (diff: 156.0 - nsigma: 107.73480063305615)
+19/02/2019 01:30:03.570	Info	Maximos fuera de rango (diff: 154.0 - nsigma: 138.7648239227282)
+19/02/2019 01:30:08.183	Info	DX: 42.28 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 01:30:08.183	Info	Moviendo el foco...
+19/02/2019 01:30:09.960	Info	Intento 1
+19/02/2019 01:30:16.023	Info	Maximos fuera de rango (diff: 223.0 - nsigma: 128.47970121040797)
+19/02/2019 01:30:16.132	Info	Maximos fuera de rango (diff: 103.0 - nsigma: 89.3272440759193)
+19/02/2019 01:30:16.148	Info	Maximos fuera de rango (diff: 210.0 - nsigma: 65.22597000139359)
+19/02/2019 01:30:16.226	Info	Maximos fuera de rango (diff: 87.0 - nsigma: 74.53252514129404)
+19/02/2019 01:30:20.637	Info	DX: 39.2 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 01:30:20.637	Info	Moviendo el foco...
+19/02/2019 01:30:22.788	Info	Intento 2
+19/02/2019 01:30:29.817	Info	Maximos fuera de rango (diff: 99.0 - nsigma: 84.55941417525429)
+19/02/2019 01:30:29.942	Info	Maximos fuera de rango (diff: 94.0 - nsigma: 61.589897605398235)
+19/02/2019 01:30:34.274	Info	DX: 39.93 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 01:30:34.274	Info	Moviendo el foco...
+19/02/2019 01:30:36.067	Info	Intento 3
+19/02/2019 01:30:42.753	Info	Maximos fuera de rango (diff: 173.0 - nsigma: 115.62270871654798)
+19/02/2019 01:30:46.852	Info	DX: 41.7 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 01:30:46.852	Info	Moviendo el foco...
+19/02/2019 01:30:48.427	Info	Intento 4
+19/02/2019 01:31:00.428	Info	DX: 39.85 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 01:31:00.428	Info	Moviendo el foco...
+19/02/2019 01:31:03.015	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+19/02/2019 01:31:03.015	Info	*** Tiempo seleccion de estrella: 331.95 ***
+19/02/2019 01:31:06.008	Info	*** TIEMPO TOTAL ITERACION: 334.94 ***
+19/02/2019 01:31:06.023	Debg	---------------------------------------------
+19/02/2019 01:31:06.023	Debg	-------------------- Meteo ------------------
+19/02/2019 01:31:06.023	Debg	---------------------------------------------
