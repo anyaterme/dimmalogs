@@ -7706,3 +7706,41 @@ CODE:OT:VIVALDI	Date:2019-02-19 02:26:09.938000	Hum:7.8000	WS:20.6000	DewPoint:0
 19/02/2019 02:31:05.261	Info	Maximos fuera de rango (diff: 406.0 - nsigma: 220.95669121633807)
 19/02/2019 02:31:05.293	Info	Maximos fuera de rango (diff: 222.0 - nsigma: 219.56622041915145)
 19/02/2019 02:31:05.339	Info	Maximos fuera de rango (diff: 270.0 - nsigma: 121.35906069278046)
+19/02/2019 02:31:09.875	Info	DX: 39.2 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 02:31:09.875	Info	Moviendo el foco...
+19/02/2019 02:31:11.823	Info	Intento 1
+19/02/2019 02:31:18.899	Info	Maximos fuera de rango (diff: 314.0 - nsigma: 302.879128393721)
+19/02/2019 02:31:18.962	Info	Maximos fuera de rango (diff: 813.0 - nsigma: 374.90500178051883)
+19/02/2019 02:31:19.008	Info	Maximos fuera de rango (diff: 441.0 - nsigma: 300.43188779619874)
+19/02/2019 02:31:23.731	Info	DX: 41.38 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 02:31:23.731	Info	La imagen esta enfocada
+19/02/2019 02:31:23.731	Info	*** Tiempo enfocado: 25.81 ***
+19/02/2019 02:31:23.731	Info	*** Tiempo seleccion de estrella: 293.87 ***
+19/02/2019 02:31:23.731	Debg	---------------------------------------------
+19/02/2019 02:31:23.731	Debg	---------- Generating datas file ------------
+19/02/2019 02:31:23.746	Debg	---------------------------------------------
+19/02/2019 02:31:23.746	Info	##### PACK: OTSX_XMQRVV_190219023123
+19/02/2019 02:32:50.218	Info	##### (OTSX_XMQRVV_190219023123) Se ha generado el fichero: D:/DIMMLAB\19_02_18\OTSX190219023227.txt
+19/02/2019 02:32:50.218	Info	*** Tiempo generacion del fichero 86.49 ***
+19/02/2019 02:32:50.218	Debg	---------------------------------------------
+19/02/2019 02:32:50.218	Debg	------------ Calculating seeing -------------
+19/02/2019 02:32:50.218	Debg	---------------------------------------------
+19/02/2019 02:32:57.901	Info	
+19/02/2019 02:32:57.901	Info	SEEING: 1.9306854122025985 (used imgs: 200) (OTSX_XMQRVV_190219023123)
+19/02/2019 02:32:57.901	Info	
+19/02/2019 02:32:57.901	Info	*** Tiempo calculo del seeing 7.68 ***
+19/02/2019 02:32:57.901	Info	*** Tiempo procesado de datos: 94.17 ***
+19/02/2019 02:32:57.901	Info	*** TIEMPO TOTAL ITERACION: 388.04 ***
+19/02/2019 02:32:57.901	Debg	---------------------------------------------
+19/02/2019 02:32:57.901	Debg	-------------------- Meteo ------------------
+19/02/2019 02:32:57.901	Debg	---------------------------------------------
+19/02/2019 02:33:00.224	Info	
+CODE:OT:IAC	Date:2019-02-19 02:32:31.592000	Hum:8.8000	WS:18.0000	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-19 02:32:31.249000	Hum:0.0000	WS:17.6400	DewPoint:0.0000	Dust:0.0008
+CODE:OT:VIVALDI	Date:2019-02-19 02:32:32.356000	Hum:7.9000	WS:18.4000	DewPoint:0.0000	Dust:1.9000
+
+19/02/2019 02:33:00.224	Debg	---------------------------------------------
+19/02/2019 02:33:00.224	Debg	---------------- Star Selection -------------
+19/02/2019 02:33:00.224	Debg	---------------------------------------------
+19/02/2019 02:33:00.224	Info	Comprobando que la estella es observable...
+19/02/2019 02:33:09.198	info	La estrella sigue siendo observable(Regulus)
