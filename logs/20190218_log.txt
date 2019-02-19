@@ -11111,3 +11111,31 @@ CODE:OT:VIVALDI	Date:2019-02-19 05:57:46.446000	Hum:9.1000	WS:17.5000	DewPoint:0
 19/02/2019 05:59:02.381	Info	Intento 0
 19/02/2019 05:59:05.997	Info	Maximos fuera de rango (diff: 483.0 - nsigma: 104.08214773198968)
 19/02/2019 05:59:06.012	Info	Moviendo telescopio...
+19/02/2019 05:59:12.138	Info	Intento 1
+19/02/2019 05:59:14.320	Info	Maximos fuera de rango (diff: 321.0 - nsigma: 173.03378861402746)
+19/02/2019 05:59:14.320	Info	Moviendo telescopio...
+19/02/2019 05:59:19.276	Info	Intento 2
+19/02/2019 05:59:21.645	Info	Ventana de spots fuera de rango (cx: 176 - cy: 20 - left: 80 - right: 560 - down: 30 - up: 450)
+19/02/2019 05:59:21.645	Info	Moviendo telescopio...
+19/02/2019 05:59:26.087	Info	Intento 3
+19/02/2019 05:59:28.612	Info	Ventana de spots fuera de rango (cx: 201 - cy: 16 - left: 80 - right: 560 - down: 30 - up: 450)
+19/02/2019 05:59:28.612	Info	Moviendo telescopio...
+19/02/2019 05:59:33.662	Info	Intento 4
+19/02/2019 05:59:36.125	Info	Ventana de spots fuera de rango (cx: 234 - cy: 20 - left: 80 - right: 560 - down: 30 - up: 450)
+19/02/2019 05:59:36.125	Info	Moviendo telescopio...
+19/02/2019 05:59:41.299	Info	Intento 5
+19/02/2019 05:59:47.876	Info	Los spots estan centrados
+19/02/2019 05:59:47.876	Info	*** Tiempo centrado de spots: 50.22 ***
+19/02/2019 05:59:47.876	Debg	---------------------------------------------
+19/02/2019 05:59:47.876	Debg	--------------- Check focal -----------------
+19/02/2019 05:59:47.876	Debg	---------------------------------------------
+19/02/2019 05:59:47.876	Info	Comprobando el foco...
+19/02/2019 05:59:47.892	Info	Intento 0
+19/02/2019 05:59:48.780	Info	DX: 40.61 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 05:59:48.780	Info	La imagen esta enfocada
+19/02/2019 05:59:48.780	Info	*** Tiempo enfocado: 0.9 ***
+19/02/2019 05:59:48.780	Info	*** Tiempo seleccion de estrella: 67.94 ***
+19/02/2019 05:59:48.780	Debg	---------------------------------------------
+19/02/2019 05:59:48.827	Debg	---------- Generating datas file ------------
+19/02/2019 05:59:48.827	Debg	---------------------------------------------
+19/02/2019 05:59:48.827	Info	##### PACK: OTSX_Y3AMJA_190219055948
