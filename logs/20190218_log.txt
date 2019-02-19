@@ -11185,3 +11185,46 @@ CODE:OT:VIVALDI	Date:2019-02-19 06:00:55.660000	Hum:8.7000	WS:16.6000	DewPoint:0
 19/02/2019 06:02:14.354	Debg	---------- Generating datas file ------------
 19/02/2019 06:02:14.354	Debg	---------------------------------------------
 19/02/2019 06:02:14.432	Info	##### PACK: OTSX_YDGE3K_190219060214
+19/02/2019 06:03:49.132	Info	##### (OTSX_YDGE3K_190219060214) Se ha generado el fichero: D:/DIMMLAB\19_02_18\OTSX190219060324.txt
+19/02/2019 06:03:49.132	Info	*** Tiempo generacion del fichero 94.78 ***
+19/02/2019 06:03:49.132	Debg	---------------------------------------------
+19/02/2019 06:03:49.132	Debg	------------ Calculating seeing -------------
+19/02/2019 06:03:49.132	Debg	---------------------------------------------
+19/02/2019 06:03:57.393	Info	
+19/02/2019 06:03:57.393	Info	SEEING: 1.8162794892618197 (used imgs: 199) (OTSX_YDGE3K_190219060214)
+19/02/2019 06:03:57.393	Info	
+19/02/2019 06:03:57.393	Info	*** Tiempo calculo del seeing 8.26 ***
+19/02/2019 06:03:57.393	Info	*** Tiempo procesado de datos: 103.04 ***
+19/02/2019 06:03:57.393	Info	*** TIEMPO TOTAL ITERACION: 134.2 ***
+19/02/2019 06:03:57.393	Debg	---------------------------------------------
+19/02/2019 06:03:57.393	Debg	-------------------- Meteo ------------------
+19/02/2019 06:03:57.393	Debg	---------------------------------------------
+19/02/2019 06:03:59.076	Info	
+CODE:OT:IAC	Date:2019-02-19 06:03:01.096000	Hum:10.7000	WS:20.1600	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-19 06:03:00.597000	Hum:0.0000	WS:16.9560	DewPoint:0.0000	Dust:0.0008
+CODE:OT:VIVALDI	Date:2019-02-19 06:03:01.844000	Hum:8.3000	WS:13.9000	DewPoint:0.0000	Dust:4.2000
+
+19/02/2019 06:03:59.076	Debg	---------------------------------------------
+19/02/2019 06:03:59.076	Debg	---------------- Star Selection -------------
+19/02/2019 06:03:59.076	Debg	---------------------------------------------
+19/02/2019 06:03:59.076	Info	Comprobando que la estella es observable...
+19/02/2019 06:04:04.718	info	La estrella sigue siendo observable(Alkaid)
+19/02/2019 06:04:20.304	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '1.0816360743', 'az': '333.703898', 'name': 'Alkaid', 'airmass': '1.097460', 'ha_hours': 'hms_tuple(h=1.0, m=4.0, s=53.88986748165138)', 'alt': '65.670877', 'dec': '49.215354', 'magnitude': '1.850000', 'ra': '13.804972'}
+19/02/2019 06:04:20.304	Info	*** Tiempo seleccion de estrella: 21.23 ***
+19/02/2019 06:04:20.304	Debg	---------------------------------------------
+19/02/2019 06:04:20.304	Debg	-------------- Check spots ------------------
+19/02/2019 06:04:20.304	Debg	---------------------------------------------
+19/02/2019 06:04:20.304	Info	Centrando spots...
+19/02/2019 06:04:24.356	Info	Intento 0
+19/02/2019 06:04:33.833	Info	Maximos fuera de rango (diff: 123.0 - nsigma: 62.270949207018305)
+19/02/2019 06:04:33.833	Info	Moviendo telescopio...
+19/02/2019 06:04:39.771	Info	Intento 1
+19/02/2019 06:04:41.953	Info	Maximos fuera de rango (diff: 170.0 - nsigma: 154.21015916564892)
+19/02/2019 06:04:41.953	Info	Moviendo telescopio...
+19/02/2019 06:04:46.255	Info	Intento 2
+19/02/2019 06:04:48.561	Info	Ventana de spots fuera de rango (cx: 202 - cy: 9 - left: 80 - right: 560 - down: 30 - up: 450)
+19/02/2019 06:04:48.561	Info	Moviendo telescopio...
+19/02/2019 06:04:53.268	Info	Intento 3
+19/02/2019 06:05:01.554	Info	Ventana de spots fuera de rango (cx: 225 - cy: 9 - left: 80 - right: 560 - down: 30 - up: 450)
+19/02/2019 06:05:01.554	Info	Moviendo telescopio...
+19/02/2019 06:05:12.744	Info	Intento 4
