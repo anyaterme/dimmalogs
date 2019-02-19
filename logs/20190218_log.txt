@@ -11424,3 +11424,7 @@ CODE:OT:VIVALDI	Date:2019-02-19 06:13:39.196000	Hum:9.1000	WS:11.3000	DewPoint:0
 19/02/2019 06:15:05.332	Info	Intento 0
 19/02/2019 06:16:06.834	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
 19/02/2019 06:16:06.834	Info	Recovery Image Server error
+19/02/2019 06:17:17.813	Error	No se ha podido conseguir imagen del servidor
+19/02/2019 06:17:17.813	Info	Intento 1
+19/02/2019 06:18:19.346	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+19/02/2019 06:18:19.378	Info	Recovery Image Server error
