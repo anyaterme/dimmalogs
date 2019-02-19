@@ -6130,3 +6130,44 @@ CODE:OT:VIVALDI	Date:2019-02-19 00:54:03.841000	Hum:7.3000	WS:27.6000	DewPoint:0
 19/02/2019 00:57:04.155	Info	Intento 1
 19/02/2019 00:57:06.821	Info	Maximos fuera de rango (diff: 290.0 - nsigma: 246.41388215776976)
 19/02/2019 00:57:06.821	Info	Moviendo telescopio...
+19/02/2019 00:57:12.322	Info	Intento 2
+19/02/2019 00:57:14.723	Info	DX fuera de rango (dx: 258.0 - min: 30.0 - max: 52.0)
+19/02/2019 00:57:14.723	Info	Moviendo telescopio...
+19/02/2019 00:57:18.806	Info	Intento 3
+19/02/2019 00:57:21.783	Info	DX fuera de rango (dx: 143.0 - min: 30.0 - max: 52.0)
+19/02/2019 00:57:21.783	Info	Moviendo telescopio...
+19/02/2019 00:57:27.394	Info	Intento 4
+19/02/2019 00:57:29.748	Info	DX fuera de rango (dx: 88.0 - min: 30.0 - max: 52.0)
+19/02/2019 00:57:29.748	Info	Moviendo telescopio...
+19/02/2019 00:57:36.216	Info	Intento 5
+19/02/2019 00:57:43.339	Info	Los spots estan centrados
+19/02/2019 00:57:43.339	Info	*** Tiempo centrado de spots: 178.04 ***
+19/02/2019 00:57:43.339	Debg	---------------------------------------------
+19/02/2019 00:57:43.339	Debg	--------------- Check focal -----------------
+19/02/2019 00:57:43.339	Debg	---------------------------------------------
+19/02/2019 00:57:43.339	Info	Comprobando el foco...
+19/02/2019 00:57:43.339	Info	Intento 0
+19/02/2019 00:57:43.354	Error (get dx dat 2)	'str' object has no attribute 'images'
+19/02/2019 00:57:43.354	Info	DX: 0.0 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 00:57:43.354	Error	Imagenes no aptas para calcular el foco
+19/02/2019 00:57:43.354	Info	Intento 1
+19/02/2019 00:57:51.132	Info	Maximos fuera de rango (diff: 198.0 - nsigma: 178.25207979339086)
+19/02/2019 00:57:51.443	Info	Maximos fuera de rango (diff: 801.0 - nsigma: 415.9271077528252)
+19/02/2019 00:57:55.807	Info	DX: 40.08 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 00:57:55.807	Info	Moviendo el foco...
+19/02/2019 00:57:57.662	Info	Intento 2
+19/02/2019 00:58:04.629	Info	Maximos fuera de rango (diff: 169.0 - nsigma: 159.18312297844076)
+19/02/2019 00:58:04.754	Info	Maximos fuera de rango (diff: 726.0 - nsigma: 367.95349309985136)
+19/02/2019 00:58:09.617	Info	DX: 42.1 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 00:58:09.617	Info	Moviendo el foco...
+19/02/2019 00:58:12.126	Info	Intento 3
+19/02/2019 00:58:18.750	Info	Maximos fuera de rango (diff: 263.0 - nsigma: 224.8890590696025)
+19/02/2019 00:58:18.843	Info	Maximos fuera de rango (diff: 447.0 - nsigma: 170.8426550797575)
+19/02/2019 00:58:22.989	Info	DX: 41.14 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 00:58:22.989	Info	La imagen esta enfocada
+19/02/2019 00:58:22.989	Info	*** Tiempo enfocado: 39.65 ***
+19/02/2019 00:58:22.989	Info	*** Tiempo seleccion de estrella: 235.08 ***
+19/02/2019 00:58:22.989	Debg	---------------------------------------------
+19/02/2019 00:58:22.989	Debg	---------- Generating datas file ------------
+19/02/2019 00:58:23.005	Debg	---------------------------------------------
+19/02/2019 00:58:23.005	Info	##### PACK: OTSX_SK6J6S_190219005823
