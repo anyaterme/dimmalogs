@@ -10180,3 +10180,42 @@ CODE:OT:VIVALDI	Date:2019-02-19 05:01:40.672000	Hum:8.0000	WS:22.1000	DewPoint:0
 19/02/2019 05:02:59.257	Info	Intento 0
 19/02/2019 05:04:01.460	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
 19/02/2019 05:04:01.460	Info	Recovery Image Server error
+19/02/2019 05:05:29.155	Error	No se ha podido conseguir imagen del servidor
+19/02/2019 05:05:29.155	Info	Intento 1
+19/02/2019 05:05:31.680	Info	Maximos fuera de rango (diff: 102.0 - nsigma: 94.47835894005001)
+19/02/2019 05:05:31.680	Info	Moviendo telescopio...
+19/02/2019 05:05:37.415	Info	Intento 2
+19/02/2019 05:05:39.784	Info	Moviendo telescopio...
+19/02/2019 05:05:45.130	Info	Intento 3
+19/02/2019 05:05:47.250	Info	DX fuera de rango (dx: 52.0 - min: 30.0 - max: 52.0)
+19/02/2019 05:05:47.250	Info	Moviendo telescopio...
+19/02/2019 05:05:53.936	Info	Intento 4
+19/02/2019 05:05:56.867	Info	DX fuera de rango (dx: 104.0 - min: 30.0 - max: 52.0)
+19/02/2019 05:05:56.867	Info	Moviendo telescopio...
+19/02/2019 05:06:08.042	Info	Intento 5
+19/02/2019 05:06:11.362	Info	Maximos fuera de rango (diff: 135.0 - nsigma: 120.22659194534947)
+19/02/2019 05:06:11.362	Info	Moviendo telescopio...
+19/02/2019 05:06:17.939	Info	Intento 6
+19/02/2019 05:06:20.479	Info	DX fuera de rango (dx: 202.0 - min: 30.0 - max: 52.0)
+19/02/2019 05:06:20.479	Info	Moviendo telescopio...
+19/02/2019 05:06:24.968	Info	Intento 7
+19/02/2019 05:06:41.536	Info	DX fuera de rango (dx: 278.0 - min: 30.0 - max: 52.0)
+19/02/2019 05:06:41.536	Info	Moviendo telescopio...
+19/02/2019 05:06:47.770	Info	Intento 8
+19/02/2019 05:06:49.984	Info	DX fuera de rango (dx: 209.0 - min: 30.0 - max: 52.0)
+19/02/2019 05:06:49.984	Info	Moviendo telescopio...
+19/02/2019 05:06:53.833	Info	Intento 9
+19/02/2019 05:06:55.766	Info	DX fuera de rango (dx: 147.0 - min: 30.0 - max: 52.0)
+19/02/2019 05:06:55.766	Info	Moviendo telescopio...
+19/02/2019 05:07:00.099	Info	Intento 10
+19/02/2019 05:07:09.949	Info	Los spots estan centrados
+19/02/2019 05:07:09.949	Info	*** Tiempo centrado de spots: 255.04 ***
+19/02/2019 05:07:09.949	Debg	---------------------------------------------
+19/02/2019 05:07:09.949	Debg	--------------- Check focal -----------------
+19/02/2019 05:07:09.949	Debg	---------------------------------------------
+19/02/2019 05:07:09.949	Info	Comprobando el foco...
+19/02/2019 05:07:09.965	Info	Intento 0
+19/02/2019 05:07:09.965	Error (get dx dat 2)	'str' object has no attribute 'images'
+19/02/2019 05:07:09.965	Info	DX: 0.0 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 05:07:09.965	Error	Imagenes no aptas para calcular el foco
+19/02/2019 05:07:09.965	Info	Intento 1
