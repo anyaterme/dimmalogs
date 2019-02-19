@@ -10146,3 +10146,5 @@ CODE:OT:VIVALDI	Date:2019-02-19 04:56:24.292000	Hum:7.9000	WS:20.4000	DewPoint:0
 19/02/2019 04:57:41.396	Debg	---------- Generating datas file ------------
 19/02/2019 04:57:41.396	Debg	---------------------------------------------
 19/02/2019 04:57:41.396	Info	##### PACK: OTSX_QK8GQ3_190219045741
+19/02/2019 05:00:58.730	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+19/02/2019 05:00:58.730	Info	Recovery Image Server error
