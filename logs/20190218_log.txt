@@ -6915,3 +6915,49 @@ CODE:OT:VIVALDI	Date:2019-02-19 01:36:21.956000	Hum:7.5000	WS:16.4000	DewPoint:0
 19/02/2019 01:42:00.406	Debg	---------- Generating datas file ------------
 19/02/2019 01:42:00.406	Debg	---------------------------------------------
 19/02/2019 01:42:00.421	Info	##### PACK: OTSX_586TS4_190219014200
+19/02/2019 01:43:58.011	Info	##### (OTSX_586TS4_190219014200) Se ha generado el fichero: D:/DIMMLAB\19_02_18\OTSX190219014331.txt
+19/02/2019 01:43:58.011	Info	*** Tiempo generacion del fichero 117.61 ***
+19/02/2019 01:43:58.011	Debg	---------------------------------------------
+19/02/2019 01:43:58.011	Debg	------------ Calculating seeing -------------
+19/02/2019 01:43:58.011	Debg	---------------------------------------------
+19/02/2019 01:44:06.832	Info	
+19/02/2019 01:44:06.832	Info	SEEING: 2.369199589821773 (used imgs: 198) (OTSX_586TS4_190219014200)
+19/02/2019 01:44:06.832	Info	
+19/02/2019 01:44:06.832	Info	*** Tiempo calculo del seeing 8.82 ***
+19/02/2019 01:44:06.832	Info	*** Tiempo procesado de datos: 126.43 ***
+19/02/2019 01:44:06.832	Info	*** TIEMPO TOTAL ITERACION: 454.65 ***
+19/02/2019 01:44:06.832	Debg	---------------------------------------------
+19/02/2019 01:44:06.832	Debg	-------------------- Meteo ------------------
+19/02/2019 01:44:06.832	Debg	---------------------------------------------
+19/02/2019 01:44:09.232	Info	
+CODE:OT:IAC	Date:2019-02-19 01:43:43.609000	Hum:8.8000	WS:6.1200	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-19 01:43:43.235000	Hum:0.0000	WS:24.7320	DewPoint:0.0000	Dust:0.0008
+CODE:OT:VIVALDI	Date:2019-02-19 01:43:44.435000	Hum:8.4000	WS:21.8000	DewPoint:0.0000	Dust:2.2000
+
+19/02/2019 01:44:09.232	Debg	---------------------------------------------
+19/02/2019 01:44:09.232	Debg	---------------- Star Selection -------------
+19/02/2019 01:44:09.232	Debg	---------------------------------------------
+19/02/2019 01:44:09.248	Info	Comprobando que la estella es observable...
+19/02/2019 01:44:13.768	info	La estrella sigue siendo observable(Denebola)
+19/02/2019 01:44:26.502	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.29489516373', 'az': '123.481771', 'name': 'Denebola', 'airmass': '1.084045', 'ha_hours': 'hms_tuple(h=-1.0, m=-17.0, s=-41.62258942020031)', 'alt': '67.289827', 'dec': '14.464588', 'magnitude': '2.140000', 'ra': '11.834150'}
+19/02/2019 01:44:26.502	Info	*** Tiempo seleccion de estrella: 17.25 ***
+19/02/2019 01:44:26.502	Debg	---------------------------------------------
+19/02/2019 01:44:26.502	Debg	-------------- Check spots ------------------
+19/02/2019 01:44:26.502	Debg	---------------------------------------------
+19/02/2019 01:44:26.502	Info	Centrando spots...
+19/02/2019 01:44:30.881	Info	Intento 0
+19/02/2019 01:44:33.484	Info	Maximos fuera de rango (diff: 231.0 - nsigma: 78.33333619550164)
+19/02/2019 01:44:33.484	Info	Moviendo telescopio...
+19/02/2019 01:44:37.739	Info	Intento 1
+19/02/2019 01:44:40.420	Info	Maximos fuera de rango (diff: 282.0 - nsigma: 78.86150129900133)
+19/02/2019 01:44:40.420	Info	Moviendo telescopio...
+19/02/2019 01:44:45.236	Info	Intento 2
+19/02/2019 01:44:47.512	Info	DX fuera de rango (dx: 189.0 - min: 30.0 - max: 52.0)
+19/02/2019 01:44:47.512	Info	Moviendo telescopio...
+19/02/2019 01:44:52.826	Info	Intento 3
+19/02/2019 01:44:55.289	Info	Ventana de spots fuera de rango (cx: 392 - cy: 16 - left: 80 - right: 560 - down: 30 - up: 450)
+19/02/2019 01:44:55.289	Info	Moviendo telescopio...
+19/02/2019 01:44:59.341	Info	Intento 4
+19/02/2019 01:45:01.835	Info	DX fuera de rango (dx: 196.0 - min: 30.0 - max: 52.0)
+19/02/2019 01:45:01.835	Info	Moviendo telescopio...
+19/02/2019 01:45:09.426	Info	Intento 5

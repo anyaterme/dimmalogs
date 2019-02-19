@@ -2835,3 +2835,28 @@ get_dx_data @ dx final: 39.84806
 19/02/2019 01:42:46.549	Info	Connected by ('127.0.0.1', 4591) --> command: ping
 19/02/2019 01:42:48.871	Info	Connected by ('127.0.0.1', 4594) --> command: ping
 19/02/2019 01:43:08.494	Info	Connected by ('127.0.0.1', 4687) --> command: ping
+19/02/2019 01:43:27.961	Info	Connected by ('127.0.0.1', 1187) --> command: ping
+19/02/2019 01:43:47.022	Info	Connected by ('127.0.0.1', 1489) --> command: ping
+19/02/2019 01:43:47.973	Info	Connected by ('127.0.0.1', 1510) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.89699983597
+get_dx_data @ dx final: 41.8032
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.13300013542
+get_dx_data @ dx final: 42.47705
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.6779999733
+get_dx_data @ dx final: 39.304719999999996
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.19499993324
+get_dx_data @ dx final: 41.16075
+get_images @ Tiempo de procesado de las 200 imagenes: 86.5420000553
+get_seeing_thread @ 	This package contain 200 images...
+19/02/2019 01:44:09.482	Info	Connected by ('127.0.0.1', 1611) --> command: ping
+19/02/2019 01:44:31.287	Info	Connected by ('127.0.0.1', 1623) --> command: ping
+19/02/2019 01:44:45.937	Info	Connected by ('127.0.0.1', 1630) --> command: ping
+19/02/2019 01:44:50.722	Info	Connected by ('127.0.0.1', 1642) --> command: ping
