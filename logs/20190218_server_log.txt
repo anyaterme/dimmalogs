@@ -5047,3 +5047,24 @@ ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy
 19/02/2019 05:06:46.492	Info	Connected by ('127.0.0.1', 1944) --> command: ping
 19/02/2019 05:06:50.888	Info	Connected by ('127.0.0.1', 1947) --> command: ping
 19/02/2019 05:07:12.879	Info	Connected by ('127.0.0.1', 1996) --> command: ping
+19/02/2019 05:07:33.235	Info	Connected by ('127.0.0.1', 2481) --> command: ping
+19/02/2019 05:07:50.909	Info	Connected by ('127.0.0.1', 2819) --> command: ping
+19/02/2019 05:07:52.515	Info	Connected by ('127.0.0.1', 2847) --> command: ping
+19/02/2019 05:08:14.226	Info	Connected by ('127.0.0.1', 3066) --> command: ping
+19/02/2019 05:08:35.891	Info	Connected by ('127.0.0.1', 3075) --> command: ping
+19/02/2019 05:08:50.666	Info	Connected by ('127.0.0.1', 3078) --> command: ping
+19/02/2019 05:08:57.056	Info	Connected by ('127.0.0.1', 3084) --> command: ping
+ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 9, ra: -0.008634, dec: 0.0
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 4.9399998188
+get_dx_data @ dx final: 40.55548
+get_images @ Tiempo de procesado de las 200 imagenes: 68.5009999275
+get_seeing_thread @ 	This package contain 200 images...
