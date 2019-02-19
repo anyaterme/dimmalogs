@@ -6094,3 +6094,35 @@ CODE:OT:VIVALDI	Date:2019-02-19 00:48:48.424000	Hum:6.9000	WS:25.4000	DewPoint:0
 19/02/2019 00:50:02.957	Info	##### PACK: OTSX_MDECT4_190219005002
 19/02/2019 00:53:11.986	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
 19/02/2019 00:53:11.986	Info	Recovery Image Server error
+19/02/2019 00:54:25.396	Error (class Pack, get images)	list index out of range
+19/02/2019 00:54:25.396	Error (get data pack)	list index out of range
+19/02/2019 00:54:25.396	Info	*** Tiempo generacion del fichero 262.44 ***
+19/02/2019 00:54:25.396	Debg	---------------------------------------------
+19/02/2019 00:54:25.396	Debg	------------ Calculating seeing -------------
+19/02/2019 00:54:25.396	Debg	---------------------------------------------
+19/02/2019 00:54:25.396	Error (procces_datas)	'str' object has no attribute 'get_seeing'
+19/02/2019 00:54:25.396	Info	*** Tiempo calculo del seeing 0.0 ***
+19/02/2019 00:54:25.396	Info	*** Tiempo procesado de datos: 262.44 ***
+19/02/2019 00:54:25.396	Info	*** TIEMPO TOTAL ITERACION: 294.39 ***
+19/02/2019 00:54:25.396	Debg	---------------------------------------------
+19/02/2019 00:54:25.396	Debg	-------------------- Meteo ------------------
+19/02/2019 00:54:25.396	Debg	---------------------------------------------
+19/02/2019 00:54:27.906	Info	
+CODE:OT:IAC	Date:2019-02-19 00:54:02.937000	Hum:9.0000	WS:12.6000	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-19 00:54:02.578000	Hum:0.0000	WS:23.2560	DewPoint:0.0000	Dust:0.0009
+CODE:OT:VIVALDI	Date:2019-02-19 00:54:03.841000	Hum:7.3000	WS:27.6000	DewPoint:0.0000	Dust:2.2000
+
+19/02/2019 00:54:27.906	Debg	---------------------------------------------
+19/02/2019 00:54:27.906	Debg	---------------- Star Selection -------------
+19/02/2019 00:54:27.921	Debg	---------------------------------------------
+19/02/2019 00:54:27.921	Info	Comprobando que la estella es observable...
+19/02/2019 00:54:33.485	info	La estrella sigue siendo observable(Pollux)
+19/02/2019 00:54:45.300	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '1.9284012752', 'az': '276.230950', 'name': 'Pollux', 'airmass': '1.107447', 'ha_hours': 'hms_tuple(h=1.0, m=55.0, s=42.24459073422736)', 'alt': '64.552148', 'dec': '27.978087', 'magnitude': '1.150000', 'ra': '7.775032'}
+19/02/2019 00:54:45.300	Info	*** Tiempo seleccion de estrella: 17.38 ***
+19/02/2019 00:54:45.300	Debg	---------------------------------------------
+19/02/2019 00:54:45.300	Debg	-------------- Check spots ------------------
+19/02/2019 00:54:45.300	Debg	---------------------------------------------
+19/02/2019 00:54:45.300	Info	Centrando spots...
+19/02/2019 00:54:48.900	Info	Intento 0
+19/02/2019 00:55:50.449	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+19/02/2019 00:55:50.449	Info	Recovery Image Server error
