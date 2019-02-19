@@ -5637,3 +5637,19 @@ get_seeing_thread @ 	This package contain 200 images...
 19/02/2019 06:20:39.215	Info	Connected by ('127.0.0.1', 1715) --> command: ping
 19/02/2019 06:20:52.027	Info	Connected by ('127.0.0.1', 1717) --> command: ping
 19/02/2019 06:20:59.352	Info	Connected by ('127.0.0.1', 1723) --> command: ping
+19/02/2019 06:21:20.097	Info	Connected by ('127.0.0.1', 2081) --> command: ping
+19/02/2019 06:21:51.737	Info	Connected by ('127.0.0.1', 2307) --> command: ping
+19/02/2019 06:21:56.771	Info	Connected by ('127.0.0.1', 2452) --> command: ping
+19/02/2019 06:22:17.235	Info	Connected by ('127.0.0.1', 2832) --> command: ping
+ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 5.64199995995
+get_dx_data @ dx final: 41.682633333333335
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.75900006294
+get_dx_data @ dx final: 41.105725
+get_images @ Tiempo de procesado de las 200 imagenes: 75.8259999752
+get_seeing_thread @ 	This package contain 200 images...
+19/02/2019 06:22:48.345	Info	Connected by ('127.0.0.1', 2902) --> command: ping
+19/02/2019 06:22:51.821	Info	Connected by ('127.0.0.1', 2906) --> command: ping
+19/02/2019 06:23:07.968	Info	Connected by ('127.0.0.1', 2951) --> command: ping
