@@ -7681,3 +7681,28 @@ CODE:OT:VIVALDI	Date:2019-02-19 02:26:09.938000	Hum:7.8000	WS:20.6000	DewPoint:0
 19/02/2019 02:26:29.872	Debg	---------------- Star Selection -------------
 19/02/2019 02:26:29.872	Debg	---------------------------------------------
 19/02/2019 02:26:29.872	Info	Seleccionando estella...
+19/02/2019 02:30:39.732	Info	Estella seleccionada --> Regulus
+	airmass: 1.085259
+	ha hours: hms_tuple(h=1.0, m=8.0, s=5.126292828638839)
+	ra: 10.156676
+	dec: 11.871872
+19/02/2019 02:30:39.732	Info	*** Tiempo seleccion de estrella: 249.86 ***
+19/02/2019 02:30:39.732	Debg	---------------------------------------------
+19/02/2019 02:30:39.732	Debg	-------------- Check spots ------------------
+19/02/2019 02:30:39.732	Debg	---------------------------------------------
+19/02/2019 02:30:39.732	Info	Centrando spots...
+19/02/2019 02:30:43.238	Info	Intento 0
+19/02/2019 02:30:45.732	Info	Maximos fuera de rango (diff: 659.0 - nsigma: 446.7509011900562)
+19/02/2019 02:30:45.732	Info	Moviendo telescopio...
+19/02/2019 02:30:50.891	Info	Intento 1
+19/02/2019 02:30:57.920	Info	Los spots estan centrados
+19/02/2019 02:30:57.920	Info	*** Tiempo centrado de spots: 18.19 ***
+19/02/2019 02:30:57.920	Debg	---------------------------------------------
+19/02/2019 02:30:57.920	Debg	--------------- Check focal -----------------
+19/02/2019 02:30:57.920	Debg	---------------------------------------------
+19/02/2019 02:30:57.920	Info	Comprobando el foco...
+19/02/2019 02:30:57.936	Info	Intento 0
+19/02/2019 02:31:05.246	Info	Maximos fuera de rango (diff: 297.0 - nsigma: 128.32095278654413)
+19/02/2019 02:31:05.261	Info	Maximos fuera de rango (diff: 406.0 - nsigma: 220.95669121633807)
+19/02/2019 02:31:05.293	Info	Maximos fuera de rango (diff: 222.0 - nsigma: 219.56622041915145)
+19/02/2019 02:31:05.339	Info	Maximos fuera de rango (diff: 270.0 - nsigma: 121.35906069278046)
