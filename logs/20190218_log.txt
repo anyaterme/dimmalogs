@@ -9667,3 +9667,41 @@ CODE:OT:VIVALDI	Date:2019-02-19 04:21:27.468000	Hum:8.2000	WS:20.9000	DewPoint:0
 19/02/2019 04:22:30.623	Info	##### PACK: OTSX_8XX0QO_190219042230
 19/02/2019 04:25:36.639	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
 19/02/2019 04:25:36.639	Info	Recovery Image Server error
+19/02/2019 04:26:50.236	Error (class Pack, get images)	list index out of range
+19/02/2019 04:26:50.236	Error (get data pack)	list index out of range
+19/02/2019 04:26:50.236	Info	*** Tiempo generacion del fichero 259.66 ***
+19/02/2019 04:26:50.236	Debg	---------------------------------------------
+19/02/2019 04:26:50.236	Debg	------------ Calculating seeing -------------
+19/02/2019 04:26:50.236	Debg	---------------------------------------------
+19/02/2019 04:26:50.236	Error (procces_datas)	'str' object has no attribute 'get_seeing'
+19/02/2019 04:26:50.236	Info	*** Tiempo calculo del seeing 0.0 ***
+19/02/2019 04:26:50.236	Info	*** Tiempo procesado de datos: 259.66 ***
+19/02/2019 04:26:50.236	Info	*** TIEMPO TOTAL ITERACION: 286.95 ***
+19/02/2019 04:26:50.236	Debg	---------------------------------------------
+19/02/2019 04:26:50.252	Debg	-------------------- Meteo ------------------
+19/02/2019 04:26:50.252	Debg	---------------------------------------------
+19/02/2019 04:26:51.811	Info	
+CODE:OT:IAC	Date:2019-02-19 04:26:42.475000	Hum:9.7000	WS:18.3600	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-19 04:26:42.069000	Hum:0.0000	WS:19.2600	DewPoint:0.0000	Dust:0.0008
+CODE:OT:VIVALDI	Date:2019-02-19 04:26:43.659000	Hum:7.6000	WS:22.3000	DewPoint:0.0000	Dust:3.6000
+
+19/02/2019 04:26:51.811	Debg	---------------------------------------------
+19/02/2019 04:26:51.811	Debg	---------------- Star Selection -------------
+19/02/2019 04:26:51.811	Debg	---------------------------------------------
+19/02/2019 04:26:51.811	Info	Comprobando que la estella es observable...
+19/02/2019 04:26:57.047	Error (check star)	Estrella no observable(Alkaid)
+19/02/2019 04:26:57.047	Error (comprobando estrella)	Estrella no observable(Alkaid)
+19/02/2019 04:26:57.047	Info	*** Tiempo seleccion de estrella: 5.24 ***
+19/02/2019 04:27:00.040	Info	*** TIEMPO TOTAL ITERACION: 8.23 ***
+19/02/2019 04:27:00.040	Debg	---------------------------------------------
+19/02/2019 04:27:00.040	Debg	-------------------- Meteo ------------------
+19/02/2019 04:27:00.040	Debg	---------------------------------------------
+19/02/2019 04:27:02.736	Info	
+CODE:OT:IAC	Date:2019-02-19 04:26:42.475000	Hum:9.7000	WS:18.3600	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-19 04:26:42.069000	Hum:0.0000	WS:19.2600	DewPoint:0.0000	Dust:0.0008
+CODE:OT:VIVALDI	Date:2019-02-19 04:26:43.659000	Hum:7.6000	WS:22.3000	DewPoint:0.0000	Dust:3.6000
+
+19/02/2019 04:27:02.736	Debg	---------------------------------------------
+19/02/2019 04:27:02.736	Debg	---------------- Star Selection -------------
+19/02/2019 04:27:02.752	Debg	---------------------------------------------
+19/02/2019 04:27:02.752	Info	Seleccionando estella...
