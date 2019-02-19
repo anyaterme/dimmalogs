@@ -2721,3 +2721,10 @@ date: 19/02/2019 04:47:55.607	code: Info	text: Connected by ('127.0.0.1', 3956) 
 pin_off:123 @ New Status = c_ushort(32789)
 date: 19/02/2019 04:47:58.287	code: Info	text: Connected by ('127.0.0.1', 3960) --> command: ping
 date: 19/02/2019 04:48:45.295	code: Info	text: Connected by ('127.0.0.1', 4472) --> command: ping
+date: 19/02/2019 04:48:55.769	code: Info	text: Connected by ('127.0.0.1', 4661) --> command: echo_dome
+pin_on:115 @ New Status = c_ushort(40981)
+date: 19/02/2019 04:49:05.946	code: Info	text: Connected by ('127.0.0.1', 4823) --> command: ping
+date: 19/02/2019 04:49:28.172	code: Info	text: Connected by ('127.0.0.1', 1136) --> command: ping
+date: 19/02/2019 04:49:55.821	code: Info	text: Connected by ('127.0.0.1', 1148) --> command: echo_dome
+pin_off:123 @ New Status = c_ushort(32789)
+date: 19/02/2019 04:50:22.536	code: Info	text: Connected by ('127.0.0.1', 1496) --> command: ping

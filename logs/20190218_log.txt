@@ -10035,3 +10035,39 @@ CODE:OT:VIVALDI	Date:2019-02-19 04:46:48.306000	Hum:7.8000	WS:25.5000	DewPoint:0
 19/02/2019 04:48:14.029	Info	Intento 1
 19/02/2019 04:48:17.178	Info	Ventana de spots fuera de rango (cx: 430 - cy: 20 - left: 80 - right: 560 - down: 30 - up: 450)
 19/02/2019 04:48:17.178	Info	Moviendo telescopio...
+19/02/2019 04:48:22.960	Info	Intento 2
+19/02/2019 04:48:25.298	Info	DX fuera de rango (dx: 202.0 - min: 30.0 - max: 52.0)
+19/02/2019 04:48:25.298	Info	Moviendo telescopio...
+19/02/2019 04:48:43.814	Info	Intento 3
+19/02/2019 04:48:46.510	Info	DX fuera de rango (dx: 319.0 - min: 30.0 - max: 52.0)
+19/02/2019 04:48:46.510	Info	Moviendo telescopio...
+19/02/2019 04:48:52.682	Info	Intento 4
+19/02/2019 04:48:54.958	Info	Ventana de spots fuera de rango (cx: 576 - cy: 171 - left: 80 - right: 560 - down: 30 - up: 450)
+19/02/2019 04:48:54.958	Info	Moviendo telescopio...
+19/02/2019 04:49:00.117	Info	Intento 5
+19/02/2019 04:49:06.975	Info	DX fuera de rango (dx: 330.0 - min: 30.0 - max: 52.0)
+19/02/2019 04:49:06.975	Info	Moviendo telescopio...
+19/02/2019 04:49:12.882	Info	Intento 6
+19/02/2019 04:49:19.444	Info	Los spots estan centrados
+19/02/2019 04:49:19.444	Info	*** Tiempo centrado de spots: 87.52 ***
+19/02/2019 04:49:19.444	Debg	---------------------------------------------
+19/02/2019 04:49:19.444	Debg	--------------- Check focal -----------------
+19/02/2019 04:49:19.444	Debg	---------------------------------------------
+19/02/2019 04:49:19.444	Info	Comprobando el foco...
+19/02/2019 04:49:19.459	Info	Intento 0
+19/02/2019 04:49:20.192	Info	DX: nan (MIN: 40.5 - MAX: 41.5)
+19/02/2019 04:49:20.192	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+19/02/2019 04:49:20.192	Info	*** Tiempo seleccion de estrella: 103.24 ***
+19/02/2019 04:49:23.215	Info	*** TIEMPO TOTAL ITERACION: 106.26 ***
+19/02/2019 04:49:23.215	Debg	---------------------------------------------
+19/02/2019 04:49:23.215	Debg	-------------------- Meteo ------------------
+19/02/2019 04:49:23.215	Debg	---------------------------------------------
+19/02/2019 04:49:25.366	Info	
+CODE:OT:IAC	Date:2019-02-19 04:48:53.399000	Hum:10.2000	WS:11.8800	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-19 04:48:53.041000	Hum:0.0000	WS:18.6480	DewPoint:0.0000	Dust:0.0009
+CODE:OT:VIVALDI	Date:2019-02-19 04:48:54.444000	Hum:7.7000	WS:18.5000	DewPoint:0.0000	Dust:3.6000
+
+19/02/2019 04:49:25.382	Debg	---------------------------------------------
+19/02/2019 04:49:25.382	Debg	---------------- Star Selection -------------
+19/02/2019 04:49:25.382	Debg	---------------------------------------------
+19/02/2019 04:49:25.382	Info	Seleccionando estella...
