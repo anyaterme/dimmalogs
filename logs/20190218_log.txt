@@ -9509,3 +9509,52 @@ CODE:OT:VIVALDI	Date:2019-02-19 04:13:01.571000	Hum:7.8000	WS:19.4000	DewPoint:0
 19/02/2019 04:16:03.468	Info	Intento 11
 19/02/2019 04:16:06.321	Info	DX fuera de rango (dx: 92.0 - min: 30.0 - max: 52.0)
 19/02/2019 04:16:06.321	Info	Moviendo telescopio...
+19/02/2019 04:16:10.451	Info	Intento 12
+19/02/2019 04:16:12.399	Info	Ventana de spots fuera de rango (cx: 602 - cy: 85 - left: 80 - right: 560 - down: 30 - up: 450)
+19/02/2019 04:16:12.399	Info	Moviendo telescopio...
+19/02/2019 04:16:16.654	Info	Intento 13
+19/02/2019 04:16:18.758	Info	Ventana de spots fuera de rango (cx: 581 - cy: 91 - left: 80 - right: 560 - down: 30 - up: 450)
+19/02/2019 04:16:18.758	Info	Moviendo telescopio...
+19/02/2019 04:16:22.888	Info	Intento 14
+19/02/2019 04:16:26.317	Info	DX fuera de rango (dx: 146.0 - min: 30.0 - max: 52.0)
+19/02/2019 04:16:26.317	Info	Moviendo telescopio...
+19/02/2019 04:16:31.881	Info	Intento 15
+19/02/2019 04:16:33.970	Info	DX fuera de rango (dx: 133.0 - min: 30.0 - max: 52.0)
+19/02/2019 04:16:33.970	Info	Moviendo telescopio...
+19/02/2019 04:16:40.189	Info	Intento 16
+19/02/2019 04:16:42.371	Info	DX fuera de rango (dx: 67.0 - min: 30.0 - max: 52.0)
+19/02/2019 04:16:42.371	Info	Moviendo telescopio...
+19/02/2019 04:16:47.686	Info	Intento 17
+19/02/2019 04:16:50.226	Info	DX fuera de rango (dx: 441.0 - min: 30.0 - max: 52.0)
+19/02/2019 04:16:50.257	Info	Moviendo telescopio...
+19/02/2019 04:16:55.868	Info	Intento 18
+19/02/2019 04:16:58.019	Info	DX fuera de rango (dx: 233.0 - min: 30.0 - max: 52.0)
+19/02/2019 04:16:58.019	Info	Moviendo telescopio...
+19/02/2019 04:17:04.783	Info	Intento 19
+19/02/2019 04:17:07.168	Info	DX fuera de rango (dx: 284.0 - min: 30.0 - max: 52.0)
+19/02/2019 04:17:07.168	Info	Moviendo telescopio...
+19/02/2019 04:17:12.265	Info	Intento 20
+19/02/2019 04:17:18.608	Info	Los spots estan centrados
+19/02/2019 04:17:18.608	Info	*** Tiempo centrado de spots: 179.89 ***
+19/02/2019 04:17:18.608	Debg	---------------------------------------------
+19/02/2019 04:17:18.608	Debg	--------------- Check focal -----------------
+19/02/2019 04:17:18.608	Debg	---------------------------------------------
+19/02/2019 04:17:18.608	Info	Comprobando el foco...
+19/02/2019 04:17:18.624	Info	Intento 0
+19/02/2019 04:17:19.465	Info	DX: 36.45 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 04:17:19.512	Info	Moviendo el foco...
+19/02/2019 04:17:21.382	Info	Intento 1
+19/02/2019 04:17:28.162	Info	Maximos fuera de rango (diff: 176.0 - nsigma: 100.02651387520842)
+19/02/2019 04:17:28.178	Info	Maximos fuera de rango (diff: 165.0 - nsigma: 137.6737065732783)
+19/02/2019 04:17:33.274	Info	DX: 42.11 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 04:17:33.274	Info	Moviendo el foco...
+19/02/2019 04:17:35.737	Info	Intento 2
+19/02/2019 04:17:41.815	Info	Maximos fuera de rango (diff: 175.0 - nsigma: 112.18578479938628)
+19/02/2019 04:17:46.554	Info	DX: 40.79 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 04:17:46.554	Info	La imagen esta enfocada
+19/02/2019 04:17:46.554	Info	*** Tiempo enfocado: 27.95 ***
+19/02/2019 04:17:46.554	Info	*** Tiempo seleccion de estrella: 237.42 ***
+19/02/2019 04:17:46.554	Debg	---------------------------------------------
+19/02/2019 04:17:46.554	Debg	---------- Generating datas file ------------
+19/02/2019 04:17:46.569	Debg	---------------------------------------------
+19/02/2019 04:17:46.569	Info	##### PACK: OTSX_PJBQER_190219041746
