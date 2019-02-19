@@ -8767,3 +8767,39 @@ CODE:OT:VIVALDI	Date:2019-02-19 03:36:57.284000	Hum:8.2000	WS:20.7000	DewPoint:0
 19/02/2019 03:38:21.137	Info	Intento 0
 19/02/2019 03:39:23.076	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
 19/02/2019 03:39:23.076	Info	Recovery Image Server error
+19/02/2019 03:40:40.990	Error	No se ha podido conseguir imagen del servidor
+19/02/2019 03:40:40.990	Info	Intento 1
+19/02/2019 03:40:43.624	Info	Maximos fuera de rango (diff: 251.0 - nsigma: 172.44581594846633)
+19/02/2019 03:40:43.640	Info	Moviendo telescopio...
+19/02/2019 03:40:58.103	Info	Intento 2
+19/02/2019 03:41:00.628	Info	DX fuera de rango (dx: 274.0 - min: 30.0 - max: 52.0)
+19/02/2019 03:41:00.628	Info	Moviendo telescopio...
+19/02/2019 03:41:08.266	Info	Intento 3
+19/02/2019 03:41:11.289	Info	DX fuera de rango (dx: 205.0 - min: 30.0 - max: 52.0)
+19/02/2019 03:41:11.289	Info	Moviendo telescopio...
+19/02/2019 03:41:19.285	Info	Intento 4
+19/02/2019 03:41:22.153	Info	DX fuera de rango (dx: 468.0 - min: 30.0 - max: 52.0)
+19/02/2019 03:41:22.153	Info	Moviendo telescopio...
+19/02/2019 03:41:29.727	Info	Intento 5
+19/02/2019 03:41:37.957	Info	Los spots estan centrados
+19/02/2019 03:41:37.957	Info	*** Tiempo centrado de spots: 201.0 ***
+19/02/2019 03:41:37.957	Debg	---------------------------------------------
+19/02/2019 03:41:37.957	Debg	--------------- Check focal -----------------
+19/02/2019 03:41:37.972	Debg	---------------------------------------------
+19/02/2019 03:41:37.972	Info	Comprobando el foco...
+19/02/2019 03:41:37.972	Info	Intento 0
+19/02/2019 03:41:37.972	Error (get dx dat 2)	'str' object has no attribute 'images'
+19/02/2019 03:41:37.972	Info	DX: 0.0 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 03:41:37.972	Error	Imagenes no aptas para calcular el foco
+19/02/2019 03:41:37.972	Info	Intento 1
+19/02/2019 03:41:43.677	Info	Maximos fuera de rango (diff: 315.0 - nsigma: 175.98049979346706)
+19/02/2019 03:41:43.833	Info	Maximos fuera de rango (diff: 246.0 - nsigma: 123.92156333959826)
+19/02/2019 03:41:43.895	Info	Maximos fuera de rango (diff: 303.0 - nsigma: 153.52521313173625)
+19/02/2019 03:41:47.838	Info	DX: 41.39 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 03:41:47.838	Info	La imagen esta enfocada
+19/02/2019 03:41:47.838	Info	*** Tiempo enfocado: 9.87 ***
+19/02/2019 03:41:47.838	Info	*** Tiempo seleccion de estrella: 230.35 ***
+19/02/2019 03:41:47.838	Debg	---------------------------------------------
+19/02/2019 03:41:47.838	Debg	---------- Generating datas file ------------
+19/02/2019 03:41:47.838	Debg	---------------------------------------------
+19/02/2019 03:41:47.854	Info	##### PACK: OTSX_ZBMNBF_190219034147
