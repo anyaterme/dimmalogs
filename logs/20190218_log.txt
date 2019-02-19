@@ -6126,3 +6126,7 @@ CODE:OT:VIVALDI	Date:2019-02-19 00:54:03.841000	Hum:7.3000	WS:27.6000	DewPoint:0
 19/02/2019 00:54:48.900	Info	Intento 0
 19/02/2019 00:55:50.449	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
 19/02/2019 00:55:50.449	Info	Recovery Image Server error
+19/02/2019 00:57:04.155	Error	No se ha podido conseguir imagen del servidor
+19/02/2019 00:57:04.155	Info	Intento 1
+19/02/2019 00:57:06.821	Info	Maximos fuera de rango (diff: 290.0 - nsigma: 246.41388215776976)
+19/02/2019 00:57:06.821	Info	Moviendo telescopio...
