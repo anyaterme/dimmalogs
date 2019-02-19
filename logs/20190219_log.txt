@@ -46,3 +46,42 @@
 19/02/2019 18:09:04.663	Debg		Servidor de meteo cerrado
 19/02/2019 18:09:04.663	Debg	
 19/02/2019 18:10:14.005	Error	Agent is off. Launching agent
+19/02/2019 18:56:13.876	Info	We are moving in observation period...
+19/02/2019 18:56:13.876	Debg	
+19/02/2019 18:56:13.876	Debg	--- INICIALIZANDO SERVIDORES ---
+19/02/2019 18:56:13.876	Debg	
+19/02/2019 18:56:13.876	Debg	Inicializando servidor de meteo...
+19/02/2019 18:56:25.799	Debg		Servidor de meteo iniciado
+19/02/2019 18:56:25.799	Debg	
+19/02/2019 18:56:25.799	Debg	Inicializando servidor de sky...
+19/02/2019 18:56:37.847	Debg		Servidor de sky iniciado
+19/02/2019 18:56:37.847	Debg	
+19/02/2019 18:56:37.847	Debg	Inicializando servidor de la pci...
+19/02/2019 18:56:39.390	Debg		Servidor de pci iniciado
+19/02/2019 18:56:39.390	Debg	
+19/02/2019 18:56:39.390	Debg	Inicializando servidor del foco...
+19/02/2019 18:56:41.104	Debg		Servidor de foco iniciado
+19/02/2019 18:56:41.104	Debg	
+19/02/2019 18:57:40.955	Debg	Inicializando servidor de la cupula...
+19/02/2019 18:57:42.903	Debg		Servidor de cupula iniciado
+19/02/2019 18:57:42.903	Debg	
+19/02/2019 18:57:43.261	Debg	--- INICIANDO OBSERVACION ---
+19/02/2019 18:57:43.261	Error	Agent is off. Launching agent
+19/02/2019 18:57:43.261	Debg	
+19/02/2019 18:57:56.229	Debg	---------------------------------------------
+19/02/2019 18:57:56.229	Debg	-------------------- Meteo ------------------
+19/02/2019 18:57:56.229	Debg	---------------------------------------------
+19/02/2019 18:57:57.445	Info	
+CODE:OT:IAC	Date:2019-02-19 18:57:22.703000	Hum:13.0000	WS:9.7200	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-19 18:57:22.532000	Hum:0.0000	WS:17.3880	DewPoint:0.0000	Dust:0.0008
+CODE:OT:VIVALDI	Date:2019-02-19 18:57:23.748000	Hum:13.0000	WS:16.1000	DewPoint:0.0000	Dust:2.5000
+
+19/02/2019 18:57:57.460	Debg	---------------------------------------------
+19/02/2019 18:57:57.460	Debg	------------------ Get Ready ----------------
+19/02/2019 18:57:57.460	Debg	---------------------------------------------
+19/02/2019 18:57:57.460	Info	Abriendo cupula (este proceso puede tardar unos minutos)...
+19/02/2019 18:57:57.460	Info	Abriendo cupula lado A (0)...
+19/02/2019 18:58:47.196	Info	Abriendo cupula lado A (1)...
+19/02/2019 18:59:18.617	Info	Abriendo cupula lado A (2)...
+19/02/2019 18:59:29.263	Info	Lado A abierto
+19/02/2019 18:59:32.255	Info	Abriendo cupula lado B (0)...
