@@ -8733,3 +8733,28 @@ CODE:OT:VIVALDI	Date:2019-02-19 03:31:34.459000	Hum:8.2000	WS:20.7000	DewPoint:0
 19/02/2019 03:33:32.647	Debg	---------- Generating datas file ------------
 19/02/2019 03:33:32.647	Debg	---------------------------------------------
 19/02/2019 03:33:32.647	Info	##### PACK: OTSX_FA91GZ_190219033332
+19/02/2019 03:36:40.732	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+19/02/2019 03:36:40.732	Info	Recovery Image Server error
+19/02/2019 03:37:56.012	Error (class Pack, get images)	list index out of range
+19/02/2019 03:37:56.012	Error (get data pack)	list index out of range
+19/02/2019 03:37:56.012	Info	*** Tiempo generacion del fichero 263.37 ***
+19/02/2019 03:37:56.012	Debg	---------------------------------------------
+19/02/2019 03:37:56.012	Debg	------------ Calculating seeing -------------
+19/02/2019 03:37:56.012	Debg	---------------------------------------------
+19/02/2019 03:37:56.012	Error (procces_datas)	'str' object has no attribute 'get_seeing'
+19/02/2019 03:37:56.012	Info	*** Tiempo calculo del seeing 0.0 ***
+19/02/2019 03:37:56.012	Info	*** Tiempo procesado de datos: 263.37 ***
+19/02/2019 03:37:56.012	Info	*** TIEMPO TOTAL ITERACION: 339.02 ***
+19/02/2019 03:37:56.012	Debg	---------------------------------------------
+19/02/2019 03:37:56.012	Debg	-------------------- Meteo ------------------
+19/02/2019 03:37:56.028	Debg	---------------------------------------------
+19/02/2019 03:37:57.493	Info	
+CODE:OT:IAC	Date:2019-02-19 03:36:56.349000	Hum:10.4000	WS:9.3600	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-19 03:36:55.804000	Hum:0.0000	WS:20.8800	DewPoint:0.0000	Dust:0.0008
+CODE:OT:VIVALDI	Date:2019-02-19 03:36:57.284000	Hum:8.2000	WS:20.7000	DewPoint:0.0000	Dust:1.9000
+
+19/02/2019 03:37:57.508	Debg	---------------------------------------------
+19/02/2019 03:37:57.508	Debg	---------------- Star Selection -------------
+19/02/2019 03:37:57.508	Debg	---------------------------------------------
+19/02/2019 03:37:57.508	Info	Comprobando que la estella es observable...
+19/02/2019 03:38:02.293	info	La estrella sigue siendo observable(Alkaid)
