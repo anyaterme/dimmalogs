@@ -11697,3 +11697,59 @@ CODE:OT:VIVALDI	Date:2019-02-19 06:32:38.636000	Hum:8.5000	WS:25.9000	DewPoint:0
 19/02/2019 06:34:00.462	Debg	---------- Generating datas file ------------
 19/02/2019 06:34:00.462	Debg	---------------------------------------------
 19/02/2019 06:34:00.478	Info	##### PACK: OTSX_67O46S_190219063400
+19/02/2019 06:35:45.266	Info	##### (OTSX_67O46S_190219063400) Se ha generado el fichero: D:/DIMMLAB\19_02_18\OTSX190219063519.txt
+19/02/2019 06:35:45.266	Info	*** Tiempo generacion del fichero 104.8 ***
+19/02/2019 06:35:45.266	Debg	---------------------------------------------
+19/02/2019 06:35:45.266	Debg	------------ Calculating seeing -------------
+19/02/2019 06:35:45.266	Debg	---------------------------------------------
+19/02/2019 06:35:53.542	Info	
+19/02/2019 06:35:53.542	Info	SEEING: 1.845173333299933 (used imgs: 198) (OTSX_67O46S_190219063400)
+19/02/2019 06:35:53.542	Info	
+19/02/2019 06:35:53.542	Info	*** Tiempo calculo del seeing 8.28 ***
+19/02/2019 06:35:53.542	Info	*** Tiempo procesado de datos: 113.08 ***
+19/02/2019 06:35:53.542	Info	*** TIEMPO TOTAL ITERACION: 150.49 ***
+19/02/2019 06:35:53.542	Debg	---------------------------------------------
+19/02/2019 06:35:53.542	Debg	-------------------- Meteo ------------------
+19/02/2019 06:35:53.542	Debg	---------------------------------------------
+19/02/2019 06:35:55.739	Info	
+CODE:OT:IAC	Date:2019-02-19 06:35:46.700000	Hum:11.0000	WS:23.0400	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-19 06:35:46.279000	Hum:0.0000	WS:25.9200	DewPoint:0.0000	Dust:0.0008
+CODE:OT:VIVALDI	Date:2019-02-19 06:35:47.588000	Hum:8.5000	WS:25.9000	DewPoint:0.0000	Dust:1.9000
+
+19/02/2019 06:35:55.739	Debg	---------------------------------------------
+19/02/2019 06:35:55.739	Debg	---------------- Star Selection -------------
+19/02/2019 06:35:55.739	Debg	---------------------------------------------
+19/02/2019 06:35:55.739	Info	Comprobando que la estella es observable...
+19/02/2019 06:35:59.527	info	La estrella sigue siendo observable(Alkaid)
+19/02/2019 06:36:10.795	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '1.58335296442', 'az': '325.531294', 'name': 'Alkaid', 'airmass': '1.129444', 'ha_hours': 'hms_tuple(h=1.0, m=35.0, s=0.07067192462173466)', 'alt': '62.299558', 'dec': '49.215354', 'magnitude': '1.850000', 'ra': '13.804972'}
+19/02/2019 06:36:10.795	Info	*** Tiempo seleccion de estrella: 15.06 ***
+19/02/2019 06:36:10.795	Debg	---------------------------------------------
+19/02/2019 06:36:10.795	Debg	-------------- Check spots ------------------
+19/02/2019 06:36:10.795	Debg	---------------------------------------------
+19/02/2019 06:36:10.795	Info	Centrando spots...
+19/02/2019 06:36:14.988	Info	Intento 0
+19/02/2019 06:36:17.731	Info	Maximos fuera de rango (diff: 116.0 - nsigma: 98.05761612785311)
+19/02/2019 06:36:17.731	Info	Moviendo telescopio...
+19/02/2019 06:36:23.327	Info	Intento 1
+19/02/2019 06:36:25.805	Info	Maximos fuera de rango (diff: 185.0 - nsigma: 163.05063772222107)
+19/02/2019 06:36:25.805	Info	Moviendo telescopio...
+19/02/2019 06:36:30.481	Info	Intento 2
+19/02/2019 06:36:32.631	Info	Ventana de spots fuera de rango (cx: 589 - cy: 46 - left: 80 - right: 560 - down: 30 - up: 450)
+19/02/2019 06:36:32.631	Info	Moviendo telescopio...
+19/02/2019 06:36:37.572	Info	Intento 3
+19/02/2019 06:36:40.643	Info	DX fuera de rango (dx: 289.0 - min: 30.0 - max: 52.0)
+19/02/2019 06:36:40.643	Info	Moviendo telescopio...
+19/02/2019 06:36:44.181	Info	Intento 4
+19/02/2019 06:36:46.409	Info	DX fuera de rango (dx: 63.0 - min: 30.0 - max: 52.0)
+19/02/2019 06:36:46.409	Info	Moviendo telescopio...
+19/02/2019 06:36:51.459	Info	Intento 5
+19/02/2019 06:36:57.647	Info	Los spots estan centrados
+19/02/2019 06:36:57.647	Info	*** Tiempo centrado de spots: 46.85 ***
+19/02/2019 06:36:57.647	Debg	---------------------------------------------
+19/02/2019 06:36:57.647	Debg	--------------- Check focal -----------------
+19/02/2019 06:36:57.647	Debg	---------------------------------------------
+19/02/2019 06:36:57.647	Info	Comprobando el foco...
+19/02/2019 06:36:57.663	Info	Intento 0
+19/02/2019 06:36:58.130	Info	DX: 40.4 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 06:36:58.130	Info	Moviendo el foco...
+19/02/2019 06:37:00.967	Info	Intento 1
