@@ -8187,3 +8187,25 @@ CODE:OT:VIVALDI	Date:2019-02-19 03:04:10.156000	Hum:7.3000	WS:18.2000	DewPoint:0
 19/02/2019 03:05:01.356	Info	Intento 2
 19/02/2019 03:05:04.505	Info	DX fuera de rango (dx: 169.0 - min: 30.0 - max: 52.0)
 19/02/2019 03:05:04.505	Info	Moviendo telescopio...
+19/02/2019 03:05:10.412	Info	Intento 3
+19/02/2019 03:05:12.610	Info	DX fuera de rango (dx: 265.0 - min: 30.0 - max: 52.0)
+19/02/2019 03:05:12.610	Info	Moviendo telescopio...
+19/02/2019 03:05:16.818	Info	Intento 4
+19/02/2019 03:05:19.343	Info	DX fuera de rango (dx: 16.0 - min: 30.0 - max: 52.0)
+19/02/2019 03:05:19.343	Info	Moviendo telescopio...
+19/02/2019 03:05:24.657	Info	Intento 5
+19/02/2019 03:05:31.406	Info	Los spots estan centrados
+19/02/2019 03:05:31.406	Info	*** Tiempo centrado de spots: 55.3 ***
+19/02/2019 03:05:31.406	Debg	---------------------------------------------
+19/02/2019 03:05:31.406	Debg	--------------- Check focal -----------------
+19/02/2019 03:05:31.406	Debg	---------------------------------------------
+19/02/2019 03:05:31.406	Info	Comprobando el foco...
+19/02/2019 03:05:31.422	Info	Intento 0
+19/02/2019 03:05:32.217	Info	DX: 40.71 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 03:05:32.217	Info	La imagen esta enfocada
+19/02/2019 03:05:32.217	Info	*** Tiempo enfocado: 0.81 ***
+19/02/2019 03:05:32.217	Info	*** Tiempo seleccion de estrella: 73.67 ***
+19/02/2019 03:05:32.217	Debg	---------------------------------------------
+19/02/2019 03:05:32.217	Debg	---------- Generating datas file ------------
+19/02/2019 03:05:32.217	Debg	---------------------------------------------
+19/02/2019 03:05:32.217	Info	##### PACK: OTSX_JTUQHI_190219030532
