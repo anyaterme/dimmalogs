@@ -12277,3 +12277,54 @@ CODE:OT:VIVALDI	Date:2019-02-19 07:04:16.995000	Hum:8.3000	WS:24.6000	DewPoint:0
 19/02/2019 07:04:54.074	Debg	---------------------------------------------
 19/02/2019 07:04:54.074	Info	Comprobando que la estella es observable...
 19/02/2019 07:05:03.878	info	La estrella sigue siendo observable(Alkaid)
+19/02/2019 07:05:19.589	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '2.08502806562', 'az': '319.850547', 'name': 'Alkaid', 'airmass': '1.175748', 'ha_hours': 'hms_tuple(h=2.0, m=5.0, s=6.10103622289202)', 'alt': '58.268265', 'dec': '49.215354', 'magnitude': '1.850000', 'ra': '13.804972'}
+19/02/2019 07:05:19.589	Info	*** Tiempo seleccion de estrella: 25.52 ***
+19/02/2019 07:05:19.589	Debg	---------------------------------------------
+19/02/2019 07:05:19.589	Debg	-------------- Check spots ------------------
+19/02/2019 07:05:19.589	Debg	---------------------------------------------
+19/02/2019 07:05:19.589	Info	Centrando spots...
+19/02/2019 07:05:23.547	Info	Intento 0
+19/02/2019 07:05:25.948	Info	Maximos fuera de rango (diff: 147.0 - nsigma: 108.1579061768581)
+19/02/2019 07:05:25.948	Info	Moviendo telescopio...
+19/02/2019 07:05:31.372	Info	Intento 1
+19/02/2019 07:05:35.325	Info	Maximos fuera de rango (diff: 315.0 - nsigma: 179.60035537814196)
+19/02/2019 07:05:35.325	Info	Moviendo telescopio...
+19/02/2019 07:05:40.811	Info	Intento 2
+19/02/2019 07:05:43.336	Info	DX fuera de rango (dx: 434.0 - min: 30.0 - max: 52.0)
+19/02/2019 07:05:43.352	Info	Moviendo telescopio...
+19/02/2019 07:05:49.010	Info	Intento 3
+19/02/2019 07:05:51.955	Info	DX fuera de rango (dx: 164.0 - min: 30.0 - max: 52.0)
+19/02/2019 07:05:51.955	Info	Moviendo telescopio...
+19/02/2019 07:05:56.771	Info	Intento 4
+19/02/2019 07:05:59.187	Info	Maximos fuera de rango (diff: 37.64402500000001 - nsigma: 28.79211958898882)
+19/02/2019 07:05:59.187	Info	Moviendo telescopio...
+19/02/2019 07:06:04.907	Info	Intento 5
+19/02/2019 07:06:12.482	Info	Maximos fuera de rango (diff: 301.0 - nsigma: 162.76825729040905)
+19/02/2019 07:06:12.482	Info	Moviendo telescopio...
+19/02/2019 07:06:21.351	Info	Intento 6
+19/02/2019 07:06:23.953	Info	DX fuera de rango (dx: 126.0 - min: 30.0 - max: 52.0)
+19/02/2019 07:06:23.953	Info	Moviendo telescopio...
+19/02/2019 07:06:29.190	Info	Intento 7
+19/02/2019 07:06:31.435	Info	DX fuera de rango (dx: 155.0 - min: 30.0 - max: 52.0)
+19/02/2019 07:06:31.435	Info	Moviendo telescopio...
+19/02/2019 07:06:36.204	Info	Intento 8
+19/02/2019 07:06:38.682	Info	Moviendo telescopio...
+19/02/2019 07:06:43.639	Info	Intento 9
+19/02/2019 07:06:46.413	Info	DX fuera de rango (dx: 472.0 - min: 30.0 - max: 52.0)
+19/02/2019 07:06:46.413	Info	Moviendo telescopio...
+19/02/2019 07:06:52.554	Info	Intento 10
+19/02/2019 07:06:59.412	Info	Los spots estan centrados
+19/02/2019 07:06:59.412	Info	*** Tiempo centrado de spots: 99.82 ***
+19/02/2019 07:06:59.412	Debg	---------------------------------------------
+19/02/2019 07:06:59.412	Debg	--------------- Check focal -----------------
+19/02/2019 07:06:59.412	Debg	---------------------------------------------
+19/02/2019 07:06:59.412	Info	Comprobando el foco...
+19/02/2019 07:06:59.412	Info	Intento 0
+19/02/2019 07:07:00.300	Info	DX: 41.01 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 07:07:00.300	Info	La imagen esta enfocada
+19/02/2019 07:07:00.300	Info	*** Tiempo enfocado: 0.89 ***
+19/02/2019 07:07:00.300	Info	*** Tiempo seleccion de estrella: 126.23 ***
+19/02/2019 07:07:00.300	Debg	---------------------------------------------
+19/02/2019 07:07:00.300	Debg	---------- Generating datas file ------------
+19/02/2019 07:07:00.300	Debg	---------------------------------------------
+19/02/2019 07:07:00.300	Info	##### PACK: OTSX_V844WI_190219070700
