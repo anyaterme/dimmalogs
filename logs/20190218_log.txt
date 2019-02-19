@@ -6263,3 +6263,36 @@ CODE:OT:VIVALDI	Date:2019-02-19 01:01:29.585000	Hum:7.8000	WS:26.1000	DewPoint:0
 19/02/2019 01:03:00.429	Info	Ventana de spots fuera de rango (cx: 580 - cy: 174 - left: 80 - right: 560 - down: 30 - up: 450)
 19/02/2019 01:03:00.429	Info	Moviendo telescopio...
 19/02/2019 01:03:06.367	Info	Intento 4
+19/02/2019 01:03:08.642	Info	DX fuera de rango (dx: 224.0 - min: 30.0 - max: 52.0)
+19/02/2019 01:03:08.642	Info	Moviendo telescopio...
+19/02/2019 01:03:14.518	Info	Intento 5
+19/02/2019 01:03:16.872	Info	Maximos fuera de rango (diff: 305.0 - nsigma: 99.82093662385435)
+19/02/2019 01:03:16.872	Info	Moviendo telescopio...
+19/02/2019 01:03:23.964	Info	Intento 6
+19/02/2019 01:03:26.239	Info	Ventana de spots fuera de rango (cx: 467 - cy: 20 - left: 80 - right: 560 - down: 30 - up: 450)
+19/02/2019 01:03:26.239	Info	Moviendo telescopio...
+19/02/2019 01:03:32.473	Info	Intento 7
+19/02/2019 01:03:34.920	Info	DX fuera de rango (dx: 212.0 - min: 30.0 - max: 52.0)
+19/02/2019 01:03:34.920	Info	Moviendo telescopio...
+19/02/2019 01:03:40.329	Info	Intento 8
+19/02/2019 01:03:43.041	Info	DX fuera de rango (dx: 219.0 - min: 30.0 - max: 52.0)
+19/02/2019 01:03:43.041	Info	Moviendo telescopio...
+19/02/2019 01:03:47.732	Info	Intento 9
+19/02/2019 01:03:50.008	Info	DX fuera de rango (dx: 80.0 - min: 30.0 - max: 52.0)
+19/02/2019 01:03:50.008	Info	Moviendo telescopio...
+19/02/2019 01:03:54.387	Info	Intento 10
+19/02/2019 01:04:03.412	Info	Los spots estan centrados
+19/02/2019 01:04:03.412	Info	*** Tiempo centrado de spots: 91.85 ***
+19/02/2019 01:04:03.412	Debg	---------------------------------------------
+19/02/2019 01:04:03.412	Debg	--------------- Check focal -----------------
+19/02/2019 01:04:03.412	Debg	---------------------------------------------
+19/02/2019 01:04:03.412	Info	Comprobando el foco...
+19/02/2019 01:04:03.427	Info	Intento 0
+19/02/2019 01:04:04.518	Info	DX: 40.7 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 01:04:04.534	Info	La imagen esta enfocada
+19/02/2019 01:04:04.534	Info	*** Tiempo enfocado: 1.12 ***
+19/02/2019 01:04:04.534	Info	*** Tiempo seleccion de estrella: 113.71 ***
+19/02/2019 01:04:04.534	Debg	---------------------------------------------
+19/02/2019 01:04:04.534	Debg	---------- Generating datas file ------------
+19/02/2019 01:04:04.534	Debg	---------------------------------------------
+19/02/2019 01:04:04.534	Info	##### PACK: OTSX_SHU1MY_190219010404
