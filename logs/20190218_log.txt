@@ -11428,3 +11428,32 @@ CODE:OT:VIVALDI	Date:2019-02-19 06:13:39.196000	Hum:9.1000	WS:11.3000	DewPoint:0
 19/02/2019 06:17:17.813	Info	Intento 1
 19/02/2019 06:18:19.346	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
 19/02/2019 06:18:19.378	Info	Recovery Image Server error
+19/02/2019 06:19:29.187	Error	No se ha podido conseguir imagen del servidor
+19/02/2019 06:19:29.187	Info	Intento 2
+19/02/2019 06:19:31.572	Info	Maximos fuera de rango (diff: 315.0 - nsigma: 211.50401386118534)
+19/02/2019 06:19:31.572	Info	Moviendo telescopio...
+19/02/2019 06:19:36.591	Info	Intento 3
+19/02/2019 06:19:43.635	Info	Los spots estan centrados
+19/02/2019 06:19:43.635	Info	*** Tiempo centrado de spots: 285.64 ***
+19/02/2019 06:19:43.635	Debg	---------------------------------------------
+19/02/2019 06:19:43.635	Debg	--------------- Check focal -----------------
+19/02/2019 06:19:43.635	Debg	---------------------------------------------
+19/02/2019 06:19:43.635	Info	Comprobando el foco...
+19/02/2019 06:19:43.651	Info	Intento 0
+19/02/2019 06:19:44.446	Info	DX: 41.84 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 06:19:44.446	Info	Moviendo el foco...
+19/02/2019 06:19:46.301	Info	Intento 1
+19/02/2019 06:19:55.512	Info	Maximos fuera de rango (diff: 178.0 - nsigma: 107.38447788184268)
+19/02/2019 06:19:55.590	Info	Maximos fuera de rango (diff: 213.0 - nsigma: 118.08218445010223)
+19/02/2019 06:20:00.406	Info	DX: 41.68 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 06:20:00.406	Info	Moviendo el foco...
+19/02/2019 06:20:03.819	Info	Intento 2
+19/02/2019 06:20:10.319	Info	Maximos fuera de rango (diff: 462.0 - nsigma: 115.0210608702149)
+19/02/2019 06:20:15.493	Info	DX: 41.11 (MIN: 40.5 - MAX: 41.5)
+19/02/2019 06:20:15.493	Info	La imagen esta enfocada
+19/02/2019 06:20:15.493	Info	*** Tiempo enfocado: 31.86 ***
+19/02/2019 06:20:15.493	Info	*** Tiempo seleccion de estrella: 332.86 ***
+19/02/2019 06:20:15.493	Debg	---------------------------------------------
+19/02/2019 06:20:15.493	Debg	---------- Generating datas file ------------
+19/02/2019 06:20:15.493	Debg	---------------------------------------------
+19/02/2019 06:20:15.493	Info	##### PACK: OTSX_DL3G40_190219062015
