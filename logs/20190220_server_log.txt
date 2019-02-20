@@ -4126,3 +4126,17 @@ get_seeing_thread @ 	This package contain 200 images...
 20/02/2019 22:59:40.434	Info	Connected by ('127.0.0.1', 3272) --> command: ping
 20/02/2019 22:59:40.590	Info	Connected by ('127.0.0.1', 3273) --> command: ping
 20/02/2019 22:59:56.472	Info	Connected by ('127.0.0.1', 3280) --> command: ping
+ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+ERROR: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+get_images @ Tiempo de procesado de las 200 imagenes: 109.180000067
+get_seeing_thread @ 	This package contain 200 images...
+20/02/2019 23:00:16.890	Info	Connected by ('127.0.0.1', 3976) --> command: ping
+20/02/2019 23:00:33.006	Info	Connected by ('127.0.0.1', 4261) --> command: ping
+20/02/2019 23:00:40.674	Info	Connected by ('127.0.0.1', 4262) --> command: ping
+20/02/2019 23:00:48.623	Info	Connected by ('127.0.0.1', 4268) --> command: ping
+20/02/2019 23:01:04.334	Info	Connected by ('127.0.0.1', 4274) --> command: ping
+20/02/2019 23:01:20.029	Info	Connected by ('127.0.0.1', 4281) --> command: ping
+20/02/2019 23:01:35.677	Info	Connected by ('127.0.0.1', 4293) --> command: ping
+20/02/2019 23:01:40.727	Info	Connected by ('127.0.0.1', 4294) --> command: ping
+20/02/2019 23:01:51.295	Info	Connected by ('127.0.0.1', 4300) --> command: ping
+20/02/2019 23:02:07.021	Info	Connected by ('127.0.0.1', 4366) --> command: ping
