@@ -4552,3 +4552,52 @@
 20/02/2019 21:41:07.248	Debg	---------------- Star Selection -------------
 20/02/2019 21:41:07.248	Debg	---------------------------------------------
 20/02/2019 21:41:07.248	Info	Seleccionando estella...
+20/02/2019 21:42:22.294	Info	Estella seleccionada --> Capella
+	airmass: 1.089309
+	ha hours: hms_tuple(h=1.0, m=17.0, s=24.22556940911946)
+	ra: 5.301575
+	dec: 46.018713
+20/02/2019 21:42:22.294	Info	*** Tiempo seleccion de estrella: 75.05 ***
+20/02/2019 21:42:22.294	Debg	---------------------------------------------
+20/02/2019 21:42:22.294	Debg	-------------- Check spots ------------------
+20/02/2019 21:42:22.294	Debg	---------------------------------------------
+20/02/2019 21:42:22.294	Info	Centrando spots...
+20/02/2019 21:42:24.851	Info	Intento 0
+20/02/2019 21:42:27.220	Info	Maximos fuera de rango (diff: 652.0 - nsigma: 344.98772275469855)
+20/02/2019 21:42:27.220	Info	Moviendo telescopio...
+20/02/2019 21:42:30.804	Info	Intento 1
+20/02/2019 21:42:32.644	Info	Maximos fuera de rango (diff: 373.0 - nsigma: 303.90305825495204)
+20/02/2019 21:42:32.644	Info	Moviendo telescopio...
+20/02/2019 21:42:35.340	Info	Intento 2
+20/02/2019 21:42:37.023	Info	DX fuera de rango (dx: 65.0 - min: 30.0 - max: 52.0)
+20/02/2019 21:42:37.023	Info	Moviendo telescopio...
+20/02/2019 21:42:38.675	Info	Intento 3
+20/02/2019 21:42:40.483	Info	DX fuera de rango (dx: 109.0 - min: 30.0 - max: 52.0)
+20/02/2019 21:42:40.483	Info	Moviendo telescopio...
+20/02/2019 21:42:42.712	Info	Intento 4
+20/02/2019 21:42:44.442	Info	DX fuera de rango (dx: 66.0 - min: 30.0 - max: 52.0)
+20/02/2019 21:42:44.442	Info	Moviendo telescopio...
+20/02/2019 21:42:46.874	Info	Intento 5
+20/02/2019 21:42:51.658	Info	Los spots estan centrados
+20/02/2019 21:42:51.658	Info	*** Tiempo centrado de spots: 29.36 ***
+20/02/2019 21:42:51.658	Debg	---------------------------------------------
+20/02/2019 21:42:51.658	Debg	--------------- Check focal -----------------
+20/02/2019 21:42:51.658	Debg	---------------------------------------------
+20/02/2019 21:42:51.658	Info	Comprobando el foco...
+20/02/2019 21:42:51.674	Info	Intento 0
+20/02/2019 21:42:55.929	Info	Maximos fuera de rango (diff: 454.0 - nsigma: 333.3038092431942)
+20/02/2019 21:42:56.007	Info	Maximos fuera de rango (diff: 335.0 - nsigma: 287.5867699795956)
+20/02/2019 21:42:56.147	Info	Maximos fuera de rango (diff: 448.0 - nsigma: 420.2836990776824)
+20/02/2019 21:42:59.109	Info	DX: 41.35 (MIN: 40.5 - MAX: 41.5)
+20/02/2019 21:42:59.109	Info	La imagen esta enfocada
+20/02/2019 21:42:59.109	Info	*** Tiempo enfocado: 7.45 ***
+20/02/2019 21:42:59.109	Info	*** Tiempo seleccion de estrella: 111.86 ***
+20/02/2019 21:42:59.109	Debg	---------------------------------------------
+20/02/2019 21:42:59.124	Debg	---------- Generating datas file ------------
+20/02/2019 21:42:59.124	Debg	---------------------------------------------
+20/02/2019 21:42:59.124	Info	##### PACK: OTSX_291YRN_190220214259
+20/02/2019 21:43:59.956	Info	##### (OTSX_291YRN_190220214259) Se ha generado el fichero: D:/DIMMLAB\19_02_20\OTSX190220214337.txt
+20/02/2019 21:43:59.956	Info	*** Tiempo generacion del fichero 60.85 ***
+20/02/2019 21:43:59.956	Debg	---------------------------------------------
+20/02/2019 21:43:59.956	Debg	------------ Calculating seeing -------------
+20/02/2019 21:44:00.003	Debg	---------------------------------------------
