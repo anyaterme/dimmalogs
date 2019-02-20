@@ -6506,3 +6506,23 @@
 20/02/2019 22:55:29.677	Debg	---------------------------------------------
 20/02/2019 22:55:29.677	Info	Centrando spots...
 20/02/2019 22:55:31.999	Info	Intento 0
+20/02/2019 22:56:34.525	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+20/02/2019 22:56:34.525	Info	Recovery Image Server error
+20/02/2019 22:57:41.965	ERROR	Error in open_tcp:  [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+20/02/2019 22:57:42.339	Error	No se ha podido conseguir imagen del servidor
+20/02/2019 22:57:42.339	Info	Intento 1
+20/02/2019 22:57:47.124	Info	Los spots estan centrados
+20/02/2019 22:57:47.124	Info	*** Tiempo centrado de spots: 137.45 ***
+20/02/2019 22:57:47.140	Debg	---------------------------------------------
+20/02/2019 22:57:47.140	Debg	--------------- Check focal -----------------
+20/02/2019 22:57:47.140	Debg	---------------------------------------------
+20/02/2019 22:57:47.140	Info	Comprobando el foco...
+20/02/2019 22:57:47.140	Info	Intento 0
+20/02/2019 22:57:47.888	Info	DX: 40.56 (MIN: 40.5 - MAX: 41.5)
+20/02/2019 22:57:47.888	Info	La imagen esta enfocada
+20/02/2019 22:57:47.888	Info	*** Tiempo enfocado: 0.75 ***
+20/02/2019 22:57:47.888	Info	*** Tiempo seleccion de estrella: 143.56 ***
+20/02/2019 22:57:47.888	Debg	---------------------------------------------
+20/02/2019 22:57:47.888	Debg	---------- Generating datas file ------------
+20/02/2019 22:57:47.888	Debg	---------------------------------------------
+20/02/2019 22:57:47.904	Info	##### PACK: OTSX_QSXBFA_190220225747
