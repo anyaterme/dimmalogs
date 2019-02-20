@@ -262,3 +262,12 @@ pin_off:123 @ New Status = c_ushort(32789)
 date: 20/02/2019 19:43:33.371	code: Info	text: Connected by ('127.0.0.1', 3341) --> command: ping
 date: 20/02/2019 19:43:49.222	code: Info	text: Connected by ('127.0.0.1', 3354) --> command: ping
 date: 20/02/2019 19:44:05.073	code: Info	text: Connected by ('127.0.0.1', 3561) --> command: ping
+date: 20/02/2019 19:44:21.033	code: Info	text: Connected by ('127.0.0.1', 4136) --> command: echo_dome
+pin_on:115 @ New Status = c_ushort(40981)
+date: 20/02/2019 19:44:21.189	code: Info	text: Connected by ('127.0.0.1', 4138) --> command: ping
+date: 20/02/2019 19:44:36.884	code: Info	text: Connected by ('127.0.0.1', 4147) --> command: ping
+date: 20/02/2019 19:44:52.564	code: Info	text: Connected by ('127.0.0.1', 4159) --> command: ping
+date: 20/02/2019 19:45:08.368	code: Info	text: Connected by ('127.0.0.1', 4168) --> command: ping
+date: 20/02/2019 19:45:21.273	code: Info	text: Connected by ('127.0.0.1', 4178) --> command: echo_dome
+pin_off:123 @ New Status = c_ushort(32789)
+date: 20/02/2019 19:45:55.694	code: Info	text: Connected by ('127.0.0.1', 4186) --> command: ping
