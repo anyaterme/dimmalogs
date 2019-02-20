@@ -976,3 +976,40 @@
 20/02/2019 19:35:16.051	Debg	---------------- Star Selection -------------
 20/02/2019 19:35:16.051	Debg	---------------------------------------------
 20/02/2019 19:35:16.067	Info	Seleccionando estella...
+20/02/2019 19:37:21.131	Info	Estella seleccionada --> Capella
+	airmass: 1.064722
+	ha hours: hms_tuple(h=-0.0, m=-47.0, s=-58.0756850080742)
+	ra: 5.301575
+	dec: 46.018711
+20/02/2019 19:37:21.131	Info	*** Tiempo seleccion de estrella: 125.06 ***
+20/02/2019 19:37:21.131	Debg	---------------------------------------------
+20/02/2019 19:37:21.131	Debg	-------------- Check spots ------------------
+20/02/2019 19:37:21.131	Debg	---------------------------------------------
+20/02/2019 19:37:21.131	Info	Centrando spots...
+20/02/2019 19:37:23.640	Info	Intento 0
+20/02/2019 19:37:25.682	Info	Maximos fuera de rango (diff: 1343.0 - nsigma: 417.02966911526397)
+20/02/2019 19:37:25.682	Info	Moviendo telescopio...
+20/02/2019 19:37:27.755	Info	Intento 1
+20/02/2019 19:37:32.602	Info	Los spots estan centrados
+20/02/2019 19:37:32.602	Info	*** Tiempo centrado de spots: 11.47 ***
+20/02/2019 19:37:32.602	Debg	---------------------------------------------
+20/02/2019 19:37:32.602	Debg	--------------- Check focal -----------------
+20/02/2019 19:37:32.602	Debg	---------------------------------------------
+20/02/2019 19:37:32.602	Info	Comprobando el foco...
+20/02/2019 19:37:32.618	Info	Intento 0
+20/02/2019 19:37:36.670	Info	Maximos fuera de rango (diff: 643.0 - nsigma: 537.1839107508652)
+20/02/2019 19:37:36.717	Info	Maximos fuera de rango (diff: 2183.0 - nsigma: 1129.4810424943616)
+20/02/2019 19:37:39.725	Info	DX: 42.29 (MIN: 40.5 - MAX: 41.5)
+20/02/2019 19:37:39.725	Info	Moviendo el foco...
+20/02/2019 19:37:40.660	Info	Intento 1
+20/02/2019 19:37:44.806	Info	Maximos fuera de rango (diff: 742.0 - nsigma: 573.6281529459811)
+20/02/2019 19:37:48.219	Info	DX: 42.29 (MIN: 40.5 - MAX: 41.5)
+20/02/2019 19:37:48.219	Info	Moviendo el foco...
+20/02/2019 19:37:48.858	Info	Intento 2
+20/02/2019 19:37:53.098	Info	Maximos fuera de rango (diff: 1399.0 - nsigma: 955.7351080999847)
+20/02/2019 19:37:53.113	Info	Maximos fuera de rango (diff: 664.0 - nsigma: 636.4497928417055)
+20/02/2019 19:37:53.238	Info	Maximos fuera de rango (diff: 994.0 - nsigma: 531.8418955644777)
+20/02/2019 19:37:56.246	Info	DX: 41.51 (MIN: 40.5 - MAX: 41.5)
+20/02/2019 19:37:56.246	Info	Moviendo el foco...
+20/02/2019 19:37:56.994	Info	Intento 3
+20/02/2019 19:38:01.530	Info	Maximos fuera de rango (diff: 1510.0 - nsigma: 413.3083323319533)
