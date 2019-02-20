@@ -160,3 +160,38 @@
 20/02/2019 13:37:42.286	Info	 --- NO SE PUEDE REALIZAR LA OBSERVACION POR MALA METEOROLOGIA ---
 20/02/2019 13:37:42.302	Info	--- Esperando a que mejore el clima ---
 20/02/2019 13:38:46.500	Error	Agent is off. Launching agent
+20/02/2019 18:57:37.670	Info	We are moving in observation period...
+20/02/2019 18:57:37.686	Debg	
+20/02/2019 18:57:37.686	Debg	--- INICIALIZANDO SERVIDORES ---
+20/02/2019 18:57:37.686	Debg	
+20/02/2019 18:57:37.686	Info	Inicializando servidor de meteo...
+20/02/2019 18:57:49.594	Info		Servidor de meteo iniciado
+20/02/2019 18:57:49.594	Debg	
+20/02/2019 18:57:49.594	Info	Inicializando servidor de sky...
+20/02/2019 18:58:01.642	Info		Servidor de sky iniciado
+20/02/2019 18:58:01.642	Debg	
+20/02/2019 18:58:01.642	Info	Inicializando servidor de la pci...
+20/02/2019 18:58:03.590	Info		Servidor de pci iniciado
+20/02/2019 18:58:03.590	Debg	
+20/02/2019 18:58:03.590	Info	Inicializando servidor del foco...
+20/02/2019 18:58:05.600	Info		Servidor de foco iniciado
+20/02/2019 18:58:05.600	Debg	
+20/02/2019 18:59:05.451	Info	Inicializando servidor de la cupula...
+20/02/2019 18:59:06.510	Error	Agent is off. Launching agent
+20/02/2019 18:59:17.467	Info		Servidor de cupula iniciado
+20/02/2019 18:59:17.467	Debg	
+20/02/2019 18:59:17.795	Debg	--- INICIANDO OBSERVACION ---
+20/02/2019 18:59:17.795	Debg	
+20/02/2019 18:59:37.854	Debg	---------------------------------------------
+20/02/2019 18:59:37.854	Debg	-------------------- Meteo ------------------
+20/02/2019 18:59:37.854	Debg	---------------------------------------------
+20/02/2019 18:59:42.436	Info	
+20/02/2019 18:59:42.436	Info	CODE:OT:IAC	Date:2019-02-20 18:58:46.140000	Hum:17.6000	WS:-0.3600	DewPoint:0.0000	Dust:0.0000
+20/02/2019 18:59:42.436	Info	CODE:OT:CWW	Date:2019-02-20 18:58:45.968000	Hum:0.0000	WS:2.5920	DewPoint:0.0000	Dust:0.0012
+20/02/2019 18:59:42.436	Info	CODE:OT:VIVALDI	Date:2019-02-20 18:58:46.794000	Hum:19.0000	WS:4.9000	DewPoint:0.0000	Dust:1.9000
+20/02/2019 18:59:42.436	Info	
+20/02/2019 18:59:42.436	Debg	---------------------------------------------
+20/02/2019 18:59:42.436	Debg	------------------ Get Ready ----------------
+20/02/2019 18:59:42.436	Debg	---------------------------------------------
+20/02/2019 18:59:42.452	Info	Abriendo cupula (este proceso puede tardar unos minutos)...
+20/02/2019 18:59:42.452	Info	Abriendo cupula lado A (0)...

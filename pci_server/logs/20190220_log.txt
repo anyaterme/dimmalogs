@@ -1,0 +1,17 @@
+
+date: 20/02/2019 18:58:03.153	code: Info	text: PCI server listening in :3330
+date: 20/02/2019 18:58:03.169	code: Info	text: Mount/Focus server started.... (port 3330)
+date: 20/02/2019 18:58:03.590	code: Info	text: Connected by ('127.0.0.1', 3913) --> command: ping
+__init__:35 @ Initializing driver...
+__init__:41 @ Driver is ok. 1 board(s) detected
+__init__:42 @ Activating board 0...[0 = No error] = 0
+__init__:44 @ Active Board = 0
+__init__:45 @ DLL Version = 513
+__init__:47 @ Test 2 - 1 = 1
+date: 20/02/2019 18:58:29.805	code: Info	text: Connected by ('127.0.0.1', 3920) --> command: ping
+date: 20/02/2019 18:59:09.877	code: Info	text: Connected by ('127.0.0.1', 3933) --> command: echo_dome
+pin_off:123 @ New Status = c_ushort(32784)
+date: 20/02/2019 18:59:16.221	code: Info	text: Connected by ('127.0.0.1', 3936) --> command: ping
+date: 20/02/2019 18:59:33.537	code: Info	text: Connected by ('127.0.0.1', 3944) --> command: ping
+date: 20/02/2019 18:59:49.730	code: Info	text: Connected by ('127.0.0.1', 3957) --> command: ping
+date: 20/02/2019 19:00:05.363	code: Info	text: Connected by ('127.0.0.1', 4075) --> command: ping
