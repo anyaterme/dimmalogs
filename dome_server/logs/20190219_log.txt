@@ -2726,3 +2726,85 @@ date: 20/02/2019 07:43:59.871	code: Info	text: Connected by ('127.0.0.1', 2634) 
 date: 20/02/2019 07:44:16.875	code: Info	text: Connected by ('127.0.0.1', 2647) --> command: ping
 date: 20/02/2019 07:44:34.067	code: Info	text: Connected by ('127.0.0.1', 2659) --> command: ping
 date: 20/02/2019 07:44:36.825	code: Info	text: Connected by ('127.0.0.1', 2667) --> command: shutdown
+date: 20/02/2019 07:46:39.893	code: Info	text: Dome Server started at port 3350....
+date: 20/02/2019 07:46:40.438	code: Info	text: Starting keepalive... (localhost:3330)
+date: 20/02/2019 07:46:41.061	code: Info	text: Connected by ('127.0.0.1', 4201) --> command: side_A_is_open
+date: 20/02/2019 07:46:41.467	code: Error (keepalive)	text: Problem with keepalive
+date: 20/02/2019 07:46:43.072	code: Info	text: 	COM4 connected.
+date: 20/02/2019 07:46:43.072	code: Info	text: 	Status: 0OONA
+date: 20/02/2019 07:46:43.072	code: Info	text: 	TimeOut: False
+date: 20/02/2019 07:46:43.072	code: Info	text: 	Safe mode: False
+date: 20/02/2019 07:46:43.088	code: Info	text: 	Automatic mode: True
+date: 20/02/2019 07:46:43.088	code: Info	text: 	Dome Side A is open: True
+date: 20/02/2019 07:46:43.088	code: Info	text: 	Dome Side B is open: True
+date: 20/02/2019 07:46:43.088	code: Info	text: 	Keepalive interval: 60.00
+date: 20/02/2019 07:46:46.080	code: Info	text: Connected by ('127.0.0.1', 4202) --> command: close_side_A
+date: 20/02/2019 07:46:48.106	code: Info	text: 	COM4 connected.
+date: 20/02/2019 07:46:48.106	code: Info	text: 	Status: 0OONA
+date: 20/02/2019 07:46:48.106	code: Info	text: 	TimeOut: False
+date: 20/02/2019 07:46:48.106	code: Info	text: 	Safe mode: False
+date: 20/02/2019 07:46:48.106	code: Info	text: 	Automatic mode: True
+date: 20/02/2019 07:46:48.106	code: Info	text: 	Dome Side A is open: True
+date: 20/02/2019 07:46:48.106	code: Info	text: 	Dome Side B is open: True
+date: 20/02/2019 07:46:48.106	code: Info	text: 	Keepalive interval: 60.00
+date: 20/02/2019 07:46:51.114	code: Info	text: Connected by ('127.0.0.1', 4203) --> command: side_A_is_open
+date: 20/02/2019 07:46:53.125	code: Info	text: 	COM4 connected.
+date: 20/02/2019 07:46:53.125	code: Info	text: 	Status: 0HOCA
+date: 20/02/2019 07:46:53.125	code: Info	text: 	TimeOut: False
+date: 20/02/2019 07:46:53.125	code: Info	text: 	Safe mode: False
+date: 20/02/2019 07:46:53.141	code: Info	text: 	Automatic mode: True
+date: 20/02/2019 07:46:53.141	code: Info	text: 	Dome Side A is open: False
+date: 20/02/2019 07:46:53.141	code: Info	text: 	Dome Side B is open: True
+date: 20/02/2019 07:46:53.141	code: Info	text: 	Keepalive interval: 60.00
+date: 20/02/2019 07:46:53.141	code: Info	text: Connected by ('127.0.0.1', 4204) --> command: ping
+date: 20/02/2019 07:46:56.149	code: Info	text: Connected by ('127.0.0.1', 4210) --> command: side_A_is_open
+date: 20/02/2019 07:46:58.175	code: Info	text: 	COM4 connected.
+date: 20/02/2019 07:46:58.175	code: Info	text: 	Status: 0HOCA
+date: 20/02/2019 07:46:58.175	code: Info	text: 	TimeOut: False
+date: 20/02/2019 07:46:58.175	code: Info	text: 	Safe mode: False
+date: 20/02/2019 07:46:58.175	code: Info	text: 	Automatic mode: True
+date: 20/02/2019 07:46:58.175	code: Info	text: 	Dome Side A is open: False
+date: 20/02/2019 07:46:58.175	code: Info	text: 	Dome Side B is open: True
+date: 20/02/2019 07:46:58.175	code: Info	text: 	Keepalive interval: 60.00
+date: 20/02/2019 07:47:04.269	code: Info	text: Connected by ('127.0.0.1', 4214) --> command: side_B_is_open
+date: 20/02/2019 07:47:06.295	code: Info	text: 	COM4 connected.
+date: 20/02/2019 07:47:06.295	code: Info	text: 	Status: 0CONA
+date: 20/02/2019 07:47:06.295	code: Info	text: 	TimeOut: False
+date: 20/02/2019 07:47:06.295	code: Info	text: 	Safe mode: False
+date: 20/02/2019 07:47:06.295	code: Info	text: 	Automatic mode: True
+date: 20/02/2019 07:47:06.295	code: Info	text: 	Dome Side A is open: False
+date: 20/02/2019 07:47:06.295	code: Info	text: 	Dome Side B is open: True
+date: 20/02/2019 07:47:06.295	code: Info	text: 	Keepalive interval: 60.00
+date: 20/02/2019 07:47:09.475	code: Info	text: Connected by ('127.0.0.1', 4218) --> command: close_side_B
+date: 20/02/2019 07:47:11.501	code: Info	text: 	COM4 connected.
+date: 20/02/2019 07:47:11.501	code: Info	text: 	Status: 0CONA
+date: 20/02/2019 07:47:11.501	code: Info	text: 	TimeOut: False
+date: 20/02/2019 07:47:11.501	code: Info	text: 	Safe mode: False
+date: 20/02/2019 07:47:11.501	code: Info	text: 	Automatic mode: True
+date: 20/02/2019 07:47:11.501	code: Info	text: 	Dome Side A is open: False
+date: 20/02/2019 07:47:11.501	code: Info	text: 	Dome Side B is open: True
+date: 20/02/2019 07:47:11.501	code: Info	text: 	Keepalive interval: 60.00
+date: 20/02/2019 07:47:11.501	code: Info	text: Connected by ('127.0.0.1', 4219) --> command: ping
+date: 20/02/2019 07:47:14.680	code: Info	text: Connected by ('127.0.0.1', 4225) --> command: side_B_is_open
+date: 20/02/2019 07:47:16.691	code: Info	text: 	COM4 connected.
+date: 20/02/2019 07:47:16.707	code: Info	text: 	Status: 0CHCA
+date: 20/02/2019 07:47:16.707	code: Info	text: 	TimeOut: False
+date: 20/02/2019 07:47:16.707	code: Info	text: 	Safe mode: False
+date: 20/02/2019 07:47:16.707	code: Info	text: 	Automatic mode: True
+date: 20/02/2019 07:47:16.707	code: Info	text: 	Dome Side A is open: False
+date: 20/02/2019 07:47:16.707	code: Info	text: 	Dome Side B is open: False
+date: 20/02/2019 07:47:16.707	code: Info	text: 	Keepalive interval: 60.00
+date: 20/02/2019 07:47:19.762	code: Info	text: Connected by ('127.0.0.1', 4226) --> command: side_B_is_open
+date: 20/02/2019 07:47:21.772	code: Info	text: 	COM4 connected.
+date: 20/02/2019 07:47:21.772	code: Info	text: 	Status: 0CHCA
+date: 20/02/2019 07:47:21.772	code: Info	text: 	TimeOut: False
+date: 20/02/2019 07:47:21.772	code: Info	text: 	Safe mode: False
+date: 20/02/2019 07:47:21.772	code: Info	text: 	Automatic mode: True
+date: 20/02/2019 07:47:21.772	code: Info	text: 	Dome Side A is open: False
+date: 20/02/2019 07:47:21.772	code: Info	text: 	Dome Side B is open: False
+date: 20/02/2019 07:47:21.788	code: Info	text: 	Keepalive interval: 60.00
+date: 20/02/2019 07:47:28.786	code: Info	text: Connected by ('127.0.0.1', 4230) --> command: ping
+date: 20/02/2019 07:47:45.665	code: Info	text: Connected by ('127.0.0.1', 4237) --> command: ping
+date: 20/02/2019 07:48:01.033	code: Info	text: Connected by ('127.0.0.1', 4243) --> command: ping
+date: 20/02/2019 07:48:16.417	code: Info	text: Connected by ('127.0.0.1', 4255) --> command: ping
+date: 20/02/2019 07:48:27.514	code: Info	text: Connected by ('127.0.0.1', 4266) --> command: shutdown
