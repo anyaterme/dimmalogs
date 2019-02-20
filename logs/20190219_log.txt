@@ -18389,3 +18389,37 @@ CODE:OT:VIVALDI	Date:2019-02-20 04:48:36.919000	Hum:6.1000	WS:14.4000	DewPoint:0
 20/02/2019 04:49:23.412	Debg	---------- Generating datas file ------------
 20/02/2019 04:49:23.412	Debg	---------------------------------------------
 20/02/2019 04:49:23.412	Info	##### PACK: OTSX_PE0ENV_190220044923
+20/02/2019 04:52:28.702	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+20/02/2019 04:52:28.702	Info	Recovery Image Server error
+20/02/2019 04:53:36.220	Error (class Pack, get images)	list index out of range
+20/02/2019 04:53:36.220	Error (get data pack)	list index out of range
+20/02/2019 04:53:36.220	Info	*** Tiempo generacion del fichero 252.81 ***
+20/02/2019 04:53:36.220	Debg	---------------------------------------------
+20/02/2019 04:53:36.220	Debg	------------ Calculating seeing -------------
+20/02/2019 04:53:36.220	Debg	---------------------------------------------
+20/02/2019 04:53:36.236	Error (procces_datas)	'str' object has no attribute 'get_seeing'
+20/02/2019 04:53:36.236	Info	*** Tiempo calculo del seeing 0.02 ***
+20/02/2019 04:53:36.236	Info	*** Tiempo procesado de datos: 252.82 ***
+20/02/2019 04:53:36.236	Info	*** TIEMPO TOTAL ITERACION: 263.69 ***
+20/02/2019 04:53:36.236	Debg	---------------------------------------------
+20/02/2019 04:53:36.236	Debg	-------------------- Meteo ------------------
+20/02/2019 04:53:36.236	Debg	---------------------------------------------
+20/02/2019 04:53:36.937	Info	
+CODE:OT:IAC	Date:2019-02-20 04:52:46.937000	Hum:7.3000	WS:9.3600	DewPoint:0.0000	Dust:0.0000
+CODE:OT:CWW	Date:2019-02-20 04:52:46.579000	Hum:0.0000	WS:12.3120	DewPoint:0.0000	Dust:0.0011
+CODE:OT:VIVALDI	Date:2019-02-20 04:52:47.966000	Hum:6.7000	WS:15.1000	DewPoint:0.0000	Dust:2.5000
+
+20/02/2019 04:53:36.937	Debg	---------------------------------------------
+20/02/2019 04:53:36.937	Debg	---------------- Star Selection -------------
+20/02/2019 04:53:36.937	Debg	---------------------------------------------
+20/02/2019 04:53:36.937	Info	Comprobando que la estella es observable...
+20/02/2019 04:53:38.137	info	La estrella sigue siendo observable(Alphecca)
+20/02/2019 04:53:40.226	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.88255455277', 'az': '87.069973', 'name': 'Alphecca', 'airmass': '1.103839', 'ha_hours': 'hms_tuple(h=-1.0, m=-52.0, s=-57.19638995592106)', 'alt': '64.948552', 'dec': '26.649235', 'magnitude': '2.220000', 'ra': '15.591410'}
+20/02/2019 04:53:40.226	Info	*** Tiempo seleccion de estrella: 3.29 ***
+20/02/2019 04:53:40.226	Debg	---------------------------------------------
+20/02/2019 04:53:40.226	Debg	-------------- Check spots ------------------
+20/02/2019 04:53:40.226	Debg	---------------------------------------------
+20/02/2019 04:53:40.226	Info	Centrando spots...
+20/02/2019 04:53:43.031	Info	Intento 0
+20/02/2019 04:54:44.222	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+20/02/2019 04:54:44.222	Info	Recovery Image Server error
