@@ -2564,3 +2564,21 @@
 20/02/2019 20:35:06.819	Info	DX: 39.57 (MIN: 40.5 - MAX: 41.5)
 20/02/2019 20:35:06.819	Info	Moviendo el foco...
 20/02/2019 20:35:07.614	Info	Intento 2
+20/02/2019 20:36:12.565	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+20/02/2019 20:36:12.565	Info	Recovery Image Server error
+20/02/2019 20:37:23.948	Info	DX: nan (MIN: 40.5 - MAX: 41.5)
+20/02/2019 20:37:23.948	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+20/02/2019 20:37:23.948	Info	*** Tiempo seleccion de estrella: 274.18 ***
+20/02/2019 20:37:26.957	Info	*** TIEMPO TOTAL ITERACION: 277.19 ***
+20/02/2019 20:37:26.957	Debg	---------------------------------------------
+20/02/2019 20:37:26.957	Debg	-------------------- Meteo ------------------
+20/02/2019 20:37:26.957	Debg	---------------------------------------------
+20/02/2019 20:37:27.284	Info	
+20/02/2019 20:37:27.284	Info	CODE:OT:IAC	Date:2019-02-20 20:36:23.662000	Hum:18.6000	WS:4.6800	DewPoint:0.0000	Dust:0.0000
+20/02/2019 20:37:27.284	Info	CODE:OT:CWW	Date:2019-02-20 20:36:23.366000	Hum:0.0000	WS:7.9920	DewPoint:0.0000	Dust:0.0009
+20/02/2019 20:37:27.284	Info	CODE:OT:VIVALDI	Date:2019-02-20 20:36:24.940000	Hum:17.6000	WS:10.0000	DewPoint:0.0000	Dust:1.9000
+20/02/2019 20:37:27.284	Info	
+20/02/2019 20:37:27.284	Debg	---------------------------------------------
+20/02/2019 20:37:27.284	Debg	---------------- Star Selection -------------
+20/02/2019 20:37:27.284	Debg	---------------------------------------------
+20/02/2019 20:37:27.284	Info	Seleccionando estella...
