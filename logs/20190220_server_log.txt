@@ -7513,3 +7513,36 @@ get_seeing_thread @ 	This package contain 200 images...
 21/02/2019 05:03:45.949	Info	Connected by ('127.0.0.1', 1665) --> command: ping
 21/02/2019 05:03:50.609	Info	Connected by ('127.0.0.1', 1679) --> command: ping
 21/02/2019 05:04:06.896	Info	Connected by ('127.0.0.1', 1780) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.008634
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_window @ could not broadcast input array from shape (11) into shape (20)
+get_move_matrix @ cell 9, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.008634
+get_window @ could not broadcast input array from shape (19) into shape (20)
+get_window @ could not broadcast input array from shape (19) into shape (20)
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 16, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.008634, dec: 0.0
+get_images @ Tiempo de procesado de las 200 imagenes: 57.1390001774
+get_seeing_thread @ 	This package contain 200 images...
+21/02/2019 05:04:25.194	Info	Connected by ('127.0.0.1', 2716) --> command: ping
+21/02/2019 05:04:41.513	Info	Connected by ('127.0.0.1', 3008) --> command: ping
+21/02/2019 05:04:46.095	Info	Connected by ('127.0.0.1', 3011) --> command: ping
+21/02/2019 05:04:57.426	Info	Connected by ('127.0.0.1', 3026) --> command: ping
+21/02/2019 05:05:13.199	Info	Connected by ('127.0.0.1', 3032) --> command: ping
+21/02/2019 05:05:28.894	Info	Connected by ('127.0.0.1', 3038) --> command: ping
+21/02/2019 05:05:44.636	Info	Connected by ('127.0.0.1', 3046) --> command: ping
+21/02/2019 05:05:46.179	Info	Connected by ('127.0.0.1', 3047) --> command: ping
+21/02/2019 05:06:01.064	Info	Connected by ('127.0.0.1', 3060) --> command: ping
