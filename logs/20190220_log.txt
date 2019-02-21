@@ -14700,3 +14700,60 @@
 21/02/2019 04:13:59.826	Debg	---------------- Star Selection -------------
 21/02/2019 04:13:59.826	Debg	---------------------------------------------
 21/02/2019 04:13:59.826	Info	Comprobando que la estella es observable...
+21/02/2019 04:14:07.728	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.16480803155', 'az': '116.152338', 'name': 'Arcturus', 'airmass': '1.054039', 'ha_hours': 'hms_tuple(h=-1.0, m=-9.0, s=-53.30891357622306)', 'alt': '71.573643', 'dec': '19.092449', 'magnitude': '-0.050000', 'ra': '14.275910'}
+21/02/2019 04:14:07.728	Info	*** Tiempo seleccion de estrella: 7.9 ***
+21/02/2019 04:14:07.744	Debg	---------------------------------------------
+21/02/2019 04:14:07.744	Debg	-------------- Check spots ------------------
+21/02/2019 04:14:07.744	Debg	---------------------------------------------
+21/02/2019 04:14:07.744	Info	Centrando spots...
+21/02/2019 04:14:10.253	Info	Intento 0
+21/02/2019 04:14:12.092	Info	Maximos fuera de rango (diff: 1554.0 - nsigma: 1039.4844213751153)
+21/02/2019 04:14:12.092	Info	Moviendo telescopio...
+21/02/2019 04:14:14.368	Info	Intento 1
+21/02/2019 04:14:16.129	Info	Maximos fuera de rango (diff: 1054.0 - nsigma: 973.0775471921527)
+21/02/2019 04:14:16.129	Info	Moviendo telescopio...
+21/02/2019 04:14:18.560	Info	Intento 2
+21/02/2019 04:14:20.571	Info	DX fuera de rango (dx: 122.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:14:20.571	Info	Moviendo telescopio...
+21/02/2019 04:14:22.504	Info	Intento 3
+21/02/2019 04:14:24.452	Info	DX fuera de rango (dx: 302.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:14:24.452	Info	Moviendo telescopio...
+21/02/2019 04:14:26.790	Info	Intento 4
+21/02/2019 04:14:28.863	Info	DX fuera de rango (dx: 410.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:14:28.863	Info	Moviendo telescopio...
+21/02/2019 04:14:31.653	Info	Intento 5
+21/02/2019 04:14:33.710	Info	Maximos fuera de rango (diff: 715.0 - nsigma: 560.3549684739116)
+21/02/2019 04:14:33.710	Info	Moviendo telescopio...
+21/02/2019 04:14:36.781	Info	Intento 6
+21/02/2019 04:14:38.604	Info	DX fuera de rango (dx: 278.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:14:38.604	Info	Moviendo telescopio...
+21/02/2019 04:14:40.646	Info	Intento 7
+21/02/2019 04:14:42.454	Info	DX fuera de rango (dx: 99.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:14:42.454	Info	Moviendo telescopio...
+21/02/2019 04:14:44.106	Info	Intento 8
+21/02/2019 04:14:45.820	Info	DX fuera de rango (dx: 85.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:14:45.820	Info	Moviendo telescopio...
+21/02/2019 04:14:47.862	Info	Intento 9
+21/02/2019 04:14:49.530	Info	Ventana de spots fuera de rango (cx: 212 - cy: 20 - left: 80 - right: 560 - down: 30 - up: 450)
+21/02/2019 04:14:49.530	Info	Moviendo telescopio...
+21/02/2019 04:14:51.992	Info	Intento 10
+21/02/2019 04:15:01.921	Info	Los spots estan centrados
+21/02/2019 04:15:01.921	Info	*** Tiempo centrado de spots: 54.18 ***
+21/02/2019 04:15:01.921	Debg	---------------------------------------------
+21/02/2019 04:15:01.921	Debg	--------------- Check focal -----------------
+21/02/2019 04:15:01.921	Debg	---------------------------------------------
+21/02/2019 04:15:01.921	Info	Comprobando el foco...
+21/02/2019 04:15:01.936	Info	Intento 0
+21/02/2019 04:15:02.716	Info	DX: 41.0 (MIN: 40.5 - MAX: 41.5)
+21/02/2019 04:15:02.716	Info	La imagen esta enfocada
+21/02/2019 04:15:02.716	Info	*** Tiempo enfocado: 0.8 ***
+21/02/2019 04:15:02.716	Info	*** Tiempo seleccion de estrella: 62.89 ***
+21/02/2019 04:15:02.716	Debg	---------------------------------------------
+21/02/2019 04:15:02.716	Debg	---------- Generating datas file ------------
+21/02/2019 04:15:02.716	Debg	---------------------------------------------
+21/02/2019 04:15:02.716	Info	##### PACK: OTSX_C6TV7W_190221041502
+21/02/2019 04:15:59.137	Info	##### (OTSX_C6TV7W_190221041502) Se ha generado el fichero: D:/DIMMLAB\19_02_20\OTSX190221041536.txt
+21/02/2019 04:15:59.137	Info	*** Tiempo generacion del fichero 56.42 ***
+21/02/2019 04:15:59.137	Debg	---------------------------------------------
+21/02/2019 04:15:59.137	Debg	------------ Calculating seeing -------------
+21/02/2019 04:15:59.137	Debg	---------------------------------------------
