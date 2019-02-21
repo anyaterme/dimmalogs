@@ -13281,3 +13281,78 @@
 21/02/2019 03:26:54.309	Debg	---------- Generating datas file ------------
 21/02/2019 03:26:54.309	Debg	---------------------------------------------
 21/02/2019 03:26:54.309	Info	##### PACK: OTSX_6D24CC_190221032654
+21/02/2019 03:28:14.428	Info	##### (OTSX_6D24CC_190221032654) Se ha generado el fichero: D:/DIMMLAB\19_02_20\OTSX190221032749.txt
+21/02/2019 03:28:14.428	Info	*** Tiempo generacion del fichero 80.12 ***
+21/02/2019 03:28:14.428	Debg	---------------------------------------------
+21/02/2019 03:28:14.428	Debg	------------ Calculating seeing -------------
+21/02/2019 03:28:14.428	Debg	---------------------------------------------
+21/02/2019 03:28:23.000	Info	
+21/02/2019 03:28:23.000	Info	SEEING: 0.9059745547698842 (used imgs: 200) (OTSX_6D24CC_190221032654)
+21/02/2019 03:28:23.000	Info	
+21/02/2019 03:28:23.000	Info	*** Tiempo calculo del seeing 8.57 ***
+21/02/2019 03:28:23.000	Info	*** Tiempo procesado de datos: 88.69 ***
+21/02/2019 03:28:23.000	Info	*** TIEMPO TOTAL ITERACION: 102.94 ***
+21/02/2019 03:28:23.000	Debg	---------------------------------------------
+21/02/2019 03:28:23.000	Debg	-------------------- Meteo ------------------
+21/02/2019 03:28:23.000	Debg	---------------------------------------------
+21/02/2019 03:28:23.530	Info	
+21/02/2019 03:28:23.530	Info	CODE:OT:IAC	Date:2019-02-21 03:28:05.450000	Hum:4.1000	WS:4.3200	DewPoint:0.0000	Dust:0.0000
+21/02/2019 03:28:23.530	Info	CODE:OT:CWW	Date:2019-02-21 03:28:05.107000	Hum:0.0000	WS:7.7400	DewPoint:0.0000	Dust:0.0009
+21/02/2019 03:28:23.530	Info	CODE:OT:VIVALDI	Date:2019-02-21 03:28:06.339000	Hum:4.1000	WS:12.4000	DewPoint:0.0000	Dust:3.0000
+21/02/2019 03:28:23.530	Info	
+21/02/2019 03:28:23.530	Debg	---------------------------------------------
+21/02/2019 03:28:23.530	Debg	---------------- Star Selection -------------
+21/02/2019 03:28:23.530	Debg	---------------------------------------------
+21/02/2019 03:28:23.530	Info	Comprobando que la estella es observable...
+21/02/2019 03:28:31.229	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.44608210317', 'az': '32.502225', 'name': 'Alkaid', 'airmass': '1.119352', 'ha_hours': 'hms_tuple(h=-1.0, m=-26.0, s=-45.89557140893433)', 'alt': '63.300152', 'dec': '49.215387', 'magnitude': '1.850000', 'ra': '13.804991'}
+21/02/2019 03:28:31.229	Info	*** Tiempo seleccion de estrella: 7.7 ***
+21/02/2019 03:28:31.229	Debg	---------------------------------------------
+21/02/2019 03:28:31.229	Debg	-------------- Check spots ------------------
+21/02/2019 03:28:31.229	Debg	---------------------------------------------
+21/02/2019 03:28:31.229	Info	Centrando spots...
+21/02/2019 03:28:33.630	Info	Intento 0
+21/02/2019 03:28:35.703	Info	Maximos fuera de rango (diff: 340.0 - nsigma: 169.84718298185095)
+21/02/2019 03:28:35.718	Info	Moviendo telescopio...
+21/02/2019 03:28:38.072	Info	Intento 1
+21/02/2019 03:28:40.098	Info	Maximos fuera de rango (diff: 248.0 - nsigma: 203.6519334855709)
+21/02/2019 03:28:40.098	Info	Moviendo telescopio...
+21/02/2019 03:28:42.981	Info	Intento 2
+21/02/2019 03:28:44.789	Info	DX fuera de rango (dx: 242.0 - min: 30.0 - max: 52.0)
+21/02/2019 03:28:44.789	Info	Moviendo telescopio...
+21/02/2019 03:28:47.034	Info	Intento 3
+21/02/2019 03:28:48.717	Info	Ventana de spots fuera de rango (cx: 624 - cy: 389 - left: 80 - right: 560 - down: 30 - up: 450)
+21/02/2019 03:28:48.717	Info	Moviendo telescopio...
+21/02/2019 03:28:50.696	Info	Intento 4
+21/02/2019 03:28:52.395	Info	DX fuera de rango (dx: 112.0 - min: 30.0 - max: 52.0)
+21/02/2019 03:28:52.395	Info	Moviendo telescopio...
+21/02/2019 03:28:54.998	Info	Intento 5
+21/02/2019 03:28:56.744	Info	Maximos fuera de rango (diff: 120.0 - nsigma: 113.95840849234474)
+21/02/2019 03:28:56.744	Info	Moviendo telescopio...
+21/02/2019 03:28:58.957	Info	Intento 6
+21/02/2019 03:29:00.765	Info	Ventana de spots fuera de rango (cx: 441 - cy: 12 - left: 80 - right: 560 - down: 30 - up: 450)
+21/02/2019 03:29:00.765	Info	Moviendo telescopio...
+21/02/2019 03:29:03.103	Info	Intento 7
+21/02/2019 03:29:04.895	Info	Ventana de spots fuera de rango (cx: 470 - cy: 12 - left: 80 - right: 560 - down: 30 - up: 450)
+21/02/2019 03:29:04.895	Info	Moviendo telescopio...
+21/02/2019 03:29:07.015	Info	Intento 8
+21/02/2019 03:29:08.636	Info	Ventana de spots fuera de rango (cx: 499 - cy: 12 - left: 80 - right: 560 - down: 30 - up: 450)
+21/02/2019 03:29:08.636	Info	Moviendo telescopio...
+21/02/2019 03:29:10.740	Info	Intento 9
+21/02/2019 03:29:12.345	Info	Ventana de spots fuera de rango (cx: 528 - cy: 13 - left: 80 - right: 560 - down: 30 - up: 450)
+21/02/2019 03:29:12.345	Info	Moviendo telescopio...
+21/02/2019 03:29:14.558	Info	Intento 10
+21/02/2019 03:29:19.250	Info	Los spots estan centrados
+21/02/2019 03:29:19.250	Info	*** Tiempo centrado de spots: 48.02 ***
+21/02/2019 03:29:19.250	Debg	---------------------------------------------
+21/02/2019 03:29:19.250	Debg	--------------- Check focal -----------------
+21/02/2019 03:29:19.250	Debg	---------------------------------------------
+21/02/2019 03:29:19.250	Info	Comprobando el foco...
+21/02/2019 03:29:19.265	Info	Intento 0
+21/02/2019 03:29:20.045	Info	DX: 40.96 (MIN: 40.5 - MAX: 41.5)
+21/02/2019 03:29:20.045	Info	La imagen esta enfocada
+21/02/2019 03:29:20.045	Info	*** Tiempo enfocado: 0.8 ***
+21/02/2019 03:29:20.045	Info	*** Tiempo seleccion de estrella: 56.52 ***
+21/02/2019 03:29:20.045	Debg	---------------------------------------------
+21/02/2019 03:29:20.045	Debg	---------- Generating datas file ------------
+21/02/2019 03:29:20.045	Debg	---------------------------------------------
+21/02/2019 03:29:20.045	Info	##### PACK: OTSX_62QHWB_190221032920
