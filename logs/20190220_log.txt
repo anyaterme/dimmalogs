@@ -16241,3 +16241,40 @@
 21/02/2019 05:08:00.000	Debg	---------------- Star Selection -------------
 21/02/2019 05:08:00.000	Debg	---------------------------------------------
 21/02/2019 05:08:00.000	Info	Comprobando que la estella es observable...
+21/02/2019 05:08:08.588	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.54047778901', 'az': '89.148969', 'name': 'Alphecca', 'airmass': '1.067862', 'ha_hours': 'hms_tuple(h=-1.0, m=-32.0, s=-25.720040422774133)', 'alt': '69.463697', 'dec': '26.649211', 'magnitude': '2.220000', 'ra': '15.591418'}
+21/02/2019 05:08:08.588	Info	*** Tiempo seleccion de estrella: 8.59 ***
+21/02/2019 05:08:08.588	Debg	---------------------------------------------
+21/02/2019 05:08:08.588	Debg	-------------- Check spots ------------------
+21/02/2019 05:08:08.588	Debg	---------------------------------------------
+21/02/2019 05:08:08.588	Info	Centrando spots...
+21/02/2019 05:08:12.380	Info	Intento 0
+21/02/2019 05:08:14.343	Info	Maximos fuera de rango (diff: 204.0 - nsigma: 136.238472147066)
+21/02/2019 05:08:14.343	Info	Moviendo telescopio...
+21/02/2019 05:08:17.959	Info	Intento 1
+21/02/2019 05:08:19.798	Info	Maximos fuera de rango (diff: 130.0 - nsigma: 120.3944627457528)
+21/02/2019 05:08:19.798	Info	Moviendo telescopio...
+21/02/2019 05:08:22.433	Info	Intento 2
+21/02/2019 05:08:24.131	Info	Ventana de spots fuera de rango (cx: 477 - cy: 23 - left: 80 - right: 560 - down: 30 - up: 450)
+21/02/2019 05:08:24.131	Info	Moviendo telescopio...
+21/02/2019 05:08:27.763	Info	Intento 3
+21/02/2019 05:08:29.555	Info	DX fuera de rango (dx: 429.0 - min: 30.0 - max: 52.0)
+21/02/2019 05:08:29.555	Info	Moviendo telescopio...
+21/02/2019 05:08:32.189	Info	Intento 4
+21/02/2019 05:08:34.247	Info	DX fuera de rango (dx: 321.0 - min: 30.0 - max: 52.0)
+21/02/2019 05:08:34.247	Info	Moviendo telescopio...
+21/02/2019 05:08:38.221	Info	Intento 5
+21/02/2019 05:08:42.913	Info	Los spots estan centrados
+21/02/2019 05:08:42.913	Info	*** Tiempo centrado de spots: 34.33 ***
+21/02/2019 05:08:42.913	Debg	---------------------------------------------
+21/02/2019 05:08:42.913	Debg	--------------- Check focal -----------------
+21/02/2019 05:08:42.913	Debg	---------------------------------------------
+21/02/2019 05:08:42.913	Info	Comprobando el foco...
+21/02/2019 05:08:42.928	Info	Intento 0
+21/02/2019 05:08:43.785	Info	DX: 41.29 (MIN: 40.5 - MAX: 41.5)
+21/02/2019 05:08:43.785	Info	La imagen esta enfocada
+21/02/2019 05:08:43.785	Info	*** Tiempo enfocado: 0.87 ***
+21/02/2019 05:08:43.785	Info	*** Tiempo seleccion de estrella: 43.79 ***
+21/02/2019 05:08:43.785	Debg	---------------------------------------------
+21/02/2019 05:08:43.785	Debg	---------- Generating datas file ------------
+21/02/2019 05:08:43.785	Debg	---------------------------------------------
+21/02/2019 05:08:43.785	Info	##### PACK: OTSX_WT43OA_190221050843
