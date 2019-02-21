@@ -5830,3 +5830,22 @@ get_dx_data @ dx final: nan
 21/02/2019 02:29:39.137	Info	Connected by ('127.0.0.1', 1333) --> command: ping
 21/02/2019 02:29:43.611	Info	Connected by ('127.0.0.1', 1337) --> command: ping
 21/02/2019 02:29:54.786	Info	Connected by ('127.0.0.1', 1343) --> command: ping
+21/02/2019 02:30:10.465	Info	Connected by ('127.0.0.1', 1712) --> command: ping
+21/02/2019 02:30:26.768	Info	Connected by ('127.0.0.1', 2460) --> command: ping
+21/02/2019 02:30:42.822	Info	Connected by ('127.0.0.1', 2470) --> command: ping
+21/02/2019 02:30:43.772	Info	Connected by ('127.0.0.1', 2471) --> command: ping
+21/02/2019 02:30:58.906	Info	Connected by ('127.0.0.1', 2477) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.49399995804
+get_dx_data @ dx final: 41.092666666666666
+get_images @ Tiempo de procesado de las 200 imagenes: 46.0879998207
+get_seeing_thread @ 	This package contain 200 images...
+21/02/2019 02:31:14.757	Info	Connected by ('127.0.0.1', 2494) --> command: ping
+21/02/2019 02:31:30.390	Info	Connected by ('127.0.0.1', 2508) --> command: ping
+21/02/2019 02:31:43.701	Info	Connected by ('127.0.0.1', 2509) --> command: ping
+21/02/2019 02:31:46.210	Info	Connected by ('127.0.0.1', 2515) --> command: ping
+21/02/2019 02:32:02.077	Info	Connected by ('127.0.0.1', 2525) --> command: ping
