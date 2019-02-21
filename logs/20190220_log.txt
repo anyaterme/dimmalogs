@@ -13004,3 +13004,32 @@
 21/02/2019 03:15:37.709	Debg	---------------- Star Selection -------------
 21/02/2019 03:15:37.709	Debg	---------------------------------------------
 21/02/2019 03:15:37.709	Info	Seleccionando estella...
+21/02/2019 03:17:33.684	Info	Estella seleccionada --> Alkaid
+	airmass: 1.131781
+	ha hours: hms_tuple(h=-1.0, m=-36.0, s=-47.60823843558853)
+	ra: 13.804991
+	dec: 49.215387
+21/02/2019 03:17:33.684	Info	*** Tiempo seleccion de estrella: 115.97 ***
+21/02/2019 03:17:33.700	Debg	---------------------------------------------
+21/02/2019 03:17:33.700	Debg	-------------- Check spots ------------------
+21/02/2019 03:17:33.700	Debg	---------------------------------------------
+21/02/2019 03:17:33.700	Info	Centrando spots...
+21/02/2019 03:17:36.053	Info	Intento 0
+21/02/2019 03:17:39.291	Info	Maximos fuera de rango (diff: 191.0 - nsigma: 177.52006505258856)
+21/02/2019 03:17:39.291	Info	Moviendo telescopio...
+21/02/2019 03:17:41.770	Info	Intento 1
+21/02/2019 03:17:46.508	Info	Los spots estan centrados
+21/02/2019 03:17:46.508	Info	*** Tiempo centrado de spots: 12.81 ***
+21/02/2019 03:17:46.508	Debg	---------------------------------------------
+21/02/2019 03:17:46.508	Debg	--------------- Check focal -----------------
+21/02/2019 03:17:46.508	Debg	---------------------------------------------
+21/02/2019 03:17:46.508	Info	Comprobando el foco...
+21/02/2019 03:17:46.523	Info	Intento 0
+21/02/2019 03:17:51.277	Info	Maximos fuera de rango (diff: 323.0 - nsigma: 218.2483064026582)
+21/02/2019 03:17:51.402	Info	Maximos fuera de rango (diff: 228.0 - nsigma: 187.47505400863204)
+21/02/2019 03:17:54.550	Info	DX: 39.77 (MIN: 40.5 - MAX: 41.5)
+21/02/2019 03:17:54.550	Info	Moviendo el foco...
+21/02/2019 03:17:55.501	Info	Intento 1
+21/02/2019 03:17:59.958	Info	Maximos fuera de rango (diff: 187.0 - nsigma: 134.25860551614082)
+21/02/2019 03:17:59.974	Info	Maximos fuera de rango (diff: 246.0 - nsigma: 56.31039046424067)
+21/02/2019 03:18:00.052	Info	Maximos fuera de rango (diff: 354.0 - nsigma: 240.3831402128171)
