@@ -10621,3 +10621,45 @@
 21/02/2019 01:48:02.403	Debg	---------------- Star Selection -------------
 21/02/2019 01:48:02.403	Debg	---------------------------------------------
 21/02/2019 01:48:02.403	Info	Comprobando que la estella es observable...
+21/02/2019 01:48:09.386	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-1.14669336916', 'az': '127.356384', 'name': 'Denebola', 'airmass': '1.071969', 'ha_hours': 'hms_tuple(h=-1.0, m=-8.0, s=-48.09612897081166)', 'alt': '68.885452', 'dec': '14.464583', 'magnitude': '2.140000', 'ra': '11.834158'}
+21/02/2019 01:48:09.386	Info	*** Tiempo seleccion de estrella: 6.98 ***
+21/02/2019 01:48:09.386	Debg	---------------------------------------------
+21/02/2019 01:48:09.386	Debg	-------------- Check spots ------------------
+21/02/2019 01:48:09.386	Debg	---------------------------------------------
+21/02/2019 01:48:09.386	Info	Centrando spots...
+21/02/2019 01:48:11.879	Info	Intento 0
+21/02/2019 01:48:13.781	Info	Maximos fuera de rango (diff: 176.0 - nsigma: 143.81405660298353)
+21/02/2019 01:48:13.781	Info	Moviendo telescopio...
+21/02/2019 01:48:16.555	Info	Intento 1
+21/02/2019 01:48:18.238	Info	Maximos fuera de rango (diff: 100.0 - nsigma: 84.64755634109049)
+21/02/2019 01:48:18.238	Info	Moviendo telescopio...
+21/02/2019 01:48:21.309	Info	Intento 2
+21/02/2019 01:48:23.241	Info	DX fuera de rango (dx: 82.0 - min: 30.0 - max: 52.0)
+21/02/2019 01:48:23.241	Info	Moviendo telescopio...
+21/02/2019 01:48:25.657	Info	Intento 3
+21/02/2019 01:48:27.637	Info	DX fuera de rango (dx: 140.0 - min: 30.0 - max: 52.0)
+21/02/2019 01:48:27.637	Info	Moviendo telescopio...
+21/02/2019 01:48:30.582	Info	Intento 4
+21/02/2019 01:48:32.235	Info	Ventana de spots fuera de rango (cx: 568 - cy: 215 - left: 80 - right: 560 - down: 30 - up: 450)
+21/02/2019 01:48:32.235	Info	Moviendo telescopio...
+21/02/2019 01:48:36.022	Info	Intento 5
+21/02/2019 01:48:40.963	Info	Los spots estan centrados
+21/02/2019 01:48:40.963	Info	*** Tiempo centrado de spots: 31.58 ***
+21/02/2019 01:48:40.963	Debg	---------------------------------------------
+21/02/2019 01:48:40.963	Debg	--------------- Check focal -----------------
+21/02/2019 01:48:40.963	Debg	---------------------------------------------
+21/02/2019 01:48:40.963	Info	Comprobando el foco...
+21/02/2019 01:48:40.978	Info	Intento 0
+21/02/2019 01:48:41.804	Info	DX: 41.01 (MIN: 40.5 - MAX: 41.5)
+21/02/2019 01:48:41.804	Info	La imagen esta enfocada
+21/02/2019 01:48:41.804	Info	*** Tiempo enfocado: 0.84 ***
+21/02/2019 01:48:41.804	Info	*** Tiempo seleccion de estrella: 39.4 ***
+21/02/2019 01:48:41.804	Debg	---------------------------------------------
+21/02/2019 01:48:41.804	Debg	---------- Generating datas file ------------
+21/02/2019 01:48:41.804	Debg	---------------------------------------------
+21/02/2019 01:48:41.804	Info	##### PACK: OTSX_SKKPGQ_190221014841
+21/02/2019 01:50:02.524	Info	##### (OTSX_SKKPGQ_190221014841) Se ha generado el fichero: D:/DIMMLAB\19_02_20\OTSX190221014940.txt
+21/02/2019 01:50:02.524	Info	*** Tiempo generacion del fichero 80.72 ***
+21/02/2019 01:50:02.524	Debg	---------------------------------------------
+21/02/2019 01:50:02.524	Debg	------------ Calculating seeing -------------
+21/02/2019 01:50:02.524	Debg	---------------------------------------------
