@@ -2021,3 +2021,21 @@ date: 21/02/2019 00:05:25.438	code: Info	text: Connected by ('127.0.0.1', 1985) 
 date: 21/02/2019 00:05:25.890	code: Info	text: Collecting datas...
 date: 21/02/2019 00:05:41.118	code: Info	text: Connected by ('127.0.0.1', 1998) --> command: ping
 date: 21/02/2019 00:05:57.078	code: Info	text: Connected by ('127.0.0.1', 2007) --> command: ping
+date: 21/02/2019 00:06:12.851	code: Info	text: Connected by ('127.0.0.1', 2452) --> command: is_ok:'OT':3
+date: 21/02/2019 00:06:12.851	code: Info	text: Is meteorology ok in 3 last minutes?
+date: 21/02/2019 00:06:12.882	code: Info	text: ==== YES ====
+date: 21/02/2019 00:06:12.898	code: Info	text: Connected by ('127.0.0.1', 2460) --> command: ping
+date: 21/02/2019 00:06:13.131	code: Info	text: Connected by ('127.0.0.1', 2468) --> command: get_big_meteo_values:'OT':3
+date: 21/02/2019 00:06:28.702	code: Info	text: Collecting datas...
+date: 21/02/2019 00:06:28.967	code: Info	text: Connected by ('127.0.0.1', 3018) --> command: ping
+date: 21/02/2019 00:06:46.081	code: Info	text: Connected by ('127.0.0.1', 3036) --> command: ping
+date: 21/02/2019 00:07:01.808	code: Info	text: Connected by ('127.0.0.1', 3042) --> command: ping
+date: 21/02/2019 00:07:17.503	code: Info	text: Connected by ('127.0.0.1', 3048) --> command: ping
+date: 21/02/2019 00:07:31.935	code: Info	text: Collecting datas...
+date: 21/02/2019 00:07:33.089	code: Info	text: Connected by ('127.0.0.1', 3060) --> command: ping
+date: 21/02/2019 00:07:49.127	code: Info	text: Connected by ('127.0.0.1', 3070) --> command: ping
+date: 21/02/2019 00:07:52.010	code: Info	text: Connected by ('127.0.0.1', 3072) --> command: is_ok:'OT':3
+date: 21/02/2019 00:07:52.010	code: Info	text: Is meteorology ok in 3 last minutes?
+date: 21/02/2019 00:07:52.041	code: Info	text: ==== YES ====
+date: 21/02/2019 00:07:52.353	code: Info	text: Connected by ('127.0.0.1', 3073) --> command: get_big_meteo_values:'OT':3
+date: 21/02/2019 00:08:06.178	code: Info	text: Connected by ('127.0.0.1', 3112) --> command: ping
