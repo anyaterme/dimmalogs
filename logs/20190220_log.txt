@@ -15368,3 +15368,79 @@
 21/02/2019 04:33:59.993	Debg	---------------- Star Selection -------------
 21/02/2019 04:33:59.993	Debg	---------------------------------------------
 21/02/2019 04:33:59.993	Info	Comprobando que la estella es observable...
+21/02/2019 04:34:07.848	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-0.83053153993', 'az': '126.243413', 'name': 'Arcturus', 'airmass': '1.033561', 'ha_hours': 'hms_tuple(h=-0.0, m=-49.0, s=-49.91354374973284)', 'alt': '75.358873', 'dec': '19.092449', 'magnitude': '-0.050000', 'ra': '14.275910'}
+21/02/2019 04:34:07.848	Info	*** Tiempo seleccion de estrella: 7.86 ***
+21/02/2019 04:34:07.848	Debg	---------------------------------------------
+21/02/2019 04:34:07.848	Debg	-------------- Check spots ------------------
+21/02/2019 04:34:07.848	Debg	---------------------------------------------
+21/02/2019 04:34:07.848	Info	Centrando spots...
+21/02/2019 04:34:10.358	Info	Intento 0
+21/02/2019 04:34:12.290	Info	Maximos fuera de rango (diff: 1615.0 - nsigma: 511.7411737229519)
+21/02/2019 04:34:12.290	Info	Moviendo telescopio...
+21/02/2019 04:34:15.828	Info	Intento 1
+21/02/2019 04:34:17.621	Info	Maximos fuera de rango (diff: 1290.0 - nsigma: 806.0881290433437)
+21/02/2019 04:34:17.621	Info	Moviendo telescopio...
+21/02/2019 04:34:20.021	Info	Intento 2
+21/02/2019 04:34:21.876	Info	DX fuera de rango (dx: 362.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:34:21.876	Info	Moviendo telescopio...
+21/02/2019 04:34:23.855	Info	Intento 3
+21/02/2019 04:34:25.694	Info	DX fuera de rango (dx: 143.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:34:25.694	Info	Moviendo telescopio...
+21/02/2019 04:34:28.157	Info	Intento 4
+21/02/2019 04:34:30.058	Info	DX fuera de rango (dx: 308.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:34:30.058	Info	Moviendo telescopio...
+21/02/2019 04:34:33.144	Info	Intento 5
+21/02/2019 04:34:35.124	Info	Maximos fuera de rango (diff: 1337.0 - nsigma: 682.6843060249604)
+21/02/2019 04:34:35.139	Info	Moviendo telescopio...
+21/02/2019 04:34:37.072	Info	Intento 6
+21/02/2019 04:34:38.896	Info	DX fuera de rango (dx: 79.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:34:38.896	Info	Moviendo telescopio...
+21/02/2019 04:34:41.093	Info	Intento 7
+21/02/2019 04:34:42.699	Info	Ventana de spots fuera de rango (cx: 177 - cy: 25 - left: 80 - right: 560 - down: 30 - up: 450)
+21/02/2019 04:34:42.699	Info	Moviendo telescopio...
+21/02/2019 04:34:44.756	Info	Intento 8
+21/02/2019 04:34:46.533	Info	DX fuera de rango (dx: 168.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:34:46.533	Info	Moviendo telescopio...
+21/02/2019 04:34:48.278	Info	Intento 9
+21/02/2019 04:34:50.024	Info	DX fuera de rango (dx: 314.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:34:50.024	Info	Moviendo telescopio...
+21/02/2019 04:34:52.814	Info	Intento 10
+21/02/2019 04:34:54.497	Info	Ventana de spots fuera de rango (cx: 571 - cy: 333 - left: 80 - right: 560 - down: 30 - up: 450)
+21/02/2019 04:34:54.497	Info	Moviendo telescopio...
+21/02/2019 04:34:57.552	Info	Intento 11
+21/02/2019 04:34:59.313	Info	DX fuera de rango (dx: 231.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:34:59.313	Info	Moviendo telescopio...
+21/02/2019 04:35:01.963	Info	Intento 12
+21/02/2019 04:35:03.724	Info	DX fuera de rango (dx: 105.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:35:03.724	Info	Moviendo telescopio...
+21/02/2019 04:35:10.052	Info	Intento 13
+21/02/2019 04:35:11.813	Info	DX fuera de rango (dx: 19.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:35:11.813	Info	Moviendo telescopio...
+21/02/2019 04:35:13.606	Info	Intento 14
+21/02/2019 04:35:15.305	Info	Ventana de spots fuera de rango (cx: 615 - cy: 34 - left: 80 - right: 560 - down: 30 - up: 450)
+21/02/2019 04:35:15.305	Info	Moviendo telescopio...
+21/02/2019 04:35:17.159	Info	Intento 15
+21/02/2019 04:35:18.827	Info	DX fuera de rango (dx: 55.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:35:18.827	Info	Moviendo telescopio...
+21/02/2019 04:35:20.822	Info	Intento 16
+21/02/2019 04:35:22.505	Info	DX fuera de rango (dx: 9.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:35:22.505	Info	Moviendo telescopio...
+21/02/2019 04:35:24.906	Info	Intento 17
+21/02/2019 04:35:26.682	Info	DX fuera de rango (dx: 15.0 - min: 30.0 - max: 52.0)
+21/02/2019 04:35:26.682	Info	Moviendo telescopio...
+21/02/2019 04:35:29.176	Info	Intento 18
+21/02/2019 04:35:33.961	Info	Los spots estan centrados
+21/02/2019 04:35:33.961	Info	*** Tiempo centrado de spots: 86.11 ***
+21/02/2019 04:35:33.961	Debg	---------------------------------------------
+21/02/2019 04:35:33.961	Debg	--------------- Check focal -----------------
+21/02/2019 04:35:33.961	Debg	---------------------------------------------
+21/02/2019 04:35:33.961	Info	Comprobando el foco...
+21/02/2019 04:35:33.977	Info	Intento 0
+21/02/2019 04:35:34.787	Info	DX: 41.01 (MIN: 40.5 - MAX: 41.5)
+21/02/2019 04:35:34.787	Info	La imagen esta enfocada
+21/02/2019 04:35:34.787	Info	*** Tiempo enfocado: 0.83 ***
+21/02/2019 04:35:34.787	Info	*** Tiempo seleccion de estrella: 94.79 ***
+21/02/2019 04:35:34.787	Debg	---------------------------------------------
+21/02/2019 04:35:34.787	Debg	---------- Generating datas file ------------
+21/02/2019 04:35:34.787	Debg	---------------------------------------------
+21/02/2019 04:35:34.787	Info	##### PACK: OTSX_M2BP9B_190221043534
