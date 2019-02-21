@@ -11543,3 +11543,54 @@
 21/02/2019 02:23:23.837	Debg	---------- Generating datas file ------------
 21/02/2019 02:23:23.837	Debg	---------------------------------------------
 21/02/2019 02:23:23.837	Info	##### PACK: OTSX_H9ODB2_190221022323
+21/02/2019 02:24:34.909	Info	##### (OTSX_H9ODB2_190221022323) Se ha generado el fichero: D:/DIMMLAB\19_02_20\OTSX190221022409.txt
+21/02/2019 02:24:34.909	Info	*** Tiempo generacion del fichero 71.07 ***
+21/02/2019 02:24:34.909	Debg	---------------------------------------------
+21/02/2019 02:24:34.909	Debg	------------ Calculating seeing -------------
+21/02/2019 02:24:34.909	Debg	---------------------------------------------
+21/02/2019 02:24:43.045	Info	
+21/02/2019 02:24:43.045	Info	SEEING: 0.6023366815225383 (used imgs: 200) (OTSX_H9ODB2_190221022323)
+21/02/2019 02:24:43.045	Info	
+21/02/2019 02:24:43.045	Info	*** Tiempo calculo del seeing 8.14 ***
+21/02/2019 02:24:43.045	Info	*** Tiempo procesado de datos: 79.21 ***
+21/02/2019 02:24:43.045	Info	*** TIEMPO TOTAL ITERACION: 96.95 ***
+21/02/2019 02:24:43.045	Debg	---------------------------------------------
+21/02/2019 02:24:43.045	Debg	-------------------- Meteo ------------------
+21/02/2019 02:24:43.045	Debg	---------------------------------------------
+21/02/2019 02:24:43.528	Info	
+21/02/2019 02:24:43.528	Info	CODE:OT:IAC	Date:2019-02-21 02:24:01.820000	Hum:5.9000	WS:-0.3600	DewPoint:0.0000	Dust:0.0000
+21/02/2019 02:24:43.528	Info	CODE:OT:CWW	Date:2019-02-21 02:24:01.477000	Hum:0.0000	WS:7.4880	DewPoint:0.0000	Dust:0.0008
+21/02/2019 02:24:43.528	Info	CODE:OT:VIVALDI	Date:2019-02-21 02:24:02.646000	Hum:2.5000	WS:10.3000	DewPoint:0.0000	Dust:1.9000
+21/02/2019 02:24:43.528	Info	
+21/02/2019 02:24:43.528	Debg	---------------------------------------------
+21/02/2019 02:24:43.528	Debg	---------------- Star Selection -------------
+21/02/2019 02:24:43.528	Debg	---------------------------------------------
+21/02/2019 02:24:43.528	Info	Comprobando que la estella es observable...
+21/02/2019 02:24:49.263	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '1.19936173123', 'az': '229.286007', 'name': 'Regulus', 'airmass': '1.090447', 'ha_hours': 'hms_tuple(h=1.0, m=11.0, s=57.70223243996725)', 'alt': '66.499192', 'dec': '11.871881', 'magnitude': '1.360000', 'ra': '10.156679'}
+21/02/2019 02:24:49.263	Info	*** Tiempo seleccion de estrella: 5.73 ***
+21/02/2019 02:24:49.263	Debg	---------------------------------------------
+21/02/2019 02:24:49.263	Debg	-------------- Check spots ------------------
+21/02/2019 02:24:49.279	Debg	---------------------------------------------
+21/02/2019 02:24:49.279	Info	Centrando spots...
+21/02/2019 02:24:51.710	Info	Intento 0
+21/02/2019 02:24:56.526	Info	Los spots estan centrados
+21/02/2019 02:24:56.526	Info	*** Tiempo centrado de spots: 7.25 ***
+21/02/2019 02:24:56.526	Debg	---------------------------------------------
+21/02/2019 02:24:56.526	Debg	--------------- Check focal -----------------
+21/02/2019 02:24:56.526	Debg	---------------------------------------------
+21/02/2019 02:24:56.526	Info	Comprobando el foco...
+21/02/2019 02:24:56.542	Info	Intento 0
+21/02/2019 02:24:57.384	Info	DX: 41.54 (MIN: 40.5 - MAX: 41.5)
+21/02/2019 02:24:57.384	Info	Moviendo el foco...
+21/02/2019 02:24:58.475	Info	Intento 1
+21/02/2019 02:25:03.306	Info	Maximos fuera de rango (diff: 371.0 - nsigma: 253.35063188799174)
+21/02/2019 02:25:03.322	Info	Maximos fuera de rango (diff: 313.0 - nsigma: 169.4137781116359)
+21/02/2019 02:25:03.384	Info	Maximos fuera de rango (diff: 360.0 - nsigma: 251.59645860152352)
+21/02/2019 02:25:03.447	Info	Maximos fuera de rango (diff: 338.0 - nsigma: 274.10163791998076)
+21/02/2019 02:25:03.509	Info	Maximos fuera de rango (diff: 473.0 - nsigma: 316.4492278712048)
+21/02/2019 02:25:06.470	Info	DX: nan (MIN: 40.5 - MAX: 41.5)
+21/02/2019 02:25:06.470	Error (comprobando el foco)	ERR_FOCAL_FOCUS
+21/02/2019 02:25:06.470	Info	*** Tiempo seleccion de estrella: 22.94 ***
+21/02/2019 02:25:06.470	Error (manage auto select error)	It's not posible to select a star. Next trying on 60 seconds.
+21/02/2019 02:25:06.470	Info	Llevando la montura al home...
+21/02/2019 02:25:28.992	Info	Montura en el home
