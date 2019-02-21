@@ -12420,3 +12420,63 @@
 21/02/2019 02:56:03.710	Debg	---------------------------------------------
 21/02/2019 02:56:03.710	Debg	-------------------- Meteo ------------------
 21/02/2019 02:56:03.710	Debg	---------------------------------------------
+21/02/2019 02:56:04.442	Info	
+21/02/2019 02:56:04.442	Info	CODE:OT:IAC	Date:2019-02-21 02:55:31.743000	Hum:3.1000	WS:2.1600	DewPoint:0.0000	Dust:0.0000
+21/02/2019 02:56:04.442	Info	CODE:OT:CWW	Date:2019-02-21 02:55:31.447000	Hum:0.0000	WS:7.7760	DewPoint:0.0000	Dust:0.0009
+21/02/2019 02:56:04.442	Info	CODE:OT:VIVALDI	Date:2019-02-21 02:55:32.413000	Hum:1.8000	WS:5.7000	DewPoint:0.0000	Dust:1.9000
+21/02/2019 02:56:04.442	Info	
+21/02/2019 02:56:04.442	Debg	---------------------------------------------
+21/02/2019 02:56:04.442	Debg	---------------- Star Selection -------------
+21/02/2019 02:56:04.442	Debg	---------------------------------------------
+21/02/2019 02:56:04.442	Info	Comprobando que la estella es observable...
+21/02/2019 02:56:11.222	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '1.70081697628', 'az': '240.594435', 'name': 'Regulus', 'airmass': '1.142639', 'ha_hours': 'hms_tuple(h=1.0, m=42.0, s=2.9411146021313073)', 'alt': '61.064520', 'dec': '11.871881', 'magnitude': '1.360000', 'ra': '10.156679'}
+21/02/2019 02:56:11.222	Info	*** Tiempo seleccion de estrella: 6.78 ***
+21/02/2019 02:56:11.238	Debg	---------------------------------------------
+21/02/2019 02:56:11.238	Debg	-------------- Check spots ------------------
+21/02/2019 02:56:11.238	Debg	---------------------------------------------
+21/02/2019 02:56:11.238	Info	Centrando spots...
+21/02/2019 02:56:13.654	Info	Intento 0
+21/02/2019 02:56:15.431	Info	Maximos fuera de rango (diff: 456.0 - nsigma: 261.93490989448196)
+21/02/2019 02:56:15.431	Info	Moviendo telescopio...
+21/02/2019 02:56:18.033	Info	Intento 1
+21/02/2019 02:56:19.966	Info	Maximos fuera de rango (diff: 250.0 - nsigma: 189.86555384197945)
+21/02/2019 02:56:19.966	Info	Moviendo telescopio...
+21/02/2019 02:56:22.694	Info	Intento 2
+21/02/2019 02:56:24.393	Info	DX fuera de rango (dx: 7.0 - min: 30.0 - max: 52.0)
+21/02/2019 02:56:24.393	Info	Moviendo telescopio...
+21/02/2019 02:56:27.105	Info	Intento 3
+21/02/2019 02:56:28.897	Info	DX fuera de rango (dx: 7.0 - min: 30.0 - max: 52.0)
+21/02/2019 02:56:28.897	Info	Moviendo telescopio...
+21/02/2019 02:56:31.204	Info	Intento 4
+21/02/2019 02:56:33.136	Info	DX fuera de rango (dx: 71.0 - min: 30.0 - max: 52.0)
+21/02/2019 02:56:33.136	Info	Moviendo telescopio...
+21/02/2019 02:56:36.176	Info	Intento 5
+21/02/2019 02:56:37.937	Info	Maximos fuera de rango (diff: 383.0 - nsigma: 282.3427336516346)
+21/02/2019 02:56:37.937	Info	Moviendo telescopio...
+21/02/2019 02:56:40.150	Info	Intento 6
+21/02/2019 02:56:41.802	Info	DX fuera de rango (dx: 196.0 - min: 30.0 - max: 52.0)
+21/02/2019 02:56:41.802	Info	Moviendo telescopio...
+21/02/2019 02:56:43.859	Info	Intento 7
+21/02/2019 02:56:45.605	Info	DX fuera de rango (dx: 157.0 - min: 30.0 - max: 52.0)
+21/02/2019 02:56:45.605	Info	Moviendo telescopio...
+21/02/2019 02:56:47.647	Info	Intento 8
+21/02/2019 02:56:49.330	Info	Moviendo telescopio...
+21/02/2019 02:56:51.372	Info	Intento 9
+21/02/2019 02:56:53.149	Info	DX fuera de rango (dx: 293.0 - min: 30.0 - max: 52.0)
+21/02/2019 02:56:53.149	Info	Moviendo telescopio...
+21/02/2019 02:56:55.798	Info	Intento 10
+21/02/2019 02:57:00.599	Info	Los spots estan centrados
+21/02/2019 02:57:00.599	Info	*** Tiempo centrado de spots: 49.36 ***
+21/02/2019 02:57:00.599	Debg	---------------------------------------------
+21/02/2019 02:57:00.599	Debg	--------------- Check focal -----------------
+21/02/2019 02:57:00.599	Debg	---------------------------------------------
+21/02/2019 02:57:00.599	Info	Comprobando el foco...
+21/02/2019 02:57:00.614	Info	Intento 0
+21/02/2019 02:57:01.409	Info	DX: 41.09 (MIN: 40.5 - MAX: 41.5)
+21/02/2019 02:57:01.409	Info	La imagen esta enfocada
+21/02/2019 02:57:01.409	Info	*** Tiempo enfocado: 0.81 ***
+21/02/2019 02:57:01.409	Info	*** Tiempo seleccion de estrella: 56.97 ***
+21/02/2019 02:57:01.409	Debg	---------------------------------------------
+21/02/2019 02:57:01.409	Debg	---------- Generating datas file ------------
+21/02/2019 02:57:01.409	Debg	---------------------------------------------
+21/02/2019 02:57:01.409	Info	##### PACK: OTSX_HUYWK8_190221025701
