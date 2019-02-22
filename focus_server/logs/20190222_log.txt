@@ -454,3 +454,21 @@ date: 22/02/2019 19:06:08.159	code: Info	text: OK
 date: 22/02/2019 19:06:08.502	code: Info	text: Connected by ('127.0.0.1', 1200) --> command: get_pos
 date: 22/02/2019 19:06:08.502	code: Info	text: self.get_pos()
 date: 22/02/2019 19:06:08.518	code: Info	text: 0.263916016
+date: 22/02/2019 19:06:18.009	code: Info	text: Connected by ('127.0.0.1', 1611) --> command: fwd_time:1
+date: 22/02/2019 19:06:18.009	code: Info	text: self.fwd_time(1)
+date: 22/02/2019 19:06:18.352	code: Info	text: OK
+date: 22/02/2019 19:06:18.664	code: Info	text: Connected by ('127.0.0.1', 1640) --> command: get_pos
+date: 22/02/2019 19:06:18.664	code: Info	text: self.get_pos()
+date: 22/02/2019 19:06:18.680	code: Info	text: 0.264129639
+date: 22/02/2019 19:06:28.733	code: Info	text: Connected by ('127.0.0.1', 1707) --> command: rwd_time:1
+date: 22/02/2019 19:06:28.733	code: Info	text: self.rwd_time(1)
+date: 22/02/2019 19:06:29.216	code: Info	text: OK
+date: 22/02/2019 19:06:29.356	code: Info	text: Connected by ('127.0.0.1', 1708) --> command: get_pos
+date: 22/02/2019 19:06:29.356	code: Info	text: self.get_pos()
+date: 22/02/2019 19:06:29.372	code: Info	text: 0.263931274
+date: 22/02/2019 19:08:10.200	code: Info	text: Connected by ('127.0.0.1', 2102) --> command: rwd_time:1
+date: 22/02/2019 19:08:10.200	code: Info	text: self.rwd_time(1)
+date: 22/02/2019 19:08:10.527	code: Info	text: OK
+date: 22/02/2019 19:08:10.699	code: Info	text: Connected by ('127.0.0.1', 2121) --> command: get_pos
+date: 22/02/2019 19:08:10.699	code: Info	text: self.get_pos()
+date: 22/02/2019 19:08:10.714	code: Info	text: 0.263732910
