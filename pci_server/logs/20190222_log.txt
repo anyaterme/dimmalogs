@@ -247,3 +247,7 @@ __init__:45 @ DLL Version = 513
 __init__:47 @ Test 2 - 1 = 1
 date: 22/02/2019 19:01:40.392	code: Info	text: Connected by ('127.0.0.1', 3496) --> command: echo_dome
 pin_off:123 @ New Status = c_ushort(32784)
+date: 22/02/2019 19:02:40.398	code: Info	text: Connected by ('127.0.0.1', 4219) --> command: echo_dome
+pin_on:115 @ New Status = c_ushort(40976)
+date: 22/02/2019 19:03:40.404	code: Info	text: Connected by ('127.0.0.1', 4235) --> command: echo_dome
+pin_off:123 @ New Status = c_ushort(32784)
