@@ -1919,3 +1919,8 @@ ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy
 Received:  0
 Received:  OK
 2019-02-23 18:58:10.785089
+ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.00999999046
+get_dx_data @ dx final: 40.97455
+get_images @ Tiempo de procesado de las 200 imagenes: 31.5149998665
+get_seeing_thread @ 	This package contain 200 images...
