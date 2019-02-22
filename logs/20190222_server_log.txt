@@ -1063,3 +1063,11 @@ https://api.telegram.org/bot661751659:AAH5uiU0CKCitbHSRvIpCPP-x775J8RMJRI/sendMe
 Received:  0
 https://api.telegram.org/bot661751659:AAH5uiU0CKCitbHSRvIpCPP-x775J8RMJRI/sendMessage?chat_id=-383581533&parse_mode=Markdown&text=El controlador de efemerides ha lanzado el agente (2019-02-22 18:01:29.628000)
 22/02/2019 18:04:27.433	Info	Connected by ('127.0.0.1', 4264) --> command: ping
+22/02/2019 18:10:22.954	Info	Agent Server started in port 3310....
+22/02/2019 18:10:32.149	Info	Connected by ('127.0.0.1', 2109) --> command: ping
+22/02/2019 18:10:34.970	Info	Connected by ('127.0.0.1', 2113) --> command: start_obs
+https://api.telegram.org/bot661751659:AAH5uiU0CKCitbHSRvIpCPP-x775J8RMJRI/sendMessage?chat_id=-383581533&parse_mode=Markdown&text=El controlador de efemerides no ha detectado al agente. Intentando lanzarlo... (2019-02-22 18:10:12.947000)
+Received:  0
+https://api.telegram.org/bot661751659:AAH5uiU0CKCitbHSRvIpCPP-x775J8RMJRI/sendMessage?chat_id=-383581533&parse_mode=Markdown&text=El controlador de efemerides ha lanzado el agente (2019-02-22 18:10:32.149000)
+2019-02-22 18:57:29.980040
+https://api.telegram.org/bot661751659:AAH5uiU0CKCitbHSRvIpCPP-x775J8RMJRI/sendMessage?chat_id=-383581533&parse_mode=Markdown&text=Iniciando la observacion (2019-02-22 18:10:34.487000)
