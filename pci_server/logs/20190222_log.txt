@@ -99,3 +99,16 @@ __init__:42 @ Activating board 0...[0 = No error] = 0
 __init__:44 @ Active Board = 0
 __init__:45 @ DLL Version = 513
 __init__:47 @ Test 2 - 1 = 1
+date: 22/02/2019 18:12:05.541	code: Info	text: Connected by ('127.0.0.1', 2686) --> command: echo_dome
+pin_off:123 @ New Status = c_ushort(32784)
+date: 22/02/2019 18:12:24.400	code: Info	text: Connected by ('127.0.0.1', 2846) --> command: ping
+date: 22/02/2019 18:12:39.861	code: Info	text: Connected by ('127.0.0.1', 2852) --> command: ping
+date: 22/02/2019 18:12:55.151	code: Info	text: Connected by ('127.0.0.1', 2864) --> command: ping
+date: 22/02/2019 18:13:05.547	code: Info	text: Connected by ('127.0.0.1', 2868) --> command: echo_dome
+pin_on:115 @ New Status = c_ushort(40976)
+date: 22/02/2019 18:13:10.441	code: Info	text: Connected by ('127.0.0.1', 2871) --> command: ping
+date: 22/02/2019 18:13:25.840	code: Info	text: Connected by ('127.0.0.1', 2877) --> command: ping
+date: 22/02/2019 18:13:41.270	code: Info	text: Connected by ('127.0.0.1', 2883) --> command: ping
+date: 22/02/2019 18:13:56.716	code: Info	text: Connected by ('127.0.0.1', 2895) --> command: ping
+date: 22/02/2019 18:14:05.553	code: Info	text: Connected by ('127.0.0.1', 3126) --> command: echo_dome
+pin_off:123 @ New Status = c_ushort(32784)
