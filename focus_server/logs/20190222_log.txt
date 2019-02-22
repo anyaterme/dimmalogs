@@ -430,3 +430,27 @@ date: 22/02/2019 19:00:37.518	code: Info	text: Focus Server started at port 3340
 date: 22/02/2019 19:00:37.533	code: Info	text: Connected by ('127.0.0.1', 3486) --> command: ping
 date: 22/02/2019 19:00:37.533	code: Info	text: self.ping()
 date: 22/02/2019 19:00:37.533	code: Info	text: OK
+date: 22/02/2019 19:05:37.065	code: Info	text: Connected by ('127.0.0.1', 4923) --> command: fwd_time:1
+date: 22/02/2019 19:05:37.065	code: Info	text: self.fwd_time(1)
+date: 22/02/2019 19:05:37.579	code: Info	text: OK
+date: 22/02/2019 19:05:37.813	code: Info	text: Connected by ('127.0.0.1', 4924) --> command: get_pos
+date: 22/02/2019 19:05:37.813	code: Info	text: self.get_pos()
+date: 22/02/2019 19:05:37.829	code: Info	text: 0.263320923
+date: 22/02/2019 19:05:47.102	code: Info	text: Connected by ('127.0.0.1', 4931) --> command: fwd_time:1
+date: 22/02/2019 19:05:47.102	code: Info	text: self.fwd_time(1)
+date: 22/02/2019 19:05:47.445	code: Info	text: OK
+date: 22/02/2019 19:05:47.664	code: Info	text: Connected by ('127.0.0.1', 4932) --> command: get_pos
+date: 22/02/2019 19:05:47.664	code: Info	text: self.get_pos()
+date: 22/02/2019 19:05:47.664	code: Info	text: 0.263534546
+date: 22/02/2019 19:05:56.844	code: Info	text: Connected by ('127.0.0.1', 4938) --> command: fwd_time:1
+date: 22/02/2019 19:05:56.844	code: Info	text: self.fwd_time(1)
+date: 22/02/2019 19:05:57.202	code: Info	text: OK
+date: 22/02/2019 19:05:57.529	code: Info	text: Connected by ('127.0.0.1', 4939) --> command: get_pos
+date: 22/02/2019 19:05:57.529	code: Info	text: self.get_pos()
+date: 22/02/2019 19:05:57.529	code: Info	text: 0.263702393
+date: 22/02/2019 19:06:07.832	code: Info	text: Connected by ('127.0.0.1', 1161) --> command: fwd_time:1
+date: 22/02/2019 19:06:07.832	code: Info	text: self.fwd_time(1)
+date: 22/02/2019 19:06:08.159	code: Info	text: OK
+date: 22/02/2019 19:06:08.502	code: Info	text: Connected by ('127.0.0.1', 1200) --> command: get_pos
+date: 22/02/2019 19:06:08.502	code: Info	text: self.get_pos()
+date: 22/02/2019 19:06:08.518	code: Info	text: 0.263916016

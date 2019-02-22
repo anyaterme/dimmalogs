@@ -241,3 +241,52 @@
 22/02/2019 19:03:24.833	Info	Lado A abierto
 22/02/2019 19:03:27.826	Info	Abriendo cupula lado B (0)...
 22/02/2019 19:03:59.247	Info	Abriendo cupula lado B (1)...
+22/02/2019 19:04:09.846	Info	Lado B abierto
+22/02/2019 19:04:09.846	Info	Cupula abierta
+22/02/2019 19:04:09.846	Info	Encendiendo la montura...
+22/02/2019 19:04:10.126	Info	Montura encendida
+22/02/2019 19:04:20.101	Info	Encendiendo el foco...
+22/02/2019 19:04:20.304	Info	Foco encendida
+22/02/2019 19:04:20.304	Info	Llevando la montura al home...
+22/02/2019 19:04:30.903	Info	Montura en el home
+22/02/2019 19:04:30.903	Info	--- Listo para empezar observacion ---
+
+22/02/2019 19:04:30.903	Debg	---------------------------------------------
+22/02/2019 19:04:30.903	Debg	---------------- Star Selection -------------
+22/02/2019 19:04:30.903	Debg	---------------------------------------------
+22/02/2019 19:04:30.903	Info	Seleccionando estella...
+22/02/2019 19:05:15.510	Info	Estella seleccionada --> Hamal
+	airmass: 1.120198
+	ha hours: hms_tuple(h=1.0, m=57.0, s=33.265419179886635)
+	ra: 2.137104
+	dec: 23.551024
+22/02/2019 19:05:15.510	Time	*** Select star: 44.61 ***
+22/02/2019 19:05:15.510	Debg	---------------------------------------------
+22/02/2019 19:05:15.510	Debg	-------------- Check spots ------------------
+22/02/2019 19:05:15.510	Debg	---------------------------------------------
+22/02/2019 19:05:15.510	Info	Centrando spots...
+22/02/2019 19:05:19.266	Info	Intento 0
+22/02/2019 19:05:24.316	Info	Los spots estan centrados
+22/02/2019 19:05:24.316	Time	*** Center spots: 8.81 ***
+22/02/2019 19:05:24.316	Debg	---------------------------------------------
+22/02/2019 19:05:24.316	Debg	--------------- Check focal -----------------
+22/02/2019 19:05:24.316	Debg	---------------------------------------------
+22/02/2019 19:05:24.316	Info	Comprobando el foco...
+22/02/2019 19:05:24.331	Info	Intento 0
+22/02/2019 19:05:33.324	Info	Maximos fuera de rango (diff: 231.0 - nsigma: 123.72529508086994)
+22/02/2019 19:05:33.434	Info	Maximos fuera de rango (diff: 189.0 - nsigma: 185.61017213137305)
+22/02/2019 19:05:36.753	Info	DX: 39.18 (MIN: 40.5 - MAX: 41.5)
+22/02/2019 19:05:36.753	Info	Moviendo el foco...
+22/02/2019 19:05:37.829	Info	Intento 1
+22/02/2019 19:05:43.299	Info	Maximos fuera de rango (diff: 234.0 - nsigma: 192.40670048516864)
+22/02/2019 19:05:43.502	Info	Maximos fuera de rango (diff: 155.0 - nsigma: 123.15007387078549)
+22/02/2019 19:05:46.884	Info	DX: 39.28 (MIN: 40.5 - MAX: 41.5)
+22/02/2019 19:05:46.884	Info	Moviendo el foco...
+22/02/2019 19:05:47.679	Info	Intento 2
+22/02/2019 19:05:53.181	Info	Maximos fuera de rango (diff: 188.0 - nsigma: 173.7016300174322)
+22/02/2019 19:05:53.321	Info	Maximos fuera de rango (diff: 233.0 - nsigma: 118.06342841256809)
+22/02/2019 19:05:56.501	Info	DX: 39.73 (MIN: 40.5 - MAX: 41.5)
+22/02/2019 19:05:56.501	Info	Moviendo el foco...
+22/02/2019 19:05:57.529	Info	Intento 3
+22/02/2019 19:06:04.091	Info	Maximos fuera de rango (diff: 305.0 - nsigma: 227.9012238715594)
+22/02/2019 19:06:04.122	Info	Maximos fuera de rango (diff: 177.0 - nsigma: 176.8471733000684)
