@@ -637,3 +637,14 @@ date: 22/02/2019 20:47:03.083	code: Info	text: Is meteorology ok in 3 last minut
 date: 22/02/2019 20:47:03.130	code: Info	text: ==== YES ====
 date: 22/02/2019 20:47:03.582	code: Info	text: Connected by ('127.0.0.1', 4380) --> command: get_big_meteo_values:'OT':3
 date: 22/02/2019 20:47:32.494	code: Info	text: Collecting datas...
+date: 22/02/2019 20:48:24.777	code: Info	text: Connected by ('127.0.0.1', 1188) --> command: is_ok:'OT':3
+date: 22/02/2019 20:48:24.777	code: Info	text: Is meteorology ok in 3 last minutes?
+date: 22/02/2019 20:48:24.824	code: Info	text: ==== YES ====
+date: 22/02/2019 20:48:25.307	code: Info	text: Connected by ('127.0.0.1', 1189) --> command: get_big_meteo_values:'OT':3
+date: 22/02/2019 20:48:34.503	code: Info	text: Collecting datas...
+date: 22/02/2019 20:49:36.457	code: Info	text: Collecting datas...
+date: 22/02/2019 20:50:08.876	code: Info	text: Connected by ('127.0.0.1', 1364) --> command: is_ok:'OT':3
+date: 22/02/2019 20:50:08.876	code: Info	text: Is meteorology ok in 3 last minutes?
+date: 22/02/2019 20:50:08.923	code: Info	text: ==== YES ====
+date: 22/02/2019 20:50:09.359	code: Info	text: Connected by ('127.0.0.1', 1444) --> command: get_big_meteo_values:'OT':3
+date: 22/02/2019 20:50:09.593	code: Info	text: Connected by ('127.0.0.1', 1450) --> command: ping
