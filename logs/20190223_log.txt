@@ -7610,3 +7610,97 @@
 23/02/2019 22:18:04.530	Debg	---------------- Star Selection -------------
 23/02/2019 22:18:04.530	Debg	---------------------------------------------
 23/02/2019 22:18:04.530	Info	Comprobando que la estella es observable...
+23/02/2019 22:18:09.970	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '1.41475970213', 'az': '320.363467', 'name': 'Menkalinan', 'airmass': '1.091920', 'ha_hours': 'hms_tuple(h=1.0, m=24.0, s=53.13492765878024)', 'alt': '66.321971', 'dec': '44.948295', 'magnitude': '1.900000', 'ra': '6.015472'}
+23/02/2019 22:18:09.970	Time	*** Select star: 5.44 ***
+23/02/2019 22:18:09.970	Debg	---------------------------------------------
+23/02/2019 22:18:09.970	Debg	-------------- Check spots ------------------
+23/02/2019 22:18:09.970	Debg	---------------------------------------------
+23/02/2019 22:18:09.970	Info	Centrando spots...
+23/02/2019 22:18:12.136	Info	Intento 0
+23/02/2019 22:18:16.859	Info	Los spots estan centrados
+23/02/2019 22:18:16.859	Time	*** Center spots: 6.89 ***
+23/02/2019 22:18:16.859	Debg	---------------------------------------------
+23/02/2019 22:18:16.859	Debg	--------------- Check focal -----------------
+23/02/2019 22:18:16.859	Debg	---------------------------------------------
+23/02/2019 22:18:16.859	Info	Comprobando el foco...
+23/02/2019 22:18:16.874	Info	Intento 0
+23/02/2019 22:18:17.700	Info	DX: 41.23 (MIN: 40.5 - MAX: 41.5)
+23/02/2019 22:18:17.700	Info	La imagen esta enfocada
+23/02/2019 22:18:17.700	Time	*** Foco: 0.84 ***
+23/02/2019 22:18:17.700	Time	*** Select star total: 13.17 ***
+23/02/2019 22:18:17.700	Debg	---------------------------------------------
+23/02/2019 22:18:17.700	Debg	---------- Generating datas file ------------
+23/02/2019 22:18:17.700	Debg	---------------------------------------------
+23/02/2019 22:18:17.700	Info	##### PACK: OTSX_A35SC8_190223221817
+23/02/2019 22:18:54.499	Time	*** Getting images for pack: 36.8 ***
+23/02/2019 22:19:08.947	Info	##### (OTSX_A35SC8_190223221817) Se ha generado el fichero: D:/DIMMLAB\19_02_23\OTSX190223221851.txt
+23/02/2019 22:19:08.947	Time	*** File generation: 51.25 ***
+23/02/2019 22:19:08.947	Debg	---------------------------------------------
+23/02/2019 22:19:08.947	Debg	------------ Calculating seeing -------------
+23/02/2019 22:19:08.947	Debg	---------------------------------------------
+23/02/2019 22:19:14.433	Info	
+23/02/2019 22:19:14.433	Info	SEEING: 1.1731309824397675 (used imgs: 200) (OTSX_A35SC8_190223221817)
+23/02/2019 22:19:14.433	Info	
+23/02/2019 22:19:14.433	Time	*** Seeing calc: 5.49 ***
+23/02/2019 22:19:14.433	Time	*** Data proccess: 56.73 ***
+23/02/2019 22:19:14.433	Time	*** Total iteration: 69.9 ***
+23/02/2019 22:19:14.433	Debg	---------------------------------------------
+23/02/2019 22:19:14.433	Debg	-------------------- Meteo ------------------
+23/02/2019 22:19:14.449	Debg	---------------------------------------------
+23/02/2019 22:19:14.589	Info	
+23/02/2019 22:19:14.589	Info	CODE:OT:IAC	Date:2019-02-23 22:18:10.998000	Hum:19.3000	WS:16.5600	DewPoint:0.0000	Dust:0.0000
+23/02/2019 22:19:14.589	Info	CODE:OT:CWW	Date:2019-02-23 22:18:10.624000	Hum:0.0000	WS:16.2000	DewPoint:0.0000	Dust:0.0048
+23/02/2019 22:19:14.589	Info	CODE:OT:VIVALDI	Date:2019-02-23 22:18:12.307000	Hum:16.0000	WS:15.1000	DewPoint:0.0000	Dust:32.7000
+23/02/2019 22:19:14.589	Info	
+23/02/2019 22:19:14.605	Debg	---------------------------------------------
+23/02/2019 22:19:14.605	Debg	---------------- Star Selection -------------
+23/02/2019 22:19:14.605	Debg	---------------------------------------------
+23/02/2019 22:19:14.605	Info	Comprobando que la estella es observable...
+23/02/2019 22:19:17.254	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '1.41475970213', 'az': '320.363467', 'name': 'Menkalinan', 'airmass': '1.091920', 'ha_hours': 'hms_tuple(h=1.0, m=24.0, s=53.13492765878024)', 'alt': '66.321971', 'dec': '44.948295', 'magnitude': '1.900000', 'ra': '6.015472'}
+23/02/2019 22:19:17.254	Time	*** Select star: 2.65 ***
+23/02/2019 22:19:17.254	Debg	---------------------------------------------
+23/02/2019 22:19:17.254	Debg	-------------- Check spots ------------------
+23/02/2019 22:19:17.254	Debg	---------------------------------------------
+23/02/2019 22:19:17.254	Info	Centrando spots...
+23/02/2019 22:19:19.670	Info	Intento 0
+23/02/2019 22:19:21.260	Info	Maximos fuera de rango (diff: 161.0 - nsigma: 152.86552668426398)
+23/02/2019 22:19:21.260	Info	Moviendo telescopio...
+23/02/2019 22:19:23.068	Info	Intento 1
+23/02/2019 22:19:24.720	Info	Maximos fuera de rango (diff: 127.0 - nsigma: 124.23575135108567)
+23/02/2019 22:19:24.720	Info	Moviendo telescopio...
+23/02/2019 22:19:26.434	Info	Intento 2
+23/02/2019 22:19:27.900	Info	DX fuera de rango (dx: 262.0 - min: 30.0 - max: 52.0)
+23/02/2019 22:19:27.900	Info	Moviendo telescopio...
+23/02/2019 22:19:29.240	Info	Intento 3
+23/02/2019 22:19:30.861	Info	DX fuera de rango (dx: 307.0 - min: 30.0 - max: 52.0)
+23/02/2019 22:19:30.861	Info	Moviendo telescopio...
+23/02/2019 22:19:32.123	Info	Intento 4
+23/02/2019 22:19:33.760	Info	Maximos fuera de rango (diff: 70.07325625 - nsigma: 27.67585830490659)
+23/02/2019 22:19:33.760	Info	Moviendo telescopio...
+23/02/2019 22:19:35.490	Info	Intento 5
+23/02/2019 22:19:37.033	Info	Maximos fuera de rango (diff: 359.0 - nsigma: 74.49255639606596)
+23/02/2019 22:19:37.033	Info	Moviendo telescopio...
+23/02/2019 22:19:39.106	Info	Intento 6
+23/02/2019 22:19:40.649	Info	DX fuera de rango (dx: 240.0 - min: 30.0 - max: 52.0)
+23/02/2019 22:19:40.649	Info	Moviendo telescopio...
+23/02/2019 22:19:42.566	Info	Intento 7
+23/02/2019 22:19:44.171	Info	DX fuera de rango (dx: 390.0 - min: 30.0 - max: 52.0)
+23/02/2019 22:19:44.171	Info	Moviendo telescopio...
+23/02/2019 22:19:45.387	Info	Intento 8
+23/02/2019 22:19:46.946	Info	DX fuera de rango (dx: 65.0 - min: 30.0 - max: 52.0)
+23/02/2019 22:19:46.961	Info	Moviendo telescopio...
+23/02/2019 22:19:48.395	Info	Intento 9
+23/02/2019 22:19:49.923	Info	DX fuera de rango (dx: 171.0 - min: 30.0 - max: 52.0)
+23/02/2019 22:19:49.923	Info	Moviendo telescopio...
+23/02/2019 22:19:51.980	Info	Intento 10
+23/02/2019 22:19:53.632	Info	Maximos fuera de rango (diff: 190.0 - nsigma: 144.84927476391596)
+23/02/2019 22:19:53.632	Info	Moviendo telescopio...
+23/02/2019 22:19:55.565	Info	Intento 11
+23/02/2019 22:19:57.123	Info	DX fuera de rango (dx: 192.0 - min: 30.0 - max: 52.0)
+23/02/2019 22:19:57.139	Info	Moviendo telescopio...
+23/02/2019 22:19:58.962	Info	Intento 12
+23/02/2019 22:20:00.693	Info	Ventana de spots fuera de rango (cx: 79 - cy: 113 - left: 80 - right: 560 - down: 30 - up: 450)
+23/02/2019 22:20:00.693	Info	Moviendo telescopio...
+23/02/2019 22:20:03.217	Info	Intento 13
+23/02/2019 22:20:04.947	Info	DX fuera de rango (dx: 363.0 - min: 30.0 - max: 52.0)
+23/02/2019 22:20:04.947	Info	Moviendo telescopio...
