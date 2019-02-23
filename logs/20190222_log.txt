@@ -20866,3 +20866,5 @@
 23/02/2019 05:26:36.767	Debg	---------- Generating datas file ------------
 23/02/2019 05:26:36.767	Debg	---------------------------------------------
 23/02/2019 05:26:36.767	Info	##### PACK: OTSX_UEHVWD_190223052636
+23/02/2019 05:29:39.746	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+23/02/2019 05:29:39.746	Info	Recovery Image Server error
