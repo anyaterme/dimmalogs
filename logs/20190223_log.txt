@@ -4671,3 +4671,34 @@
 23/02/2019 21:02:01.788	Debg	---------------- Star Selection -------------
 23/02/2019 21:02:01.788	Debg	---------------------------------------------
 23/02/2019 21:02:01.788	Info	Seleccionando estella...
+23/02/2019 21:03:38.499	Info	Estella seleccionada --> Pollux
+	airmass: 1.071934
+	ha hours: hms_tuple(h=-1.0, m=-35.0, s=-54.18126120356476)
+	ra: 7.775015
+	dec: 27.978222
+23/02/2019 21:03:38.499	Time	*** Select star: 96.71 ***
+23/02/2019 21:03:38.499	Debg	---------------------------------------------
+23/02/2019 21:03:38.499	Debg	-------------- Check spots ------------------
+23/02/2019 21:03:38.499	Debg	---------------------------------------------
+23/02/2019 21:03:38.499	Info	Centrando spots...
+23/02/2019 21:03:40.774	Info	Intento 0
+23/02/2019 21:03:42.302	Info	Maximos fuera de rango (diff: 364.0 - nsigma: 224.59640055125894)
+23/02/2019 21:03:42.302	Info	Moviendo telescopio...
+23/02/2019 21:03:43.954	Info	Intento 1
+23/02/2019 21:03:45.466	Info	Maximos fuera de rango (diff: 549.0 - nsigma: 454.40156171539513)
+23/02/2019 21:03:45.466	Info	Moviendo telescopio...
+23/02/2019 21:03:47.539	Info	Intento 2
+23/02/2019 21:03:49.284	Info	DX fuera de rango (dx: 153.0 - min: 30.0 - max: 52.0)
+23/02/2019 21:03:49.284	Info	Moviendo telescopio...
+23/02/2019 21:03:50.687	Info	Intento 3
+23/02/2019 21:03:52.277	Info	DX fuera de rango (dx: 136.0 - min: 30.0 - max: 52.0)
+23/02/2019 21:03:52.277	Info	Moviendo telescopio...
+23/02/2019 21:03:53.555	Info	Intento 4
+23/02/2019 21:03:55.051	Info	DX fuera de rango (dx: 237.0 - min: 30.0 - max: 52.0)
+23/02/2019 21:03:55.051	Info	Moviendo telescopio...
+23/02/2019 21:03:56.641	Info	Intento 5
+23/02/2019 21:03:58.106	Info	Maximos fuera de rango (diff: 762.0 - nsigma: 135.0579186023506)
+23/02/2019 21:03:58.106	Info	Moviendo telescopio...
+23/02/2019 21:04:00.007	Info	Intento 6
+23/02/2019 21:04:01.519	Info	DX fuera de rango (dx: 382.0 - min: 30.0 - max: 52.0)
+23/02/2019 21:04:01.519	Info	Moviendo telescopio...
