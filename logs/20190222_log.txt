@@ -13195,3 +13195,8 @@
 23/02/2019 00:57:49.172	Debg	---------------------------------------------
 23/02/2019 00:57:49.172	Info	Centrando spots...
 23/02/2019 00:57:51.651	Info	Intento 0
+23/02/2019 00:58:52.545	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+23/02/2019 00:58:52.545	Info	Recovery Image Server error
+23/02/2019 01:00:01.432	ERROR	Error in open_tcp:  [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+23/02/2019 01:00:02.742	Error	No se ha podido conseguir imagen del servidor
+23/02/2019 01:00:02.742	Info	Intento 1
