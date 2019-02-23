@@ -2550,3 +2550,24 @@ get_seeing_thread @ 	This package contain 200 images...
 23/02/2019 01:21:19.225	Info	Connected by ('127.0.0.1', 4603) --> command: ping
 23/02/2019 01:21:38.474	Info	Connected by ('127.0.0.1', 4620) --> command: ping
 23/02/2019 01:21:55.151	Info	Connected by ('127.0.0.1', 4643) --> command: ping
+23/02/2019 01:22:11.734	Info	Connected by ('127.0.0.1', 1216) --> command: ping
+23/02/2019 01:22:28.489	Info	Connected by ('127.0.0.1', 1687) --> command: ping
+23/02/2019 01:22:44.730	Info	Connected by ('127.0.0.1', 1696) --> command: ping
+23/02/2019 01:23:01.609	Info	Connected by ('127.0.0.1', 1708) --> command: ping
+23/02/2019 01:23:17.975	Info	Connected by ('127.0.0.1', 1714) --> command: ping
+23/02/2019 01:23:35.166	Info	Connected by ('127.0.0.1', 1722) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_window @ could not broadcast input array from shape (15) into shape (20)
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 9, ra: -0.008634, dec: 0.0
+get_images @ Tiempo de procesado de las 200 imagenes: 88.4809999466
+get_seeing_thread @ 	This package contain 200 images...
+23/02/2019 01:23:51.126	Info	Connected by ('127.0.0.1', 1734) --> command: ping
