@@ -851,3 +851,7 @@ date: 22/02/2019 23:56:23.100	code: Info	text: Connected by ('127.0.0.1', 3089) 
 pin_off:123 @ New Status = c_ushort(32789)
 date: 22/02/2019 23:57:23.152	code: Info	text: Connected by ('127.0.0.1', 3108) --> command: echo_dome
 pin_on:115 @ New Status = c_ushort(40981)
+date: 22/02/2019 23:58:23.159	code: Info	text: Connected by ('127.0.0.1', 4029) --> command: echo_dome
+pin_off:123 @ New Status = c_ushort(32789)
+date: 22/02/2019 23:59:23.164	code: Info	text: Connected by ('127.0.0.1', 4051) --> command: echo_dome
+pin_on:115 @ New Status = c_ushort(40981)
