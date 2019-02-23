@@ -909,3 +909,17 @@ get_dx_data @ Tiempo de procesado de las 5 imagenes: 1.68300008774
 get_dx_data @ dx final: 41.296125
 get_images @ Tiempo de procesado de las 200 imagenes: 31.0789999962
 get_seeing_thread @ 	This package contain 200 images...
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_window @ could not broadcast input array from shape (17) into shape (20)
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 9, ra: -0.008634, dec: 0.0
+get_images @ Tiempo de procesado de las 200 imagenes: 30.9690001011
+get_seeing_thread @ 	This package contain 200 images...
