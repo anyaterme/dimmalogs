@@ -3531,3 +3531,20 @@ date: 23/02/2019 05:15:18.745	code: Info	text: Connected by ('127.0.0.1', 4227) 
 date: 23/02/2019 05:15:34.783	code: Info	text: Connected by ('127.0.0.1', 4233) --> command: ping
 date: 23/02/2019 05:15:50.540	code: Info	text: Connected by ('127.0.0.1', 4241) --> command: ping
 date: 23/02/2019 05:16:07.856	code: Info	text: Connected by ('127.0.0.1', 4716) --> command: ping
+date: 23/02/2019 05:16:09.867	code: Info	text: Connected by ('127.0.0.1', 4827) --> command: is_ok:'OT':3
+date: 23/02/2019 05:16:09.867	code: Info	text: Is meteorology ok in 3 last minutes?
+date: 23/02/2019 05:16:09.929	code: Info	text: ==== YES ====
+date: 23/02/2019 05:16:10.116	code: Info	text: Connected by ('127.0.0.1', 4856) --> command: get_big_meteo_values:'OT':3
+date: 23/02/2019 05:16:10.553	code: Info	text: Collecting datas...
+date: 23/02/2019 05:16:25.094	code: Info	text: Connected by ('127.0.0.1', 1523) --> command: ping
+date: 23/02/2019 05:16:41.335	code: Info	text: Connected by ('127.0.0.1', 1531) --> command: ping
+date: 23/02/2019 05:16:57.467	code: Info	text: Connected by ('127.0.0.1', 1537) --> command: ping
+date: 23/02/2019 05:17:13.177	code: Info	text: Collecting datas...
+date: 23/02/2019 05:17:13.193	code: Info	text: Connected by ('127.0.0.1', 1545) --> command: ping
+date: 23/02/2019 05:17:30.010	code: Info	text: Connected by ('127.0.0.1', 1559) --> command: ping
+date: 23/02/2019 05:17:46.937	code: Info	text: Connected by ('127.0.0.1', 1565) --> command: ping
+date: 23/02/2019 05:17:50.007	code: Info	text: Connected by ('127.0.0.1', 1567) --> command: is_ok:'OT':3
+date: 23/02/2019 05:17:50.007	code: Info	text: Is meteorology ok in 3 last minutes?
+date: 23/02/2019 05:17:50.054	code: Info	text: ==== YES ====
+date: 23/02/2019 05:17:50.272	code: Info	text: Connected by ('127.0.0.1', 1568) --> command: get_big_meteo_values:'OT':3
+date: 23/02/2019 05:18:03.676	code: Info	text: Connected by ('127.0.0.1', 1582) --> command: ping
