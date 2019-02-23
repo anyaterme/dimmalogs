@@ -173,3 +173,15 @@ date: 23/02/2019 21:36:54.890	code: Info	text: OK
 date: 23/02/2019 21:36:55.108	code: Info	text: Connected by ('127.0.0.1', 4083) --> command: get_pos
 date: 23/02/2019 21:36:55.108	code: Info	text: self.get_pos()
 date: 23/02/2019 21:36:55.124	code: Info	text: 0.263000488
+date: 23/02/2019 22:29:58.607	code: Info	text: Connected by ('127.0.0.1', 1983) --> command: fwd_time:1
+date: 23/02/2019 22:29:58.607	code: Info	text: self.fwd_time(1)
+date: 23/02/2019 22:29:59.137	code: Info	text: OK
+date: 23/02/2019 22:29:59.231	code: Info	text: Connected by ('127.0.0.1', 1984) --> command: get_pos
+date: 23/02/2019 22:29:59.231	code: Info	text: self.get_pos()
+date: 23/02/2019 22:29:59.246	code: Info	text: 0.263214111
+date: 23/02/2019 22:30:07.679	code: Info	text: Connected by ('127.0.0.1', 2155) --> command: rwd_time:1
+date: 23/02/2019 22:30:07.679	code: Info	text: self.rwd_time(1)
+date: 23/02/2019 22:30:08.099	code: Info	text: OK
+date: 23/02/2019 22:30:08.318	code: Info	text: Connected by ('127.0.0.1', 2188) --> command: get_pos
+date: 23/02/2019 22:30:08.318	code: Info	text: self.get_pos()
+date: 23/02/2019 22:30:08.318	code: Info	text: 0.263015747
