@@ -40,3 +40,52 @@
 23/02/2019 19:03:24.396	Info	Lado A abierto
 23/02/2019 19:03:27.389	Info	Abriendo cupula lado B (0)...
 23/02/2019 19:03:59.550	Info	Abriendo cupula lado B (1)...
+23/02/2019 19:04:09.837	Info	Lado B abierto
+23/02/2019 19:04:09.837	Info	Cupula abierta
+23/02/2019 19:04:09.837	Info	Encendiendo la montura...
+23/02/2019 19:04:10.507	Info	Montura encendida
+23/02/2019 19:04:20.513	Info	Encendiendo el foco...
+23/02/2019 19:04:21.106	Info	Foco encendida
+23/02/2019 19:04:21.106	Info	Llevando la montura al home...
+23/02/2019 19:04:30.987	Info	Montura en el home
+23/02/2019 19:04:30.987	Info	--- Listo para empezar observacion ---
+
+23/02/2019 19:04:30.987	Debg	---------------------------------------------
+23/02/2019 19:04:30.987	Debg	---------------- Star Selection -------------
+23/02/2019 19:04:30.987	Debg	---------------------------------------------
+23/02/2019 19:04:30.987	Info	Seleccionando estella...
+23/02/2019 19:05:31.523	Info	Estella seleccionada --> Hamal
+	airmass: 1.130149
+	ha hours: hms_tuple(h=2.0, m=2.0, s=1.519946506620613)
+	ra: 2.137099
+	dec: 23.550988
+23/02/2019 19:05:31.523	Time	*** Select star: 60.54 ***
+23/02/2019 19:05:31.523	Debg	---------------------------------------------
+23/02/2019 19:05:31.523	Debg	-------------- Check spots ------------------
+23/02/2019 19:05:31.523	Debg	---------------------------------------------
+23/02/2019 19:05:31.523	Info	Centrando spots...
+23/02/2019 19:05:34.251	Info	Intento 0
+23/02/2019 19:05:38.942	Info	Los spots estan centrados
+23/02/2019 19:05:38.942	Time	*** Center spots: 7.42 ***
+23/02/2019 19:05:38.942	Debg	---------------------------------------------
+23/02/2019 19:05:38.942	Debg	--------------- Check focal -----------------
+23/02/2019 19:05:38.942	Debg	---------------------------------------------
+23/02/2019 19:05:38.942	Info	Comprobando el foco...
+23/02/2019 19:05:38.958	Info	Intento 0
+23/02/2019 19:05:42.839	Info	Maximos fuera de rango (diff: 167.0 - nsigma: 165.37695889654498)
+23/02/2019 19:05:45.940	Info	DX: 39.54 (MIN: 40.5 - MAX: 41.5)
+23/02/2019 19:05:45.940	Info	Moviendo el foco...
+23/02/2019 19:05:46.626	Info	Intento 1
+23/02/2019 19:05:53.609	Info	DX: 39.42 (MIN: 40.5 - MAX: 41.5)
+23/02/2019 19:05:53.609	Info	Moviendo el foco...
+23/02/2019 19:05:54.450	Info	Intento 2
+23/02/2019 19:05:58.097	Info	Maximos fuera de rango (diff: 213.0 - nsigma: 113.29021405879298)
+23/02/2019 19:05:58.113	Info	Maximos fuera de rango (diff: 224.0 - nsigma: 207.07653374747528)
+23/02/2019 19:06:01.183	Info	DX: 40.63 (MIN: 40.5 - MAX: 41.5)
+23/02/2019 19:06:01.183	Info	La imagen esta enfocada
+23/02/2019 19:06:01.183	Time	*** Foco: 22.24 ***
+23/02/2019 19:06:01.199	Time	*** Select star total: 90.21 ***
+23/02/2019 19:06:01.199	Debg	---------------------------------------------
+23/02/2019 19:06:01.199	Debg	---------- Generating datas file ------------
+23/02/2019 19:06:01.199	Debg	---------------------------------------------
+23/02/2019 19:06:01.199	Info	##### PACK: OTSX_STSDKF_190223190601
