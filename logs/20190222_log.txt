@@ -20900,3 +20900,27 @@
 23/02/2019 05:30:54.359	Info	Intento 0
 23/02/2019 05:31:55.441	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
 23/02/2019 05:31:55.441	Info	Recovery Image Server error
+23/02/2019 05:33:03.521	Error	No se ha podido conseguir imagen del servidor
+23/02/2019 05:33:03.521	Info	Intento 1
+23/02/2019 05:33:08.415	Info	Los spots estan centrados
+23/02/2019 05:33:08.415	Time	*** Center spots: 136.47 ***
+23/02/2019 05:33:08.415	Debg	---------------------------------------------
+23/02/2019 05:33:08.415	Debg	--------------- Check focal -----------------
+23/02/2019 05:33:08.415	Debg	---------------------------------------------
+23/02/2019 05:33:08.415	Info	Comprobando el foco...
+23/02/2019 05:33:08.430	Info	Intento 0
+23/02/2019 05:33:08.430	Error (get dx dat 2)	'str' object has no attribute 'images'
+23/02/2019 05:33:08.430	Info	DX: 0.0 (MIN: 40.5 - MAX: 41.5)
+23/02/2019 05:33:08.430	Error	Imagenes no aptas para calcular el foco
+23/02/2019 05:33:08.430	Info	Intento 1
+23/02/2019 05:33:13.231	Info	Maximos fuera de rango (diff: 120.0 - nsigma: 90.73602848560826)
+23/02/2019 05:33:13.262	Info	Maximos fuera de rango (diff: 181.0 - nsigma: 93.14942677271752)
+23/02/2019 05:33:13.324	Info	Maximos fuera de rango (diff: 110.0 - nsigma: 84.58441628572017)
+23/02/2019 05:33:16.519	Info	DX: 40.64 (MIN: 40.5 - MAX: 41.5)
+23/02/2019 05:33:16.519	Info	La imagen esta enfocada
+23/02/2019 05:33:16.519	Time	*** Foco: 8.1 ***
+23/02/2019 05:33:16.519	Time	*** Select star total: 147.07 ***
+23/02/2019 05:33:16.519	Debg	---------------------------------------------
+23/02/2019 05:33:16.519	Debg	---------- Generating datas file ------------
+23/02/2019 05:33:16.535	Debg	---------------------------------------------
+23/02/2019 05:33:16.535	Info	##### PACK: OTSX_CCK7JK_190223053316
