@@ -1212,3 +1212,16 @@ get_move_matrix @ cell 31, ra: 0.0, dec: -0.008634
 get_move_matrix @ cell 32, ra: 0.0, dec: -0.008634
 get_move_matrix @ cell 33, ra: 0.0, dec: -0.008634
 get_move_matrix @ cell 34, ra: 0.0, dec: -0.008634
+23/02/2019 22:48:44.184	Info	Connected by ('127.0.0.1', 2562) --> command: ping
+23/02/2019 22:48:59.552	Info	Connected by ('127.0.0.1', 2579) --> command: ping
+23/02/2019 22:49:15.013	Info	Connected by ('127.0.0.1', 2596) --> command: ping
+23/02/2019 22:49:30.490	Info	Connected by ('127.0.0.1', 2603) --> command: ping
+23/02/2019 22:49:46.248	Info	Connected by ('127.0.0.1', 2616) --> command: ping
+23/02/2019 22:50:02.317	Info	Connected by ('127.0.0.1', 2623) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 1.87000012398
+get_dx_data @ dx final: 42.064225
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 1.74500012398
+get_dx_data @ dx final: 40.89446
+get_images @ Tiempo de procesado de las 200 imagenes: 31.2649998665
+get_seeing_thread @ 	This package contain 200 images...
