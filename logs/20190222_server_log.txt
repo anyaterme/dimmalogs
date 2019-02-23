@@ -4127,3 +4127,19 @@ ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy
 23/02/2019 05:33:28.957	Info	Connected by ('127.0.0.1', 3886) --> command: ping
 23/02/2019 05:33:45.353	Info	Connected by ('127.0.0.1', 3892) --> command: ping
 23/02/2019 05:34:02.264	Info	Connected by ('127.0.0.1', 3904) --> command: ping
+23/02/2019 05:34:19.269	Info	Connected by ('127.0.0.1', 4834) --> command: ping
+23/02/2019 05:34:36.413	Info	Connected by ('127.0.0.1', 1138) --> command: ping
+ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.5720000267
+get_dx_data @ dx final: 40.64165
+get_images @ Tiempo de procesado de las 200 imagenes: 59.367000103
+get_seeing_thread @ 	This package contain 200 images...
+23/02/2019 05:34:53.106	Info	Connected by ('127.0.0.1', 1151) --> command: ping
+23/02/2019 05:35:08.957	Info	Connected by ('127.0.0.1', 1164) --> command: ping
+Received:  0
+Received:  OK
+2019-02-23 18:58:10.958253
+23/02/2019 05:35:10.469	Info	Connected by ('127.0.0.1', 1171) --> command: ping
+23/02/2019 05:35:27.021	Info	Connected by ('127.0.0.1', 1177) --> command: ping
+23/02/2019 05:35:44.103	Info	Connected by ('127.0.0.1', 1183) --> command: ping
+23/02/2019 05:36:01.014	Info	Connected by ('127.0.0.1', 1195) --> command: ping
