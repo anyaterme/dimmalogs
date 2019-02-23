@@ -1,0 +1,10 @@
+
+date: 23/02/2019 19:00:14.247	code: Info	text: Meteo server started.... (port 3360)
+date: 23/02/2019 19:00:16.445	code: Info	text: Collecting datas...
+date: 23/02/2019 19:00:22.414	code: Info	text: Connected by ('127.0.0.1', 4059) --> command: ping
+Meteo server started.... (port 3360)
+date: 23/02/2019 19:01:19.864	code: Info	text: Collecting datas...
+date: 23/02/2019 19:01:56.273	code: Info	text: Connected by ('127.0.0.1', 4077) --> command: safe_start:'OT':5
+date: 23/02/2019 19:01:56.273	code: Info	text: Is meteorology safe in OT?
+date: 23/02/2019 19:01:56.336	code: Info	text: ==== YES ====
+date: 23/02/2019 19:01:56.429	code: Info	text: Connected by ('127.0.0.1', 4078) --> command: get_big_meteo_values:'OT':5
