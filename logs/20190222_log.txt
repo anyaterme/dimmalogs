@@ -14825,3 +14825,56 @@
 23/02/2019 02:07:27.073	Debg	---------------- Star Selection -------------
 23/02/2019 02:07:27.073	Debg	---------------------------------------------
 23/02/2019 02:07:27.073	Info	Seleccionando estella...
+23/02/2019 02:08:38.379	Info	Estella seleccionada --> Regulus
+	airmass: 1.078479
+	ha hours: hms_tuple(h=1.0, m=2.0, s=36.463712148045175)
+	ra: 10.156678
+	dec: 11.871891
+23/02/2019 02:08:38.379	Time	*** Select star: 71.31 ***
+23/02/2019 02:08:38.379	Debg	---------------------------------------------
+23/02/2019 02:08:38.379	Debg	-------------- Check spots ------------------
+23/02/2019 02:08:38.379	Debg	---------------------------------------------
+23/02/2019 02:08:38.379	Info	Centrando spots...
+23/02/2019 02:08:41.107	Info	Intento 0
+23/02/2019 02:08:42.837	Info	Maximos fuera de rango (diff: 315.0 - nsigma: 237.6382633060882)
+23/02/2019 02:08:42.837	Info	Moviendo telescopio...
+23/02/2019 02:08:43.647	Info	Intento 1
+23/02/2019 02:08:45.097	Info	Maximos fuera de rango (diff: 365.0 - nsigma: 220.92716560918618)
+23/02/2019 02:08:45.097	Info	Moviendo telescopio...
+23/02/2019 02:08:47.045	Info	Intento 2
+23/02/2019 02:08:48.806	Info	Moviendo telescopio...
+23/02/2019 02:08:50.069	Info	Intento 3
+23/02/2019 02:08:51.643	Info	DX fuera de rango (dx: 552.0 - min: 30.0 - max: 52.0)
+23/02/2019 02:08:51.643	Info	Moviendo telescopio...
+23/02/2019 02:08:53.014	Info	Intento 4
+23/02/2019 02:08:54.760	Info	DX fuera de rango (dx: 9.0 - min: 30.0 - max: 52.0)
+23/02/2019 02:08:54.760	Info	Moviendo telescopio...
+23/02/2019 02:08:56.615	Info	Intento 5
+23/02/2019 02:09:01.867	Info	Los spots estan centrados
+23/02/2019 02:09:01.867	Time	*** Center spots: 23.49 ***
+23/02/2019 02:09:01.867	Debg	---------------------------------------------
+23/02/2019 02:09:01.867	Debg	--------------- Check focal -----------------
+23/02/2019 02:09:01.867	Debg	---------------------------------------------
+23/02/2019 02:09:01.867	Info	Comprobando el foco...
+23/02/2019 02:09:01.883	Info	Intento 0
+23/02/2019 02:09:06.481	Info	Maximos fuera de rango (diff: 273.0 - nsigma: 263.4235564963187)
+23/02/2019 02:09:06.699	Info	Maximos fuera de rango (diff: 275.0 - nsigma: 217.5916323801462)
+23/02/2019 02:09:09.956	Info	DX: 41.93 (MIN: 40.5 - MAX: 41.5)
+23/02/2019 02:09:09.956	Info	Moviendo el foco...
+23/02/2019 02:09:11.001	Info	Intento 1
+23/02/2019 02:09:16.269	Info	Maximos fuera de rango (diff: 381.0 - nsigma: 218.48403565092894)
+23/02/2019 02:09:19.604	Info	DX: 41.92 (MIN: 40.5 - MAX: 41.5)
+23/02/2019 02:09:19.604	Info	Moviendo el foco...
+23/02/2019 02:09:20.539	Info	Intento 2
+23/02/2019 02:09:24.623	Info	Maximos fuera de rango (diff: 281.0 - nsigma: 239.77376726976127)
+23/02/2019 02:09:24.638	Info	Maximos fuera de rango (diff: 181.0 - nsigma: 169.85424691754167)
+23/02/2019 02:09:24.670	Info	Maximos fuera de rango (diff: 232.0 - nsigma: 222.79612790360517)
+23/02/2019 02:09:24.685	Info	Maximos fuera de rango (diff: 380.0 - nsigma: 270.12506049392636)
+23/02/2019 02:09:27.740	Info	DX: 41.37 (MIN: 40.5 - MAX: 41.5)
+23/02/2019 02:09:27.740	Info	La imagen esta enfocada
+23/02/2019 02:09:27.740	Time	*** Foco: 25.87 ***
+23/02/2019 02:09:27.740	Time	*** Select star total: 120.67 ***
+23/02/2019 02:09:27.740	Debg	---------------------------------------------
+23/02/2019 02:09:27.740	Debg	---------- Generating datas file ------------
+23/02/2019 02:09:27.740	Debg	---------------------------------------------
+23/02/2019 02:09:27.756	Info	##### PACK: OTSX_GOTL3A_190223020927
