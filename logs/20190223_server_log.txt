@@ -4010,3 +4010,29 @@ Received:  OK
 24/02/2019 04:33:29.589	Info	Connected by ('127.0.0.1', 1385) --> command: ping
 24/02/2019 04:33:45.487	Info	Connected by ('127.0.0.1', 1412) --> command: ping
 24/02/2019 04:34:01.010	Info	Connected by ('127.0.0.1', 1431) --> command: ping
+24/02/2019 04:34:17.064	Info	Connected by ('127.0.0.1', 2245) --> command: ping
+24/02/2019 04:34:32.525	Info	Connected by ('127.0.0.1', 2633) --> command: ping
+24/02/2019 04:34:48.236	Info	Connected by ('127.0.0.1', 2645) --> command: ping
+24/02/2019 04:35:06.550	Info	Connected by ('127.0.0.1', 2651) --> command: ping
+24/02/2019 04:35:07.641	Info	Connected by ('127.0.0.1', 2652) --> command: ping
+Received:  0
+Received:  OK
+2019-02-24 18:58:51.309673
+24/02/2019 04:35:22.619	Info	Connected by ('127.0.0.1', 2661) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.00900006294
+get_dx_data @ dx final: 42.6238
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.55599999428
+get_dx_data @ dx final: 42.6934
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.27600002289
+get_dx_data @ dx final: 42.05005
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.77500009537
+get_dx_data @ dx final: 41.682575
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 3.05499982834
+get_dx_data @ dx final: 40.678219999999996
+get_images @ Tiempo de procesado de las 200 imagenes: 68.734000206
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224043515.dmm'
+24/02/2019 04:35:37.628	Info	Connected by ('127.0.0.1', 2679) --> command: ping
+24/02/2019 04:35:53.448	Info	Connected by ('127.0.0.1', 2693) --> command: ping
