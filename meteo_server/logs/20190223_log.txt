@@ -3765,3 +3765,21 @@ date: 24/02/2019 05:13:26.360	code: Info	text: Connected by ('127.0.0.1', 3445) 
 date: 24/02/2019 05:13:42.117	code: Info	text: Connected by ('127.0.0.1', 3459) --> command: ping
 date: 24/02/2019 05:13:58.186	code: Info	text: Connected by ('127.0.0.1', 3465) --> command: ping
 date: 24/02/2019 05:14:01.600	code: Info	text: Collecting datas...
+date: 24/02/2019 05:14:13.616	code: Info	text: Connected by ('127.0.0.1', 4359) --> command: ping
+date: 24/02/2019 05:14:29.452	code: Info	text: Connected by ('127.0.0.1', 4707) --> command: ping
+date: 24/02/2019 05:14:43.121	code: Info	text: Connected by ('127.0.0.1', 4713) --> command: is_ok:'OT':3
+date: 24/02/2019 05:14:43.121	code: Info	text: Is meteorology ok in 3 last minutes?
+date: 24/02/2019 05:14:43.183	code: Info	text: ==== YES ====
+date: 24/02/2019 05:14:43.386	code: Info	text: Connected by ('127.0.0.1', 4714) --> command: get_big_meteo_values:'OT':3
+date: 24/02/2019 05:14:48.638	code: Info	text: Connected by ('127.0.0.1', 4722) --> command: ping
+date: 24/02/2019 05:15:03.679	code: Info	text: Collecting datas...
+date: 24/02/2019 05:15:04.614	code: Info	text: Connected by ('127.0.0.1', 4738) --> command: ping
+date: 24/02/2019 05:15:11.472	code: Info	text: Connected by ('127.0.0.1', 4744) --> command: ping
+date: 24/02/2019 05:15:20.028	code: Info	text: Connected by ('127.0.0.1', 4751) --> command: ping
+date: 24/02/2019 05:15:35.692	code: Info	text: Connected by ('127.0.0.1', 4758) --> command: ping
+date: 24/02/2019 05:15:51.325	code: Info	text: Connected by ('127.0.0.1', 4764) --> command: ping
+date: 24/02/2019 05:16:05.727	code: Info	text: Connected by ('127.0.0.1', 1303) --> command: is_ok:'OT':3
+date: 24/02/2019 05:16:05.727	code: Info	text: Is meteorology ok in 3 last minutes?
+date: 24/02/2019 05:16:05.789	code: Info	text: ==== YES ====
+date: 24/02/2019 05:16:05.991	code: Info	text: Connected by ('127.0.0.1', 1304) --> command: get_big_meteo_values:'OT':3
+date: 24/02/2019 05:16:06.054	code: Info	text: Collecting datas...
