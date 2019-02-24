@@ -13940,3 +13940,22 @@
 24/02/2019 01:01:11.306	Debg	---------------------------------------------
 24/02/2019 01:01:11.306	Info	Centrando spots...
 24/02/2019 01:01:13.582	Info	Intento 0
+24/02/2019 01:02:14.507	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+24/02/2019 01:02:14.507	Info	Recovery Image Server error
+24/02/2019 01:03:21.652	Error	No se ha podido conseguir imagen del servidor
+24/02/2019 01:03:21.652	Info	Intento 1
+24/02/2019 01:03:26.172	Info	Los spots estan centrados
+24/02/2019 01:03:26.172	Time	*** Center spots: 134.87 ***
+24/02/2019 01:03:26.172	Debg	---------------------------------------------
+24/02/2019 01:03:26.172	Debg	--------------- Check focal -----------------
+24/02/2019 01:03:26.172	Debg	---------------------------------------------
+24/02/2019 01:03:26.172	Info	Comprobando el foco...
+24/02/2019 01:03:26.187	Info	Intento 0
+24/02/2019 01:03:26.811	Info	DX: 41.05 (MIN: 40.5 - MAX: 41.5)
+24/02/2019 01:03:26.811	Info	La imagen esta enfocada
+24/02/2019 01:03:26.811	Time	*** Foco: 0.64 ***
+24/02/2019 01:03:26.811	Time	*** Select star total: 140.07 ***
+24/02/2019 01:03:26.811	Debg	---------------------------------------------
+24/02/2019 01:03:26.811	Debg	---------- Generating datas file ------------
+24/02/2019 01:03:26.811	Debg	---------------------------------------------
+24/02/2019 01:03:26.811	Info	##### PACK: OTSX_L0I4A1_190224010326
