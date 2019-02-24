@@ -4923,3 +4923,21 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224062124.dmm'
 24/02/2019 06:21:41.238	Info	Connected by ('127.0.0.1', 1726) --> command: ping
 24/02/2019 06:21:57.354	Info	Connected by ('127.0.0.1', 1744) --> command: ping
+24/02/2019 06:22:13.532	Info	Connected by ('127.0.0.1', 2990) --> command: ping
+24/02/2019 06:22:29.352	Info	Connected by ('127.0.0.1', 3058) --> command: ping
+24/02/2019 06:22:45.187	Info	Connected by ('127.0.0.1', 3073) --> command: ping
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.49399995804
+get_dx_data @ dx final: 41.44125
+get_images @ Tiempo de procesado de las 200 imagenes: 37.4530000687
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224062235.dmm'
+24/02/2019 06:23:01.490	Info	Connected by ('127.0.0.1', 3089) --> command: ping
+24/02/2019 06:23:17.139	Info	Connected by ('127.0.0.1', 3097) --> command: ping
+24/02/2019 06:23:33.036	Info	Connected by ('127.0.0.1', 3103) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 35.379999876
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224062336.dmm'
+24/02/2019 06:23:49.480	Info	Connected by ('127.0.0.1', 3121) --> command: ping
+24/02/2019 06:24:05.689	Info	Connected by ('127.0.0.1', 3472) --> command: ping
