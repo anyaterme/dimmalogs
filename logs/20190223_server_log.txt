@@ -5424,3 +5424,18 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224071527.dmm'
 24/02/2019 07:15:41.621	Info	Connected by ('127.0.0.1', 4430) --> command: ping
 24/02/2019 07:15:57.503	Info	Connected by ('127.0.0.1', 4446) --> command: ping
+24/02/2019 07:16:13.603	Info	Connected by ('127.0.0.1', 1777) --> command: ping
+24/02/2019 07:16:29.563	Info	Connected by ('127.0.0.1', 1860) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 37.6710000038
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224071628.dmm'
+24/02/2019 07:16:45.586	Info	Connected by ('127.0.0.1', 1879) --> command: ping
+24/02/2019 07:17:01.483	Info	Connected by ('127.0.0.1', 1892) --> command: ping
+24/02/2019 07:17:18.618	Info	Connected by ('127.0.0.1', 1899) --> command: ping
+24/02/2019 07:17:34.859	Info	Connected by ('127.0.0.1', 1907) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 37.4589998722
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224071730.dmm'
+24/02/2019 07:17:51.442	Info	Connected by ('127.0.0.1', 1929) --> command: ping
