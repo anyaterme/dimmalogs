@@ -19250,3 +19250,64 @@
 24/02/2019 03:48:24.238	Info	Intento 0
 24/02/2019 03:49:25.210	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
 24/02/2019 03:49:25.210	Info	Recovery Image Server error
+24/02/2019 03:50:32.261	Error	No se ha podido conseguir imagen del servidor
+24/02/2019 03:50:32.261	Info	Intento 1
+24/02/2019 03:50:33.913	Info	Maximos fuera de rango (diff: 254.0 - nsigma: 102.07788044456689)
+24/02/2019 03:50:33.913	Info	Moviendo telescopio...
+24/02/2019 03:50:36.080	Info	Intento 2
+24/02/2019 03:50:37.576	Info	DX fuera de rango (dx: 255.0 - min: 30.0 - max: 52.0)
+24/02/2019 03:50:37.576	Info	Moviendo telescopio...
+24/02/2019 03:50:39.399	Info	Intento 3
+24/02/2019 03:50:40.911	Info	DX fuera de rango (dx: 55.0 - min: 30.0 - max: 52.0)
+24/02/2019 03:50:40.911	Info	Moviendo telescopio...
+24/02/2019 03:50:42.470	Info	Intento 4
+24/02/2019 03:50:43.982	Info	DX fuera de rango (dx: 136.0 - min: 30.0 - max: 52.0)
+24/02/2019 03:50:43.982	Info	Moviendo telescopio...
+24/02/2019 03:50:46.288	Info	Intento 5
+24/02/2019 03:50:50.434	Info	Los spots estan centrados
+24/02/2019 03:50:50.434	Time	*** Center spots: 148.72 ***
+24/02/2019 03:50:50.434	Debg	---------------------------------------------
+24/02/2019 03:50:50.434	Debg	--------------- Check focal -----------------
+24/02/2019 03:50:50.434	Debg	---------------------------------------------
+24/02/2019 03:50:50.434	Info	Comprobando el foco...
+24/02/2019 03:50:50.434	Info	Intento 0
+24/02/2019 03:50:51.104	Info	DX: 40.75 (MIN: 40.5 - MAX: 41.5)
+24/02/2019 03:50:51.104	Info	La imagen esta enfocada
+24/02/2019 03:50:51.104	Time	*** Foco: 0.67 ***
+24/02/2019 03:50:51.104	Time	*** Select star total: 157.0 ***
+24/02/2019 03:50:51.104	Debg	---------------------------------------------
+24/02/2019 03:50:51.104	Debg	---------- Generating datas file ------------
+24/02/2019 03:50:51.104	Debg	---------------------------------------------
+24/02/2019 03:50:51.104	Info	##### PACK: OTSX_OMRQI9_190224035051
+24/02/2019 03:51:44.393	Time	*** Getting images for pack: 53.29 ***
+24/02/2019 03:51:44.393	ERROR	Problem with package [OTSX_OMRQI9_190224035051] :> [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224035140.txt'
+24/02/2019 03:51:44.393	Time	*** File generation: 53.29 ***
+24/02/2019 03:51:44.393	Debg	---------------------------------------------
+24/02/2019 03:51:44.393	Debg	------------ Calculating seeing -------------
+24/02/2019 03:51:44.393	Debg	---------------------------------------------
+24/02/2019 03:51:52.061	ERROR	Error (to_file_seeing): [Errno 28] No space left on device
+24/02/2019 03:51:52.077	Info	
+24/02/2019 03:51:52.077	Info	SEEING: 0.9343183977533336 (used imgs: 200) (OTSX_OMRQI9_190224035051)
+24/02/2019 03:51:52.077	Info	
+24/02/2019 03:51:52.077	Time	*** Seeing calc: 7.68 ***
+24/02/2019 03:51:52.077	Time	*** Data proccess: 60.97 ***
+24/02/2019 03:51:52.077	Time	*** Total iteration: 217.97 ***
+24/02/2019 03:51:52.077	Debg	---------------------------------------------
+24/02/2019 03:51:52.077	Debg	-------------------- Meteo ------------------
+24/02/2019 03:51:52.077	Debg	---------------------------------------------
+24/02/2019 03:51:52.529	Info	
+24/02/2019 03:51:52.529	Info	CODE:OT:IAC	Date:2019-02-24 03:51:50.144000	Hum:28.8000	WS:10.0800	DewPoint:0.0000	Dust:0.0000
+24/02/2019 03:51:52.529	Info	CODE:OT:CWW	Date:2019-02-24 03:51:49.770000	Hum:0.0000	WS:17.5680	DewPoint:0.0000	Dust:0.0137
+24/02/2019 03:51:52.529	Info	CODE:OT:VIVALDI	Date:2019-02-24 03:51:50.955000	Hum:29.0000	WS:18.3000	DewPoint:0.0000	Dust:28.1000
+24/02/2019 03:51:52.529	Info	
+24/02/2019 03:51:52.529	Debg	---------------------------------------------
+24/02/2019 03:51:52.529	Debg	---------------- Star Selection -------------
+24/02/2019 03:51:52.529	Debg	---------------------------------------------
+24/02/2019 03:51:52.529	Info	Comprobando que la estella es observable...
+24/02/2019 03:51:57.859	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-0.854139051693', 'az': '21.660980', 'name': 'Alkaid', 'airmass': '1.087216', 'ha_hours': 'hms_tuple(h=-0.0, m=-51.0, s=-14.900586094160815)', 'alt': '66.893825', 'dec': '49.215483', 'magnitude': '1.850000', 'ra': '13.805016'}
+24/02/2019 03:51:57.859	Time	*** Select star: 5.33 ***
+24/02/2019 03:51:57.859	Debg	---------------------------------------------
+24/02/2019 03:51:57.859	Debg	-------------- Check spots ------------------
+24/02/2019 03:51:57.859	Debg	---------------------------------------------
+24/02/2019 03:51:57.859	Info	Centrando spots...
+24/02/2019 03:52:00.182	Info	Intento 0
