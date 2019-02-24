@@ -4551,3 +4551,30 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 Received:  0
 Received:  OK
 2019-02-24 18:58:51.306535
+24/02/2019 05:40:12.144	Info	Connected by ('127.0.0.1', 1443) --> command: ping
+24/02/2019 05:40:27.668	Info	Connected by ('127.0.0.1', 2187) --> command: ping
+24/02/2019 05:40:43.005	Info	Connected by ('127.0.0.1', 2196) --> command: ping
+24/02/2019 05:40:58.949	Info	Connected by ('127.0.0.1', 2202) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.008634
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_move_matrix @ cell 9, ra: -0.008634, dec: 0.0
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.77400016785
+get_dx_data @ dx final: 40.99606666666667
+get_images @ Tiempo de procesado de las 200 imagenes: 60.3489999771
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224054058.dmm'
+24/02/2019 05:41:15.050	Info	Connected by ('127.0.0.1', 2221) --> command: ping
+24/02/2019 05:41:30.558	Info	Connected by ('127.0.0.1', 2234) --> command: ping
+24/02/2019 05:41:45.847	Info	Connected by ('127.0.0.1', 2241) --> command: ping
+24/02/2019 05:42:01.433	Info	Connected by ('127.0.0.1', 2247) --> command: ping
