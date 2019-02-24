@@ -5390,3 +5390,37 @@ get_seeing_thread @ 	This package contain 200 images...
 ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
 ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224071325.dmm'
 24/02/2019 07:13:49.947	Info	Connected by ('127.0.0.1', 2970) --> command: ping
+24/02/2019 07:14:06.764	Info	Connected by ('127.0.0.1', 3695) --> command: ping
+24/02/2019 07:14:22.834	Info	Connected by ('127.0.0.1', 4358) --> command: ping
+24/02/2019 07:14:38.482	Info	Connected by ('127.0.0.1', 4376) --> command: ping
+24/02/2019 07:14:54.208	Info	Connected by ('127.0.0.1', 4397) --> command: ping
+24/02/2019 07:15:10.012	Info	Connected by ('127.0.0.1', 4403) --> command: ping
+24/02/2019 07:15:11.851	Info	Connected by ('127.0.0.1', 4404) --> command: ping
+Received:  0
+Received:  OK
+2019-02-24 18:58:51.383340
+24/02/2019 07:15:25.536	Info	Connected by ('127.0.0.1', 4413) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 9, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 16, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.008634, dec: 0.0
+get_images @ Tiempo de procesado de las 200 imagenes: 37.7180001736
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224071527.dmm'
+24/02/2019 07:15:41.621	Info	Connected by ('127.0.0.1', 4430) --> command: ping
+24/02/2019 07:15:57.503	Info	Connected by ('127.0.0.1', 4446) --> command: ping
