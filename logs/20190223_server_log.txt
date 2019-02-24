@@ -4048,3 +4048,28 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 24/02/2019 04:37:30.315	Info	Connected by ('127.0.0.1', 3952) --> command: ping
 24/02/2019 04:37:46.618	Info	Connected by ('127.0.0.1', 3978) --> command: ping
 24/02/2019 04:38:02.578	Info	Connected by ('127.0.0.1', 3988) --> command: ping
+24/02/2019 04:38:18.367	Info	Connected by ('127.0.0.1', 4955) --> command: ping
+24/02/2019 04:38:34.358	Info	Connected by ('127.0.0.1', 1224) --> command: ping
+24/02/2019 04:38:50.037	Info	Connected by ('127.0.0.1', 1237) --> command: ping
+24/02/2019 04:39:05.920	Info	Connected by ('127.0.0.1', 1245) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.83699989319
+get_dx_data @ dx final: 40.017575
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 2.49399995804
+get_dx_data @ dx final: 40.916624999999996
+get_images @ Tiempo de procesado de las 200 imagenes: 66.9729998112
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224043857.dmm'
+24/02/2019 04:39:22.067	Info	Connected by ('127.0.0.1', 1262) --> command: ping
+24/02/2019 04:39:38.011	Info	Connected by ('127.0.0.1', 1274) --> command: ping
+24/02/2019 04:39:53.628	Info	Connected by ('127.0.0.1', 1287) --> command: ping
+24/02/2019 04:40:08.155	Info	Connected by ('127.0.0.1', 1318) --> command: ping
+Received:  0
+Received:  OK
+2019-02-24 18:58:51.420837
+24/02/2019 04:40:10.337	Info	Connected by ('127.0.0.1', 1592) --> command: ping
