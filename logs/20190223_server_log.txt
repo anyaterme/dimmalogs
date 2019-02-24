@@ -4176,3 +4176,22 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 24/02/2019 04:53:33.124	Info	Connected by ('127.0.0.1', 2301) --> command: ping
 24/02/2019 04:53:48.757	Info	Connected by ('127.0.0.1', 2308) --> command: ping
 24/02/2019 04:54:04.359	Info	Connected by ('127.0.0.1', 2556) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 55.8599998951
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224045400.dmm'
+24/02/2019 04:54:21.067	Info	Connected by ('127.0.0.1', 3541) --> command: ping
+24/02/2019 04:54:36.871	Info	Connected by ('127.0.0.1', 3559) --> command: ping
+24/02/2019 04:54:52.488	Info	Connected by ('127.0.0.1', 3565) --> command: ping
+24/02/2019 04:55:08.277	Info	Connected by ('127.0.0.1', 3571) --> command: ping
+24/02/2019 04:55:13.077	Info	Connected by ('127.0.0.1', 3572) --> command: ping
+Received:  0
+Received:  OK
+2019-02-24 18:58:51.339486
+24/02/2019 04:55:23.878	Info	Connected by ('127.0.0.1', 3587) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 56.5929999352
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224045526.dmm'
+24/02/2019 04:55:40.524	Info	Connected by ('127.0.0.1', 3600) --> command: ping
+24/02/2019 04:55:56.095	Info	Connected by ('127.0.0.1', 3614) --> command: ping
