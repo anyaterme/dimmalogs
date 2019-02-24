@@ -5669,3 +5669,19 @@ get_images @ Tiempo de procesado de las 200 imagenes: 36.3619999886
 get_seeing_thread @ 	This package contain 200 images...
 ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
 ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224074103.dmm'
+--END--
+Received:  
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Closing server....
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Closing server....
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Server is closing...
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+Received:  Server is closing...
+[Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+24/02/2019 07:43:35.082	Info	Connected by ('127.0.0.1', 3602) --> command: ping
+24/02/2019 07:43:35.082	Info	Connected by ('127.0.0.1', 3618) --> command: ping
+24/02/2019 07:43:35.082	Info	Connected by ('127.0.0.1', 1064) --> command: ping
+24/02/2019 07:43:35.082	Info	Connected by ('127.0.0.1', 1079) --> command: ping
+24/02/2019 07:43:55.095	Info	Connected by ('127.0.0.1', 1096) --> command: ping
