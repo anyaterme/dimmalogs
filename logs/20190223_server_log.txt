@@ -5035,3 +5035,23 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 24/02/2019 06:33:30.060	Info	Connected by ('127.0.0.1', 2196) --> command: ping
 24/02/2019 06:33:45.677	Info	Connected by ('127.0.0.1', 2209) --> command: ping
 24/02/2019 06:34:02.043	Info	Connected by ('127.0.0.1', 2278) --> command: ping
+24/02/2019 06:34:17.863	Info	Connected by ('127.0.0.1', 3541) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 37.9210000038
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224063415.dmm'
+24/02/2019 06:34:33.620	Info	Connected by ('127.0.0.1', 3553) --> command: ping
+24/02/2019 06:34:49.455	Info	Connected by ('127.0.0.1', 3569) --> command: ping
+24/02/2019 06:35:05.447	Info	Connected by ('127.0.0.1', 3575) --> command: ping
+24/02/2019 06:35:11.416	Info	Connected by ('127.0.0.1', 3584) --> command: ping
+Received:  0
+Received:  OK
+2019-02-24 18:58:51.502591
+24/02/2019 06:35:21.407	Info	Connected by ('127.0.0.1', 3591) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_images @ Tiempo de procesado de las 200 imagenes: 36.8770000935
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224063521.dmm'
+24/02/2019 06:35:38.910	Info	Connected by ('127.0.0.1', 3605) --> command: ping
+24/02/2019 06:35:54.932	Info	Connected by ('127.0.0.1', 3618) --> command: ping
