@@ -4590,3 +4590,27 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 24/02/2019 05:43:36.648	Info	Connected by ('127.0.0.1', 3584) --> command: ping
 24/02/2019 05:43:52.577	Info	Connected by ('127.0.0.1', 3590) --> command: ping
 24/02/2019 05:44:08.615	Info	Connected by ('127.0.0.1', 3938) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_images @ Tiempo de procesado de las 200 imagenes: 56.0469999313
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224054402.dmm'
+24/02/2019 05:44:24.903	Info	Connected by ('127.0.0.1', 4869) --> command: ping
+24/02/2019 05:44:40.520	Info	Connected by ('127.0.0.1', 4882) --> command: ping
+24/02/2019 05:44:56.059	Info	Connected by ('127.0.0.1', 4892) --> command: ping
+24/02/2019 05:45:07.593	Info	Connected by ('127.0.0.1', 4893) --> command: ping
+Received:  0
+Received:  OK
+2019-02-24 18:58:51.441396
+24/02/2019 05:45:11.598	Info	Connected by ('127.0.0.1', 4900) --> command: ping
+24/02/2019 05:45:27.106	Info	Connected by ('127.0.0.1', 4916) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 60.2860000134
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224054528.dmm'
+24/02/2019 05:45:43.363	Info	Connected by ('127.0.0.1', 4929) --> command: ping
+24/02/2019 05:45:58.871	Info	Connected by ('127.0.0.1', 4943) --> command: ping
