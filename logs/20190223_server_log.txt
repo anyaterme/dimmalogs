@@ -3853,3 +3853,23 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224041312.dmm'
 24/02/2019 04:13:31.789	Info	Connected by ('127.0.0.1', 4602) --> command: ping
 24/02/2019 04:13:47.593	Info	Connected by ('127.0.0.1', 4619) --> command: ping
+24/02/2019 04:14:03.366	Info	Connected by ('127.0.0.1', 1048) --> command: ping
+24/02/2019 04:14:19.373	Info	Connected by ('127.0.0.1', 1848) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 31.6399998665
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224041410.dmm'
+24/02/2019 04:14:34.912	Info	Connected by ('127.0.0.1', 1866) --> command: ping
+24/02/2019 04:14:50.763	Info	Connected by ('127.0.0.1', 1882) --> command: ping
+24/02/2019 04:15:06.770	Info	Connected by ('127.0.0.1', 1888) --> command: ping
+24/02/2019 04:15:12.225	Info	Connected by ('127.0.0.1', 1890) --> command: ping
+Received:  0
+Received:  OK
+2019-02-24 18:58:51.295994
+get_images @ Tiempo de procesado de las 200 imagenes: 31.8569998741
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224041509.dmm'
+24/02/2019 04:15:23.306	Info	Connected by ('127.0.0.1', 1903) --> command: ping
+24/02/2019 04:15:38.970	Info	Connected by ('127.0.0.1', 1919) --> command: ping
+24/02/2019 04:15:54.853	Info	Connected by ('127.0.0.1', 1931) --> command: ping
