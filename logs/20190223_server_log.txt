@@ -5474,3 +5474,22 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 24/02/2019 07:21:19.017	Info	Connected by ('127.0.0.1', 4815) --> command: ping
 24/02/2019 07:21:35.444	Info	Connected by ('127.0.0.1', 4825) --> command: ping
 24/02/2019 07:21:51.124	Info	Connected by ('127.0.0.1', 4832) --> command: ping
+24/02/2019 07:22:07.318	Info	Connected by ('127.0.0.1', 1620) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 36.5799999237
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224072200.dmm'
+24/02/2019 07:22:23.262	Info	Connected by ('127.0.0.1', 2264) --> command: ping
+24/02/2019 07:22:38.973	Info	Connected by ('127.0.0.1', 2281) --> command: ping
+24/02/2019 07:22:54.590	Info	Connected by ('127.0.0.1', 2292) --> command: ping
+24/02/2019 07:23:10.098	Info	Connected by ('127.0.0.1', 2304) --> command: ping
+24/02/2019 07:23:26.276	Info	Connected by ('127.0.0.1', 2312) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_images @ Tiempo de procesado de las 200 imagenes: 34.6940000057
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224072318.dmm'
