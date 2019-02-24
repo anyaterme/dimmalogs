@@ -16847,3 +16847,55 @@
 24/02/2019 02:38:00.075	Debg	---------------- Star Selection -------------
 24/02/2019 02:38:00.075	Debg	---------------------------------------------
 24/02/2019 02:38:00.075	Info	Comprobando que la estella es observable...
+24/02/2019 02:38:06.917	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '1.54058694235', 'az': '237.407253', 'name': 'Regulus', 'airmass': '1.123538', 'ha_hours': 'hms_tuple(h=1.0, m=32.0, s=26.11299247447178)', 'alt': '62.878803', 'dec': '11.871889', 'magnitude': '1.360000', 'ra': '10.156678'}
+24/02/2019 02:38:06.917	Time	*** Select star: 6.84 ***
+24/02/2019 02:38:06.932	Debg	---------------------------------------------
+24/02/2019 02:38:06.932	Debg	-------------- Check spots ------------------
+24/02/2019 02:38:06.932	Debg	---------------------------------------------
+24/02/2019 02:38:06.932	Info	Centrando spots...
+24/02/2019 02:38:09.130	Info	Intento 0
+24/02/2019 02:38:10.595	Info	Maximos fuera de rango (diff: 165.0 - nsigma: 148.6631244887412)
+24/02/2019 02:38:10.595	Info	Moviendo telescopio...
+24/02/2019 02:38:13.384	Info	Intento 1
+24/02/2019 02:38:14.818	Info	Maximos fuera de rango (diff: 771.0 - nsigma: 317.8553686320944)
+24/02/2019 02:38:14.818	Info	Moviendo telescopio...
+24/02/2019 02:38:17.125	Info	Intento 2
+24/02/2019 02:38:19.493	Info	Ventana de spots fuera de rango (cx: 566 - cy: 114 - left: 80 - right: 560 - down: 30 - up: 450)
+24/02/2019 02:38:19.493	Info	Moviendo telescopio...
+24/02/2019 02:38:21.550	Info	Intento 3
+24/02/2019 02:38:23.265	Info	DX fuera de rango (dx: 158.0 - min: 30.0 - max: 52.0)
+24/02/2019 02:38:23.265	Info	Moviendo telescopio...
+24/02/2019 02:38:25.010	Info	Intento 4
+24/02/2019 02:38:26.475	Info	Ventana de spots fuera de rango (cx: 566 - cy: 19 - left: 80 - right: 560 - down: 30 - up: 450)
+24/02/2019 02:38:26.475	Info	Moviendo telescopio...
+24/02/2019 02:38:29.062	Info	Intento 5
+24/02/2019 02:38:30.589	Info	Maximos fuera de rango (diff: 187.0 - nsigma: 145.835205749899)
+24/02/2019 02:38:30.589	Info	Moviendo telescopio...
+24/02/2019 02:38:32.771	Info	Intento 6
+24/02/2019 02:38:34.252	Info	DX fuera de rango (dx: 490.0 - min: 30.0 - max: 52.0)
+24/02/2019 02:38:34.252	Info	Moviendo telescopio...
+24/02/2019 02:38:35.748	Info	Intento 7
+24/02/2019 02:38:37.353	Info	Moviendo telescopio...
+24/02/2019 02:38:39.161	Info	Intento 8
+24/02/2019 02:38:40.626	Info	DX fuera de rango (dx: 306.0 - min: 30.0 - max: 52.0)
+24/02/2019 02:38:40.626	Info	Moviendo telescopio...
+24/02/2019 02:38:41.841	Info	Intento 9
+24/02/2019 02:38:43.447	Info	DX fuera de rango (dx: 170.0 - min: 30.0 - max: 52.0)
+24/02/2019 02:38:43.462	Info	Moviendo telescopio...
+24/02/2019 02:38:45.442	Info	Intento 10
+24/02/2019 02:38:49.634	Info	Los spots estan centrados
+24/02/2019 02:38:49.634	Time	*** Center spots: 42.7 ***
+24/02/2019 02:38:49.634	Debg	---------------------------------------------
+24/02/2019 02:38:49.634	Debg	--------------- Check focal -----------------
+24/02/2019 02:38:49.634	Debg	---------------------------------------------
+24/02/2019 02:38:49.634	Info	Comprobando el foco...
+24/02/2019 02:38:49.650	Info	Intento 0
+24/02/2019 02:38:50.226	Info	DX: 41.36 (MIN: 40.5 - MAX: 41.5)
+24/02/2019 02:38:50.226	Info	La imagen esta enfocada
+24/02/2019 02:38:50.226	Time	*** Foco: 0.59 ***
+24/02/2019 02:38:50.226	Time	*** Select star total: 50.15 ***
+24/02/2019 02:38:50.226	Debg	---------------------------------------------
+24/02/2019 02:38:50.226	Debg	---------- Generating datas file ------------
+24/02/2019 02:38:50.226	Debg	---------------------------------------------
+24/02/2019 02:38:50.242	Info	##### PACK: OTSX_YCDKIT_190224023850
+24/02/2019 02:39:50.386	Time	*** Getting images for pack: 60.16 ***
