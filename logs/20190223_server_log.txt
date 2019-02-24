@@ -3709,3 +3709,23 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 24/02/2019 03:57:22.921	Info	Connected by ('127.0.0.1', 2555) --> command: ping
 24/02/2019 03:57:38.304	Info	Connected by ('127.0.0.1', 2562) --> command: ping
 24/02/2019 03:57:53.719	Info	Connected by ('127.0.0.1', 2568) --> command: ping
+24/02/2019 03:58:09.492	Info	Connected by ('127.0.0.1', 3366) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 47.3190000057
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224035806.dmm'
+24/02/2019 03:58:28.367	Info	Connected by ('127.0.0.1', 3741) --> command: ping
+24/02/2019 03:58:44.171	Info	Connected by ('127.0.0.1', 3755) --> command: ping
+24/02/2019 03:58:59.928	Info	Connected by ('127.0.0.1', 3761) --> command: ping
+24/02/2019 03:59:15.686	Info	Connected by ('127.0.0.1', 3773) --> command: ping
+24/02/2019 03:59:32.051	Info	Connected by ('127.0.0.1', 3782) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 47.9119999409
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224035925.dmm'
+24/02/2019 03:59:48.198	Info	Connected by ('127.0.0.1', 3797) --> command: ping
+24/02/2019 04:00:07.166	Info	Connected by ('127.0.0.1', 3879) --> command: ping
+24/02/2019 04:00:08.382	Info	Connected by ('127.0.0.1', 3986) --> command: ping
+Received:  0
+Received:  OK
+2019-02-24 18:58:51.554089
