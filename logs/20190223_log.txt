@@ -24416,3 +24416,66 @@
 24/02/2019 06:18:00.447	Info	Maximos fuera de rango (diff: 189.0 - nsigma: 76.62311085384734)
 24/02/2019 06:18:00.447	Info	Moviendo telescopio...
 24/02/2019 06:18:03.065	Info	Intento 28
+24/02/2019 06:18:04.702	Info	DX fuera de rango (dx: 173.0 - min: 30.0 - max: 52.0)
+24/02/2019 06:18:04.702	Info	Moviendo telescopio...
+24/02/2019 06:18:06.619	Info	Intento 29
+24/02/2019 06:18:08.115	Info	DX fuera de rango (dx: 69.0 - min: 30.0 - max: 52.0)
+24/02/2019 06:18:08.115	Info	Moviendo telescopio...
+24/02/2019 06:18:10.063	Info	Intento 30
+24/02/2019 06:18:11.653	Info	DX fuera de rango (dx: 269.0 - min: 30.0 - max: 52.0)
+24/02/2019 06:18:11.653	Info	Moviendo telescopio...
+24/02/2019 06:18:13.165	Info	Intento 31
+24/02/2019 06:18:14.864	Info	DX fuera de rango (dx: 374.0 - min: 30.0 - max: 52.0)
+24/02/2019 06:18:14.864	Info	Moviendo telescopio...
+24/02/2019 06:18:16.578	Info	Intento 32
+24/02/2019 06:18:18.199	Info	Ventana de spots fuera de rango (cx: 345 - cy: 463 - left: 80 - right: 560 - down: 30 - up: 450)
+24/02/2019 06:18:18.199	Info	Moviendo telescopio...
+24/02/2019 06:18:19.695	Info	Intento 33
+24/02/2019 06:18:21.784	Info	DX fuera de rango (dx: 361.0 - min: 30.0 - max: 52.0)
+24/02/2019 06:18:21.784	Info	Moviendo telescopio...
+24/02/2019 06:18:23.467	Info	Intento 34
+24/02/2019 06:18:25.150	Info	DX fuera de rango (dx: 216.0 - min: 30.0 - max: 52.0)
+24/02/2019 06:18:25.166	Info	Moviendo telescopio...
+24/02/2019 06:18:30.777	Error (centrando los spots)	No se han podido centrar los spots
+24/02/2019 06:18:30.777	Time	*** Select star total: 130.16 ***
+24/02/2019 06:18:33.769	Time	*** Total iteration: 133.15 ***
+24/02/2019 06:18:33.769	Debg	---------------------------------------------
+24/02/2019 06:18:33.769	Debg	-------------------- Meteo ------------------
+24/02/2019 06:18:33.769	Debg	---------------------------------------------
+24/02/2019 06:18:34.066	Info	
+24/02/2019 06:18:34.066	Info	CODE:OT:IAC	Date:2019-02-24 06:18:31.790000	Hum:30.7000	WS:4.3200	DewPoint:0.0000	Dust:0.0000
+24/02/2019 06:18:34.066	Info	CODE:OT:CWW	Date:2019-02-24 06:18:31.603000	Hum:0.0000	WS:9.4680	DewPoint:0.0000	Dust:0.0135
+24/02/2019 06:18:34.066	Info	CODE:OT:VIVALDI	Date:2019-02-24 06:18:32.569000	Hum:26.5000	WS:10.4000	DewPoint:0.0000	Dust:35.2000
+24/02/2019 06:18:34.066	Info	
+24/02/2019 06:18:34.066	Debg	---------------------------------------------
+24/02/2019 06:18:34.066	Debg	---------------- Star Selection -------------
+24/02/2019 06:18:34.066	Debg	---------------------------------------------
+24/02/2019 06:18:34.066	Info	Seleccionando estella...
+24/02/2019 06:19:34.259	Info	Estella seleccionada --> Arcturus
+	airmass: 1.055317
+	ha hours: hms_tuple(h=1.0, m=10.0, s=56.1082165953394)
+	ra: 14.275929
+	dec: 19.092439
+24/02/2019 06:19:34.259	Time	*** Select star: 60.19 ***
+24/02/2019 06:19:34.259	Debg	---------------------------------------------
+24/02/2019 06:19:34.259	Debg	-------------- Check spots ------------------
+24/02/2019 06:19:34.259	Debg	---------------------------------------------
+24/02/2019 06:19:34.259	Info	Centrando spots...
+24/02/2019 06:19:36.332	Info	Intento 0
+24/02/2019 06:19:40.462	Info	Los spots estan centrados
+24/02/2019 06:19:40.462	Time	*** Center spots: 6.2 ***
+24/02/2019 06:19:40.462	Debg	---------------------------------------------
+24/02/2019 06:19:40.462	Debg	--------------- Check focal -----------------
+24/02/2019 06:19:40.462	Debg	---------------------------------------------
+24/02/2019 06:19:40.462	Info	Comprobando el foco...
+24/02/2019 06:19:40.478	Info	Intento 0
+24/02/2019 06:19:44.452	Info	Maximos fuera de rango (diff: 796.0 - nsigma: 709.1238650853659)
+24/02/2019 06:19:44.686	Info	Maximos fuera de rango (diff: 2063.0 - nsigma: 923.7999518931867)
+24/02/2019 06:19:47.460	Info	DX: 40.62 (MIN: 40.5 - MAX: 41.5)
+24/02/2019 06:19:47.460	Info	La imagen esta enfocada
+24/02/2019 06:19:47.460	Time	*** Foco: 7.0 ***
+24/02/2019 06:19:47.460	Time	*** Select star total: 73.39 ***
+24/02/2019 06:19:47.460	Debg	---------------------------------------------
+24/02/2019 06:19:47.460	Debg	---------- Generating datas file ------------
+24/02/2019 06:19:47.476	Debg	---------------------------------------------
+24/02/2019 06:19:47.476	Info	##### PACK: OTSX_IJEB5K_190224061947
