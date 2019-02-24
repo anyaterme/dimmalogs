@@ -19758,3 +19758,58 @@
 24/02/2019 04:04:02.515	Debg	---------------- Star Selection -------------
 24/02/2019 04:04:02.530	Debg	---------------------------------------------
 24/02/2019 04:04:02.530	Info	Comprobando que la estella es observable...
+24/02/2019 04:04:04.261	Info (comprobando estrella)	Estrella no observable(Alkaid)
+24/02/2019 04:04:04.261	Time	*** Select star total: 1.75 ***
+24/02/2019 04:04:07.253	Time	*** Total iteration: 4.74 ***
+24/02/2019 04:04:07.253	Debg	---------------------------------------------
+24/02/2019 04:04:07.253	Debg	-------------------- Meteo ------------------
+24/02/2019 04:04:07.253	Debg	---------------------------------------------
+24/02/2019 04:04:07.721	Info	
+24/02/2019 04:04:07.721	Info	CODE:OT:IAC	Date:2019-02-24 04:03:15.632000	Hum:28.8000	WS:8.6400	DewPoint:0.0000	Dust:0.0000
+24/02/2019 04:04:07.721	Info	CODE:OT:CWW	Date:2019-02-24 04:03:15.430000	Hum:0.0000	WS:14.2200	DewPoint:0.0000	Dust:0.0152
+24/02/2019 04:04:07.721	Info	CODE:OT:VIVALDI	Date:2019-02-24 04:03:16.474000	Hum:28.9000	WS:15.2000	DewPoint:0.0000	Dust:28.1000
+24/02/2019 04:04:07.721	Info	
+24/02/2019 04:04:07.721	Debg	---------------------------------------------
+24/02/2019 04:04:07.721	Debg	---------------- Star Selection -------------
+24/02/2019 04:04:07.721	Debg	---------------------------------------------
+24/02/2019 04:04:07.721	Info	Seleccionando estella...
+24/02/2019 04:05:26.399	Info	Estella seleccionada --> Arcturus
+	airmass: 1.047749
+	ha hours: hms_tuple(h=-1.0, m=-4.0, s=-27.530168323188633)
+	ra: 14.275928
+	dec: 19.092439
+24/02/2019 04:05:26.399	Time	*** Select star: 78.68 ***
+24/02/2019 04:05:26.399	Debg	---------------------------------------------
+24/02/2019 04:05:26.399	Debg	-------------- Check spots ------------------
+24/02/2019 04:05:26.414	Debg	---------------------------------------------
+24/02/2019 04:05:26.414	Info	Centrando spots...
+24/02/2019 04:05:28.628	Info	Intento 0
+24/02/2019 04:05:30.233	Info	Maximos fuera de rango (diff: 1592.0 - nsigma: 906.0514570553225)
+24/02/2019 04:05:30.233	Info	Moviendo telescopio...
+24/02/2019 04:05:31.979	Info	Intento 1
+24/02/2019 04:05:33.444	Info	Maximos fuera de rango (diff: 940.0 - nsigma: 924.0082412491696)
+24/02/2019 04:05:33.444	Info	Moviendo telescopio...
+24/02/2019 04:05:35.610	Info	Intento 2
+24/02/2019 04:05:37.137	Info	DX fuera de rango (dx: 131.0 - min: 30.0 - max: 52.0)
+24/02/2019 04:05:37.137	Info	Moviendo telescopio...
+24/02/2019 04:05:38.540	Info	Intento 3
+24/02/2019 04:05:40.005	Info	DX fuera de rango (dx: 198.0 - min: 30.0 - max: 52.0)
+24/02/2019 04:05:40.005	Info	Moviendo telescopio...
+24/02/2019 04:05:41.486	Info	Intento 4
+24/02/2019 04:05:42.920	Info	Ventana de spots fuera de rango (cx: 394 - cy: 13 - left: 80 - right: 560 - down: 30 - up: 450)
+24/02/2019 04:05:42.920	Info	Moviendo telescopio...
+24/02/2019 04:05:44.915	Info	Intento 5
+24/02/2019 04:05:46.427	Info	Maximos fuera de rango (diff: 575.0 - nsigma: 481.966193546176)
+24/02/2019 04:05:46.427	Info	Moviendo telescopio...
+24/02/2019 04:05:48.515	Info	Intento 6
+24/02/2019 04:05:50.105	Info	DX fuera de rango (dx: 194.0 - min: 30.0 - max: 52.0)
+24/02/2019 04:05:50.105	Info	Moviendo telescopio...
+24/02/2019 04:05:52.490	Info	Intento 7
+24/02/2019 04:05:54.111	Info	DX fuera de rango (dx: 15.0 - min: 30.0 - max: 52.0)
+24/02/2019 04:05:54.111	Info	Moviendo telescopio...
+24/02/2019 04:05:55.825	Info	Intento 8
+24/02/2019 04:05:57.399	Info	DX fuera de rango (dx: 225.0 - min: 30.0 - max: 52.0)
+24/02/2019 04:05:57.399	Info	Moviendo telescopio...
+24/02/2019 04:05:58.786	Info	Intento 9
+24/02/2019 04:06:00.516	Info	DX fuera de rango (dx: 435.0 - min: 30.0 - max: 52.0)
+24/02/2019 04:06:00.516	Info	Moviendo telescopio...
