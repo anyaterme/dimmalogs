@@ -22952,3 +22952,64 @@
 24/02/2019 05:33:59.761	Info	Intento 4
 24/02/2019 05:34:01.273	Info	DX fuera de rango (dx: 172.0 - min: 30.0 - max: 52.0)
 24/02/2019 05:34:01.273	Info	Moviendo telescopio...
+24/02/2019 05:34:03.985	Info	Intento 5
+24/02/2019 05:34:05.496	Info	Maximos fuera de rango (diff: 176.0 - nsigma: 98.88599207306996)
+24/02/2019 05:34:05.496	Info	Moviendo telescopio...
+24/02/2019 05:34:07.445	Info	Intento 6
+24/02/2019 05:34:09.035	Info	DX fuera de rango (dx: 295.0 - min: 30.0 - max: 52.0)
+24/02/2019 05:34:09.035	Info	Moviendo telescopio...
+24/02/2019 05:34:10.687	Info	Intento 7
+24/02/2019 05:34:12.245	Info	Ventana de spots fuera de rango (cx: 193 - cy: 20 - left: 80 - right: 560 - down: 30 - up: 450)
+24/02/2019 05:34:12.245	Info	Moviendo telescopio...
+24/02/2019 05:34:14.100	Info	Intento 8
+24/02/2019 05:34:15.752	Info	Maximos fuera de rango (diff: 107.94889999999995 - nsigma: 27.44529380850011)
+24/02/2019 05:34:15.752	Info	Moviendo telescopio...
+24/02/2019 05:34:17.420	Info	Intento 9
+24/02/2019 05:34:19.430	Info	DX fuera de rango (dx: 173.0 - min: 30.0 - max: 52.0)
+24/02/2019 05:34:19.430	Info	Moviendo telescopio...
+24/02/2019 05:34:22.174	Info	Intento 10
+24/02/2019 05:34:23.779	Info	Ventana de spots fuera de rango (cx: 609 - cy: 348 - left: 80 - right: 560 - down: 30 - up: 450)
+24/02/2019 05:34:23.779	Info	Moviendo telescopio...
+24/02/2019 05:34:25.992	Info	Intento 11
+24/02/2019 05:34:27.660	Info	Ventana de spots fuera de rango (cx: 379 - cy: 28 - left: 80 - right: 560 - down: 30 - up: 450)
+24/02/2019 05:34:27.660	Info	Moviendo telescopio...
+24/02/2019 05:34:29.826	Info	Intento 12
+24/02/2019 05:34:31.463	Info	Ventana de spots fuera de rango (cx: 505 - cy: 19 - left: 80 - right: 560 - down: 30 - up: 450)
+24/02/2019 05:34:31.463	Info	Moviendo telescopio...
+24/02/2019 05:34:33.255	Info	Intento 13
+24/02/2019 05:34:34.861	Info	DX fuera de rango (dx: 393.0 - min: 30.0 - max: 52.0)
+24/02/2019 05:34:34.861	Info	Moviendo telescopio...
+24/02/2019 05:34:36.450	Info	Intento 14
+24/02/2019 05:34:37.931	Info	DX fuera de rango (dx: 341.0 - min: 30.0 - max: 52.0)
+24/02/2019 05:34:37.931	Info	Moviendo telescopio...
+24/02/2019 05:34:39.225	Info	Intento 15
+24/02/2019 05:34:40.830	Info	DX fuera de rango (dx: 138.0 - min: 30.0 - max: 52.0)
+24/02/2019 05:34:40.830	Info	Moviendo telescopio...
+24/02/2019 05:34:42.420	Info	Intento 16
+24/02/2019 05:34:43.916	Info	DX fuera de rango (dx: 99.0 - min: 30.0 - max: 52.0)
+24/02/2019 05:34:43.916	Info	Moviendo telescopio...
+24/02/2019 05:34:45.989	Info	Intento 17
+24/02/2019 05:34:47.532	Info	DX fuera de rango (dx: 11.0 - min: 30.0 - max: 52.0)
+24/02/2019 05:34:47.532	Info	Moviendo telescopio...
+24/02/2019 05:34:49.511	Info	Intento 18
+24/02/2019 05:34:53.642	Info	Los spots estan centrados
+24/02/2019 05:34:53.642	Time	*** Center spots: 69.75 ***
+24/02/2019 05:34:53.642	Debg	---------------------------------------------
+24/02/2019 05:34:53.642	Debg	--------------- Check focal -----------------
+24/02/2019 05:34:53.642	Debg	---------------------------------------------
+24/02/2019 05:34:53.642	Info	Comprobando el foco...
+24/02/2019 05:34:53.657	Info	Intento 0
+24/02/2019 05:34:54.265	Info	DX: 41.05 (MIN: 40.5 - MAX: 41.5)
+24/02/2019 05:34:54.265	Info	La imagen esta enfocada
+24/02/2019 05:34:54.265	Time	*** Foco: 0.62 ***
+24/02/2019 05:34:54.265	Time	*** Select star total: 75.61 ***
+24/02/2019 05:34:54.265	Debg	---------------------------------------------
+24/02/2019 05:34:54.265	Debg	---------- Generating datas file ------------
+24/02/2019 05:34:54.265	Debg	---------------------------------------------
+24/02/2019 05:34:54.265	Info	##### PACK: OTSX_I04UF1_190224053454
+24/02/2019 05:35:58.698	Time	*** Getting images for pack: 64.43 ***
+24/02/2019 05:35:58.698	ERROR	Problem with package [OTSX_I04UF1_190224053454] :> [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224053555.txt'
+24/02/2019 05:35:58.698	Time	*** File generation: 64.43 ***
+24/02/2019 05:35:58.698	Debg	---------------------------------------------
+24/02/2019 05:35:58.698	Debg	------------ Calculating seeing -------------
+24/02/2019 05:35:58.698	Debg	---------------------------------------------
