@@ -3263,3 +3263,35 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 24/02/2019 03:03:21.583	Info	Connected by ('127.0.0.1', 1515) --> command: ping
 24/02/2019 03:03:37.606	Info	Connected by ('127.0.0.1', 1522) --> command: ping
 24/02/2019 03:03:52.771	Info	Connected by ('127.0.0.1', 1530) --> command: ping
+24/02/2019 03:04:09.074	Info	Connected by ('127.0.0.1', 2125) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 1, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 2, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 3, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 4, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 5, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 6, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 7, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 8, ra: 0.0, dec: 0.008634
+get_move_matrix @ cell 9, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 10, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 11, ra: -0.008634, dec: 0.0
+get_move_matrix @ cell 12, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 13, ra: 0.0, dec: -0.008634
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_window @ could not broadcast input array from shape (0) into shape (20)
+get_move_matrix @ cell 14, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 15, ra: 0.0, dec: -0.008634
+get_move_matrix @ cell 16, ra: 0.008634, dec: 0.0
+get_move_matrix @ cell 17, ra: 0.008634, dec: 0.0
+get_images @ Tiempo de procesado de las 200 imagenes: 60.4120001793
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1173] : [Errno 28] No space left on device
+24/02/2019 03:04:25.003	Info	Connected by ('127.0.0.1', 2649) --> command: ping
+24/02/2019 03:05:11.122	Info	Connected by ('127.0.0.1', 2662) --> command: ping
+24/02/2019 03:05:13.257	Info	Connected by ('127.0.0.1', 2663) --> command: ping
+Received:  0
+Received:  OK
+2019-02-24 18:58:51.321180
+24/02/2019 03:05:56.757	Info	Connected by ('127.0.0.1', 2671) --> command: ping
