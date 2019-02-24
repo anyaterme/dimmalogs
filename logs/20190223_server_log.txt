@@ -5654,3 +5654,18 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 24/02/2019 07:39:25.800	Info	Connected by ('127.0.0.1', 2166) --> command: ping
 24/02/2019 07:39:41.432	Info	Connected by ('127.0.0.1', 2179) --> command: ping
 24/02/2019 07:39:57.221	Info	Connected by ('127.0.0.1', 2187) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 35.5980000496
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224073954.dmm'
+24/02/2019 07:40:15.613	Info	Connected by ('127.0.0.1', 3192) --> command: ping
+24/02/2019 07:40:17.358	Info	Connected by ('127.0.0.1', 3289) --> command: ping
+24/02/2019 07:40:19.384	Info	Connected by ('127.0.0.1', 3358) --> command: stop_obs
+Received:  0
+Received:  OK
+2019-02-24 18:58:51.376581
+https://api.telegram.org/bot661751659:AAH5uiU0CKCitbHSRvIpCPP-x775J8RMJRI/sendMessage?chat_id=-383581533&parse_mode=Markdown&text=Finalizando la observacion (2019-02-24 07:40:17.623000)
+get_images @ Tiempo de procesado de las 200 imagenes: 36.3619999886
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224074103.dmm'
