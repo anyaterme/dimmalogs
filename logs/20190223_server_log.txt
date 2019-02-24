@@ -3677,3 +3677,24 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 24/02/2019 03:53:24.408	Info	Connected by ('127.0.0.1', 4051) --> command: ping
 24/02/2019 03:53:39.838	Info	Connected by ('127.0.0.1', 4060) --> command: ping
 24/02/2019 03:53:54.848	Info	Connected by ('127.0.0.1', 4069) --> command: ping
+24/02/2019 03:54:10.527	Info	Connected by ('127.0.0.1', 4684) --> command: ping
+24/02/2019 03:54:26.706	Info	Connected by ('127.0.0.1', 1267) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 48.7850000858
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224035412.dmm'
+24/02/2019 03:54:42.525	Info	Connected by ('127.0.0.1', 1285) --> command: ping
+24/02/2019 03:54:57.691	Info	Connected by ('127.0.0.1', 1298) --> command: ping
+24/02/2019 03:55:07.494	Info	Connected by ('127.0.0.1', 1310) --> command: ping
+Received:  0
+Received:  OK
+2019-02-24 18:58:51.289999
+24/02/2019 03:55:13.370	Info	Connected by ('127.0.0.1', 1317) --> command: ping
+24/02/2019 03:55:29.299	Info	Connected by ('127.0.0.1', 1324) --> command: ping
+24/02/2019 03:55:45.228	Info	Connected by ('127.0.0.1', 1333) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_images @ Tiempo de procesado de las 200 imagenes: 50.623000145
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224035536.dmm'
+24/02/2019 03:56:02.450	Info	Connected by ('127.0.0.1', 1376) --> command: ping
