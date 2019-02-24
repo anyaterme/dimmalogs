@@ -4902,3 +4902,24 @@ get_move_matrix @ cell 34, ra: 0.0, dec: -0.008634
 24/02/2019 06:19:34.306	Info	Connected by ('127.0.0.1', 4283) --> command: ping
 24/02/2019 06:19:50.749	Info	Connected by ('127.0.0.1', 4305) --> command: ping
 24/02/2019 06:20:06.600	Info	Connected by ('127.0.0.1', 4542) --> command: ping
+24/02/2019 06:20:13.910	Info	Connected by ('127.0.0.1', 1069) --> command: ping
+Received:  0
+Received:  OK
+2019-02-24 18:58:51.285775
+24/02/2019 06:20:22.404	Info	Connected by ('127.0.0.1', 1650) --> command: ping
+get_dx_data @ Tiempo de procesado de las 5 imagenes: 1.98000001907
+get_dx_data @ dx final: 40.6203
+get_images @ Tiempo de procesado de las 200 imagenes: 32.9790000916
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224062022.dmm'
+24/02/2019 06:20:38.395	Info	Connected by ('127.0.0.1', 1678) --> command: ping
+24/02/2019 06:20:53.981	Info	Connected by ('127.0.0.1', 1694) --> command: ping
+24/02/2019 06:21:09.739	Info	Connected by ('127.0.0.1', 1700) --> command: ping
+24/02/2019 06:21:25.325	Info	Connected by ('127.0.0.1', 1706) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 32.8399999142
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224062124.dmm'
+24/02/2019 06:21:41.238	Info	Connected by ('127.0.0.1', 1726) --> command: ping
+24/02/2019 06:21:57.354	Info	Connected by ('127.0.0.1', 1744) --> command: ping
