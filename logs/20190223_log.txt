@@ -23101,3 +23101,85 @@
 24/02/2019 05:37:49.034	Debg	---------- Generating datas file ------------
 24/02/2019 05:37:49.034	Debg	---------------------------------------------
 24/02/2019 05:37:49.034	Info	##### PACK: OTSX_BN6HAB_190224053749
+24/02/2019 05:38:53.560	Time	*** Getting images for pack: 64.53 ***
+24/02/2019 05:38:53.560	ERROR	Problem with package [OTSX_BN6HAB_190224053749] :> [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224053850.txt'
+24/02/2019 05:38:53.560	Time	*** File generation: 64.53 ***
+24/02/2019 05:38:53.560	Debg	---------------------------------------------
+24/02/2019 05:38:53.560	Debg	------------ Calculating seeing -------------
+24/02/2019 05:38:53.575	Debg	---------------------------------------------
+24/02/2019 05:39:00.854	ERROR	Error (to_file_seeing): [Errno 28] No space left on device
+24/02/2019 05:39:00.870	Info	
+24/02/2019 05:39:00.870	Info	SEEING: 1.2482953428376313 (used imgs: 200) (OTSX_BN6HAB_190224053749)
+24/02/2019 05:39:00.870	Info	
+24/02/2019 05:39:00.870	Time	*** Seeing calc: 7.31 ***
+24/02/2019 05:39:00.870	Time	*** Data proccess: 71.84 ***
+24/02/2019 05:39:00.870	Time	*** Total iteration: 84.13 ***
+24/02/2019 05:39:00.870	Debg	---------------------------------------------
+24/02/2019 05:39:00.870	Debg	-------------------- Meteo ------------------
+24/02/2019 05:39:00.870	Debg	---------------------------------------------
+24/02/2019 05:39:01.150	Info	
+24/02/2019 05:39:01.150	Info	CODE:OT:IAC	Date:2019-02-24 05:38:59.062000	Hum:20.6000	WS:3.9600	DewPoint:0.0000	Dust:0.0000
+24/02/2019 05:39:01.150	Info	CODE:OT:CWW	Date:2019-02-24 05:38:58.812000	Hum:0.0000	WS:9.0720	DewPoint:0.0000	Dust:0.0039
+24/02/2019 05:39:01.150	Info	CODE:OT:VIVALDI	Date:2019-02-24 05:38:59.794000	Hum:18.7000	WS:9.5000	DewPoint:0.0000	Dust:56.1000
+24/02/2019 05:39:01.150	Info	
+24/02/2019 05:39:01.150	Debg	---------------------------------------------
+24/02/2019 05:39:01.166	Debg	---------------- Star Selection -------------
+24/02/2019 05:39:01.166	Debg	---------------------------------------------
+24/02/2019 05:39:01.166	Info	Comprobando que la estella es observable...
+24/02/2019 05:39:06.590	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '-0.801901403693', 'az': '95.970609', 'name': 'Alphecca', 'airmass': '1.018011', 'ha_hours': 'hms_tuple(h=-0.0, m=-48.0, s=-6.845053296545416)', 'alt': '79.206108', 'dec': '26.649180', 'magnitude': '2.220000', 'ra': '15.591440'}
+24/02/2019 05:39:06.590	Time	*** Select star: 5.42 ***
+24/02/2019 05:39:06.590	Debg	---------------------------------------------
+24/02/2019 05:39:06.590	Debg	-------------- Check spots ------------------
+24/02/2019 05:39:06.590	Debg	---------------------------------------------
+24/02/2019 05:39:06.590	Info	Centrando spots...
+24/02/2019 05:39:08.912	Info	Intento 0
+24/02/2019 05:39:10.595	Info	Maximos fuera de rango (diff: 145.0 - nsigma: 68.1963440566263)
+24/02/2019 05:39:10.595	Info	Moviendo telescopio...
+24/02/2019 05:39:13.136	Info	Intento 1
+24/02/2019 05:39:14.679	Info	Maximos fuera de rango (diff: 322.0 - nsigma: 142.42200491102065)
+24/02/2019 05:39:14.679	Info	Moviendo telescopio...
+24/02/2019 05:39:16.954	Info	Intento 2
+24/02/2019 05:39:18.622	Info	DX fuera de rango (dx: 171.0 - min: 30.0 - max: 52.0)
+24/02/2019 05:39:18.622	Info	Moviendo telescopio...
+24/02/2019 05:39:19.869	Info	Intento 3
+24/02/2019 05:39:21.506	Info	DX fuera de rango (dx: 155.0 - min: 30.0 - max: 52.0)
+24/02/2019 05:39:21.506	Info	Moviendo telescopio...
+24/02/2019 05:39:23.532	Info	Intento 4
+24/02/2019 05:39:25.199	Info	DX fuera de rango (dx: 164.0 - min: 30.0 - max: 52.0)
+24/02/2019 05:39:25.199	Info	Moviendo telescopio...
+24/02/2019 05:39:26.945	Info	Intento 5
+24/02/2019 05:39:28.426	Info	Maximos fuera de rango (diff: 155.0 - nsigma: 101.6586828687881)
+24/02/2019 05:39:28.426	Info	Moviendo telescopio...
+24/02/2019 05:39:30.109	Info	Intento 6
+24/02/2019 05:39:31.668	Info	Ventana de spots fuera de rango (cx: 355 - cy: 22 - left: 80 - right: 560 - down: 30 - up: 450)
+24/02/2019 05:39:31.668	Info	Moviendo telescopio...
+24/02/2019 05:39:32.930	Info	Intento 7
+24/02/2019 05:39:34.426	Info	DX fuera de rango (dx: 26.0 - min: 30.0 - max: 52.0)
+24/02/2019 05:39:34.426	Info	Moviendo telescopio...
+24/02/2019 05:39:35.954	Info	Intento 8
+24/02/2019 05:39:37.559	Info	DX fuera de rango (dx: 301.0 - min: 30.0 - max: 52.0)
+24/02/2019 05:39:37.559	Info	Moviendo telescopio...
+24/02/2019 05:39:38.837	Info	Intento 9
+24/02/2019 05:39:40.536	Info	Maximos fuera de rango (diff: 101.63359999999997 - nsigma: 28.426087903347923)
+24/02/2019 05:39:40.536	Info	Moviendo telescopio...
+24/02/2019 05:39:42.547	Info	Intento 10
+24/02/2019 05:39:46.848	Info	Los spots estan centrados
+24/02/2019 05:39:46.848	Time	*** Center spots: 40.26 ***
+24/02/2019 05:39:46.848	Debg	---------------------------------------------
+24/02/2019 05:39:46.848	Debg	--------------- Check focal -----------------
+24/02/2019 05:39:46.848	Debg	---------------------------------------------
+24/02/2019 05:39:46.848	Info	Comprobando el foco...
+24/02/2019 05:39:46.864	Info	Intento 0
+24/02/2019 05:39:47.472	Info	DX: 40.43 (MIN: 40.5 - MAX: 41.5)
+24/02/2019 05:39:47.472	Info	Moviendo el foco...
+24/02/2019 05:39:48.142	Info	Intento 1
+24/02/2019 05:39:53.114	Info	Maximos fuera de rango (diff: 152.0 - nsigma: 134.9805009529195)
+24/02/2019 05:39:53.239	Info	Maximos fuera de rango (diff: 88.0 - nsigma: 63.86988321756015)
+24/02/2019 05:39:56.293	Info	DX: 41.0 (MIN: 40.5 - MAX: 41.5)
+24/02/2019 05:39:56.293	Info	La imagen esta enfocada
+24/02/2019 05:39:56.293	Time	*** Foco: 9.44 ***
+24/02/2019 05:39:56.293	Time	*** Select star total: 55.14 ***
+24/02/2019 05:39:56.293	Debg	---------------------------------------------
+24/02/2019 05:39:56.293	Debg	---------- Generating datas file ------------
+24/02/2019 05:39:56.293	Debg	---------------------------------------------
+24/02/2019 05:39:56.309	Info	##### PACK: OTSX_YWLX5B_190224053956
