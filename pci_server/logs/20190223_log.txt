@@ -2404,3 +2404,11 @@ date: 24/02/2019 04:27:32.280	code: Info	text: Connected by ('127.0.0.1', 1619) 
 pin_on:115 @ New Status = c_ushort(40981)
 date: 24/02/2019 04:27:47.024	code: Info	text: Connected by ('127.0.0.1', 1622) --> command: ping
 date: 24/02/2019 04:28:02.626	code: Info	text: Connected by ('127.0.0.1', 1643) --> command: ping
+date: 24/02/2019 04:28:19.334	code: Info	text: Connected by ('127.0.0.1', 2833) --> command: ping
+date: 24/02/2019 04:28:32.286	code: Info	text: Connected by ('127.0.0.1', 2842) --> command: echo_dome
+pin_off:123 @ New Status = c_ushort(32789)
+date: 24/02/2019 04:28:35.247	code: Info	text: Connected by ('127.0.0.1', 2845) --> command: ping
+date: 24/02/2019 04:28:51.067	code: Info	text: Connected by ('127.0.0.1', 2851) --> command: ping
+date: 24/02/2019 04:29:32.292	code: Info	text: Connected by ('127.0.0.1', 2869) --> command: echo_dome
+pin_on:115 @ New Status = c_ushort(40981)
+date: 24/02/2019 04:29:36.781	code: Info	text: Connected by ('127.0.0.1', 2870) --> command: ping
