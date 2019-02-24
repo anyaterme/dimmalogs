@@ -4474,3 +4474,20 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 24/02/2019 05:31:20.207	Info	Connected by ('127.0.0.1', 3456) --> command: ping
 24/02/2019 05:31:35.715	Info	Connected by ('127.0.0.1', 3462) --> command: ping
 24/02/2019 05:31:51.379	Info	Connected by ('127.0.0.1', 3475) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 56.0469999313
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224053153.dmm'
+24/02/2019 05:32:08.991	Info	Connected by ('127.0.0.1', 4050) --> command: ping
+24/02/2019 05:32:26.292	Info	Connected by ('127.0.0.1', 4733) --> command: ping
+24/02/2019 05:32:42.127	Info	Connected by ('127.0.0.1', 4744) --> command: ping
+24/02/2019 05:32:57.542	Info	Connected by ('127.0.0.1', 4756) --> command: ping
+24/02/2019 05:33:12.987	Info	Connected by ('127.0.0.1', 4762) --> command: ping
+24/02/2019 05:33:29.321	Info	Connected by ('127.0.0.1', 4770) --> command: ping
+get_move_matrix @ cell 0, ra: 0.0, dec: 0.008634
+get_images @ Tiempo de procesado de las 200 imagenes: 57.5120000839
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224053325.dmm'
+24/02/2019 05:33:45.905	Info	Connected by ('127.0.0.1', 4782) --> command: ping
+24/02/2019 05:34:02.114	Info	Connected by ('127.0.0.1', 4809) --> command: ping
