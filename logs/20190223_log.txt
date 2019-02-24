@@ -26736,3 +26736,70 @@
 24/02/2019 07:10:34.374	Info	Intento 0
 24/02/2019 07:11:35.596	ERROR	Error (get_images): ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
 24/02/2019 07:11:35.596	Info	Recovery Image Server error
+24/02/2019 07:12:42.444	ERROR	Error in open_tcp:  [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+24/02/2019 07:12:43.145	Error	No se ha podido conseguir imagen del servidor
+24/02/2019 07:12:43.145	Info	Intento 1
+24/02/2019 07:12:47.556	Info	Los spots estan centrados
+24/02/2019 07:12:47.556	Time	*** Center spots: 135.5 ***
+24/02/2019 07:12:47.556	Debg	---------------------------------------------
+24/02/2019 07:12:47.556	Debg	--------------- Check focal -----------------
+24/02/2019 07:12:47.556	Debg	---------------------------------------------
+24/02/2019 07:12:47.556	Info	Comprobando el foco...
+24/02/2019 07:12:47.572	Info	Intento 0
+24/02/2019 07:12:48.226	Info	DX: 40.93 (MIN: 40.5 - MAX: 41.5)
+24/02/2019 07:12:48.226	Info	La imagen esta enfocada
+24/02/2019 07:12:48.226	Time	*** Foco: 0.67 ***
+24/02/2019 07:12:48.226	Time	*** Select star total: 139.28 ***
+24/02/2019 07:12:48.226	Debg	---------------------------------------------
+24/02/2019 07:12:48.226	Debg	---------- Generating datas file ------------
+24/02/2019 07:12:48.226	Debg	---------------------------------------------
+24/02/2019 07:12:48.242	Info	##### PACK: OTSX_1VFJXY_190224071248
+24/02/2019 07:13:28.999	Time	*** Getting images for pack: 40.77 ***
+24/02/2019 07:13:28.999	ERROR	Problem with package [OTSX_1VFJXY_190224071248] :> [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224071325.txt'
+24/02/2019 07:13:28.999	Time	*** File generation: 40.77 ***
+24/02/2019 07:13:28.999	Debg	---------------------------------------------
+24/02/2019 07:13:28.999	Debg	------------ Calculating seeing -------------
+24/02/2019 07:13:28.999	Debg	---------------------------------------------
+24/02/2019 07:13:37.089	ERROR	Error (to_file_seeing): [Errno 28] No space left on device
+24/02/2019 07:13:37.104	Info	
+24/02/2019 07:13:37.104	Info	SEEING: 1.3662716893369597 (used imgs: 200) (OTSX_1VFJXY_190224071248)
+24/02/2019 07:13:37.104	Info	
+24/02/2019 07:13:37.104	Time	*** Seeing calc: 8.11 ***
+24/02/2019 07:13:37.104	Time	*** Data proccess: 48.88 ***
+24/02/2019 07:13:37.104	Time	*** Total iteration: 188.15 ***
+24/02/2019 07:13:37.104	Debg	---------------------------------------------
+24/02/2019 07:13:37.104	Debg	-------------------- Meteo ------------------
+24/02/2019 07:13:37.104	Debg	---------------------------------------------
+24/02/2019 07:13:37.276	Info	
+24/02/2019 07:13:37.276	Info	CODE:OT:IAC	Date:2019-02-24 07:12:34.791000	Hum:17.5000	WS:2.8800	DewPoint:0.0000	Dust:0.0000
+24/02/2019 07:13:37.276	Info	CODE:OT:CWW	Date:2019-02-24 07:12:34.417000	Hum:0.0000	WS:6.0120	DewPoint:0.0000	Dust:0.0023
+24/02/2019 07:13:37.276	Info	CODE:OT:VIVALDI	Date:2019-02-24 07:12:35.586000	Hum:14.4000	WS:7.5000	DewPoint:0.0000	Dust:35.2000
+24/02/2019 07:13:37.276	Info	
+24/02/2019 07:13:37.276	Debg	---------------------------------------------
+24/02/2019 07:13:37.276	Debg	---------------- Star Selection -------------
+24/02/2019 07:13:37.276	Debg	---------------------------------------------
+24/02/2019 07:13:37.276	Info	Comprobando que la estella es observable...
+24/02/2019 07:13:40.377	Info	La estrella sigue siendo observable --> {'ha_hours_raw': '2.10151474143', 'az': '259.241604', 'name': 'Arcturus', 'airmass': '1.156956', 'ha_hours': 'hms_tuple(h=2.0, m=6.0, s=5.453069140882292)', 'alt': '59.806895', 'dec': '19.092439', 'magnitude': '-0.050000', 'ra': '14.275929'}
+24/02/2019 07:13:40.377	Time	*** Select star: 3.1 ***
+24/02/2019 07:13:40.377	Debg	---------------------------------------------
+24/02/2019 07:13:40.377	Debg	-------------- Check spots ------------------
+24/02/2019 07:13:40.377	Debg	---------------------------------------------
+24/02/2019 07:13:40.377	Info	Centrando spots...
+24/02/2019 07:13:42.731	Info	Intento 0
+24/02/2019 07:13:44.975	Info	Maximos fuera de rango (diff: 727.0 - nsigma: 333.73949212049627)
+24/02/2019 07:13:44.975	Info	Moviendo telescopio...
+24/02/2019 07:13:46.316	Info	Intento 1
+24/02/2019 07:13:47.749	Info	Maximos fuera de rango (diff: 854.0 - nsigma: 758.5667682405535)
+24/02/2019 07:13:47.749	Info	Moviendo telescopio...
+24/02/2019 07:13:49.526	Info	Intento 2
+24/02/2019 07:13:51.116	Info	DX fuera de rango (dx: 385.0 - min: 30.0 - max: 52.0)
+24/02/2019 07:13:51.116	Info	Moviendo telescopio...
+24/02/2019 07:13:52.690	Info	Intento 3
+24/02/2019 07:13:54.233	Info	DX fuera de rango (dx: 336.0 - min: 30.0 - max: 52.0)
+24/02/2019 07:13:54.249	Info	Moviendo telescopio...
+24/02/2019 07:13:55.449	Info	Intento 4
+24/02/2019 07:13:57.117	Info	DX fuera de rango (dx: 291.0 - min: 30.0 - max: 52.0)
+24/02/2019 07:13:57.117	Info	Moviendo telescopio...
+24/02/2019 07:13:59.361	Info	Intento 5
+24/02/2019 07:14:01.107	Info	Maximos fuera de rango (diff: 1128.0 - nsigma: 834.8277219184628)
+24/02/2019 07:14:01.107	Info	Moviendo telescopio...

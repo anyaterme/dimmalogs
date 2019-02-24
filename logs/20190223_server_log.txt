@@ -5377,3 +5377,16 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 24/02/2019 07:11:26.930	Info	Connected by ('127.0.0.1', 1518) --> command: ping
 24/02/2019 07:11:42.376	Info	Connected by ('127.0.0.1', 1533) --> command: ping
 24/02/2019 07:11:58.211	Info	Connected by ('127.0.0.1', 1539) --> command: ping
+24/02/2019 07:12:13.984	Info	Connected by ('127.0.0.1', 2483) --> command: ping
+24/02/2019 07:12:30.069	Info	Connected by ('127.0.0.1', 2903) --> command: ping
+24/02/2019 07:12:45.826	Info	Connected by ('127.0.0.1', 2922) --> command: ping
+24/02/2019 07:13:01.303	Info	Connected by ('127.0.0.1', 2932) --> command: ping
+24/02/2019 07:13:16.967	Info	Connected by ('127.0.0.1', 2938) --> command: ping
+24/02/2019 07:13:33.239	Info	Connected by ('127.0.0.1', 2946) --> command: ping
+ERROR ====:> [<class 'socket.timeout'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:144] : timed out
+ERROR: [Errno 10061] No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión
+get_images @ Tiempo de procesado de las 200 imagenes: 35.2400000095
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224071325.dmm'
+24/02/2019 07:13:49.947	Info	Connected by ('127.0.0.1', 2970) --> command: ping
