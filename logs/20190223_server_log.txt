@@ -4705,3 +4705,18 @@ ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\dep
 24/02/2019 05:57:33.028	Info	Connected by ('127.0.0.1', 1104) --> command: ping
 24/02/2019 05:57:48.972	Info	Connected by ('127.0.0.1', 1117) --> command: ping
 24/02/2019 05:58:04.683	Info	Connected by ('127.0.0.1', 1144) --> command: ping
+24/02/2019 05:58:20.768	Info	Connected by ('127.0.0.1', 2188) --> command: ping
+24/02/2019 05:58:36.868	Info	Connected by ('127.0.0.1', 2414) --> command: ping
+get_images @ Tiempo de procesado de las 200 imagenes: 60.0069999695
+get_seeing_thread @ 	This package contain 200 images...
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1147] : [Errno 28] No space left on device
+ERROR ====:> [<type 'exceptions.IOError'> in C:\DIMMA\dimma-master\git\dimma\deploy\agent\libs\..\libs\images_class_lib.py:1165] : [Errno 28] No space left on device: u'D:/DIMMLAB\\19_02_23\\OTSX190224055823.dmm'
+24/02/2019 05:58:53.514	Info	Connected by ('127.0.0.1', 2438) --> command: ping
+24/02/2019 05:59:10.440	Info	Connected by ('127.0.0.1', 2453) --> command: ping
+24/02/2019 05:59:26.868	Info	Connected by ('127.0.0.1', 2461) --> command: ping
+24/02/2019 05:59:42.298	Info	Connected by ('127.0.0.1', 2468) --> command: ping
+24/02/2019 05:59:58.102	Info	Connected by ('127.0.0.1', 2480) --> command: ping
+24/02/2019 06:00:07.921	Info	Connected by ('127.0.0.1', 2502) --> command: ping
+Received:  0
+Received:  OK
+2019-02-24 18:58:51.290804
